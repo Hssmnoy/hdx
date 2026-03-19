@@ -42158,152 +42158,440 @@
   {
     "title": "Miss Bala (2019) สวย กล้า ท้าอันตราย",
     "url": "https://lk-hdx.com/miss-bala-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Miss-Bala-2019-สวย-กล้า-ท้าอันตราย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Miss-Bala-2019-สวย-กล้า-ท้าอันตราย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/uK1e_UBCuZ"
+      }
+    ]
   },
   {
     "title": "Thank You i’m Sorry (2023)",
     "url": "https://lk-hdx.com/thank-you-im-sorry-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Thank-You-im-Sorry-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Thank-You-im-Sorry-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/awvU_hU46Q"
+      }
+    ]
   },
   {
     "title": "Polaroid (2019) โพลารอยด์ ถ่ายติดตาย",
     "url": "https://lk-hdx.com/polaroid-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Polaroid-2019-โพลารอยด์-ถ่ายติดตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Polaroid-2019-โพลารอยด์-ถ่ายติดตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/26ab31763e8f139a18e91dcbc1ef2d87"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/26ab31763e8f139a18e91dcbc1ef2d87/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Playing With Fire (2019) ดับเพลิงอลเวง",
     "url": "https://lk-hdx.com/playing-with-fire-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Playing-With-Fire-2019-ดับเพลิงอลเวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Playing-With-Fire-2019-ดับเพลิงอลเวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/faadd7093da7798ac537cdca30aa0b91"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/faadd7093da7798ac537cdca30aa0b91/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Our Godfather (2019) เจ้าพ่อผู้โค่นมาเฟีย",
     "url": "https://lk-hdx.com/our-godfather-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Our-Godfather-2019-เจ้าพ่อผู้โค่นมาเฟีย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Our-Godfather-2019-เจ้าพ่อผู้โค่นมาเฟีย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/274e1fea1b525e31b9e650d2a3e3fb07"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/274e1fea1b525e31b9e650d2a3e3fb07/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Night Hunter (2019) ล่า เหี้ยม รัตติกาล",
     "url": "https://lk-hdx.com/night-hunter-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Night-Hunter-2019-ล่า-เหี้ยม-รัตติกาล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Night-Hunter-2019-ล่า-เหี้ยม-รัตติกาล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3c47ee82d8af6a44e205d60a8231383c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3c47ee82d8af6a44e205d60a8231383c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Midsommar (2019) เทศกาลสยอง",
     "url": "https://lk-hdx.com/midsommar-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Midsommar-2019-เทศกาลสยอง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Midsommar-2019-เทศกาลสยอง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/28e8fc2ac791e5656dd343c72e5b03a8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/28e8fc2ac791e5656dd343c72e5b03a8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Most Dangerous Game (2020) เกมล่าโคตรอันตราย",
     "url": "https://lk-hdx.com/most-dangerous-game-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Most-Dangerous-Game-2020-เกมล่าโคตรอันตราย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Most-Dangerous-Game-2020-เกมล่าโคตรอันตราย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c5fb63ac16dde6536bdc4fc27f526093"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c5fb63ac16dde6536bdc4fc27f526093/master.m3u8"
+      }
+    ]
   },
   {
     "title": "32 Malasana Street (2020) 32 มาลาซานญ่า ย่านผีอยู่",
     "url": "https://lk-hdx.com/32-malasana-street-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/32-Malasana-Street-2020-32-มาลาซานญ่า-ย่านผีอยู่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/32-Malasana-Street-2020-32-มาลาซานญ่า-ย่านผีอยู่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2abb2262efd232c800238dd9cdb0fe1b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2abb2262efd232c800238dd9cdb0fe1b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Long Shot (2019) นายโคตรแน่ ขอจีบตัวแม่หน่อย!",
     "url": "https://lk-hdx.com/long-shot-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Long-Shot-2019-นายโคตรแน่-ขอจีบตัวแม่หน่อย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Long-Shot-2019-นายโคตรแน่-ขอจีบตัวแม่หน่อย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4110d8be83bdccf68f735d662e11b404"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4110d8be83bdccf68f735d662e11b404/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
     "url": "https://lk-hdx.com/little-monsters-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Little-Monsters-2019-ซอมบี้มาแล้วงับ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Little-Monsters-2019-ซอมบี้มาแล้วงับ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/72b72a95aebb2137368cd7875043d115"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/72b72a95aebb2137368cd7875043d115/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Legacy of Lies (2020) สมรภูมิแห่งคำลวง",
     "url": "https://lk-hdx.com/legacy-of-lies-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Legacy-of-Lies-2020-สมรภูมิแห่งคำลวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Legacy-of-Lies-2020-สมรภูมิแห่งคำลวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/51bf5bee69c6b5b22ffeb55769263903"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/51bf5bee69c6b5b22ffeb55769263903/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Killer Cheerleader (2020) นักฆ่าเชียร์ลีดเดอร์",
     "url": "https://lk-hdx.com/killer-cheerleader-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Killer-Cheerleader-2020-นักฆ่าเชียร์ลีดเดอร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Killer-Cheerleader-2020-นักฆ่าเชียร์ลีดเดอร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4b676a35c11bc401444a9ea1c4c3c45e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4b676a35c11bc401444a9ea1c4c3c45e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "John Lewis Good Trouble (2020) จอห์น ลูอิส บุรุษกล้าขวางโลก",
     "url": "https://lk-hdx.com/john-lewis-good-trouble-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/John-Lewis-Good-Trouble-2020-จอห์น-ลูอิส-บุรุษกล้าขวางโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/John-Lewis-Good-Trouble-2020-จอห์น-ลูอิส-บุรุษกล้าขวางโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fa329ee17e1519ac1d75f878b3eec4ba"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fa329ee17e1519ac1d75f878b3eec4ba/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Jiu Jitsu (2020) โคตรคน ชนเอเลี่ยน",
     "url": "https://lk-hdx.com/jiu-jitsu-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jiu-Jitsu-2020-โคตรคน-ชนเอเลี่ยน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jiu-Jitsu-2020-โคตรคน-ชนเอเลี่ยน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/38acff26e03534500e48ba0d9c91626d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/38acff26e03534500e48ba0d9c91626d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Reminiscence (2021) ล้วงอดีตรำลึกเวลา",
     "url": "https://lk-hdx.com/reminiscence-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Reminiscence-2021-ล้วงอดีตรำลึกเวลา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Reminiscence-2021-ล้วงอดีตรำลึกเวลา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f563ce60f4abcdb49119e973577a7de0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f563ce60f4abcdb49119e973577a7de0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Paradise Cove (2021) หญิงจรจัด บ้าระห่ำ",
     "url": "https://lk-hdx.com/paradise-cove-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Paradise-Cove-2021-หญิงจรจัด-บ้าระห่ำ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Paradise-Cove-2021-หญิงจรจัด-บ้าระห่ำ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8190c9dbcabca7f7f39b6221b208c467"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8190c9dbcabca7f7f39b6221b208c467/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Overrun (2021) หนีอาญา ล่าล้างมลทิน",
     "url": "https://lk-hdx.com/overrun-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Overrun-2021-หนีอาญา-ล่าล้างมลทิน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Overrun-2021-หนีอาญา-ล่าล้างมลทิน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7b7a7c215e63e10fefc40eb1c4981ad9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7b7a7c215e63e10fefc40eb1c4981ad9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Operation Varsity Blues The College Admissions Scandal (2021) เกมโกงมหาวิทยาลัยในฝัน",
     "url": "https://lk-hdx.com/operation-varsity-blues-the-college-admissions-scandal-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Operation-Varsity-Blues-The-College-Admissions-Scandal-2021-เกมโกงมหาวิทยาลัยในฝัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Operation-Varsity-Blues-The-College-Admissions-Scandal-2021-เกมโกงมหาวิทยาลัยในฝัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/92c44dff4a48b007ce78047cd648ce9c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/92c44dff4a48b007ce78047cd648ce9c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Till Death (2021) จนกว่าจะตาย",
     "url": "https://lk-hdx.com/till-death-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Till-Death-2021-จนกว่าจะตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Till-Death-2021-จนกว่าจะตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5d2755bbc56b9a84fea67d5f2cb798e1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5d2755bbc56b9a84fea67d5f2cb798e1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Cursed (2021) คำสาปเขี้ยวเงิน",
     "url": "https://lk-hdx.com/the-cursed-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Cursed-2021-คำสาปเขี้ยวเงิน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Cursed-2021-คำสาปเขี้ยวเงิน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c77093ecde8fc20f450d859d05f02d2d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c77093ecde8fc20f450d859d05f02d2d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Dawn of War (2021) รุ่งอรุณแห่งสงคราม",
     "url": "https://lk-hdx.com/the-dawn-of-war-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dawn-of-War-2021-รุ่งอรุณแห่งสงคราม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dawn-of-War-2021-รุ่งอรุณแห่งสงคราม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/69cd74e13718a821f4bbc8572f67a117"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/69cd74e13718a821f4bbc8572f67a117/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Saltwater The Battle for Ramree Island (2021) กระชากนรกเกาะรามรี",
     "url": "https://lk-hdx.com/saltwater-the-battle-for-ramree-island-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Saltwater-The-Battle-for-Ramree-Island-2021-กระชากนรกเกาะรามรี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Saltwater-The-Battle-for-Ramree-Island-2021-กระชากนรกเกาะรามรี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/032193581a1b07c05427c40ae70d2ed0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/032193581a1b07c05427c40ae70d2ed0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Good Liar (2019) เกมลวง ซ้อนนรก",
     "url": "https://lk-hdx.com/the-good-liar-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Good-Liar-2019-เกมลวง-ซ้อนนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Good-Liar-2019-เกมลวง-ซ้อนนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/20a73b1d52100b5c7e55005e81bb8996"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/20a73b1d52100b5c7e55005e81bb8996/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Tracker (2019) ตามไปล่า ฆ่าให้หมด",
     "url": "https://lk-hdx.com/the-tracker-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Tracker-2019-ตามไปล่า-ฆ่าให้หมด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Tracker-2019-ตามไปล่า-ฆ่าให้หมด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5d14214e58e3a1d918d92abba5ba2d45"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5d14214e58e3a1d918d92abba5ba2d45/master.m3u8"
+      }
+    ]
   },
   {
     "title": "They’re Inside (2019) พวกมันอยู่ข้างใน",
     "url": "https://lk-hdx.com/theyre-inside-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Theyre-Inside-2019-พวกมันอยู่ข้างใน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Theyre-Inside-2019-พวกมันอยู่ข้างใน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bf16bf046847bafb2bef983ddd0bc3a8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bf16bf046847bafb2bef983ddd0bc3a8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Trauma Center (2019) ศูนย์กลางอันตราย",
     "url": "https://lk-hdx.com/trauma-center-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Trauma-Center-2019-ศูนย์กลางอันตราย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Trauma-Center-2019-ศูนย์กลางอันตราย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/eccd9fb479909fd9759a8f0482c1f788"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/eccd9fb479909fd9759a8f0482c1f788/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Two Heads Creek (2019) ทูเฮดครีก สับเถื่อนแดนบ้านนอก",
     "url": "https://lk-hdx.com/two-heads-creek-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Two-Heads-Creek-2019-ทูเฮดครีก-สับเถื่อนแดนบ้านนอก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Two-Heads-Creek-2019-ทูเฮดครีก-สับเถื่อนแดนบ้านนอก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b914ef6e516b81409a149f9330d3a0db"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b914ef6e516b81409a149f9330d3a0db/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Kid Who Would Be King (2019) หนุ่มน้อยสู่จอมราชันย์",
     "url": "https://lk-hdx.com/the-kid-who-would-be-king-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Kid-Who-Would-Be-King-2019-หนุ่มน้อยสู่จอมราชันย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Kid-Who-Would-Be-King-2019-หนุ่มน้อยสู่จอมราชันย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/92cdbd973c1b3cb9fb7a30e0e3198896"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/92cdbd973c1b3cb9fb7a30e0e3198896/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Prodigy (2019) เด็ก (จอง) เวร",
     "url": "https://lk-hdx.com/the-prodigy-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Prodigy-2019-เด็ก-จอง-เวร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Prodigy-2019-เด็ก-จอง-เวร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_rOv4hcaKm"
+      }
+    ]
   },
   {
     "title": "The Tax Collector (2020) แก๊งเดือดรีดภาษีเลือด",
