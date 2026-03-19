@@ -453,28 +453,43 @@ await sleep(800);
 
 movie.servers = [];
 
+let firstM3U8 = null;
+let firstEmbed = null;
+
 if (embeds.length === 0) {
-  // 🔹 fallback: server 1 ใช้ url ตัวเล่นตรง ๆ จาก original
   const vidMatch = movie.url.match(/\/([a-zA-Z0-9-]+)\/$/);
   if (vidMatch) {
-    const playUrl = `https://original.enjoy24cdn.com/play/${vidMatch[1]}`;
-    movie.servers.push({
-      type: "embed",
-      embed: playUrl,
-      
-    });
+    firstEmbed = `https://original.enjoy24cdn.com/play/${vidMatch[1]}`;
   }
 } else {
   for (const e of embeds) {
-    const playUrl = e.embed;
-    if (playUrl) {
-  movie.servers.push({ type: "embed", embed: playUrl });
-}
-if (e.m3u8) {
-  movie.servers.push({ type: "m3u8", m3u8: e.m3u8 });
-}
+    if (!firstM3U8 && e.m3u8) {
+      firstM3U8 = e.m3u8;
+    }
+    if (!firstEmbed && e.embed) {
+      firstEmbed = e.embed;
+    }
   }
 }
+
+// 🔥 server1 = m3u8
+if (firstM3U8) {
+  movie.servers.push({
+    type: "m3u8",
+    m3u8: firstM3U8
+  });
+}
+
+// 🔥 server2 = embed
+if (firstEmbed) {
+  movie.servers.push({
+    type: "embed",
+    embed: firstEmbed
+  });
+}
+
+// 🔥 ลบ url หน้าหนังออก
+delete movie.url;
 
       // 🔥 บันทึกไฟล์ JSON ระหว่างทาง
       await fs.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
