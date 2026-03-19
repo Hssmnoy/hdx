@@ -4723,153 +4723,425 @@
   },
   {
     "title": "Maharaj (2024) มหาราช",
-    "url": "https://lk-hdx.com/maharaj-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Maharaj-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/38892db21b11e7a7f614ebd0397c5ca9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/38892db21b11e7a7f614ebd0397c5ca9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Maharaj-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์",
-    "url": "https://lk-hdx.com/kleks-academy-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Kleks-Academy-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44d62d8ed1132b08584bf1b25940ffd3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44d62d8ed1132b08584bf1b25940ffd3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Kleks-Academy-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Inheritance (2024) มรดกอลเวง",
-    "url": "https://lk-hdx.com/inheritance-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Inheritance-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6954b17d2229ad1831a5999f946cdab4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6954b17d2229ad1831a5999f946cdab4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Inheritance-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Black Barbie (2024) แบล็ค บาร์บี้",
-    "url": "https://lk-hdx.com/black-barbie-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Black-Barbie-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4014f4802c91bed824a3aa79ffdca91e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4014f4802c91bed824a3aa79ffdca91e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Black-Barbie-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Outstanding A Comedy Revolution (2024) ปฏิวัติคอมเมดี้",
-    "url": "https://lk-hdx.com/outstanding-a-comedy-revolution-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution-2024-ปฏิวัติคอมเมดี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1010c62bda4e92c03d3c9159f176a293/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1010c62bda4e92c03d3c9159f176a293"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution-2024-ปฏิวัติคอมเมดี้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ultraman Rising (2024) อุลตร้าแมน ผงาด",
-    "url": "https://lk-hdx.com/ultraman-rising-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_U2ZU3WdGb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Polar (2019) ล่าเลือดเย็น",
-    "url": "https://lk-hdx.com/polar-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Polar-2019-ล่าเลือดเย็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/124fb017e2ea9e27d20a562dfb22e913/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/124fb017e2ea9e27d20a562dfb22e913"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Polar-2019-ล่าเลือดเย็น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bade Miyan Chote Miyan (2024) สองกล้าบ้าระห่ำ",
-    "url": "https://lk-hdx.com/bade-miyan-chote-miyan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024-สองกล้าบ้าระห่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/mO2xQFTF__"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024-สองกล้าบ้าระห่ำ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rafa Marquez El Capitan (2024) ราฟา มาร์เกซ",
-    "url": "https://lk-hdx.com/rafa-marquez-el-capitan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Rafa-Marquez-El-Capitan-2024-ราฟา-มาร์เกซ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/87cc0f0af573e3b0de803b513bf71aaf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/87cc0f0af573e3b0de803b513bf71aaf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Rafa-Marquez-El-Capitan-2024-ราฟา-มาร์เกซ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Basma (2024) บัสมา",
-    "url": "https://lk-hdx.com/basma-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Basma-2024-บัสมา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jb_Kflmrov"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Basma-2024-บัสมา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nelma Kodama (2024) ราชินีเงินสกปรก",
-    "url": "https://lk-hdx.com/nelma-kodama-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Nelma-Kodama-2024-ราชินีเงินสกปรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dff008c637b17d71b2998441ce9d73c6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dff008c637b17d71b2998441ce9d73c6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Nelma-Kodama-2024-ราชินีเงินสกปรก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Under Paris (2024) มฤตยู ใต้ปารีส",
-    "url": "https://lk-hdx.com/under-paris-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Under-Paris-2024-มฤตยู-ใต้ปารีส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0163ba9ff55fda81e9555442eac09f68/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0163ba9ff55fda81e9555442eac09f68"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Under-Paris-2024-มฤตยู-ใต้ปารีส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "How to Rob a Bank (2024) คู่มือปล้นแบงก์",
-    "url": "https://lk-hdx.com/how-to-rob-a-bank-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/How-to-Rob-a-Bank-2024-คู่มือปล้นแบงก์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/6glTPC_459"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/How-to-Rob-a-Bank-2024-คู่มือปล้นแบงก์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Full Metal Alchemist The Final Alchemy (2022) แขนกลคนแปรธาตุ ปัจฉิมบท",
-    "url": "https://lk-hdx.com/full-metal-alchemist-the-final-alchemy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Full-Metal-Alchemist-The-Final-Alchemy-2022-แขนกลคนแปรธาตุ-ปัจฉิมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2dd2194f00ee1af32bbbd684c2fafb67/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2dd2194f00ee1af32bbbd684c2fafb67"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Full-Metal-Alchemist-The-Final-Alchemy-2022-แขนกลคนแปรธาตุ-ปัจฉิมบท-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fullmetal Alchemist the Revenge of Scar (2022) แขนกลคนแปรธาตุ สการ์ชำระแค้น",
-    "url": "https://lk-hdx.com/fullmetal-alchemist-the-revenge-of-scar-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fullmetal-Alchemist-the-Revenge-of-Scar-2022-แขนกลคนแปรธาตุ-สการ์ชำระแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7aea18e1220ddde4bddf5923481c994/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7aea18e1220ddde4bddf5923481c994"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fullmetal-Alchemist-the-Revenge-of-Scar-2022-แขนกลคนแปรธาตุ-สการ์ชำระแค้น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Price Of Nonny’s Inheritance (2024) มรดกคุณยาย",
-    "url": "https://lk-hdx.com/the-price-of-nonny-s-inheritance-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Price-Of-Nonnys-Inheritance-2024-มรดกคุณยาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nmYuI_TWyV"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Price-Of-Nonnys-Inheritance-2024-มรดกคุณยาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Family of Two (2023) ครอบครัวคือสองเรา",
-    "url": "https://lk-hdx.com/family-of-two-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Family-of-Two-2023-ครอบครัวคือสองเรา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4871ca69f69a0310806873197c22bba7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4871ca69f69a0310806873197c22bba7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Family-of-Two-2023-ครอบครัวคือสองเรา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Unseen (2023) สิ่งที่มองไม่เห็น",
-    "url": "https://lk-hdx.com/unseen-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Unseen-2023-สิ่งที่มองไม่เห็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/22b868313704befe879feacc68c9c0b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/22b868313704befe879feacc68c9c0b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Unseen-2023-สิ่งที่มองไม่เห็น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Too Old for Fairy Tales 2 (2024) เทพนิยายไม่ใช่ของเด็กโต",
-    "url": "https://lk-hdx.com/too-old-for-fairy-tales-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024-เทพนิยายไม่ใช่ของเด็กโต-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/113759d515fc4fa7dd1f2c06b941c973/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/113759d515fc4fa7dd1f2c06b941c973"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024-เทพนิยายไม่ใช่ของเด็กโต-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Part of You (2024) ส่วนหนึ่งของเธอ",
-    "url": "https://lk-hdx.com/a-part-of-you-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Part-of-You-2024-ส่วนหนึ่งของเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/uX0WZiHsR_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Part-of-You-2024-ส่วนหนึ่งของเธอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bionic (2024) เหนือมนุษย์",
-    "url": "https://lk-hdx.com/bionic-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Bionic-2024-เหนือมนุษย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/51359dd1644f20b7b0e653e104bd6f75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/51359dd1644f20b7b0e653e104bd6f75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Bionic-2024-เหนือมนุษย์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Corlors of Evil Red (2024) แดงดั่งสีปีศาจ",
-    "url": "https://lk-hdx.com/corlors-of-evil-red-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Corlors-of-Evil-Red-2024-แดงดั่งสีปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ba379b0e67dc2d2e18f1c0bfefeb0f82/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ba379b0e67dc2d2e18f1c0bfefeb0f82"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Corlors-of-Evil-Red-2024-แดงดั่งสีปีศาจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "My Oni Girl (2024) มาย โอนิ เกิร์ล",
-    "url": "https://lk-hdx.com/my-oni-girl-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/My-Oni-Girl-2024-มาย-โอนิ-เกิร์ล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/016a6fbcf171e2f62ec20cf8bb27ed78/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/016a6fbcf171e2f62ec20cf8bb27ed78"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/My-Oni-Girl-2024-มาย-โอนิ-เกิร์ล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Atlas (2024) ล่าข้ามจักรวาล",
-    "url": "https://lk-hdx.com/atlas-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Atlas-2024-ล่าข้ามจักรวาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7306d7612de40b7a27e8c3f51874015/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7306d7612de40b7a27e8c3f51874015"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Atlas-2024-ล่าข้ามจักรวาล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "In Good Hands 2 (2024) ฝากรักไว้ให้ดูแล 2",
-    "url": "https://lk-hdx.com/in-good-hands-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/In-Good-Hands-2-2024-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/QEbPcuYwk_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/In-Good-Hands-2-2024-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "illusions For Sale (2024) เทคนิคขายฝันของเจเนเรชั่นโซอี้",
-    "url": "https://lk-hdx.com/illusions-for-sale-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/illusions-For-Sale-2024-เทคนิคขายฝันของเจเนเรชั่นโซอี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3836ee1b58c8e032cee133eb281d4570/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3836ee1b58c8e032cee133eb281d4570"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/illusions-For-Sale-2024-เทคนิคขายฝันของเจเนเรชั่นโซอี้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Golden Kamuy (2024) โกลเดนคามุย",
-    "url": "https://lk-hdx.com/golden-kamuy-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Golden-Kamuy-2024-โกลเดนคามุย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/60788562316e4eca63ccf8d63f832601/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/60788562316e4eca63ccf8d63f832601"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Golden-Kamuy-2024-โกลเดนคามุย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Thelma the Unicorn (2024) ยูนิคอร์นน้อยเทลม่า",
-    "url": "https://lk-hdx.com/thelma-the-unicorn-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Thelma-the-Unicorn-2024-ยูนิคอร์นน้อยเทลม่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/64d35dd20d89800ab43aa433c81b9d5d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/64d35dd20d89800ab43aa433c81b9d5d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Thelma-the-Unicorn-2024-ยูนิคอร์นน้อยเทลม่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Whisker Away (2020) เหมียวน้อยคอยรัก",
-    "url": "https://lk-hdx.com/a-whisker-away-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/A-Whisker-Away-2020-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dcab618310ca5b50a08aa7f5f37dd8a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dcab618310ca5b50a08aa7f5f37dd8a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/A-Whisker-Away-2020-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "Elevator Game (2023) ลิฟต์ซ่อนผี",
-    "url": "https://lk-hdx.com/elevator-game-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Elevator-Game-2023-ลิฟต์ซ่อนผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/78542365cea385227cc84fa0194ebb2f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/78542365cea385227cc84fa0194ebb2f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Elevator-Game-2023-ลิฟต์ซ่อนผี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Article 370 (2024) มาตรา 370",
