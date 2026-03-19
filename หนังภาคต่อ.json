@@ -7339,153 +7339,425 @@
   },
   {
     "title": "Master Z The Ip Man Legacy (2018) ยิปมัน ตำนานมาสเตอร์ Z",
-    "url": "https://lk-hdx.com/master-z-the-ip-man-legacy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Master-Z-The-Ip-Man-Legacy-2018-ยิปมัน-ตำนานมาสเตอร์-Z-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/3gf_dXV09J"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Master-Z-The-Ip-Man-Legacy-2018-ยิปมัน-ตำนานมาสเตอร์-Z-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ip Man 4 The Finale (2019) ยิปมัน ภาค 4 เดอะ ไฟนอล",
-    "url": "https://lk-hdx.com/ip-man-4-the-finale-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Ip-Man-4-The-Finale-2019-ยิปมัน-ภาค-4-เดอะ-ไฟนอล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44bd13d6dc50707eab5a97d09ed6b9bd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44bd13d6dc50707eab5a97d09ed6b9bd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Ip-Man-4-The-Finale-2019-ยิปมัน-ภาค-4-เดอะ-ไฟนอล-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "IP Man 3 (2015) ยิปมัน ภาค 3 เปิดตำนานปรมาจารย์หมัดหย่งชุน",
-    "url": "https://lk-hdx.com/ip-man-3-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/IP-Man-3-2015-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/3V_2VqVIg0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/IP-Man-3-2015-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "IP Man 2 (2010) ยิปมัน ภาค 2 เจ้ากังฟูสู้ยิปตา",
-    "url": "https://lk-hdx.com/ip-man-2-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-2-2010-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/1_xVo7MtIb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-2-2010-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "IP Man 1 (2008) ยิปมัน ภาค 1 เจ้ากังฟูสู้ยิบตา",
-    "url": "https://lk-hdx.com/ip-man-1-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-1-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4c1088c80e9ca802b3c3e104d0ebfa26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4c1088c80e9ca802b3c3e104d0ebfa26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-1-2008-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Doom (2005) ดูม ภาค 1 ล่าตายมนุษย์กลายพันธุ์",
-    "url": "https://lk-hdx.com/doom-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Doom-2005-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3a172ecbaec3cef3c1875afc366aea05/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a172ecbaec3cef3c1875afc366aea05"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Doom-2005-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Doom Annihilation (2019) ดูม ภาค 2 สงครามอสูรกลายพันธุ์",
-    "url": "https://lk-hdx.com/doom-annihilation-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Doom-Annihilation-2019-ดูม-ภาค-2-สงครามอสูรกลายพันธุ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a462f4de2e780dd218c1f1ef5e136f45/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a462f4de2e780dd218c1f1ef5e136f45"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Doom-Annihilation-2019-ดูม-ภาค-2-สงครามอสูรกลายพันธุ์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Rio 2 (2014) ริโอ เจ้านกฟ้าจอมมึน ภาค 2",
-    "url": "https://lk-hdx.com/rio-2-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Rio-2-2014-ริโอ-เจ้านกฟ้าจอมมึน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/67e489ab2ecc898aa3299c66bc1cea85/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/67e489ab2ecc898aa3299c66bc1cea85"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Rio-2-2014-ริโอ-เจ้านกฟ้าจอมมึน-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Rio 1 (2011) ริโอ เดอะมูฟวี่ เจ้านกฟ้าจอมมึน ภาค 1",
-    "url": "https://lk-hdx.com/rio-1-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Rio-1-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/04017adf206bc4b9f56935893ef198b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/04017adf206bc4b9f56935893ef198b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Rio-1-2011-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alvin And The Chipmunks 4 The Road Chip (2015) แอลวินกับสหายชิพมังค์จอมซน ภาค 4",
-    "url": "https://lk-hdx.com/alvin-and-the-chipmunks-4-the-road-chip-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-4-The-Road-Chip-2015-แอลวินกับสหายชิพมังค์จอมซน-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0463f0c898dc62ba49ad394a59626f44/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0463f0c898dc62ba49ad394a59626f44"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-4-The-Road-Chip-2015-แอลวินกับสหายชิพมังค์จอมซน-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alvin And The Chipmunks 3 Chipwrecked (2011) แอลวินกับสหายชิพมังค์จอมซน ภาค 3",
-    "url": "https://lk-hdx.com/alvin-and-the-chipmunks-3-chipwrecked-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-3-Chipwrecked-2011-แอลวินกับสหายชิพมังค์จอมซน-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/thW0Xgq_H9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-3-Chipwrecked-2011-แอลวินกับสหายชิพมังค์จอมซน-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alvin And The Chipmunks 2 The Squeakquel (2009) แอลวินกับสหายชิพมังค์จอมซน ภาค 2",
-    "url": "https://lk-hdx.com/alvin-and-the-chipmunks-2-the-squeakquel-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-2-The-Squeakquel-2009-แอลวินกับสหายชิพมังค์จอมซน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/s_auScrQOO"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-2-The-Squeakquel-2009-แอลวินกับสหายชิพมังค์จอมซน-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alvin And The Chipmunks 1 (2007) แอลวินกับสหายชิพมังค์จอมซน ภาค 1",
-    "url": "https://lk-hdx.com/alvin-and-the-chipmunks-1-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-1-2007-แอลวินกับสหายชิพมังค์จอมซน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6eecf174db2cbb161c696bc3fe1b248a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6eecf174db2cbb161c696bc3fe1b248a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-1-2007-แอลวินกับสหายชิพมังค์จอมซน-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Gintama 2 Rules Are Meant To Be Broken (2018) กินทามะ ซามูไร เพี้ยนสารพัด 2 แหกกฎชิมิก่อนไม่รอแล้วนะ",
-    "url": "https://lk-hdx.com/gintama-2-rules-are-meant-to-be-broken-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2-Rules-Are-Meant-To-Be-Broken-2018-กินทามะ-ซามูไร-เพี้ยนสารพัด-2-แหกกฎชิมิก่อนไม่รอแล้วนะ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b3ce069d6a4c2962e1df9914939a37dc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b3ce069d6a4c2962e1df9914939a37dc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2-Rules-Are-Meant-To-Be-Broken-2018-กินทามะ-ซามูไร-เพี้ยนสารพัด-2-แหกกฎชิมิก่อนไม่รอแล้วนะ-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Gintama (2017) กินทามะ ซามูไร เพี้ยนสารพัด",
-    "url": "https://lk-hdx.com/gintama-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2017-กินทามะ-ซามูไร-เพี้ยนสารพัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/39766b265f1157ea13bc09432bf75e6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/39766b265f1157ea13bc09432bf75e6d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2017-กินทามะ-ซามูไร-เพี้ยนสารพัด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "7 ประจัญบาน ภาค 2 (2005) Heavens Seven 2",
-    "url": "https://lk-hdx.com/heavens-seven-2-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/McQJ9_ZQdf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "7 ประจัญบาน ภาค 1 (2002) Heavens Seven",
-    "url": "https://lk-hdx.com/heavens-seven-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15a51fde32ef45fd4e1e07d1951f145e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15a51fde32ef45fd4e1e07d1951f145e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kung Fu Panda 4 (2024) กังฟูแพนด้า ภาค 4",
-    "url": "https://lk-hdx.com/kung-fu-panda-4-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cece558145f98cc43be29777e302f756/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cece558145f98cc43be29777e302f756"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Home Sweet Home Alone (2021) โดดเดี่ยวผู้น่ารัก",
-    "url": "https://lk-hdx.com/home-sweet-home-alone-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Sweet-Home-Alone-2021-โดดเดี่ยวผู้น่ารัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7bc4104c7396fbcdc5168ee514bc46c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7bc4104c7396fbcdc5168ee514bc46c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Sweet-Home-Alone-2021-โดดเดี่ยวผู้น่ารัก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Home Alone 4 Taking Back the House (2002) โดดเดี่ยวผู้น่ารัก ภาค 4",
-    "url": "https://lk-hdx.com/home-alone-4-taking-back-the-house-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bd687219afe015d1d7d52b00a08e8db3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bd687219afe015d1d7d52b00a08e8db3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Home Alone 3 (1997) โดดเดี่ยวผู้น่ารัก ภาค 3",
-    "url": "https://lk-hdx.com/home-alone-3-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d530d4d03e68a7e3cd4216715e3280ba/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d530d4d03e68a7e3cd4216715e3280ba"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Home Alone 2 Lost in New York (1992) โดดเดี่ยวผู้น่ารัก 2 ตอน หลงในนิวยอร์ค",
-    "url": "https://lk-hdx.com/home-alone-2-lost-in-new-york-1992/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f785a619730eebd92c46f1535ff40b96/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f785a619730eebd92c46f1535ff40b96"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Home Alone 1 (1990) โดดเดี่ยวผู้น่ารัก ภาค 1",
-    "url": "https://lk-hdx.com/home-alone-1-1990/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-1-1990-โดดเดี่ยวผู้น่ารัก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2c48e029cd839f31db57279f4541d838/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c48e029cd839f31db57279f4541d838"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Home-Alone-1-1990-โดดเดี่ยวผู้น่ารัก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Young Sister In Law 5 (2019)",
-    "url": "https://lk-hdx.com/young-sister-in-law-5-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-5-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b2a47786c1b9f0ca4f8f8db4c80b3f41/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b2a47786c1b9f0ca4f8f8db4c80b3f41"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-5-2019-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Young Sister In Law 2 (2017)",
-    "url": "https://lk-hdx.com/young-sister-in-law-2-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-2-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f472242a72b58a49a812408cb8d8b4c3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f472242a72b58a49a812408cb8d8b4c3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-2-2017-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Young Sister In Law 1 (2016)",
-    "url": "https://lk-hdx.com/young-sister-in-law-1-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-1-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dba9480ed2fc20ae9c585e4d45bf6796/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dba9480ed2fc20ae9c585e4d45bf6796"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-1-2016-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper Assassin’s End (2020) สไนเปอร์ จุดจบนักล่า",
-    "url": "https://lk-hdx.com/sniper-assassins-end-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-Assassin-s-End-2020-สไนเปอร์-จุดจบนักล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/78dc3476a20f5ff879e6dcd82787fe43/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/78dc3476a20f5ff879e6dcd82787fe43"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-Assassin-s-End-2020-สไนเปอร์-จุดจบนักล่า-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper 7 Ultimate Kill (2017) สไนเปอร์ ภาค 7",
-    "url": "https://lk-hdx.com/sniper-7-ultimate-kill-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-7-Ultimate-Kill-2017-สไนเปอร์-ภาค-7-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/98bc7827dea75c7e7bd72356de4ddf24/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/98bc7827dea75c7e7bd72356de4ddf24"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-7-Ultimate-Kill-2017-สไนเปอร์-ภาค-7-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper 6 Ghost Shooter (2016) สไนเปอร์ เพชฌฆาตไร้เงา ภาค 6",
-    "url": "https://lk-hdx.com/sniper-6-ghost-shooter-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-6-Ghost-Shooter-2016-สไนเปอร์-เพชฌฆาตไร้เงา-ภาค-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8ef8cf875ba5a9f82e8ca20f1bf8d4a8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8ef8cf875ba5a9f82e8ca20f1bf8d4a8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-6-Ghost-Shooter-2016-สไนเปอร์-เพชฌฆาตไร้เงา-ภาค-6-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper 5 Legacy (2014) สไนเปอร์โคตรนักฆ่าซุ่มสังหาร ภาค 5",
-    "url": "https://lk-hdx.com/sniper-5-legacy-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-5-Legacy-2014-สไนเปอร์โคตรนักฆ่าซุ่มสังหาร-ภาค-5-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_eIUmgrwb6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-5-Legacy-2014-สไนเปอร์โคตรนักฆ่าซุ่มสังหาร-ภาค-5-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper 4 Reloaded (2011) โคตรนักฆ่าซุ่มสังหาร ภาค 4",
