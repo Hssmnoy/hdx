@@ -281,14 +281,14 @@ async function run() {
         url: e
       }));
     }
+    
+// 🔥 บันทึกไฟล์ JSON ก่อน commit
+await fs.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
 
-    await fs.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
-    allMovies.push(...catMovies);
-  }
-
-  await fs.writeFile("movies.json", JSON.stringify(allMovies, null, 2));
-
-  await commitChanges("auto update");
+// 🔥 commit ระหว่างทาง
+if (COMMIT_EVERY > 0 && (i + 1) % COMMIT_EVERY === 0) {
+  await commitChanges(`auto update ${cat.name} - ${i + 1}/${catMovies.length}`);
+}
 }
 
 run();
