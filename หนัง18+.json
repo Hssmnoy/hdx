@@ -1315,153 +1315,429 @@
   },
   {
     "title": "Motel Cactus (1997)",
-    "url": "https://lk-hdx.com/motel-cactus-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Motel-Cactus-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/139212f5cec28923c4e5f6bbd19fa761/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/139212f5cec28923c4e5f6bbd19fa761"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Motel-Cactus-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Hotel Desire (2011) โรงแรมตัณหา",
-    "url": "https://lk-hdx.com/hotel-desire-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Hotel-Desire-2011-โรงแรมตัณหา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4037c1a91a5ff5c52b59404203a1e616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4037c1a91a5ff5c52b59404203a1e616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Hotel-Desire-2011-โรงแรมตัณหา-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "The Perfect Education (1999)",
-    "url": "https://lk-hdx.com/the-perfect-education-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Perfect-Education-1999-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c479afa519291581e4ce4efb84307bda/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c479afa519291581e4ce4efb84307bda"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Perfect-Education-1999-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Immoral Women (1979)",
-    "url": "https://lk-hdx.com/immoral-women-1979/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Immoral-Women-1979-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Lvl6rv_mCJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Immoral-Women-1979-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Lie with Me (2005) สายใยรัก มิอาจขาดเธอ",
-    "url": "https://lk-hdx.com/lie-with-me-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Lie-with-Me-2005-สายใยรัก-มิอาจขาดเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea0029f395672ac648b6e9a4b01d7527/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea0029f395672ac648b6e9a4b01d7527"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Lie-with-Me-2005-สายใยรัก-มิอาจขาดเธอ-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Kapalit (2024)",
-    "url": "https://lk-hdx.com/kapalit-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Kapalit-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41992797833b27cb0d0719a016c2310b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41992797833b27cb0d0719a016c2310b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Kapalit-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Ang Kapitbahay (2024)",
-    "url": "https://lk-hdx.com/ang-kapitbahay-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Ang-Kapitbahay-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/254_fA0ycy"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Ang-Kapitbahay-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Stealing Beauty (1996) ความงดงาม ที่แสนบริสุทธิ์",
-    "url": "https://lk-hdx.com/stealing-beauty-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Stealing-Beauty-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9489d7dd983f8b9e3a6c51732618e1c4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9489d7dd983f8b9e3a6c51732618e1c4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Stealing-Beauty-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Haslers (2023) 18+",
-    "url": "https://lk-hdx.com/haslers-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Haslers-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/6_nJodzat_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Haslers-2023-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Eyes Wide Shut (1999) พิษราคะ",
-    "url": "https://lk-hdx.com/eyes-wide-shut-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Eyes-Wide-Shut-1999-พิษราคะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/881abbc258ff61fd1de58153713c59d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/881abbc258ff61fd1de58153713c59d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Eyes-Wide-Shut-1999-พิษราคะ-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Wet Woman in the Wind (2016) ผู้หญิงในสายลม",
-    "url": "https://lk-hdx.com/wet-woman-in-the-wind-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Wet-Woman-in-the-Wind-2016-ผู้หญิงในสายลม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/527ebf7db8a8ef056e25738600cb67cc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/527ebf7db8a8ef056e25738600cb67cc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Wet-Woman-in-the-Wind-2016-ผู้หญิงในสายลม-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "The Rape (1982)",
-    "url": "https://lk-hdx.com/the-rape-1982/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Rape-1982-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73db9076cb0c2a162209bcb83eedcbde/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73db9076cb0c2a162209bcb83eedcbde"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Rape-1982-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Maharot (2024) 18+",
-    "url": "https://lk-hdx.com/maharot-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Maharot-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/590e44d90d6a144c4655560b5ff8fd88/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/590e44d90d6a144c4655560b5ff8fd88"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Maharot-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Salitan (2024)",
-    "url": "https://lk-hdx.com/salitan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Salitan-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/45550d33625563f7e51cbd347c28cb96/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/45550d33625563f7e51cbd347c28cb96"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Salitan-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Sisid marino (2024)",
-    "url": "https://lk-hdx.com/sisid-marino-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Sisid-marino-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5928cbaacbc73973586fdc863b0d0fc4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5928cbaacbc73973586fdc863b0d0fc4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Sisid-marino-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Kaskasero (2024)",
-    "url": "https://lk-hdx.com/kaskasero-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Kaskasero-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/78c08690901412414d7aaaf9a661161b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/78c08690901412414d7aaaf9a661161b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Kaskasero-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "No Mercy (2019) ไร้เมตตา",
-    "url": "https://lk-hdx.com/no-mercy-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/No-Mercy-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/39af0e9f4bc5dd729aad129de69e0363/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/39af0e9f4bc5dd729aad129de69e0363"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/No-Mercy-2019-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "American Pie Presents Girls’ Rules (2020)",
-    "url": "https://lk-hdx.com/american-pie-presents-girls-rules-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Pie-Presents-Girls-Rules-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/oFP7YiXmb_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Pie-Presents-Girls-Rules-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Akaneiro Ni Yakareru (2021)",
-    "url": "https://lk-hdx.com/akaneiro-ni-yakareru-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Akaneiro-Ni-Yakareru-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d2345eb0d384e5f15611f1945e707fb9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d2345eb0d384e5f15611f1945e707fb9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Akaneiro-Ni-Yakareru-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Below Her Mouth (2016) ใต้ปากของเธอ 18+",
-    "url": "https://lk-hdx.com/below-her-mouth-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Below-Her-Mouth-2016-ใต้ปากของเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/900bdf6035c185c0ce94f11c2d1f7a2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/900bdf6035c185c0ce94f11c2d1f7a2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Below-Her-Mouth-2016-ใต้ปากของเธอ-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "American Virgin (2009) สาวจิ้นอยากลองแอ้ม",
-    "url": "https://lk-hdx.com/american-virgin-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Virgin-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/V1MEUA_kOJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Virgin-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "ดูหนัง ชั่วฟ้าดินสลาย (2010) Eternity",
-    "url": "https://lk-hdx.com/eternity-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Eternity-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/690de2abc2769898e6990692920b7715/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/690de2abc2769898e6990692920b7715"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Eternity-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Lost in Beijing (2007) เกมรักหักหลัง",
-    "url": "https://lk-hdx.com/lost-in-beijing-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Lost-in-Beijing-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c88e99572d79ae0671de4e24b805eb1f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c88e99572d79ae0671de4e24b805eb1f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Lost-in-Beijing-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Snakes and Earrings (2008) แด่ความรักด้วยความเจ็บปวด",
-    "url": "https://lk-hdx.com/snakes-and-earrings-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Snakes-and-Earrings-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/991d622bc338dfd935e53a435371af51/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/991d622bc338dfd935e53a435371af51"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Snakes-and-Earrings-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "April Snow (2005) ลิขิตพิศวาส",
-    "url": "https://lk-hdx.com/april-snow-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/April-Snow-2005-ลิขิตพิศวาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a9ecc5d2c5edb2b0484a3eadfab44dc3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a9ecc5d2c5edb2b0484a3eadfab44dc3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/April-Snow-2005-ลิขิตพิศวาส-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Suki (2023) สุกี้",
-    "url": "https://lk-hdx.com/suki/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Suki-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/01121d71779ac7885ec22aecfb98d4b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01121d71779ac7885ec22aecfb98d4b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Suki-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Romance Doll (2020) ตุ๊กตารัก",
-    "url": "https://lk-hdx.com/romance-doll-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Romance-Doll-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6f6b6b777961222bd2d05e9401d51a25/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6f6b6b777961222bd2d05e9401d51a25"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Romance-Doll-2020-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "The Unbearable Lightness of Being (1988) ปรารถนาต้องห้าม",
-    "url": "https://lk-hdx.com/the-unbearable-lightness-of-being-1988/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Unbearable-Lightness-of-Being-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4a8af185f64a6fbc4ee6fac223dde29/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4a8af185f64a6fbc4ee6fac223dde29"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Unbearable-Lightness-of-Being-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "American Beauty (1999) อเมริกัน บิวตี้",
-    "url": "https://lk-hdx.com/american-beauty-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Beauty-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/80bbb214677d537a6bbce6911a282cc1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/80bbb214677d537a6bbce6911a282cc1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Beauty-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "The Forbidden Legend Sex and Chopsticks Part 2 (2009) บทรักอมตะ ภาค 2",
-    "url": "https://lk-hdx.com/the-forbidden-legend-sex-and-chopsticks-part-2-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Forbidden-Legend-Sex-and-Chopsticks-Part-2-2009-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/DuZWS6_Bq8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Forbidden-Legend-Sex-and-Chopsticks-Part-2-2009-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "น้ำตาลแดง ภาค 2 (2010) Brown Sugar 2",
