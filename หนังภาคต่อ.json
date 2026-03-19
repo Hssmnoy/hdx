@@ -3461,153 +3461,429 @@
   },
   {
     "title": "Batman Year One (2011) ศึกอัศวินแบทแมน ปี 1",
-    "url": "https://lk-hdx.com/batman-year-one-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/ศึกอัศวินแบทแมน-ปี-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb59b0590e4d8852886063cfa3d636cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb59b0590e4d8852886063cfa3d636cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/ศึกอัศวินแบทแมน-ปี-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Daddy’s Home 2 สงครามป่วน (ตัว) พ่อสุดแสบคูณ 2",
-    "url": "https://lk-hdx.com/daddys-home-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Daddys-Home-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1d1ce9c3a0aea5d0b06ec204ad0b2b8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1d1ce9c3a0aea5d0b06ec204ad0b2b8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Daddys-Home-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Daddy’s Home 1 สงครามป่วน (ตัว) พ่อสุดแสบ ภาค 1",
-    "url": "https://lk-hdx.com/daddys-home-1/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Daddys-Home-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ec08408cfa07251074d63f5e042f6f0c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec08408cfa07251074d63f5e042f6f0c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Daddys-Home-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Mononoke the Movie The Phantom in the Rain (2024) โมโนโนเกะ เดอะ มูฟวี่ ปีศาจในสายฝน",
-    "url": "https://lk-hdx.com/mononoke-the-movie-the-phantom-in-the-rain-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Mononoke-the-Movie-The-Phantom-in-the-Rain-2024-โมโนโนเกะ-เดอะ-มูฟวี่-ปีศาจในสายฝน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_lXCx9qRzk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Mononoke-the-Movie-The-Phantom-in-the-Rain-2024-โมโนโนเกะ-เดอะ-มูฟวี่-ปีศาจในสายฝน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Detective Chinatown 2 (2018) แก๊งม่วนป่วนนิวยอร์ก ภาค 2",
-    "url": "https://lk-hdx.com/detective-chinatown-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Detective-Chinatown-2-2018-แก๊งม่วนป่วนนิวยอร์ก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/54d0a92f955664dd71022f7393a7d08f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54d0a92f955664dd71022f7393a7d08f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Detective-Chinatown-2-2018-แก๊งม่วนป่วนนิวยอร์ก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Universal Soldier 4 (2012) 2 คนไม่ใช่คน ภาค 4 สงครามวันดับแค้น",
-    "url": "https://lk-hdx.com/universal-soldier-4-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Universal-Soldier-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jdp6rSP1T_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Universal-Soldier-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Universal Soldier 3 (2009) 2 คนไม่ใช่คน ภาค 3 สงครามสมองกลพันธุ์ใหม่",
-    "url": "https://lk-hdx.com/universal-soldier-3-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Universal-Soldier-3--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0e8c413f7be96046f3be83c63fc18f92/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e8c413f7be96046f3be83c63fc18f92"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Universal-Soldier-3--165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Universal Soldier 2 (1999) 2 คนไม่ใช่คน ภาค 2 นักรบกระดูกสมองกล",
-    "url": "https://lk-hdx.com/universal-soldier-2-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Universal-Soldier-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7320fe1512840c86c381c04ed4deb88d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7320fe1512840c86c381c04ed4deb88d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Universal-Soldier-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Universal Soldier 1 (1992) 2 คนไม่ใช่คน ภาค 1",
-    "url": "https://lk-hdx.com/universal-soldier-1-1992/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Universal-Soldier-1--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9b74e4104906c2b7e7369fa650daab39/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9b74e4104906c2b7e7369fa650daab39"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Universal-Soldier-1--165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hunger Games The Ballad of Songbirds & Snakes (2023) เดอะ ฮังเกอร์เกมส์ ปฐมบทเกมล่าเกม",
-    "url": "https://lk-hdx.com/the-hunger-games-the-ballad-of-songbirds-snakes/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/92159195ed1c132dda0eb8580052f371/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/92159195ed1c132dda0eb8580052f371"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Resident Evil 5 Retribution (2012) ผีชีวะ ภาค 5 สงครามไวรัสล้างนรก",
-    "url": "https://lk-hdx.com/resident-evil-5-retribution/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Resident-Evil-5-Retribution-2012-ผีชีวะ-ภาค-5-สงครามไวรัสล้างนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c99a302aa598f21f34bc7f14af40d7c0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c99a302aa598f21f34bc7f14af40d7c0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Resident-Evil-5-Retribution-2012-ผีชีวะ-ภาค-5-สงครามไวรัสล้างนรก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Saints and Soldiers Airborne Creed (2012) ภารกิจกล้าฝ่าแดนข้าศึก",
-    "url": "https://lk-hdx.com/saints-and-soldiers-airborne-creed-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/saints-and-soldiers-airborne-creed-lk-hd-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7542d58501120c9c96279b4ca4afdc5e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7542d58501120c9c96279b4ca4afdc5e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/saints-and-soldiers-airborne-creed-lk-hd-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Khun Phan 2 (2018) ขุนพันธ์ ภาค 2",
-    "url": "https://lk-hdx.com/khun-phan-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Khun-Phan-2-2018-ขุนพันธ์-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/17c6d38624e7e2f635895f6a885581a6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17c6d38624e7e2f635895f6a885581a6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Khun-Phan-2-2018-ขุนพันธ์-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Khun Phan 1 (2016) ขุนพันธ์ ภาค 1",
-    "url": "https://lk-hdx.com/khun-phan-1-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Khun-Phan-1-2016-ขุนพันธ์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/994f15738b5b7b98b7a03e611280e6bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/994f15738b5b7b98b7a03e611280e6bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Khun-Phan-1-2016-ขุนพันธ์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Khun Phan 3 (2023) ขุนพันธ์ ภาค 3",
-    "url": "https://lk-hdx.com/khun-phan-3/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Khun-Phan-3-2023-ขุนพันธ์-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8203f16380bd83ca01a0903e4668b71/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8203f16380bd83ca01a0903e4668b71"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Khun-Phan-3-2023-ขุนพันธ์-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jumanji Welcome to the Jungle (2017) เกมดูดโลก บุกป่ามหัศจรรย์",
-    "url": "https://lk-hdx.com/jumanji-welcome-to-the-jungle-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Jumanji-Welcome-to-the-Jungle-2017-เกมดูดโลก-บุกป่ามหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/oXXEBnqd_T"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Jumanji-Welcome-to-the-Jungle-2017-เกมดูดโลก-บุกป่ามหัศจรรย์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jumanji The Next Level (2019) เกมดูดโลก ตะลุยด่านมหัศจรรย์",
-    "url": "https://lk-hdx.com/jumanji-the-next-level-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Jumanji-The-Next-Level-2019-เกมดูดโลก-ตะลุยด่านมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6839ae0689f8dd016766b93ff2c4662/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6839ae0689f8dd016766b93ff2c4662"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Jumanji-The-Next-Level-2019-เกมดูดโลก-ตะลุยด่านมหัศจรรย์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jumanji (1995) จูแมนจี้ เกมดูดโลกมหัศจรรย์",
-    "url": "https://lk-hdx.com/jumanji-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Jumanji-1995-จูแมนจี้-เกมดูดโลกมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/89670495e2e615853ed950d399ce61c6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89670495e2e615853ed950d399ce61c6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Jumanji-1995-จูแมนจี้-เกมดูดโลกมหัศจรรย์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Witch Part 1 The Subversion แม่มดมือสังหาร ภาค 1 (2018)",
-    "url": "https://lk-hdx.com/the-witch-part-1-the-subversion/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Witch-Part-1-The-Subversion-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dbac8c20285c9b07794416a99d2221e7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dbac8c20285c9b07794416a99d2221e7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Witch-Part-1-The-Subversion-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
-    "url": "https://lk-hdx.com/deadpool-wolverine/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9c72cabacf36033e8aab72fffb9252ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c72cabacf36033e8aab72fffb9252ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Deadpool 2 (2018) เดดพูล ภาค 2",
-    "url": "https://lk-hdx.com/deadpool-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-2-2018-เดดพูล-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e0133c2ec40819d3afc0f8f44ed7b7ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e0133c2ec40819d3afc0f8f44ed7b7ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-2-2018-เดดพูล-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Deadpool 1 (2016) เดดพูล ภาค 1 นักสู้พันธุ์เกรียน",
-    "url": "https://lk-hdx.com/deadpool-1-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-1-2016-เดดพูล-ภาค-1-นักสู้พันธุ์เกรียน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_4XJgoFgxR"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-1-2016-เดดพูล-ภาค-1-นักสู้พันธุ์เกรียน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Aquaman and the Lost Kingdom อควาแมนกับอาณาจักรสาบสูญ (2023)",
-    "url": "https://lk-hdx.com/aquaman-and-the-lost-kingdom/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Aquaman-and-the-Lost-Kingdom-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad622b6fef01b8bd95a2c4a9b92f2321/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad622b6fef01b8bd95a2c4a9b92f2321"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Aquaman-and-the-Lost-Kingdom-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Aquaman อควาแมน เจ้าสมุทร (2018)",
-    "url": "https://lk-hdx.com/aquaman/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Aquaman-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f02cc111b5ce1b48b525b7dfe260c1c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f02cc111b5ce1b48b525b7dfe260c1c9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Aquaman-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Joy Ride 3 Roadkill เกมหยอก หลอกไปเชือด 3 ถนนสายเลือด (2014)",
-    "url": "https://lk-hdx.com/joy-ride-3-roadkill-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-3-Roadkill-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4774aec2e35f717177db2acf2e6042c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4774aec2e35f717177db2acf2e6042c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-3-Roadkill-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Joy Ride 2 Dead Ahead เกมหยอก หลอกไปเชือด 2 เชือดสุดทางนรก (2008)",
-    "url": "https://lk-hdx.com/joy-ride-2-dead-ahead-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-2-Dead-Ahead-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v_W7Xgc6NN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-2-Dead-Ahead-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Joy Ride 1 เกมหยอกหลอกไปเชือด (2001)",
-    "url": "https://lk-hdx.com/joy-ride-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e591b5e228b6320e3841087ef39d05de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e591b5e228b6320e3841087ef39d05de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Snake Eyes G.I. Joe Origins (2021) จี.ไอ.โจ สเนคอายส์",
-    "url": "https://lk-hdx.com/snake-eyes-g-i-joe-origins/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Snake-Eyes-G.I.-Joe-Origins-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/daa1757ff18e2712aa6248bc5ccb0c8e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/daa1757ff18e2712aa6248bc5ccb0c8e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Snake-Eyes-G.I.-Joe-Origins-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ju On 4 The Final Curse (2015) จูออน ผีดุ ภาค 4 ปิดตำนานโคตรดุ ",
-    "url": "https://lk-hdx.com/ju-on-4-the-final-curse-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Ju-On-4-The-Final-Curse-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/S_COnOLi4I"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Ju-On-4-The-Final-Curse-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ju on Begining of the End (2014) จูออน ผีดุ กำเนิดมรณะ",
-    "url": "https://lk-hdx.com/ju-on-begining-of-the-end-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Ju-on-Begining-of-the-End-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/874e0201c949caeb21210b9382e53171/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/874e0201c949caeb21210b9382e53171"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Ju-on-Begining-of-the-End-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ju on 2 (2003) ผี ดุ ภาค 2  ",
