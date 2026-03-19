@@ -27079,153 +27079,441 @@
   },
   {
     "title": "Little (2019) ตัวจ้อย สลับแสบ",
-    "url": "https://lk-hdx.com/little-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Little-2019-ตัวจ้อย-สลับแสบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4056d1c73fe3fc8ad8c0d2e16dbfd914/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4056d1c73fe3fc8ad8c0d2e16dbfd914"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Little-2019-ตัวจ้อย-สลับแสบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Don’t Look at the Demon (2022) ฝรั่งเซ่นผี",
-    "url": "https://lk-hdx.com/dont-look-at-the-demon-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7c0f86e5ed3590ddacc2aff41423fac2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7c0f86e5ed3590ddacc2aff41423fac2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Which Brings Me to You (2023) สิ่งที่พาฉันมาพบคุณ",
-    "url": "https://lk-hdx.com/which-brings-me-to-you-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Which-Brings-Me-to-You-2023-สิ่งที่พาฉันมาพบคุณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b056161e5295727bf03b0bc2adb05db6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b056161e5295727bf03b0bc2adb05db6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Which-Brings-Me-to-You-2023-สิ่งที่พาฉันมาพบคุณ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Frozen Ground (2013) พลิกแผ่นดินล่าอำมหิต",
-    "url": "https://lk-hdx.com/the-frozen-ground-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Frozen-Ground-2013-พลิกแผ่นดินล่าอำมหิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/38ab6e7a336ad8dc995fa56785ee4709/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/38ab6e7a336ad8dc995fa56785ee4709"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Frozen-Ground-2013-พลิกแผ่นดินล่าอำมหิต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Stand (2013) นายอำเภอคนพันธุ์เหล็ก",
-    "url": "https://lk-hdx.com/the-last-stand-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Stand-2013-นายอำเภอคนพันธุ์เหล็ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41a736b0bac5c086d26f5c7d5b5019d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41a736b0bac5c086d26f5c7d5b5019d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Stand-2013-นายอำเภอคนพันธุ์เหล็ก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "5lbs of Pressure (2024)",
-    "url": "https://lk-hdx.com/5lbs-of-pressure-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/5lbs-of-Pressure-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0b3db19da76b55b8dd97ef8c9930bb6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0b3db19da76b55b8dd97ef8c9930bb6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/5lbs-of-Pressure-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Bloody Hundredth (2024) สุดยอดฝูงบินที่ 100",
-    "url": "https://lk-hdx.com/the-bloody-hundredth-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Bloody-Hundredth-2024-สุดยอดฝูงบินที่-100-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/19ecbd7ccb47214684cf5731cb6b86af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19ecbd7ccb47214684cf5731cb6b86af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Bloody-Hundredth-2024-สุดยอดฝูงบินที่-100-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "No Way Up (2024) งาบคลั่งไฟลต์",
-    "url": "https://lk-hdx.com/no-way-up-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/No-Way-Up-2024-งาบคลั่งไฟลต์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e58a1236cc1abf56688099cfbb7978cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e58a1236cc1abf56688099cfbb7978cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/No-Way-Up-2024-งาบคลั่งไฟลต์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "In Security (2010) คู่ป่วนลวงแผนปล้น",
-    "url": "https://lk-hdx.com/in-security-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/In-Security-2010-คู่ป่วนลวงแผนปล้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/783f018ea86d5e24dc8723ede98ca3cd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/783f018ea86d5e24dc8723ede98ca3cd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/In-Security-2010-คู่ป่วนลวงแผนปล้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "40 Days And Nights (2012) 40 วันมหาพายุกลืนโลก",
-    "url": "https://lk-hdx.com/40-days-and-nights-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/40-Days-And-Nights-2012-40-วันมหาพายุกลืนโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b8bc61d3cfc20e172cfb49488ede3c1b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b8bc61d3cfc20e172cfb49488ede3c1b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/40-Days-And-Nights-2012-40-วันมหาพายุกลืนโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Nice Guys (2016) กายส์ นายแสบมาก",
-    "url": "https://lk-hdx.com/the-nice-guys-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Nice-Guys-2016-กายส์-นายแสบมาก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a711e828e80227351562523db3848174/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a711e828e80227351562523db3848174"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Nice-Guys-2016-กายส์-นายแสบมาก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Recall (2017) เดอะ รีคอลล์",
-    "url": "https://lk-hdx.com/the-recall-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Recall-2017-เดอะ-รีคอลล์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bc4269205575bd0e4be0d6150771ee01/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bc4269205575bd0e4be0d6150771ee01"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Recall-2017-เดอะ-รีคอลล์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Matriarch (2018)",
-    "url": "https://lk-hdx.com/matriarch-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Matriarch-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2b9ba563b3c8a991772b120265c0d15c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2b9ba563b3c8a991772b120265c0d15c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Matriarch-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Clan (2015) เดอะ แคลน",
-    "url": "https://lk-hdx.com/the-clan-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Clan-2015-เดอะ-แคลน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/k0Ze8HApQ_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Clan-2015-เดอะ-แคลน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Crawlspace (2022) คลานระห่ำปะทะเดือด",
-    "url": "https://lk-hdx.com/crawlspace-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Crawlspace-2022-คลานระห่ำปะทะเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6b4b173aef2f08d3961ef305b439901e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b4b173aef2f08d3961ef305b439901e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Crawlspace-2022-คลานระห่ำปะทะเดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Family (2013) พันธุ์แสบยกตระกูล",
-    "url": "https://lk-hdx.com/the-family-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Family-2013-พันธุ์แสบยกตระกูล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8ae70219f1d2d77a85810a02834c197e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8ae70219f1d2d77a85810a02834c197e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Family-2013-พันธุ์แสบยกตระกูล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cloud Atlas (2012) คลาวด์ แอตลาส หยุดโลกข้ามเวลา",
-    "url": "https://lk-hdx.com/cloud-atlas-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Cloud-Atlas-2012-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b8617e01f2717369a914292b53d1586f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b8617e01f2717369a914292b53d1586f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Cloud-Atlas-2012-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Aftershock (2012) คนคลั่ง 8.8 ริกเตอร์",
-    "url": "https://lk-hdx.com/aftershock-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Aftershock-2012-คนคลั่ง-8.8-ริกเตอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e13d966952bda1767aeec5c81fa9da5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e13d966952bda1767aeec5c81fa9da5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Aftershock-2012-คนคลั่ง-8.8-ริกเตอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Man on a Ledge (2012) ระห่ำฟ้า ท้านรก",
-    "url": "https://lk-hdx.com/man-on-a-ledge-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Man-on-a-Ledge-2012-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cab4ed6cc52d4c75bb78f66312ca649d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cab4ed6cc52d4c75bb78f66312ca649d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Man-on-a-Ledge-2012-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Royal Hotel (2023)",
-    "url": "https://lk-hdx.com/the-royal-hotel-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Royal-Hotel-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db926d8f9ace8785cf937521735ccce7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db926d8f9ace8785cf937521735ccce7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Royal-Hotel-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "She Came to Me (2023)",
-    "url": "https://lk-hdx.com/she-came-to-me-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/She-Came-to-Me-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ba13e0698231c18273646e50f3db3f11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ba13e0698231c18273646e50f3db3f11"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/She-Came-to-Me-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Great Gatsby (2013) เดอะ เกรท แกตสบี้ รักเธอสุดที่รัก",
-    "url": "https://lk-hdx.com/the-great-gatsby/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Great-Gatsby-2013-เดอะ-เกรท-แกตสบี้-รักเธอสุดที่รัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/5_C4TODu_H"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Great-Gatsby-2013-เดอะ-เกรท-แกตสบี้-รักเธอสุดที่รัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cop Out (2010) คู่อึดไม่มีเอ้าท์",
-    "url": "https://lk-hdx.com/cop-out-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Cop-Out-2010-คู่อึดไม่มีเอ้าท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8fa5d3878d62438fffb19a988082b2a9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8fa5d3878d62438fffb19a988082b2a9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Cop-Out-2010-คู่อึดไม่มีเอ้าท์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Three Stooges (2012) สามเกลอหัวแข็ง",
-    "url": "https://lk-hdx.com/the-three-stooges-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Three-Stooges-2012-สามเกลอหัวแข็ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7bc7e6cf93ab03643780c4371ad33ec7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7bc7e6cf93ab03643780c4371ad33ec7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Three-Stooges-2012-สามเกลอหัวแข็ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Irish Wish (2024) ฝันรักไอร์แลนด์",
-    "url": "https://lk-hdx.com/irish-wish-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Irish-Wish-2024-ฝันรักไอร์แลนด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e22f5d0348858977e8ce294ab152762/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e22f5d0348858977e8ce294ab152762"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Irish-Wish-2024-ฝันรักไอร์แลนด์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Once Upon a Time in Hollywood (2019) กาลครั้งหนึ่งในฮอลลีวู้ด",
-    "url": "https://lk-hdx.com/once-upon-a-time-in-hollywood-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Once-Upon-a-Time-in-Hollywood-2019-กาลครั้งหนึ่งในฮอลลีวู้ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/89db59b6f47c088579355bb0096da616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89db59b6f47c088579355bb0096da616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Once-Upon-a-Time-in-Hollywood-2019-กาลครั้งหนึ่งในฮอลลีวู้ด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Rental (2020) บ้านเช่ารอเชือด",
-    "url": "https://lk-hdx.com/the-rental-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Rental-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c58c2087a1dbb72b9c5a363fae650a33/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c58c2087a1dbb72b9c5a363fae650a33"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Rental-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The High Note (2020) ไต่โน้ตหัวใจตามฝัน",
-    "url": "https://lk-hdx.com/the-high-note-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-High-Note-2020-ไต่โน้ตหัวใจตามฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c15444788977368900deb064cd1d9ffa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c15444788977368900deb064cd1d9ffa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-High-Note-2020-ไต่โน้ตหัวใจตามฝัน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Witches (2020) แม่มด ของ โรอัลด์ ดาห์ล",
-    "url": "https://lk-hdx.com/the-witches-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Witches-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b589c2c7e9e490cbb2c02903c05a11f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b589c2c7e9e490cbb2c02903c05a11f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Witches-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Duel (2021) ดวลชีวิต ลิขิตชะตา",
-    "url": "https://lk-hdx.com/the-last-duel-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Last-Duel-2021-ดวลชีวิต-ลิขิตชะตา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/UgGH_ihCLr"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Last-Duel-2021-ดวลชีวิต-ลิขิตชะตา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I Saw the Devil (2010) เกมโหดล่าโหด",
