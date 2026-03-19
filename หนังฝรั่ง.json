@@ -52963,153 +52963,441 @@
   },
   {
     "title": "A Ghost Story (2017) ผียังห่วง",
-    "url": "https://lk-hdx.com/a-ghost-story-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Ghost-Story-2017-ผียังห่วง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/269db438667a6177f0b5367d8baa683b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/269db438667a6177f0b5367d8baa683b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Ghost-Story-2017-ผียังห่วง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Against the Night (2017) มันมาตอนมืด",
-    "url": "https://lk-hdx.com/against-the-night-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Against-the-Night-2017-มันมาตอนมืด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e4c11325a9d2b6f783b1b6a28a3f2ddc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e4c11325a9d2b6f783b1b6a28a3f2ddc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Against-the-Night-2017-มันมาตอนมืด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Death Wish (2018) นักฆ่าโคตรอึด",
-    "url": "https://lk-hdx.com/death-wish-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Wish-2018-นักฆ่าโคตรอึด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fMzFkg5rS_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Wish-2018-นักฆ่าโคตรอึด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Vigilante (2018) แค้นนี้ต้องชำระ",
-    "url": "https://lk-hdx.com/a-vigilante-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Vigilante-2018-แค้นนี้ต้องชำระ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6bdae90f26f07b6d25364166a923571f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6bdae90f26f07b6d25364166a923571f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Vigilante-2018-แค้นนี้ต้องชำระ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Animals (2018) รวมกันปล้น อย่าให้ใครจับได้",
-    "url": "https://lk-hdx.com/american-animals-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Animals-2018-รวมกันปล้น-อย่าให้ใครจับได้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e390828381c302fc524b333018795e3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e390828381c302fc524b333018795e3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Animals-2018-รวมกันปล้น-อย่าให้ใครจับได้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Crypto (2019) การเข้ารหัสลับ",
-    "url": "https://lk-hdx.com/crypto-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Crypto-2019-การเข้ารหัสลับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c39b727192da81627b22b17c4162d60c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c39b727192da81627b22b17c4162d60c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Crypto-2019-การเข้ารหัสลับ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Brightburn (2019) เด็กพลังอสูร",
-    "url": "https://lk-hdx.com/brightburn-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Brightburn-2019-เด็กพลังอสูร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e3247487c44fafe8e8570b223b8a7b96/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e3247487c44fafe8e8570b223b8a7b96"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Brightburn-2019-เด็กพลังอสูร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Article 15 (2019) มาตรา 15",
-    "url": "https://lk-hdx.com/article-15-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Article-15-2019-มาตรา-15-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/090cb3ce0fc862e5df7560098e137d62/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/090cb3ce0fc862e5df7560098e137d62"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Article-15-2019-มาตรา-15-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Berlin Berlin (2020) สาวหนีรัก",
-    "url": "https://lk-hdx.com/berlin-berlin-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Berlin-Berlin-2020-สาวหนีรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/597a126388dab37e03f5aa94d7809580/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/597a126388dab37e03f5aa94d7809580"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Berlin-Berlin-2020-สาวหนีรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Leyla Everlasting (2020) ภรรยา 9 ชีวิต",
-    "url": "https://lk-hdx.com/leyla-everlasting-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Leyla-Everlasting-2020-ภรรยา-9-ชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c71f5b9e393118069b3218055a9198ce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c71f5b9e393118069b3218055a9198ce"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Leyla-Everlasting-2020-ภรรยา-9-ชีวิต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Just Another Christmas (2020) คริสต์มาส อีกแล้ว",
-    "url": "https://lk-hdx.com/just-another-christmas-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Just-Another-Christmas-2020-คริสต์มาส-อีกแล้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/J1JsQl_aB1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Just-Another-Christmas-2020-คริสต์มาส-อีกแล้ว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "How I Became a Gangster (2020) วิถีมาเฟีย",
-    "url": "https://lk-hdx.com/how-i-became-a-gangster-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/How-I-Became-a-Gangster-2020-วิถีมาเฟีย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a48beb11b6273263fca8909a6f497cb5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a48beb11b6273263fca8909a6f497cb5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/How-I-Became-a-Gangster-2020-วิถีมาเฟีย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Breaking Surface (2021) ฝ่าวิกฤตพื้นผิวน้ำ",
-    "url": "https://lk-hdx.com/breaking-surface-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Breaking-Surface-2021-ฝ่าวิกฤตพื้นผิวน้ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a6bc6dbeebe34abc7207cba489010772/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a6bc6dbeebe34abc7207cba489010772"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Breaking-Surface-2021-ฝ่าวิกฤตพื้นผิวน้ำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Great Hack (2019) แฮ็กสนั่นโลก",
-    "url": "https://lk-hdx.com/the-great-hack-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Great-Hack-2019-แฮ็กสนั่นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdfa5e04a670824083465da8012e6adb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdfa5e04a670824083465da8012e6adb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Great-Hack-2019-แฮ็กสนั่นโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wounds (2019) สัญญาณสั่งตาย",
-    "url": "https://lk-hdx.com/wounds-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Wounds-2019-สัญญาณสั่งตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c938b8155dc517a5623ad2a4275e1522/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c938b8155dc517a5623ad2a4275e1522"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Wounds-2019-สัญญาณสั่งตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Enforcement (2020) คู่ระห่ำ ฝ่าโซนเดือด",
-    "url": "https://lk-hdx.com/enforcement-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Enforcement-2020-คู่ระห่ำ-ฝ่าโซนเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cf529cff0f22af275dfd4971fd4318c0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cf529cff0f22af275dfd4971fd4318c0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Enforcement-2020-คู่ระห่ำ-ฝ่าโซนเดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Becky (2020) เบ็คกี้ นังหนูโหดสู้ท้าโจร",
-    "url": "https://lk-hdx.com/becky-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Becky-2020-เบ็คกี้-นังหนูโหดสู้ท้าโจร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fd4d63f43b5499038bf464b12de58822/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fd4d63f43b5499038bf464b12de58822"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Becky-2020-เบ็คกี้-นังหนูโหดสู้ท้าโจร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Target Number One (2020) ปฏิบัติการฉาว เป้าหมายหมายเลขหนึ่ง",
-    "url": "https://lk-hdx.com/target-number-one/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Target-Number-One-2020-ปฏิบัติการฉาว-เป้าหมายหมายเลขหนึ่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/679cda4a0e3222d381c7b78038e3e32b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/679cda4a0e3222d381c7b78038e3e32b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Target-Number-One-2020-ปฏิบัติการฉาว-เป้าหมายหมายเลขหนึ่ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sky High (2020) ชีวิตเฉียดฟ้า",
-    "url": "https://lk-hdx.com/sky-high-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Sky-High-2020-ชีวิตเฉียดฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7CqKVoX_GY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Sky-High-2020-ชีวิตเฉียดฟ้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Occupant (2020) บ้าน ซ่อน แอบ",
-    "url": "https://lk-hdx.com/the-occupant-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Occupant-2020-บ้าน-ซ่อน-แอบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e2b74bf64dee826c820c04bb399a3313/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e2b74bf64dee826c820c04bb399a3313"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Occupant-2020-บ้าน-ซ่อน-แอบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Willy’s Wonderland (2021) หุ่นนรก VS ภารโรงคลั่ง",
-    "url": "https://lk-hdx.com/willys-wonderland-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Willys-Wonderland-2021-หุ่นนรก-VS-ภารโรงคลั่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db358f3102722526dfa258f28bc68278/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db358f3102722526dfa258f28bc68278"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Willys-Wonderland-2021-หุ่นนรก-VS-ภารโรงคลั่ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Untold Deal With The Devil (2021) สัญญาปีศาจ",
-    "url": "https://lk-hdx.com/untold-deal-with-the-devil-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Untold-Deal-With-The-Devil-2021-สัญญาปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/91d8dbeb15db3ce261bd3e5769773b5e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/91d8dbeb15db3ce261bd3e5769773b5e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Untold-Deal-With-The-Devil-2021-สัญญาปีศาจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Flight Risk (2022) เที่ยวบินมหาภัย",
-    "url": "https://lk-hdx.com/flight-risk-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Flight-Risk-2022-เที่ยวบินมหาภัย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d90182cd5583ce73edbe34126244c4b7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d90182cd5583ce73edbe34126244c4b7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Flight-Risk-2022-เที่ยวบินมหาภัย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Vesper (2022) เวสเปอร์ ฝ่าโลกเหนือโลก",
-    "url": "https://lk-hdx.com/vesper-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Vesper-2022-เวสเปอร์-ฝ่าโลกเหนือโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bd1590413f97a4d204e1fa423d52d796/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bd1590413f97a4d204e1fa423d52d796"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Vesper-2022-เวสเปอร์-ฝ่าโลกเหนือโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Titanic 666 (2022) ไททานิค 666",
-    "url": "https://lk-hdx.com/titanic-666-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Titanic-666-2022-ไททานิค-666-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a4eca410c5846fe761fe43f447540612/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a4eca410c5846fe761fe43f447540612"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Titanic-666-2022-ไททานิค-666-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Lair (2022) เขมือบล้างนรก",
-    "url": "https://lk-hdx.com/the-lair-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Lair-2022-เขมือบล้างนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf041585e17132b7b60f1658518b2cc0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf041585e17132b7b60f1658518b2cc0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Lair-2022-เขมือบล้างนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Spirit Halloween The Movie (2022) วิญญาณฮาโลวีน",
-    "url": "https://lk-hdx.com/spirit-halloween-the-movie-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Spirit-Halloween-The-Movie-2022-วิญญาณฮาโลวีน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/77ad826d74c788d996b163da30b9d399/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/77ad826d74c788d996b163da30b9d399"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Spirit-Halloween-The-Movie-2022-วิญญาณฮาโลวีน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hostage (2021)",
-    "url": "https://lk-hdx.com/hostage-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Hostage-2021-ฝ่านรกชิงตัวประกัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8224c799bb551c87fddb8bf436572284/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8224c799bb551c87fddb8bf436572284"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Hostage-2021-ฝ่านรกชิงตัวประกัน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Girls to Buy (2021) ผู้หญิงบริการสุข",
-    "url": "https://lk-hdx.com/girls-to-buy-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Girls-to-Buy-2021-ผู้หญิงบริการสุข-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/04b09066241087d4b06cdbd1c59dc640/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/04b09066241087d4b06cdbd1c59dc640"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Girls-to-Buy-2021-ผู้หญิงบริการสุข-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Get the Grift (2021) ครอบครัวจอมตุ๋น",
-    "url": "https://lk-hdx.com/get-the-grift-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-the-Grift-2021-ครอบครัวจอมตุ๋น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/230b7d49fea6440994eb778aa7982889/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/230b7d49fea6440994eb778aa7982889"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-the-Grift-2021-ครอบครัวจอมตุ๋น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jarhead 4 Law of Return (2019) จาร์เฮด พลระห่ำสงครามนรก ภาค 4",
