@@ -56829,153 +56829,449 @@
   },
   {
     "title": "Love Hard (2021) หลอกรักไว้ดักเลิฟ",
-    "url": "https://lk-hdx.com/love-hard-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-Hard-2021-หลอกรักไว้ดักเลิฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4c097cd1d35ae0bdeb96c766006f7df/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4c097cd1d35ae0bdeb96c766006f7df"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-Hard-2021-หลอกรักไว้ดักเลิฟ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kate (2021) เคท",
-    "url": "https://lk-hdx.com/kate-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kate-2021-เคท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9407b15c9171c4b54e5413f9ce1d2b98/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9407b15c9171c4b54e5413f9ce1d2b98"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kate-2021-เคท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Intrusion (2021) ผู้บุกรุก",
-    "url": "https://lk-hdx.com/intrusion-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Intrusion-2021-ผู้บุกรุก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/af27fcade46441e7c88de868af8c5b3b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/af27fcade46441e7c88de868af8c5b3b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Intrusion-2021-ผู้บุกรุก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The After (2023) ดิ อาฟเตอร์",
-    "url": "https://lk-hdx.com/the-after-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-After-2023-ดิ-อาฟเตอร์-ซับไทย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d85fa52d75e57c03205d762b9d1fd5c2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d85fa52d75e57c03205d762b9d1fd5c2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-After-2023-ดิ-อาฟเตอร์-ซับไทย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Burning Betrayal (2023) ไฟทรยศ",
-    "url": "https://lk-hdx.com/burning-betrayal-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d398003b6f14d170808e53080f9cb805/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d398003b6f14d170808e53080f9cb805"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shrapnel (2023)",
-    "url": "https://lk-hdx.com/shrapnel-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Shrapnel-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1020681d8eba25f8512bc77ee87cfc13/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1020681d8eba25f8512bc77ee87cfc13"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Shrapnel-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Moxie (2021) ม็อกซี่",
-    "url": "https://lk-hdx.com/moxie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Moxie-2021-ม็อกซี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/443bac7637fd0b3e4e5c53d94d63bd6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/443bac7637fd0b3e4e5c53d94d63bd6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Moxie-2021-ม็อกซี่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nightbooks (2021) ไนต์บุ๊คส์",
-    "url": "https://lk-hdx.com/nightbooks-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nightbooks-2021-ไนต์บุ๊คส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4c5a1bba39f77eebff426b13c508d89/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4c5a1bba39f77eebff426b13c508d89"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nightbooks-2021-ไนต์บุ๊คส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Night Teeth (2021) เขี้ยวราตรี",
-    "url": "https://lk-hdx.com/night-teeth-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-Teeth-2021-เขี้ยวราตรี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cee949093034a77c71d993c3f2e928e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cee949093034a77c71d993c3f2e928e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-Teeth-2021-เขี้ยวราตรี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Puff Wonders of the Reef (2021) พัฟฟ์ มหัศจรรย์แห่งปะการัง",
-    "url": "https://lk-hdx.com/puff-wonders-of-the-reef-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Puff-Wonders-of-the-Reef-2021-พัฟฟ์-มหัศจรรย์แห่งปะการัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/93dea6db909e9ccb33275dcb5d8399f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/93dea6db909e9ccb33275dcb5d8399f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Puff-Wonders-of-the-Reef-2021-พัฟฟ์-มหัศจรรย์แห่งปะการัง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Resort to Love (2021) รีสอร์ตรัก",
-    "url": "https://lk-hdx.com/resort-to-love-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Resort-to-Love-2021-รีสอร์ตรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d03b2120401a2a80839166f93a20abe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d03b2120401a2a80839166f93a20abe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Resort-to-Love-2021-รีสอร์ตรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hero Dog The Journey Home (2021) ฮีโรด็อก การเดินทางกลับบ้าน",
-    "url": "https://lk-hdx.com/hero-dog-the-journey-home-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hero-Dog-The-Journey-Home-2021-ฮีโรด็อก-การเดินทางกลับบ้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d6d6864d5fb74a59e27bb1ed9ba2c37f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d6d6864d5fb74a59e27bb1ed9ba2c37f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hero-Dog-The-Journey-Home-2021-ฮีโรด็อก-การเดินทางกลับบ้าน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "OSS 117 From Africa with Love (2021)",
-    "url": "https://lk-hdx.com/oss-117-from-africa-with-love-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/OSS-117-From-Africa-with-Love-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e198d4dec5a9a350c3a4ebd70f32ce2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e198d4dec5a9a350c3a4ebd70f32ce2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/OSS-117-From-Africa-with-Love-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nightmare Alley (2021) ทางฝันร้าย สายมายา",
-    "url": "https://lk-hdx.com/nightmare-alley-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nightmare-Alley-2021-ทางฝันร้าย-สายมายา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c23d75febc34eb91db6bca6be30c5caa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c23d75febc34eb91db6bca6be30c5caa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nightmare-Alley-2021-ทางฝันร้าย-สายมายา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Major Grom Plague Doctor (2021) ฮีโร่ปราบวายร้าย",
-    "url": "https://lk-hdx.com/major-grom-plague-doctor-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Major-Grom-Plague-Doctor-2021-ฮีโร่ปราบวายร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7fc136d70753fa71bc64a0c4d8014d38/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7fc136d70753fa71bc64a0c4d8014d38"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Major-Grom-Plague-Doctor-2021-ฮีโร่ปราบวายร้าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Long Weekend (2021)",
-    "url": "https://lk-hdx.com/long-weekend-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Long-Weekend-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9663497089f8c3a62fe2498275094354/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9663497089f8c3a62fe2498275094354"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Long-Weekend-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Land (2021) แดนก้าวผ่าน",
-    "url": "https://lk-hdx.com/land-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Land-2021-แดนก้าวผ่าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7412bb6a07cb95f18c3ba205e70b5a24/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7412bb6a07cb95f18c3ba205e70b5a24"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Land-2021-แดนก้าวผ่าน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Power of the Dog (2021)",
-    "url": "https://lk-hdx.com/the-power-of-the-dog-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Power-of-the-Dog-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ejcSt_dWsX"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Power-of-the-Dog-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Skater Girl (2021) สเก็ตติดฝันสู่วันใหม่",
-    "url": "https://lk-hdx.com/skater-girl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Skater-Girl-2021-สเก็ตติดฝันสู่วันใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/074d033a952431ead3ad70ab6bb6b54a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/074d033a952431ead3ad70ab6bb6b54a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Skater-Girl-2021-สเก็ตติดฝันสู่วันใหม่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sweet Girl (2021) สวีทเกิร์ล",
-    "url": "https://lk-hdx.com/sweet-girl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sweet-Girl-2021-สวีทเกิร์ล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0f38f6183b4062ae47356b390f0a8a8a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f38f6183b4062ae47356b390f0a8a8a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sweet-Girl-2021-สวีทเกิร์ล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "SAS Rise of the Black Swan (2021) หงส์ดำผงาด",
-    "url": "https://lk-hdx.com/sas-rise-of-the-black-swan-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/SAS-Rise-of-the-Black-Swan-2021-หงส์ดำผงาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/458b0cb8d6a6872aa1f8b778884be723/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/458b0cb8d6a6872aa1f8b778884be723"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/SAS-Rise-of-the-Black-Swan-2021-หงส์ดำผงาด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shiny Flakes The Teenage Drug Lord (2021) ชายนี่ เฟลคส์ เจ้าพ่อยาวัยรุ่น",
-    "url": "https://lk-hdx.com/shiny-flakes-the-teenage-drug-lord-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Shiny-Flakes-The-Teenage-Drug-Lord-2021-ชายนี่-เฟลคส์-เจ้าพ่อยาวัยรุ่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df6ce97545fcdada4a66ea88d17bba28/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df6ce97545fcdada4a66ea88d17bba28"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Shiny-Flakes-The-Teenage-Drug-Lord-2021-ชายนี่-เฟลคส์-เจ้าพ่อยาวัยรุ่น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Single All the Way (2021) ซิงเกิ้ล ออล เดอะ เวย์",
-    "url": "https://lk-hdx.com/single-all-the-way-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Single-All-the-Way-2021-ซิงเกิ้ล-ออล-เดอะ-เวย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e54dc67c5f195d103bdcd6d0cffe3b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e54dc67c5f195d103bdcd6d0cffe3b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Single-All-the-Way-2021-ซิงเกิ้ล-ออล-เดอะ-เวย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Other Zoey (2023) โซอี้ที่รัก",
-    "url": "https://lk-hdx.com/the-other-zoey-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Other-Zoey-2023-โซอี้ที่รัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/31e945a878e825289142c4292c8ba309/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/31e945a878e825289142c4292c8ba309"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Other-Zoey-2023-โซอี้ที่รัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Silver Dollar Road (2023)",
-    "url": "https://lk-hdx.com/silver-dollar-road-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Silver-Dollar-Road-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9470b4f38e7754bb2ea17af737e00477/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9470b4f38e7754bb2ea17af737e00477"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Silver-Dollar-Road-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Awareness (2023) ความจริงเป็นเพียงสิ่งลวง",
-    "url": "https://lk-hdx.com/awareness-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Awareness-2023-ความจริงเป็นเพียงสิ่งลวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e306bf8bdffd7e46e2743f13c532c50/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e306bf8bdffd7e46e2743f13c532c50"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Awareness-2023-ความจริงเป็นเพียงสิ่งลวง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Slumber Party (2023)",
-    "url": "https://lk-hdx.com/the-slumber-party-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Slumber-Party-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/04cfe56639410d08177382da6dfa0fa1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/04cfe56639410d08177382da6dfa0fa1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Slumber-Party-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Escape Room 2 Tournament of Champions (2021) กักห้อง เกมโหด ภาค 2 กลับสู่เกมสยอง",
-    "url": "https://lk-hdx.com/escape-room-2-tournament-of-champions-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Room-2-Tournament-of-Champions-2021-กักห้อง-เกมโหด-ภาค-2-กลับสู่เกมสยอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b3931463a04b25323aee651aa74c39dd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b3931463a04b25323aee651aa74c39dd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Room-2-Tournament-of-Champions-2021-กักห้อง-เกมโหด-ภาค-2-กลับสู่เกมสยอง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Escape Room 1 (2019) กักห้อง เกมโหด ภาค 1",
-    "url": "https://lk-hdx.com/escape-room-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Room-1-2019-กักห้อง-เกมโหด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8b0e109f80a11fa75a2738f339e4a175/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b0e109f80a11fa75a2738f339e4a175"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Room-1-2019-กักห้อง-เกมโหด-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Hitman’s Bodyguard (2017) แสบ ซ่าส์ แบบว่าบอดี้การ์ด ภาค 1",
-    "url": "https://lk-hdx.com/the-hitmans-bodyguard-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hitmans-Bodyguard-2017-แสบ-ซ่าส์-แบบว่าบอดี้การ์ด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53be7570fac9dfae7897b92468ae27ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53be7570fac9dfae7897b92468ae27ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hitmans-Bodyguard-2017-แสบ-ซ่าส์-แบบว่าบอดี้การ์ด-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nobody Sleeps in the Woods Tonight 2 (2021) คืนผวาป่าไร้เงา 2",
