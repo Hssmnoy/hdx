@@ -2590,152 +2590,436 @@
   {
     "title": "A Very Jonas Christmas Movie (2025)",
     "url": "https://lk-hdx.com/a-very-jonas-christmas-movie-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/A-Very-Jonas-Christmas-Movie-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/A-Very-Jonas-Christmas-Movie-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/0dc09a10b9c9ed57f729589f453d85aa"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/0dc09a10b9c9ed57f729589f453d85aa/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Gunslingers (2025) มือปืนล้างนรก",
     "url": "https://lk-hdx.com/gunslingers-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Gunslingers-2025-มือปืนล้างนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Gunslingers-2025-มือปืนล้างนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/82770824093c12079c3c6052783def4b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/82770824093c12079c3c6052783def4b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "13 Hours (2016) 13 ชม ทหารลับแห่งเบนกาซี",
     "url": "https://lk-hdx.com/13-hours-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/13-Hours-2016-13-ชม-ทหารลับแห่งเบนกาซี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/13-Hours-2016-13-ชม-ทหารลับแห่งเบนกาซี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/da580a6444e869a02514cb3c60b0e0ae"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/da580a6444e869a02514cb3c60b0e0ae/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Merry Little Ex-Mas (2025) คริสต์มาสป่วนรัก | Netflix",
     "url": "https://lk-hdx.com/a-merry-little-ex-mas-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/A-Merry-Little-Ex-Mas-2025-คริสต์มาสป่วนรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/A-Merry-Little-Ex-Mas-2025-คริสต์มาสป่วนรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/e0c9033dc6c73d2d271bd5ccf93657ed"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/e0c9033dc6c73d2d271bd5ccf93657ed/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Last Witch Hunter (2015) เพชรฆาตแม่มด",
     "url": "https://lk-hdx.com/the-last-witch-hunter-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Last-Witch-Hunter-2015-เพชรฆาตแม่มด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Last-Witch-Hunter-2015-เพชรฆาตแม่มด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/25b5ba1555e0ec2f271eff9a5ec9db93"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/25b5ba1555e0ec2f271eff9a5ec9db93/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Groom & Two Brides (2025) หนึ่งเจ้าบ่าว สองเจ้าสาว",
     "url": "https://lk-hdx.com/groom-two-brides-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Groom-Two-Brides-2025-หนึ่งเจ้าบ่าว-สองเจ้าสาว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Groom-Two-Brides-2025-หนึ่งเจ้าบ่าว-สองเจ้าสาว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/ea241b81d8361e56b8e000b3be5af1a3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/ea241b81d8361e56b8e000b3be5af1a3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Stranger in My Home (2025) คนแปลกหน้าในบ้านฉัน",
     "url": "https://lk-hdx.com/the-stranger-in-my-home-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Stranger-in-My-Home-2025-คนแปลกหน้าในบ้านฉัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Stranger-in-My-Home-2025-คนแปลกหน้าในบ้านฉัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/6d08c9cd9404fe073bc2bffdb7876348"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/6d08c9cd9404fe073bc2bffdb7876348/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Smashing Machine (2025) ตำนานเครื่องจักร สังเวียนเดือด",
     "url": "https://lk-hdx.com/the-smashing-machine-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Smashing-Machine-2025-ตำนานเครื่องจักร-สังเวียนเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Smashing-Machine-2025-ตำนานเครื่องจักร-สังเวียนเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/70bb78e13f60cf0191776ce7b3f7fade"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/70bb78e13f60cf0191776ce7b3f7fade/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mango (2025) รักนี้เกิดที่สวนมะม่วง",
     "url": "https://lk-hdx.com/mango-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Mango-2025-รักนี้เกิดที่สวนมะม่วง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Mango-2025-รักนี้เกิดที่สวนมะม่วง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/44de2befa361a8714614c200bbf0fb09"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/44de2befa361a8714614c200bbf0fb09/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Tyler Perrys Finding Joy (2025) พาใจไปหาจอย",
     "url": "https://lk-hdx.com/tyler-perrys-finding-joy-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Tyler-Perrys-Finding-Joy-2025-พาใจไปหาจอย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Tyler-Perrys-Finding-Joy-2025-พาใจไปหาจอย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/37bb33bb254c8c9cd479919dd07bb3eb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/37bb33bb254c8c9cd479919dd07bb3eb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Frankenstein (2025) แฟรงเกนสไตน์",
     "url": "https://lk-hdx.com/frankenstein-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Frankenstein-2025-แฟรงเกนสไตน์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Frankenstein-2025-แฟรงเกนสไตน์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/68cb582d5aad179a1d74ba1e6f9d0bf3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/68cb582d5aad179a1d74ba1e6f9d0bf3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bambi The Reckoning (2025) ดูหนัง แบมบี้",
     "url": "https://lk-hdx.com/bambi-the-reckoning-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Bambi-The-Reckoning-2025-แบมบี้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Bambi-The-Reckoning-2025-แบมบี้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/32f444a3cbebd90debc9710ddf14d6cf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/32f444a3cbebd90debc9710ddf14d6cf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Fantastic Four First Steps เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐมบทใหม่ ",
     "url": "https://lk-hdx.com/the-fantastic-four-first-steps-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/zQJiiZRIh_"
+      }
+    ]
   },
   {
     "title": "Black Phone 2 (2025) สายหลอน ซ่อนวิญญาณ ภาค 2",
     "url": "https://lk-hdx.com/black-phone-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Black-Phone-2-2025-สายหลอน-ซ่อนวิญญาณ-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Black-Phone-2-2025-สายหลอน-ซ่อนวิญญาณ-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/5945a88c774380506de9b6b84c296674"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/5945a88c774380506de9b6b84c296674/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Black Phone (2022) สายหลอน ซ่อนวิญญาณ",
     "url": "https://lk-hdx.com/the-black-phone-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Black-Phone-2022-สายหลอน-ซ่อนวิญญาณ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Black-Phone-2022-สายหลอน-ซ่อนวิญญาณ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fa6bcd410ba1e3cb735f64ee8c2c040a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fa6bcd410ba1e3cb735f64ee8c2c040a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ท่องแดนจักรกล (2025) The Electric State",
     "url": "https://lk-hdx.com/the-electric-state-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ท่องแดนจักรกล-2025-The-Electric-State-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ท่องแดนจักรกล-2025-The-Electric-State-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dfa001c450d1bbb9398fbff2c0453e46"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dfa001c450d1bbb9398fbff2c0453e46/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Legion (2010) สงครามเทวาล้างนรก",
     "url": "https://lk-hdx.com/legion-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Legion-2010-สงครามเทวาล้างนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Legion-2010-สงครามเทวาล้างนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/v5gw_oksG8"
+      }
+    ]
   },
   {
     "title": "Ballad of a Small Player (2025) อดีตที่ตามไล่ล่า",
     "url": "https://lk-hdx.com/ballad-of-a-small-player-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Ballad-of-a-Small-Player-2025-อดีตที่ตามไล่ล่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Ballad-of-a-Small-Player-2025-อดีตที่ตามไล่ล่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/4f83ee7bdd70365c99473a0302b15b65"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/4f83ee7bdd70365c99473a0302b15b65/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Consecration (2023)",
     "url": "https://lk-hdx.com/consecration-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Consecration-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Consecration-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/a919d1204350ec1a45d51d84144bba5c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/a919d1204350ec1a45d51d84144bba5c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "After Earth (2013) สยองโลกร้างปี",
     "url": "https://lk-hdx.com/after-earth-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/After-Earth-2013-สยองโลกร้างปี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/After-Earth-2013-สยองโลกร้างปี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e5cc5b5d15757781f10ddd0d2beb4a5f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e5cc5b5d15757781f10ddd0d2beb4a5f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Curse of the Necklace (2024)",
     "url": "https://lk-hdx.com/the-curse-of-the-necklace-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Curse-of-the-Necklace-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Curse-of-the-Necklace-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/b4cf2813c636ca2dbd065a1f7c3453a6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/b4cf2813c636ca2dbd065a1f7c3453a6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Great Wall (2016) เดอะ เกรท วอลล์",
     "url": "https://lk-hdx.com/the-great-wall-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Great-Wall-2016-เดอะ-เกรท-วอลล์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Great-Wall-2016-เดอะ-เกรท-วอลล์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/44646979d43bfbc59f0e33b5492785a0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/44646979d43bfbc59f0e33b5492785a0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A House of Dynamite (2025) ยุทธศาสตร์ อำนาจ ล้างโลก",
     "url": "https://lk-hdx.com/a-house-of-dynamite-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/A-House-of-Dynamite-2025-ยุทธศาสตร์-อำนาจ-ล้างโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/A-House-of-Dynamite-2025-ยุทธศาสตร์-อำนาจ-ล้างโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/a850c286bf89fb96916436543419c702"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/a850c286bf89fb96916436543419c702/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Woman in the Yard (2025) วิปลาสหลอนตาย",
     "url": "https://lk-hdx.com/the-woman-in-the-yard-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Woman-in-the-Yard-2025-วิปลาสหลอนตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Woman-in-the-Yard-2025-วิปลาสหลอนตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/bc2fe9f4ac414b9a5decc3249e331ddd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/bc2fe9f4ac414b9a5decc3249e331ddd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Osiris (2025) มฤตยูล้างพันธุ์มนุษย์",
     "url": "https://lk-hdx.com/osiris/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Osiris-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Osiris-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/d9caa9869ad5c1caa7653ffc4c1cd9cd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/d9caa9869ad5c1caa7653ffc4c1cd9cd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Imaginary (2024) ตุ๊กตาซาตาน",
     "url": "https://lk-hdx.com/imaginary-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Imaginary-2024-ตุ๊กตาซาตาน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Imaginary-2024-ตุ๊กตาซาตาน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/khOB_UE1Ei"
+      }
+    ]
   },
   {
     "title": "Our Fault (2025) คำขอโทษ 3",
     "url": "https://lk-hdx.com/our-fault-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Our-Fault-2025-คำขอโทษ-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Our-Fault-2025-คำขอโทษ-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/d1b11cc8cc89c990ad04f518f02974b3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/d1b11cc8cc89c990ad04f518f02974b3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "คำขอโทษ 2 (2024) Your Fault",
     "url": "https://lk-hdx.com/your-fault-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/คำขอโทษ-2-2024-Your-Fault-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/คำขอโทษ-2-2024-Your-Fault-165x248.webp",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/R_P09LMIC6"
+      }
+    ]
   },
   {
     "title": "My Fault (2023) คำขอโทษ",
     "url": "https://lk-hdx.com/my-fault-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Fault-2023-คำขอโทษ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Fault-2023-คำขอโทษ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/32da4b11042ced1639495c2f32d4baca"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/32da4b11042ced1639495c2f32d4baca/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Drop (2025) รับคำสั่งตายไวโอเล็ต",
     "url": "https://lk-hdx.com/drop-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตายไวโอเล็ต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตายไวโอเล็ต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/276cd5be89391cde5d845f292f15dfce"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/276cd5be89391cde5d845f292f15dfce/master.m3u8"
+      }
+    ]
   },
   {
     "title": "27 Nights 27 คืน (Netflix 2025)",
