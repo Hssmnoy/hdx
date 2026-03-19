@@ -3043,153 +3043,421 @@
   },
   {
     "title": "The Incredible Monk 3 (2019) จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค 3",
-    "url": "https://lk-hdx.com/the-incredible-monk-3-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/e9qR_jekfK"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Incredible Monk 2 Dragon Return (2018) จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค 2",
-    "url": "https://lk-hdx.com/the-incredible-monk-dragon-return-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-2-Dragon-Return-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/j11A_Qh3QP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-2-Dragon-Return-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Incredible Monk (2018) จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค 1",
-    "url": "https://lk-hdx.com/the-incredible-monk-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0672711fb762732965c72a3eab5cc26d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0672711fb762732965c72a3eab5cc26d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "T2 Trainspotting แก๊งเมาแหลก พันธุ์แหกกฎ ภาค 2 (2017)",
-    "url": "https://lk-hdx.com/t2-trainspotting-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/T2-Trainspotting-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7f1febc01c374fe16cb17c5bdf662310/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7f1febc01c374fe16cb17c5bdf662310"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/T2-Trainspotting-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Trainspotting 1 แก๊งเมาแหลก พันธุ์แหกกฎ ภาค 1 (1996)",
-    "url": "https://lk-hdx.com/trainspotting-1-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Trainspotting-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ynYzSHLZ_Q"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Trainspotting-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Twisters (2024) ทวิสเตอร์ส",
-    "url": "https://lk-hdx.com/twisters/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a45524312a8bd004b86f087b13b1558d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a45524312a8bd004b86f087b13b1558d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Gladiator II (2024) แกลดดิเอเตอร์ นักรบผู้กล้า ผ่าแผ่นดินทรราช 2",
-    "url": "https://lk-hdx.com/gladiator-ii-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Gladiator-II-2024-แกลดดิเอเตอร์-นักรบผู้กล้า-ผ่าแผ่นดินทรราช-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/R_zI1m8OdY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Gladiator-II-2024-แกลดดิเอเตอร์-นักรบผู้กล้า-ผ่าแผ่นดินทรราช-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "เดอะ ไลอ้อน คิง 4 (2019) The Lion King 4",
-    "url": "https://lk-hdx.com/the-lion-king-4-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-4-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2a4d02ea478f9f4ae6a73ba2d100f755/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a4d02ea478f9f4ae6a73ba2d100f755"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-4-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "เดอะ ไลอ้อน คิง 3 (2004) The Lion King 3 1/2",
-    "url": "https://lk-hdx.com/the-lion-king-3-1-2-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-3-12-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e300fa20f8a40ea8f9e8f22372099ffc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e300fa20f8a40ea8f9e8f22372099ffc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-3-12-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "เดอะ ไลออน คิง 2 ซิมบ้าเจ้าป่าทรนง (1998) The Lion King 2 Simba’s Pride",
-    "url": "https://lk-hdx.com/the-lion-king-2-simbas-pride-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-2-Simbas-Pride-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9de8bd7af7749cd58f5fa0694e11a1c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9de8bd7af7749cd58f5fa0694e11a1c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-2-Simbas-Pride-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "เดอะ ไลอ้อน คิง 1 (1994) The Lion King 1",
-    "url": "https://lk-hdx.com/the-lion-king-1-1994/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-1-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/gnTXFLy_XD"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lion-King-1-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022) Doctor Strange in the Multiverse of Madness",
-    "url": "https://lk-hdx.com/doctor-strange-in-the-multiverse-of-madness/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-in-the-Multiverse-of-Madness-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a0c19cb4a261911aee95ee55d54c3c6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a0c19cb4a261911aee95ee55d54c3c6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-in-the-Multiverse-of-Madness-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "จอมเวทย์มหากาฬ (2016) Doctor Strange",
-    "url": "https://lk-hdx.com/doctor-strange-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b2ae8d9c8cc42c1b1a6db271b75c7ced/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b2ae8d9c8cc42c1b1a6db271b75c7ced"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ferry 2 (2024) เจ้าพ่อผงาด ภาค 2",
-    "url": "https://lk-hdx.com/ferry-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Ferry-2-2024-เจ้าพ่อผงาด-ภาค-2-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2f7c059fe43d5d7d542cc558829fbf19/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2f7c059fe43d5d7d542cc558829fbf19"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Ferry-2-2024-เจ้าพ่อผงาด-ภาค-2-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Expend4bles (2023) โคตรคนทีมมหากาฬ ภาค 4",
-    "url": "https://lk-hdx.com/expend4bles-2023-%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%ac/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Expend4bles-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cf0f1a94f3cdcb7609c4df55536dece2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cf0f1a94f3cdcb7609c4df55536dece2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Expend4bles-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Avengers Endgame (2019) อเวนเจอร์ เผด็จศึก",
-    "url": "https://lk-hdx.com/avengers-endgame/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Avengers-Endgame-2019-อเวนเจอร์-เผด็จศึก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b79f4aeae5cd78ec2ab8b701b7ae1090/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b79f4aeae5cd78ec2ab8b701b7ae1090"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Avengers-Endgame-2019-อเวนเจอร์-เผด็จศึก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Charlie’s Angels 3 (2019) นางฟ้าชาร์ลี ภาค 3",
-    "url": "https://lk-hdx.com/charlies-angels-3-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Charlies-Angels-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/EXVXpzYme7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Charlies-Angels-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Charlie’s Angels Full Throttle (2003) นางฟ้าชาร์ลี 2 เสน่ห์เข้มทะลุพิกัด",
-    "url": "https://lk-hdx.com/charlies-angels-full-throttle-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Charlies-Angels-Full-Throttle-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d9f840e8ae371f9b33a90ee389257cba/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d9f840e8ae371f9b33a90ee389257cba"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Charlies-Angels-Full-Throttle-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Charlie’s Angels 1 (2000) นางฟ้าชาร์ลี ภาค 1",
-    "url": "https://lk-hdx.com/charlies-angels-1-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Charlies-Angels-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/affa5605e34fe8ddb8512af842377ea4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/affa5605e34fe8ddb8512af842377ea4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Charlies-Angels-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ",
-    "url": "https://lk-hdx.com/bad-boys-ride-or-die/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a6f854ce74e0fdc947c7aed0f13ccbf9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a6f854ce74e0fdc947c7aed0f13ccbf9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Bad Boys for Life (2020) คู่หูขวางนรก ตลอดกาล",
-    "url": "https://lk-hdx.com/bad-boys-for-life-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bad-Boys-for-Life-2020-คู่หูขวางนรก-ตลอดกาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/975f7b3c953be37f79abc81bdad45d17/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/975f7b3c953be37f79abc81bdad45d17"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Bad-Boys-for-Life-2020-คู่หูขวางนรก-ตลอดกาล-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Bad Boys 2 (2003) แบดบอยส์ คู่หูขวางนรก ภาค 2",
-    "url": "https://lk-hdx.com/bad-boys-2-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Bad-Boys-2-2003-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/68a43a48762e83d56d2baf366368fe42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/68a43a48762e83d56d2baf366368fe42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Bad-Boys-2-2003-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Bad Boys 1 (1995) แบดบอยส์ คู่หูขวางนรก ภาค 1",
-    "url": "https://lk-hdx.com/bad-boys-1/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Bad-Boys-1-1995-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/IZzAqqNC4_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Bad-Boys-1-1995-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lilo & Stitch 2 (2005) ลีโล่ แอนด์ สติทช์ 2 ตอนฉันรักนายเจ้าสติทช์ตัวร้าย",
-    "url": "https://lk-hdx.com/lilo-stitch-2-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Lilo-Stitch-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/01116ef704f2da6246218358014562b2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01116ef704f2da6246218358014562b2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Lilo-Stitch-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lilo And Stitch (2002) ลีโล่ แอนด์ สติทซ์",
-    "url": "https://lk-hdx.com/lilo-and-stitch-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Lilo-And-Stitch-2002-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/03a2c47680c28f337550b955d01393e0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/03a2c47680c28f337550b955d01393e0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Lilo-And-Stitch-2002-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Taken 3 (2014) เทคเคน ภาค 3 ฅนคมล่าไม่ยั้ง",
-    "url": "https://lk-hdx.com/taken-3-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Taken-3-2014-เทคเคน-ภาค-3-ฅนคมล่าไม่ยั้ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d9cff5193825c92b31b0184bb45f321/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d9cff5193825c92b31b0184bb45f321"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Taken-3-2014-เทคเคน-ภาค-3-ฅนคมล่าไม่ยั้ง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Goosebumps 2 (2018) คืนอัศจรรย์ขนหัวลุก ภาค 2 หุ่นฝังแค้น",
-    "url": "https://lk-hdx.com/goosebumps-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Goosebumps-2-2018-คืนอัศจรรย์ขนหัวลุก-ภาค-2-หุ่นฝังแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8930be546174645397a80a381ea56e1f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8930be546174645397a80a381ea56e1f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Goosebumps-2-2018-คืนอัศจรรย์ขนหัวลุก-ภาค-2-หุ่นฝังแค้น-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Goosebumps 1 (2015) คืนอัศจรรย์ขนหัวลุก ภาค 1",
-    "url": "https://lk-hdx.com/goosebumps-1-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Goosebumps-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jRxZWD_ICa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Goosebumps-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Barbie in a Mermaid Tale 2 บาร์บี้ เงือกน้อยผู้น่ารัก ภาค 2",
-    "url": "https://lk-hdx.com/barbie-in-a-mermaid-tale-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Barbie-in-a-Mermaid-Tale-2-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c3cb7db554b3b27481b95ddb0949b5f3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c3cb7db554b3b27481b95ddb0949b5f3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Barbie-in-a-Mermaid-Tale-2-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Barbie in a Mermaid Tale 1 บาร์บี้ เงือกน้อยผู้น่ารัก ภาค 1",
-    "url": "https://lk-hdx.com/barbie-in-a-mermaid-tale-1/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Barbie-in-a-Mermaid-Tale-1-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbb0a786a66370f06313eaf8bbbbb960/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbb0a786a66370f06313eaf8bbbbb960"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Barbie-in-a-Mermaid-Tale-1-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Batman Year One (2011) ศึกอัศวินแบทแมน ปี 1",
