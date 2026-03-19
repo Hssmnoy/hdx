@@ -4321,153 +4321,433 @@
   },
   {
     "title": "On the Line (2021)",
-    "url": "https://lk-hdx.com/on-the-line-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/On-the-Line-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5aca8aefc171b22ca986ab410c444b5a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5aca8aefc171b22ca986ab410c444b5a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/On-the-Line-2021-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Suspect (2013) ล้างบัญชีแค้น ล่าตัวบงการ",
-    "url": "https://lk-hdx.com/the-suspect-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Suspect-2013-ล้างบัญชีแค้น-ล่าตัวบงการ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/208908a1dc8c4103cf06b1037ad20197/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/208908a1dc8c4103cf06b1037ad20197"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Suspect-2013-ล้างบัญชีแค้น-ล่าตัวบงการ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Night Owl (2022)",
-    "url": "https://lk-hdx.com/the-night-owl-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Night-Owl-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8d21865b4239e28cc13a5ae1ff58b72/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8d21865b4239e28cc13a5ae1ff58b72"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Night-Owl-2022-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Call (2020) สายตรงต่ออดีต",
-    "url": "https://lk-hdx.com/the-call-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Call-2020-สายตรงต่ออดีต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ba24e8a1c0f0c05cb4ac543b5c80df2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ba24e8a1c0f0c05cb4ac543b5c80df2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Call-2020-สายตรงต่ออดีต-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Concubine (2012) นางวัง บัลลังก์เลือด",
-    "url": "https://lk-hdx.com/the-concubine-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Concubine-2012-นางวัง-บัลลังก์เลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/zIF_INsxHp"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Concubine-2012-นางวัง-บัลลังก์เลือด-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Flu (2013) มหันตภัยไข้หวัดมฤตยู",
-    "url": "https://lk-hdx.com/the-flu-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Flu-2013-มหันตภัยไข้หวัดมฤตยู-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e69211e905b2357ec9486f540280ecf8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e69211e905b2357ec9486f540280ecf8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Flu-2013-มหันตภัยไข้หวัดมฤตยู-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Zombie School (2014) โรงเรียนเดือด ซอมบี้ดุ",
-    "url": "https://lk-hdx.com/zombie-school-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Zombie-School-2014-โรงเรียนเดือด-ซอมบี้ดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/184a186c131a6eab3e97f86043a40ac7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/184a186c131a6eab3e97f86043a40ac7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Zombie-School-2014-โรงเรียนเดือด-ซอมบี้ดุ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Spies (2012) เดอะสปาย สายลับภารกิจสังหาร",
-    "url": "https://lk-hdx.com/the-spies-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Spies-2012-เดอะสปาย-สายลับภารกิจสังหาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1385cd54eec5a5f5d6d2a3738d59cb0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1385cd54eec5a5f5d6d2a3738d59cb0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Spies-2012-เดอะสปาย-สายลับภารกิจสังหาร-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Huntresses (2014) สามพยัคฆ์สาวแห่งโชซอน",
-    "url": "https://lk-hdx.com/the-huntresses-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Huntresses-2014-สามพยัคฆ์สาวแห่งโชซอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66d232a4a7f884fe40cacc9b8a67da03/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66d232a4a7f884fe40cacc9b8a67da03"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Huntresses-2014-สามพยัคฆ์สาวแห่งโชซอน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Little Black Dress (2011) สี่สาวจอมกรี๊ด จี๊ดจ๊าดหลุดโลก",
-    "url": "https://lk-hdx.com/little-black-dress-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Little-Black-Dress-2011-สี่สาวจอมกรี๊ด-จี๊ดจ๊าดหลุดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ImP_Suivhl"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Little-Black-Dress-2011-สี่สาวจอมกรี๊ด-จี๊ดจ๊าดหลุดโลก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Con Artists (2014) ยอดทีมโจรกรรม หักเหลี่ยมปล้น",
-    "url": "https://lk-hdx.com/the-con-artists-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Con-Artists-2014-ยอดทีมโจรกรรม-หักเหลี่ยมปล้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f08c8bdd2253413f8aa7ec781e453cf5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f08c8bdd2253413f8aa7ec781e453cf5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Con-Artists-2014-ยอดทีมโจรกรรม-หักเหลี่ยมปล้น-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "R2B Return To Base (2012) ยุทธการโฉบเหนือฟ้า",
-    "url": "https://lk-hdx.com/r2b-return-to-base-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/R2B-Return-To-Base-2012-ยุทธการโฉบเหนือฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/WLwNJ_HtYk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/R2B-Return-To-Base-2012-ยุทธการโฉบเหนือฟ้า-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Steal My Heart (2013) จิ๊กหัวใจยัยตัวร้าย",
-    "url": "https://lk-hdx.com/steal-my-heart-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Steal-My-Heart-2013-จิ๊กหัวใจยัยตัวร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/74ffb18edd0a6b4ba63c1dc1fa97f3b6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74ffb18edd0a6b4ba63c1dc1fa97f3b6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Steal-My-Heart-2013-จิ๊กหัวใจยัยตัวร้าย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Blackpink Light Up the Sky (2020) แบล็กพิงก์ ไลต์อัพเดอะสกาย",
-    "url": "https://lk-hdx.com/blackpink-light-up-the-sky-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Blackpink-Light-Up-the-Sky-2020-แบล็กพิงก์-ไลต์อัพเดอะสกาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f7c48e513160b6f380b4d3d4c5f5d99f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f7c48e513160b6f380b4d3d4c5f5d99f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Blackpink-Light-Up-the-Sky-2020-แบล็กพิงก์-ไลต์อัพเดอะสกาย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "New World (2013) ปฏิวัติโค่นมาเฟีย",
-    "url": "https://lk-hdx.com/new-world-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/New-World-2013-ปฏิวัติโค่นมาเฟีย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d76f645b5affc50bc204195f8100ccbc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d76f645b5affc50bc204195f8100ccbc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/New-World-2013-ปฏิวัติโค่นมาเฟีย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Sea Fog (2014) ปริศนาหมอกมรณะ",
-    "url": "https://lk-hdx.com/sea-fog-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Sea-Fog-2014-ปริศนาหมอกมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/94a75e73f21c815a727ab273dca56fcb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/94a75e73f21c815a727ab273dca56fcb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Sea-Fog-2014-ปริศนาหมอกมรณะ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Tazza The Hidden Card (2014) สงครามรัก สงครามพนัน เปิดไพ่ตาย",
-    "url": "https://lk-hdx.com/tazza-the-hidden-card-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Tazza-The-Hidden-Card-2014-สงครามรัก-สงครามพนัน-เปิดไพ่ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d1b6e1cdcd29ae47cef7f0f30224616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d1b6e1cdcd29ae47cef7f0f30224616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Tazza-The-Hidden-Card-2014-สงครามรัก-สงครามพนัน-เปิดไพ่ตาย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hindsight (2011) สวยสังหารหักลำมาเฟีย",
-    "url": "https://lk-hdx.com/hindsight-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Hindsight-2011-สวยสังหารหักลำมาเฟีย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_2xZsZiEzB"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Hindsight-2011-สวยสังหารหักลำมาเฟีย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Quick (2011) หยุดเวลาซิ่งระเบิดเมือง",
-    "url": "https://lk-hdx.com/quick-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Quick-2011-หยุดเวลาซิ่งระเบิดเมือง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/400b475a1271494599cb5dd9b5ee2a86/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/400b475a1271494599cb5dd9b5ee2a86"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Quick-2011-หยุดเวลาซิ่งระเบิดเมือง-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Terror Live (2013) ออนแอร์ระทึก เผด็จศึกผู้ก่อการร้าย",
-    "url": "https://lk-hdx.com/the-terror-live-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Terror-Live-2013-ออนแอร์ระทึก-เผด็จศึกผู้ก่อการร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/72086ead21cc7543774ca4750c2730fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/72086ead21cc7543774ca4750c2730fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Terror-Live-2013-ออนแอร์ระทึก-เผด็จศึกผู้ก่อการร้าย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Legend of Mysterious Agents (2016) เจาะเวลาล่าผีดิบ",
-    "url": "https://lk-hdx.com/legend-of-mysterious-agents-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Legend-of-Mysterious-Agents-2016-เจาะเวลาล่าผีดิบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bec19fad4e308570b2e8a4e5b7aaa0b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bec19fad4e308570b2e8a4e5b7aaa0b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Legend-of-Mysterious-Agents-2016-เจาะเวลาล่าผีดิบ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Girl On Bulldozer (2022) สาวบนรถปราบดิน",
-    "url": "https://lk-hdx.com/girl-on-bulldozer-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Girl-On-Bulldozer-2022-สาวบนรถปราบดิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4e0a3cffa49712989f00bffc4056728/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4e0a3cffa49712989f00bffc4056728"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Girl-On-Bulldozer-2022-สาวบนรถปราบดิน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Love My Bride (2014)",
-    "url": "https://lk-hdx.com/my-love-my-bride-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Love-My-Bride-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/839eff7d41400d80e018e7ba71471891/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/839eff7d41400d80e018e7ba71471891"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Love-My-Bride-2014-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Spy Gone North (2018)",
-    "url": "https://lk-hdx.com/the-spy-gone-north-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Spy-Gone-North-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/x0gAcod_H3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Spy-Gone-North-2018-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Badland Hunters (2024) นักล่ากลางนรก",
-    "url": "https://lk-hdx.com/badland-hunters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e3479807e04e4eb7e27d834e44d8591/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e3479807e04e4eb7e27d834e44d8591"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Red Snow Killer (2014) นักฆ่าบริสุทธิ์",
-    "url": "https://lk-hdx.com/red-snow-killer-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Red-Snow-Killer-2014-นักฆ่าบริสุทธิ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4af4021ab1092f65d2a19196ffe0b6c1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4af4021ab1092f65d2a19196ffe0b6c1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Red-Snow-Killer-2014-นักฆ่าบริสุทธิ์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Closet (2020) ตู้นรกไม่ได้ผุดไม่ได้เกิด",
-    "url": "https://lk-hdx.com/the-closet-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Closet-2020-ตู้นรกไม่ได้ผุดไม่ได้เกิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6ad8474f0890edd9a357a97a57e7a6b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6ad8474f0890edd9a357a97a57e7a6b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Closet-2020-ตู้นรกไม่ได้ผุดไม่ได้เกิด-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Manhole (2014) ปริศนาฆาตกรวิปริต",
-    "url": "https://lk-hdx.com/manhole-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Manhole-2014-ปริศนาฆาตกรวิปริต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/52a80dff193416858440b57503d9aa2d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/52a80dff193416858440b57503d9aa2d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Manhole-2014-ปริศนาฆาตกรวิปริต-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Blind (2011) พยานมืดปมมรณะ",
-    "url": "https://lk-hdx.com/blind-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Blind-2011-พยานมืดปมมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/36002a2bf7a5a295493f98f2e0b68cb9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/36002a2bf7a5a295493f98f2e0b68cb9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Blind-2011-พยานมืดปมมรณะ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Mourning Grave (2014) สัมผัสมรณะ",
-    "url": "https://lk-hdx.com/mourning-grave-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Mourning-Grave-2014-สัมผัสมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e5360c2e8605a75feb65f7c65ee8e810/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e5360c2e8605a75feb65f7c65ee8e810"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Mourning-Grave-2014-สัมผัสมรณะ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Svaha The Sixth Finger (2019) สวาหะ ศรัทธามืด",
