@@ -10337,153 +10337,421 @@
   },
   {
     "title": "Bad Education (2023) บทเรียน​ชั่ว",
-    "url": "https://lk-hdx.com/bad-education-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Education-2023-บทเรียน​ชั่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7808acf8291f0a6f9f899b3c640be83b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7808acf8291f0a6f9f899b3c640be83b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Education-2023-บทเรียน​ชั่ว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Dynasty Warriors (2021) ไดนาสตี้วอริเออร์ มหาสงครามขุนศึกสามก๊ก",
-    "url": "https://lk-hdx.com/dynasty-warriors-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dynasty-Warriors-2021-ไดนาสตี้วอริเออร์-มหาสงครามขุนศึกสามก๊ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ar_RycvCvn"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dynasty-Warriors-2021-ไดนาสตี้วอริเออร์-มหาสงครามขุนศึกสามก๊ก-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Heroes Return (2021) มฤตยูใจกลางสมุทร",
-    "url": "https://lk-hdx.com/heroes-return-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Heroes-Return-2021-มฤตยูใจกลางสมุทร-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/pY_tewz7lR"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Heroes-Return-2021-มฤตยูใจกลางสมุทร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Legend of Snake 2 Tai Sui (2021) ตำนานงูขาว ภาค 2",
-    "url": "https://lk-hdx.com/legend-of-snake-2-tai-sui-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Legend-of-Snake-2-Tai-Sui-2021-ตำนานงูขาว-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/63e04c4e768ef140f7272c9e4838df23/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63e04c4e768ef140f7272c9e4838df23"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Legend-of-Snake-2-Tai-Sui-2021-ตำนานงูขาว-ภาค-2-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Legend of Snake 1 (2021) ตำนานงูขาว ภาค 1",
-    "url": "https://lk-hdx.com/legend-of-snake-1-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Legend-of-Snake-1-2021-ตำนานงูขาว-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5511575b73f8db796bb933999740e9d2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5511575b73f8db796bb933999740e9d2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Legend-of-Snake-1-2021-ตำนานงูขาว-ภาค-1-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Come Back Home (2022)",
-    "url": "https://lk-hdx.com/come-back-home-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Come-Back-Home-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ec2a5618868681317433dc877f3fb20f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec2a5618868681317433dc877f3fb20f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Come-Back-Home-2022-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Zhong Kui Exorcism (2022) จงขุย ตำนานเทพอสูร",
-    "url": "https://lk-hdx.com/zhong-kui-exorcism-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Zhong-Kui-Exorcism-2022-จงขุย-ตำนานเทพอสูร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad2bfc4d13b16b6a2d699f40eb93c5a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad2bfc4d13b16b6a2d699f40eb93c5a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Zhong-Kui-Exorcism-2022-จงขุย-ตำนานเทพอสูร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The TaiChi Master (2022) ปรมาจารย์จางซานเฟิง",
-    "url": "https://lk-hdx.com/the-taichi-master-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-TaiChi-Master-2022-ปรมาจารย์จางซานเฟิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/875b3e074f29a6243b41c9c08164ad46/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/875b3e074f29a6243b41c9c08164ad46"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-TaiChi-Master-2022-ปรมาจารย์จางซานเฟิง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Legend of The Condor Heroes The Dragon Tamer (2022) มังกรหยก ศึกชิงคัมภีร์เก้าอิม",
-    "url": "https://lk-hdx.com/the-legend-of-the-condor-heroes-the-dragon-tamer-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Legend-of-The-Condor-Heroes-The-Dragon-Tamer-2022-มังกรหยก-ศึกชิงคัมภีร์เก้าอิม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a9738e8aa66b6d5f39124868b755363b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a9738e8aa66b6d5f39124868b755363b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Legend-of-The-Condor-Heroes-The-Dragon-Tamer-2022-มังกรหยก-ศึกชิงคัมภีร์เก้าอิม-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Strange Door and Dark Blade (2022) ศาสตราวุธลับกับมิติอัศจรรย์",
-    "url": "https://lk-hdx.com/strange-door-and-dark-blade-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Strange-Door-and-Dark-Blade-2022-ศาสตราวุธลับกับมิติอัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7f8e1ff8909927d9824ea74eb11a9a69/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7f8e1ff8909927d9824ea74eb11a9a69"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Strange-Door-and-Dark-Blade-2022-ศาสตราวุธลับกับมิติอัศจรรย์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Red Sparrow (2022) ปฎิบัติการพิทักษ์นกเพลิง",
-    "url": "https://lk-hdx.com/the-red-sparrow-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Red-Sparrow-2022-ปฎิบัติการพิทักษ์นกเพลิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e83d2e0347385dfeb758b23fc1d949aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e83d2e0347385dfeb758b23fc1d949aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Red-Sparrow-2022-ปฎิบัติการพิทักษ์นกเพลิง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "YinYang Painted Skin (2022) พลิกตำนานโปเยโปโลเย",
-    "url": "https://lk-hdx.com/yinyang-painted-skin-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/YinYang-Painted-Skin-2022-พลิกตำนานโปเยโปโลเย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef20d412343c674dc193b97371fc5e24/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef20d412343c674dc193b97371fc5e24"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/YinYang-Painted-Skin-2022-พลิกตำนานโปเยโปโลเย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Mystic Nine Qing Shan Hai Tang (2022) เปิดตํานานเก้าสกุล บีโกเนียรุ่นสุดท้าย",
-    "url": "https://lk-hdx.com/the-mystic-nine-qing-shan-hai-tang-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Mystic-Nine-Qing-Shan-Hai-Tang-2022-เปิดตํานานเก้าสกุล-บีโกเนียรุ่นสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15ead14241617b8f415035e790713fc3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15ead14241617b8f415035e790713fc3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Mystic-Nine-Qing-Shan-Hai-Tang-2022-เปิดตํานานเก้าสกุล-บีโกเนียรุ่นสุดท้าย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Exorcist (2022) นักล่าอสูร",
-    "url": "https://lk-hdx.com/the-exorcist-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Exorcist-2022-นักล่าอสูร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c65615e1f7fb6f766212aafad232771d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c65615e1f7fb6f766212aafad232771d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Exorcist-2022-นักล่าอสูร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Gold Bodyguard (2023) บอดี้การ์ดเหรียญทอง",
-    "url": "https://lk-hdx.com/gold-bodyguard-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gold-Bodyguard-2023-บอดี้การ์ดเหรียญทอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_vG_EBqeZ9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gold-Bodyguard-2023-บอดี้การ์ดเหรียญทอง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Di Renjie Secret Soldier Borrows the Road (2023) ตี๋เหรินเจี๋ย เส้นทางปริศนา",
-    "url": "https://lk-hdx.com/di-renjie-secret-soldier-borrows-the-road-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Di-Renjie-Secret-Soldier-Borrows-the-Road-2023-ตี๋เหรินเจี๋ย-เส้นทางปริศนา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_HDHmiu23w"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Di-Renjie-Secret-Soldier-Borrows-the-Road-2023-ตี๋เหรินเจี๋ย-เส้นทางปริศนา-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Rising Shaolin The Protector (2022) แก็งค์ม่วนป่วนเสี้ยวเล่งยี้",
-    "url": "https://lk-hdx.com/rising-shaolin-the-protector-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Rising-Shaolin-The-Protector-2022-แก็งค์ม่วนป่วนเสี้ยวเล่งยี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c1167d774114ffd0008c751c0a911603/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c1167d774114ffd0008c751c0a911603"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Rising-Shaolin-The-Protector-2022-แก็งค์ม่วนป่วนเสี้ยวเล่งยี้-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Reincarnation Land (2022) อาณาจักรแห่งหยินหยาง",
-    "url": "https://lk-hdx.com/reincarnation-land-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Reincarnation-Land-2022-อาณาจักรแห่งหยินหยาง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/drxlp_noSw"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Reincarnation-Land-2022-อาณาจักรแห่งหยินหยาง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Mega Crocodile 2 (2022) โครตไอ้เข้ ภาค 2",
-    "url": "https://lk-hdx.com/mega-crocodile-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Mega-Crocodile-2-2022-โครตไอ้เข้-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_UnhevEzjh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Mega-Crocodile-2-2022-โครตไอ้เข้-ภาค-2-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Man on the Edge (2022)",
-    "url": "https://lk-hdx.com/man-on-the-edge-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Man-on-the-Edge-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/oog2G_Y_hK"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Man-on-the-Edge-2022-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Monkey King the Bottomless Hole (2022) ไซอิ๋วตะลุยป่วนถ้ำ",
-    "url": "https://lk-hdx.com/monkey-king-the-bottomless-hole-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Monkey-King-the-Bottomless-Hole-2022-ไซอิ๋วตะลุยป่วนถ้ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5b6b24382c9ebe301aab79b13bdf71c4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5b6b24382c9ebe301aab79b13bdf71c4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Monkey-King-the-Bottomless-Hole-2022-ไซอิ๋วตะลุยป่วนถ้ำ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "New Painted Skin (2022) ร่างใหม่",
-    "url": "https://lk-hdx.com/new-painted-skin-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/New-Painted-Skin-2022-ร่างใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d9b207ca76756275967e148a8edd61ea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d9b207ca76756275967e148a8edd61ea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/New-Painted-Skin-2022-ร่างใหม่-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Nine Dragons Mysterious Coffin (2022) ตี๋เหรินเจี๋ยกับโลงศพปริศนา",
-    "url": "https://lk-hdx.com/nine-dragons-mysterious-coffin-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nine-Dragons-Mysterious-Coffin-2022-ตี๋เหรินเจี๋ยกับโลงศพปริศนา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/iy1FdrCED_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nine-Dragons-Mysterious-Coffin-2022-ตี๋เหรินเจี๋ยกับโลงศพปริศนา-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Oolong Courtyard Kung Fu School (2018) กิ๋ว-ก๋า-กิ้ว จิ๋วแต่ตัว",
-    "url": "https://lk-hdx.com/oolong-courtyard-kung-fu-school-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Oolong-Courtyard-Kung-Fu-School-2018-กิ๋ว-ก๋า-กิ้ว-จิ๋วแต่ตัว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ee49d8a55d8ceeec45310983f51fb8ef/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ee49d8a55d8ceeec45310983f51fb8ef"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Oolong-Courtyard-Kung-Fu-School-2018-กิ๋ว-ก๋า-กิ้ว-จิ๋วแต่ตัว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Chronicles of the Ghostly Tribe (2015) อสูรยักษ์แห่งหุบเขามรณะ",
-    "url": "https://lk-hdx.com/chronicles-of-the-ghostly-tribe-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Chronicles-of-the-Ghostly-Tribe-2015-อสูรยักษ์แห่งหุบเขามรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d978ee9dd8ed020332124c62b12f7af3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d978ee9dd8ed020332124c62b12f7af3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Chronicles-of-the-Ghostly-Tribe-2015-อสูรยักษ์แห่งหุบเขามรณะ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Assassin (2015) ประกาศิต หงษ์สังหาร",
-    "url": "https://lk-hdx.com/the-assassin-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Assassin-2015-ประกาศิต-หงษ์สังหาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6967f0214d995be3e338b3bc7309bb8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6967f0214d995be3e338b3bc7309bb8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Assassin-2015-ประกาศิต-หงษ์สังหาร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "One Week Friends (2022) เธอกับฉัน เพื่อนกันหนึ่งสัปดาห์",
-    "url": "https://lk-hdx.com/one-week-friends-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/One-Week-Friends-2022-เธอกับฉัน-เพื่อนกันหนึ่งสัปดาห์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d9687a3814db6aa1cfd8a89486c0ef15/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d9687a3814db6aa1cfd8a89486c0ef15"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/One-Week-Friends-2022-เธอกับฉัน-เพื่อนกันหนึ่งสัปดาห์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Painted Skin (2022) ตำนานรักปีศาจสาว",
-    "url": "https://lk-hdx.com/painted-skin-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Painted-Skin-2022-ตำนานรักปีศาจสาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1110ba73201a5e84b4b321180030556b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1110ba73201a5e84b4b321180030556b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Painted-Skin-2022-ตำนานรักปีศาจสาว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Anita (2021) อนิต้า เสียงนี้ที่โลกต้องรัก",
-    "url": "https://lk-hdx.com/anita-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Anita-2021-อนิต้า-เสียงนี้ที่โลกต้องรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f375a6fcbc890c9e24005df201ffacee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f375a6fcbc890c9e24005df201ffacee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Anita-2021-อนิต้า-เสียงนี้ที่โลกต้องรัก-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Sadness (Ku bei) (2021) โศกคลั่ง",
-    "url": "https://lk-hdx.com/the-sadness-ku-bei-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Sadness-Ku-bei-2021-โศกคลั่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a830a4e37338a02c1c136764949ebbf4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a830a4e37338a02c1c136764949ebbf4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Sadness-Ku-bei-2021-โศกคลั่ง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Kidnapped Soul (2021) วิญญาณที่ถูกลักพาตัว",
