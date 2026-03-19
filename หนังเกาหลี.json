@@ -6753,5 +6753,20 @@
     ],
     "logo": "https://lk-hdx.com/wp-content/uploads/2023/08/Tomorrow-X-Together-Our-Lost-Summer-2023-lk-hd-165x248.jpg",
     "group": "หนังเกาหลี"
+  },
+  {
+    "title": "Tomorrow X Together Our Lost Summer (2023)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e88bdf9dd764c22cc40d65bbb0b97156/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e88bdf9dd764c22cc40d65bbb0b97156"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/08/Tomorrow-X-Together-Our-Lost-Summer-2023-lk-hd-165x248.jpg",
+    "group": "หนังเกาหลี"
   }
 ]
