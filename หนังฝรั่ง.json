@@ -59011,153 +59011,437 @@
   },
   {
     "title": "Johnny English 2 Reborn (2011) พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก ภาค 2 สายลับกลับมาป่วน",
-    "url": "https://lk-hdx.com/johnny-english-2-reborn-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-2-Reborn-2011-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-2-สายลับกลับมาป่วน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3bd5e4a9d3a8f760721cab4d04e1f231/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3bd5e4a9d3a8f760721cab4d04e1f231"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-2-Reborn-2011-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-2-สายลับกลับมาป่วน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Johnny English 1 (2003) พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก ภาค 1",
-    "url": "https://lk-hdx.com/johnny-english-1-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-1-2003-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aab280b884454ec84272f4b9ea18afa6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aab280b884454ec84272f4b9ea18afa6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-1-2003-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Taxi 5 (2018) โคตรแท็กซี่ขับระเบิด",
-    "url": "https://lk-hdx.com/taxi-5-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-5-2018-โคตรแท็กซี่ขับระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0191f54e69c84946688a9697230f7ee8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0191f54e69c84946688a9697230f7ee8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-5-2018-โคตรแท็กซี่ขับระเบิด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Taxi 4 (2007) แท็กซี่ซิ่งระเบิด บ้าระห่ำ",
-    "url": "https://lk-hdx.com/taxi-4-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-4-2007-แท็กซี่ซิ่งระเบิด-บ้าระห่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/317d837fb60207837cf8288a573909ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/317d837fb60207837cf8288a573909ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-4-2007-แท็กซี่ซิ่งระเบิด-บ้าระห่ำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Taxi 3 (2003) แท็กซี่ขับระเบิด",
-    "url": "https://lk-hdx.com/taxi-3-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-3-2003-แท็กซี่ขับระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/faf9671aca8ada1f32fd52f26ea743fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/faf9671aca8ada1f32fd52f26ea743fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-3-2003-แท็กซี่ขับระเบิด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Taxi 2 (2000) แท็กซี่ขับระเบิด",
-    "url": "https://lk-hdx.com/taxi-2-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-2-2000-แท็กซี่ขับระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c1c8eb5aa9f34d02932d2139e0647a2b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c1c8eb5aa9f34d02932d2139e0647a2b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-2-2000-แท็กซี่ขับระเบิด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Taxi 1 (1998) แท็กซี่ระห่ำระเบิด",
-    "url": "https://lk-hdx.com/taxi-1-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-1-1998-แท็กซี่ระห่ำระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e97984cbd05c1b2eb0ceec978224724a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e97984cbd05c1b2eb0ceec978224724a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-1-1998-แท็กซี่ระห่ำระเบิด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด",
-    "url": "https://lk-hdx.com/batman-the-dark-knight-rises-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4936eb75965074e6d526e88c42066f6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4936eb75965074e6d526e88c42066f6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล",
-    "url": "https://lk-hdx.com/batman-the-dark-knight-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73846d78752798e2de8ba37dbb889362/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73846d78752798e2de8ba37dbb889362"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Batman Begins (2005) แบทแมน บีกินส์",
-    "url": "https://lk-hdx.com/batman-begins-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-Begins-2005-แบทแมน-บีกินส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b58839cbedb57e2fc7cf40e83e5f07de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b58839cbedb57e2fc7cf40e83e5f07de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-Begins-2005-แบทแมน-บีกินส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Catcher Was a Spy (2018)",
-    "url": "https://lk-hdx.com/the-catcher-was-a-spy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Catcher-Was-a-Spy-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2c3c4852d59ddfc8b566044b77301b26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c3c4852d59ddfc8b566044b77301b26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Catcher-Was-a-Spy-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "No Surrender (2018) เดี่ยวประจัญบาน",
-    "url": "https://lk-hdx.com/no-surrender-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/No-Surrender-2018-เดี่ยวประจัญบาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/pmPtHw_ItU"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/No-Surrender-2018-เดี่ยวประจัญบาน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "T-34 (2018) ยักษ์เหล็กประจัญบาน",
-    "url": "https://lk-hdx.com/t-34-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/T-34-2018-ยักษ์เหล็กประจัญบาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9ae5c02a1b4a2b3f0dc84e91fbc9d534/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9ae5c02a1b4a2b3f0dc84e91fbc9d534"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/T-34-2018-ยักษ์เหล็กประจัญบาน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Heavy Trip (2018)",
-    "url": "https://lk-hdx.com/heavy-trip-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Heavy-Trip-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/F_4OQGCuyT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Heavy-Trip-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Wrinkle in Time (2018) ย่นเวลาทะลุมิติ",
-    "url": "https://lk-hdx.com/a-wrinkle-in-time-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Wrinkle-in-Time-2018-ย่นเวลาทะลุมิติ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a75e8a654c14943024f7c182d042e2b7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a75e8a654c14943024f7c182d042e2b7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Wrinkle-in-Time-2018-ย่นเวลาทะลุมิติ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Outsiders (2018) ดิ เอาท์ไซเดอร์",
-    "url": "https://lk-hdx.com/the-outsiders-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Outsiders-2018-ดิ-เอาท์ไซเดอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d482bac5d3684dcdbab7af15c6852ea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d482bac5d3684dcdbab7af15c6852ea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Outsiders-2018-ดิ-เอาท์ไซเดอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Hummingbird Project (2018) โปรเจกต์สายรวย",
-    "url": "https://lk-hdx.com/the-hummingbird-project-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hummingbird-Project-2018-โปรเจกต์สายรวย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58bbf1e07ac83213910c458479146519/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58bbf1e07ac83213910c458479146519"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hummingbird-Project-2018-โปรเจกต์สายรวย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Escape Plan 3 The Extractors (2019) แหกคุกมหาประลัย ภาค 3",
-    "url": "https://lk-hdx.com/escape-plan-3-the-extractors-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-3-The-Extractors-2019-แหกคุกมหาประลัย-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_TJavIP5Wq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-3-The-Extractors-2019-แหกคุกมหาประลัย-ภาค-3-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Escape Plan 2 (2018) แหกคุกมหาประลัย ภาค 2",
-    "url": "https://lk-hdx.com/escape-plan-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-2-2018-แหกคุกมหาประลัย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/49ffb8fe38ec3425eca15e2cd5397af8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/49ffb8fe38ec3425eca15e2cd5397af8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-2-2018-แหกคุกมหาประลัย-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Escape Plan 1 (2013) แหกคุกมหาประลัย ภาค 1",
-    "url": "https://lk-hdx.com/escape-plan-1-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-1-2013-แหกคุกมหาประลัย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0df682ec5397f3898a0df154c586fcb7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0df682ec5397f3898a0df154c586fcb7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-1-2013-แหกคุกมหาประลัย-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "City of Lies (2018) ทูพัค บิ๊กกี้ คดีไม่เงียบ",
-    "url": "https://lk-hdx.com/city-of-lies-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/City-of-Lies-2018-ทูพัค-บิ๊กกี้-คดีไม่เงียบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dcd30346974a5fe1763ca807ea036d42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dcd30346974a5fe1763ca807ea036d42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/City-of-Lies-2018-ทูพัค-บิ๊กกี้-คดีไม่เงียบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Scouts Guide to the Zombie Apocalypse (2015) 3 ลูก เสือ ปะทะ ซอมบี้",
-    "url": "https://lk-hdx.com/scouts-guide-to-the-zombie-apocalypse-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Scouts-Guide-to-the-Zombie-Apocalypse-2015-3-ลูก-เสือ-ปะทะ-ซอมบี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6045a3a678efd36940ba1c9aa2a50720/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6045a3a678efd36940ba1c9aa2a50720"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Scouts-Guide-to-the-Zombie-Apocalypse-2015-3-ลูก-เสือ-ปะทะ-ซอมบี้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wild Card (2015) มือฆ่าเอโพดำ",
-    "url": "https://lk-hdx.com/wild-card-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Wild-Card-2015-มือฆ่าเอโพดำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/35dd6c48925815f9627b35c0f6e0a11a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/35dd6c48925815f9627b35c0f6e0a11a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Wild-Card-2015-มือฆ่าเอโพดำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Extinction (2015) เอ็กซ์ทิงชั่น",
-    "url": "https://lk-hdx.com/extinction-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Extinction-2015-เอ็กซ์ทิงชั่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/hSTQs8Bl_U"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Extinction-2015-เอ็กซ์ทิงชั่น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bad Hair Day (2015)",
-    "url": "https://lk-hdx.com/bad-hair-day-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Hair-Day-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6faf26f9edda92a3f09bfcff9e72a805/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6faf26f9edda92a3f09bfcff9e72a805"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Hair-Day-2015-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Bronze (2015)",
-    "url": "https://lk-hdx.com/the-bronze-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Bronze-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/188313947b0524f74b7a8c2759457add/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/188313947b0524f74b7a8c2759457add"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Bronze-2015-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Terminator 6 Dark Fate (2019) คนเหล็ก ภาค 6 วิกฤตชะตาโลก",
-    "url": "https://lk-hdx.com/terminator-6-dark-fate-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-6-Dark-Fate-2019-คนเหล็ก-ภาค-6-วิกฤตชะตาโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9cfd753b18e03a248dd571bb43dc0916/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9cfd753b18e03a248dd571bb43dc0916"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-6-Dark-Fate-2019-คนเหล็ก-ภาค-6-วิกฤตชะตาโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Terminator 5 Genisys (2015) คนเหล็ก ภาค 5 มหาวิบัติจักรกลยึดโลก",
-    "url": "https://lk-hdx.com/terminator-5-genisys-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-5-Genisys-2015-คนเหล็ก-ภาค-5-มหาวิบัติจักรกลยึดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/76b912e2ad079f054fb21672b4bdd45f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/76b912e2ad079f054fb21672b4bdd45f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-5-Genisys-2015-คนเหล็ก-ภาค-5-มหาวิบัติจักรกลยึดโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Terminator 4 Salvation (2009) คนเหล็ก ภาค 4 มหาสงครามจักรกลล้างโลก",
-    "url": "https://lk-hdx.com/terminator-4-salvation-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-4-Salvation-2009-คนเหล็ก-ภาค-4-มหาสงครามจักรกลล้างโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8931d1a72dffaff020b6010d626eb07c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8931d1a72dffaff020b6010d626eb07c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-4-Salvation-2009-คนเหล็ก-ภาค-4-มหาสงครามจักรกลล้างโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Terminator 3 Rise of the Machines (2003) คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร",
-    "url": "https://lk-hdx.com/terminator-3-rise-of-the-machines-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-3-Rise-of-the-Machines-2003-คนเหล็ก-ภาค-3-กำเนิดใหม่เครื่องจักรสังหาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1add21b50acf569dea91e068c8f3a140/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1add21b50acf569dea91e068c8f3a140"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-3-Rise-of-the-Machines-2003-คนเหล็ก-ภาค-3-กำเนิดใหม่เครื่องจักรสังหาร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Terminator 2 Judgment Day (1991) คนเหล็ก ภาค 2 วันพิพากษา",
