@@ -2606,152 +2606,420 @@
   {
     "title": "The Gangster the Cop the Devil แก๊งค์ตำรวจ ปีศาจ (2019)",
     "url": "https://lk-hdx.com/the-gangster-the-cop-the-devil/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Gangster-the-Cop-the-Devil-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Gangster-the-Cop-the-Devil-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/F5vLv2_0se"
+      }
+    ]
   },
   {
     "title": "A Man and a Woman (2016) จูบนั้นฉันจำไม่ลืม",
     "url": "https://lk-hdx.com/a-man-and-a-woman-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Man-and-a-Woman-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Man-and-a-Woman-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cd02fd480ee88798489a0651bfc7e61d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cd02fd480ee88798489a0651bfc7e61d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Spiritwalker (2022) สลับร่าง ล้างบางนรก",
     "url": "https://lk-hdx.com/spiritwalker-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Spiritwalker-2022-สลับร่าง-ล้างบางนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Spiritwalker-2022-สลับร่าง-ล้างบางนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/u_PO5GMYCI"
+      }
+    ]
   },
   {
     "title": "Arahan (2004) อรหันต์ ศึกทะยานฟ้า กวดวิชาถล่มมาร",
     "url": "https://lk-hdx.com/arahan-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Arahan-2004-อรหันต์-ศึกทะยานฟ้า-กวดวิชาถล่มมาร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Arahan-2004-อรหันต์-ศึกทะยานฟ้า-กวดวิชาถล่มมาร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1fd7107b2baac5bdd168a4dd8870a48d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1fd7107b2baac5bdd168a4dd8870a48d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "April Snow (2005) ลิขิตพิศวาส",
     "url": "https://lk-hdx.com/april-snow-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/April-Snow-2005-ลิขิตพิศวาส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/April-Snow-2005-ลิขิตพิศวาส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a9ecc5d2c5edb2b0484a3eadfab44dc3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a9ecc5d2c5edb2b0484a3eadfab44dc3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Boss My Teacher (2006) สั่งเจ้าพ่อไปสอนหนังสือ",
     "url": "https://lk-hdx.com/my-boss-my-teacher-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/My-Boss-My-Teacher-2006-สั่งเจ้าพ่อไปสอนหนังสือ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/My-Boss-My-Teacher-2006-สั่งเจ้าพ่อไปสอนหนังสือ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9fed33d19d42903b7ba968b9a1ab4778"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9fed33d19d42903b7ba968b9a1ab4778/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Girlfriend Is an Agent (2009) แฟนผมเป็นสายลับ",
     "url": "https://lk-hdx.com/my-girlfriend-is-an-agent-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/My-Girlfriend-Is-an-Agent-2009-แฟนผมเป็นสายลับ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/My-Girlfriend-Is-an-Agent-2009-แฟนผมเป็นสายลับ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b6d9c8f58998ef38810583834448086e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b6d9c8f58998ef38810583834448086e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mr Socrates (2005) เก๋าโจ๋พันธุ์ซ่าท้าดวลเจ้าพ่อ",
     "url": "https://lk-hdx.com/mr-socrates-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Mr-Socrates-2005-เก๋าโจ๋พันธุ์ซ่าท้าดวลเจ้าพ่อ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Mr-Socrates-2005-เก๋าโจ๋พันธุ์ซ่าท้าดวลเจ้าพ่อ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/play/c4bab3ee0b69cd7632c496a3d75ed584"
+      }
+    ]
   },
   {
     "title": "Seventeen Tour ‘Follow’ Again to Cinemas (2024)",
     "url": "https://lk-hdx.com/seventeen-tour-follow-again-to-cinemas-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Seventeen-Tour-Follow-Again-to-Cinemas-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Seventeen-Tour-Follow-Again-to-Cinemas-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8333d029f6990530891ea1de25101370"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8333d029f6990530891ea1de25101370/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Murderer (2014)",
     "url": "https://lk-hdx.com/murderer/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Murderer-2014-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Murderer-2014-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/43050944839ffe9cb8f51fc603608354"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/43050944839ffe9cb8f51fc603608354/master.m3u8"
+      }
+    ]
   },
   {
     "title": "1987 When the Day Comes (2017) 1987 อำนาจอธิปไตย",
     "url": "https://lk-hdx.com/1987-when-the-day-comes/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/1987-When-the-Day-Comes-2017-1987-อำนาจอธิปไตย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/1987-When-the-Day-Comes-2017-1987-อำนาจอธิปไตย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c4910b3e30ee48c166fa2ed08aa8bad9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c4910b3e30ee48c166fa2ed08aa8bad9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Uprising (2024) กบฏผงาดแผ่นดิน",
     "url": "https://lk-hdx.com/uprising-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Uprising-2024-กบฏผงาดแผ่นดิน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Uprising-2024-กบฏผงาดแผ่นดิน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e56b5ba6ee3902bdad89be01bff8e84d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e56b5ba6ee3902bdad89be01bff8e84d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Eighth Sense (2023)",
     "url": "https://lk-hdx.com/the-eighth-sense-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Eighth-Sense-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Eighth-Sense-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fc08857016af7e3acf1a46cd014f3b65"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fc08857016af7e3acf1a46cd014f3b65/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Once Upon A Time In Highschool (2004) นักเรียนซ่าส์ปิดตำราแสบ",
     "url": "https://lk-hdx.com/once-upon-a-time-in-highschool-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Once-Upon-A-Time-In-Highschool-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Once-Upon-A-Time-In-Highschool-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Nfi8BGEV_8"
+      }
+    ]
   },
   {
     "title": "12.12 The Day (2023)",
     "url": "https://lk-hdx.com/12-12-the-day-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/12.12-The-Day-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/12.12-The-Day-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/3SEuENP7b_"
+      }
+    ]
   },
   {
     "title": "The Treacherous 2 ทรราช โค่นบัลลังก์ (2015)",
     "url": "https://lk-hdx.com/the-treacherous/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Treacherous-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Treacherous-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9adc206c82b3e135d30f9c3caa11e1bc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9adc206c82b3e135d30f9c3caa11e1bc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Punch-Drunk Boxer (2019) คืนสังเวียน",
     "url": "https://lk-hdx.com/my-punch-drunk-boxer-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/My-Punch-Drunk-Boxer-2019-คืนสังเวียน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/My-Punch-Drunk-Boxer-2019-คืนสังเวียน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/79470c5a25fecd39fa436e0df5d7a90a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/79470c5a25fecd39fa436e0df5d7a90a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Officer Black Belt (2024) เจ้าหน้าที่สายดำ",
     "url": "https://lk-hdx.com/officer-black-belt-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024-เจ้าหน้าที่สายดำ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024-เจ้าหน้าที่สายดำ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5c2ba81f7819a0d1e51f5ea52450968e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5c2ba81f7819a0d1e51f5ea52450968e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Swordsman (2020) จอมดาบคืนยุทธ จงคืนลูกข้ามา",
     "url": "https://lk-hdx.com/the-swordsman-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Swordsman-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Swordsman-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/63edd1a1199da8d77438f2da342a541b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/63edd1a1199da8d77438f2da342a541b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Noryang Deadly Sea (2023)",
     "url": "https://lk-hdx.com/noryang-deadly-sea-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Noryang-Deadly-Sea-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Noryang-Deadly-Sea-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/9RgzaSjB8_"
+      }
+    ]
   },
   {
     "title": "Fatal Intuition (2015) แค้น ล่า ฆ่า",
     "url": "https://lk-hdx.com/fatal-intuition-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Fatal-Intuition-2015-แค้น-ล่า-ฆ่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Fatal-Intuition-2015-แค้น-ล่า-ฆ่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5cda249cc3fe7784b40cbcfd2cd45ea2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5cda249cc3fe7784b40cbcfd2cd45ea2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Remember You (2016) อย่าลืมฉัน",
     "url": "https://lk-hdx.com/remember-you-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Remember-You-2016-อย่าลืมฉัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Remember-You-2016-อย่าลืมฉัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/584f4da8373ddb84a341ecc6540c8fab"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/584f4da8373ddb84a341ecc6540c8fab/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dead Man (2024)",
     "url": "https://lk-hdx.com/dead-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Dead-Man-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Dead-Man-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6a20bbe7a80a125635e73b6384f356c8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6a20bbe7a80a125635e73b6384f356c8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Race to Freedom Um Bok-dong (2019)",
     "url": "https://lk-hdx.com/race-to-freedom-um-bok-dong-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Race-to-Freedom-Um-Bok-dong-2019-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Race-to-Freedom-Um-Bok-dong-2019-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c6d0b252946936e7d1c8eb08b7e26dce"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c6d0b252946936e7d1c8eb08b7e26dce/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Daddy You Daughter Me (2017) สลับร่างอลเวง",
     "url": "https://lk-hdx.com/daddy-you-daughter-me-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Daddy-You-Daughter-Me-2017-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Daddy-You-Daughter-Me-2017-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Hn1oh_9Jck"
+      }
+    ]
   },
   {
     "title": "Where Would You Like to Go? (2023)",
     "url": "https://lk-hdx.com/where-would-you-like-to-go-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Where-Would-You-Like-to-Go-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Where-Would-You-Like-to-Go-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/50d061eeb98ca79625e40206e6f4e1ee"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/50d061eeb98ca79625e40206e6f4e1ee/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Wonderland (2024) วันเดอร์แลนด์",
     "url": "https://lk-hdx.com/wonderland-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Wonderland-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Wonderland-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/96ed48377aba03d0b57959001569dd32"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/96ed48377aba03d0b57959001569dd32/master.m3u8"
+      }
+    ]
   },
   {
     "title": "200 Hundred Pounds Beauty (2006) ฮันนะซัง สวยสั่งได้",
     "url": "https://lk-hdx.com/200-hundred-pounds-beauty-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/200-Hundred-Pounds-Beauty-2006-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/200-Hundred-Pounds-Beauty-2006-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0cbbe11dc46728e129b804f9c8876be0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0cbbe11dc46728e129b804f9c8876be0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hot Young Bloods (2014) วัยรักเลือดเดือด",
     "url": "https://lk-hdx.com/hot-young-bloods-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hot-Young-Bloods-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hot-Young-Bloods-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/df9172b5adbdf546aa4dc0f1f0c8b02e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/df9172b5adbdf546aa4dc0f1f0c8b02e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Target (2023) ทาร์เก็ต เป้าเชือด",
     "url": "https://lk-hdx.com/target-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Target-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Target-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/4xv4F_kO_w"
+      }
+    ]
   },
   {
     "title": "Our Season (2023) สามวันลาอาลัย สานใจก่อนลาจาก",
