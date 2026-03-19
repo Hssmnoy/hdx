@@ -290,5 +290,5 @@ if (COMMIT_EVERY > 0 && (i + 1) % COMMIT_EVERY === 0) {
   await commitChanges(`auto update ${cat.name} - ${i + 1}/${catMovies.length}`);
 }
 }
-
+}
 run();
