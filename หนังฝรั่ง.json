@@ -71916,26 +71916,76 @@
   {
     "title": "The Nightingale of Bursa (2023)",
     "url": "https://lk-hdx.com/the-nightingale-of-bursa-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/The-Nightingale-of-Bursa-2023-lk-hd-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/The-Nightingale-of-Bursa-2023-lk-hd-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5ff4b2f3aa05437a6060921b12406b8a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5ff4b2f3aa05437a6060921b12406b8a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
     "url": "https://lk-hdx.com/the-little-mermaid-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/The-Little-Mermaid-2023-เงือกน้อยผจญภัย-lk-hd-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/The-Little-Mermaid-2023-เงือกน้อยผจญภัย-lk-hd-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/31965d8d8e376ff443f5623fafbcdaea"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/31965d8d8e376ff443f5623fafbcdaea/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Stan Lee (2023)",
     "url": "https://lk-hdx.com/stan-lee-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Stan-Lee-2023-lk-hd-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Stan-Lee-2023-lk-hd-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fa9be81fa756b72a57727cde760830d1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fa9be81fa756b72a57727cde760830d1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Peter Pan & Wendy (2023) ปีเตอร์ แพน และ เวนดี้",
     "url": "https://lk-hdx.com/peter-pan-wendy-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Peter-Pan-Wendy-2023-ปีเตอร์-แพน-และ-เวนดี้-lk-hd-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Peter-Pan-Wendy-2023-ปีเตอร์-แพน-และ-เวนดี้-lk-hd-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/661830cee17970b055a04c30c0dcb899"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/661830cee17970b055a04c30c0dcb899/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Prom Pact (2023)",
     "url": "https://lk-hdx.com/prom-pact-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Prom-Pact-2023-lk-hd-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Prom-Pact-2023-lk-hd-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2ead923421e78b23cddd5847c8904fd2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2ead923421e78b23cddd5847c8904fd2/master.m3u8"
+      }
+    ]
   }
 ]
