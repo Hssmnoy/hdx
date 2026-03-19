@@ -5555,153 +5555,445 @@
   },
   {
     "title": "Circle Line (2023)",
-    "url": "https://lk-hdx.com/circle-line-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Circle-Line-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/945bb591e60e2c0766c733fe7e0d832d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/945bb591e60e2c0766c733fe7e0d832d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Circle-Line-2023-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Crime List (2024) บันทึกอาชญากรรม",
-    "url": "https://lk-hdx.com/crime-list-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Crime-List-2024-บันทึกอาชญากรรม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1a018980ca304b096bcd2c98dc13f773/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1a018980ca304b096bcd2c98dc13f773"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Crime-List-2024-บันทึกอาชญากรรม-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Unleashed (2020) ปลดปล่อย",
-    "url": "https://lk-hdx.com/unleashed-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Unleashed-2020-ปลดปล่อย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ec0b4e81ad0ed9072d041cf440f897e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ec0b4e81ad0ed9072d041cf440f897e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Unleashed-2020-ปลดปล่อย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
-    "url": "https://lk-hdx.com/rob-n-roll-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Rob-N-Roll-2024-มหากาพย์ปล้นจารชน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1bffd927db8eaff2b934694a5c0292a5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1bffd927db8eaff2b934694a5c0292a5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Rob-N-Roll-2024-มหากาพย์ปล้นจารชน-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Punish Evil (2024) บทลงโทษความชั่วร้าย",
-    "url": "https://lk-hdx.com/punish-evil-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Punish-Evil-2024-บทลงโทษความชั่วร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25ab43c2c798da72bf3c3a7ecbbecafb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25ab43c2c798da72bf3c3a7ecbbecafb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Punish-Evil-2024-บทลงโทษความชั่วร้าย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Jade Dynasty (2019) กระบี่เทพสังหาร",
-    "url": "https://lk-hdx.com/jade-dynasty-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Jade-Dynasty-2019-กระบี่เทพสังหาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9497984dcc8492f24a7d77d3ff1f9e59/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9497984dcc8492f24a7d77d3ff1f9e59"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Jade-Dynasty-2019-กระบี่เทพสังหาร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The First Myth Clash of Gods (2021) ศึกตัดสินชะตาหมื่นเซียน",
-    "url": "https://lk-hdx.com/the-first-myth-clash-of-gods-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-First-Myth-Clash-of-Gods-2021-ศึกตัดสินชะตาหมื่นเซียน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5fb825c625fbb645b5cde8674e88c983/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5fb825c625fbb645b5cde8674e88c983"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-First-Myth-Clash-of-Gods-2021-ศึกตัดสินชะตาหมื่นเซียน-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Hunt The Wicked (2024) ไล่ล่าวายร้าย",
-    "url": "https://lk-hdx.com/hunt-the-wicked-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Hunt-The-Wicked-2024-ไล่ล่าวายร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/991a9924551fd3ee2a7bfcd3be079f4f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/991a9924551fd3ee2a7bfcd3be079f4f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Hunt-The-Wicked-2024-ไล่ล่าวายร้าย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Goldfinger (2023) โคตรพยัคฆ์ชนคนมือทอง",
-    "url": "https://lk-hdx.com/the-goldfinger-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Goldfinger-2023-โคตรพยัคฆ์ชนคนมือทอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0bea6e9aadb9bca8db165e6ccd464c66/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0bea6e9aadb9bca8db165e6ccd464c66"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Goldfinger-2023-โคตรพยัคฆ์ชนคนมือทอง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Legend Of Meng Po (2024) เปิดตำนานเมิ่งโผ",
-    "url": "https://lk-hdx.com/the-legend-of-meng-po-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Legend-Of-Meng-Po-2024-เปิดตำนานเมิ่งโผ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/546fe30b4721c5a970ba40c795364f16/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/546fe30b4721c5a970ba40c795364f16"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Legend-Of-Meng-Po-2024-เปิดตำนานเมิ่งโผ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Lost Man (2024) ศึกท้าดวลเดือด",
-    "url": "https://lk-hdx.com/the-lost-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Lost-Man-2024-ศึกท้าดวลเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9f4674a1d4e1108d15471a0a885cb277/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9f4674a1d4e1108d15471a0a885cb277"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Lost-Man-2024-ศึกท้าดวลเดือด-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Infernal Walker (2020) เดอะ อินเฟอร์เนล วอร์คเกอร์",
-    "url": "https://lk-hdx.com/the-infernal-walker-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Infernal-Walker-2020-เดอะ-อินเฟอร์เนล-วอร์คเกอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a557032aff28d4ee1efb56fdcb45b164/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a557032aff28d4ee1efb56fdcb45b164"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Infernal-Walker-2020-เดอะ-อินเฟอร์เนล-วอร์คเกอร์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Night Rain and Autumn Lantern Hear Strange Stories (2024) เรื่องลึกลับคืนฝนตกกับโคมไฟฤดูใบไม้ผลิ",
-    "url": "https://lk-hdx.com/night-rain-and-autumn-lantern-hear-strange-stories-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Night-Rain-and-Autumn-Lantern-Hear-Strange-Stories-2024-เรื่องลึกลับคืนฝนตกกับโคมไฟฤดูใบไม้ผลิ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ac2bb89e99cd3f32e988257f44e42ddc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac2bb89e99cd3f32e988257f44e42ddc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Night-Rain-and-Autumn-Lantern-Hear-Strange-Stories-2024-เรื่องลึกลับคืนฝนตกกับโคมไฟฤดูใบไม้ผลิ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Cruel War (2024) สงครามมหาโหด",
-    "url": "https://lk-hdx.com/cruel-war-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Cruel-War-2024-สงครามมหาโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/24116bec30f90a3549e8e086d2571712/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/24116bec30f90a3549e8e086d2571712"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Cruel-War-2024-สงครามมหาโหด-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Legend of Justice WuSong (2021) อู่ซง ศึกนองเลือดหอสิงโต",
-    "url": "https://lk-hdx.com/the-legend-of-justice-wusong-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Legend-of-Justice-WuSong-2021-อู่ซง-ศึกนองเลือดหอสิงโต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2bf68a6517fcd4821aa29a6a71de9e01/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2bf68a6517fcd4821aa29a6a71de9e01"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Legend-of-Justice-WuSong-2021-อู่ซง-ศึกนองเลือดหอสิงโต-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Enchanting Phantom (2020) โปเยโปโลเย",
-    "url": "https://lk-hdx.com/the-enchanting-phantom-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Enchanting-Phantom-2020-โปเยโปโลเย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a62446dcc48ff97f69768eeec0ed06f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a62446dcc48ff97f69768eeec0ed06f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Enchanting-Phantom-2020-โปเยโปโลเย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Mojin The Worm Valley (2018) โมจิน หุบเขาหนอน",
-    "url": "https://lk-hdx.com/mojin-the-worm-valley-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Mojin-The-Worm-Valley-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_82pVKU_Ae"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Mojin-The-Worm-Valley-2018-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า",
-    "url": "https://lk-hdx.com/the-wild-blade-of-strangers-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-นักดาบคนแปลกหน้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cbc777e76f081fc730d3178535ef9b9c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cbc777e76f081fc730d3178535ef9b9c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-นักดาบคนแปลกหน้า-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Xianxi Guishi (2024) เรื่องแปลกเซียงซี",
-    "url": "https://lk-hdx.com/xianxi-guishi-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Xianxi-Guishi-2024-เรื่องแปลกเซียงซี-ซับไทย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/65a00e1ba71d3c7d086d9e23195bc7e2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/65a00e1ba71d3c7d086d9e23195bc7e2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Xianxi-Guishi-2024-เรื่องแปลกเซียงซี-ซับไทย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Shock Wave 2 (2020) คนคมถล่มนิวเคลียร์ ภาค 2",
-    "url": "https://lk-hdx.com/shock-wave-2-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-2-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f723c20ebe16055225a4ee873293d8e3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f723c20ebe16055225a4ee873293d8e3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-2-2020-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Shock Wave 1 (2017) คนคมล่าระเบิดเมือง ภาค 1",
-    "url": "https://lk-hdx.com/shock-wave-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-1-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1151efb74ca2972de4b88f57efc6267a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1151efb74ca2972de4b88f57efc6267a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-1-2017-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Sky Hunter (2017) สกาย ฮันเตอร์ ฝูงบินเกียรติยศ",
-    "url": "https://lk-hdx.com/sky-hunter-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sky-Hunter-2017-สกาย-ฮันเตอร์-ฝูงบินเกียรติยศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d320a98f3dda692bcff54d3c8a75618/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d320a98f3dda692bcff54d3c8a75618"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sky-Hunter-2017-สกาย-ฮันเตอร์-ฝูงบินเกียรติยศ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Kung Fu League (2018) ยิปมัน ตะบัน บรูซลี บี้หวงเฟยหง",
-    "url": "https://lk-hdx.com/kung-fu-league-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kung-Fu-League-2018-ยิปมัน-ตะบัน-บรูซลี-บี้หวงเฟยหง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e898aec464b2be27781b2ecab6ea4c0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e898aec464b2be27781b2ecab6ea4c0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Kung-Fu-League-2018-ยิปมัน-ตะบัน-บรูซลี-บี้หวงเฟยหง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Final Blade (2018) องครักษ์ดาบสุดท้าย",
-    "url": "https://lk-hdx.com/the-final-blade-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Final-Blade-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/feec163172764a8a2a48afe58e00d60e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/feec163172764a8a2a48afe58e00d60e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Final-Blade-2018-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "But Always (2014) รักนิรันดร์",
-    "url": "https://lk-hdx.com/but-always-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/But-Always-2014-รักนิรันดร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/cDPmpL_wZk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/But-Always-2014-รักนิรันดร์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Insanity (2014) ความบ้า ",
-    "url": "https://lk-hdx.com/insanity-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Insanity-2014-ความบ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/683eba6b3bef8b21663880e82d241e01/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/683eba6b3bef8b21663880e82d241e01"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Insanity-2014-ความบ้า-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Biography of Meng Po (2024) ตำนานเมิ่งโผ",
-    "url": "https://lk-hdx.com/biography-of-meng-po-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Biography-of-Meng-Po-2024-ตำนานเมิ่งโผ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9e8ff86a3c4eb568a161a27c5958e4a6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9e8ff86a3c4eb568a161a27c5958e4a6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Biography-of-Meng-Po-2024-ตำนานเมิ่งโผ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Magic Lotus Lantern (2021) ตำนานรักโคมสวรรค์",
-    "url": "https://lk-hdx.com/the-magic-lotus-lantern-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Magic-Lotus-Lantern-2021-ตำนานรักโคมสวรรค์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c29b82ad6b244f4adcfedb8253c25db6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c29b82ad6b244f4adcfedb8253c25db6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Magic-Lotus-Lantern-2021-ตำนานรักโคมสวรรค์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Blocking The Horse (2024) ขวางม้าและคว้าดาบ",
-    "url": "https://lk-hdx.com/blocking-the-horse-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Blocking-The-Horse-2024-ขวางม้าและคว้าดาบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ecc5720847c5eb798ac3dd0813f9776/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ecc5720847c5eb798ac3dd0813f9776"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Blocking-The-Horse-2024-ขวางม้าและคว้าดาบ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Lady Enforcer (2018)",
-    "url": "https://lk-hdx.com/the-lady-enforcer-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Lady-Enforcer-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/94265c3950489a1d63c52cd557182fd9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/94265c3950489a1d63c52cd557182fd9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Lady-Enforcer-2018-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Ancient Building Town Mausoleum Palace (2024) สุสานเมืองกู่โหลว",
