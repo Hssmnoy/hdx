@@ -15915,153 +15915,433 @@
   },
   {
     "title": "The Black Book (2023) ล่าล้างบัญชีดำ",
-    "url": "https://lk-hdx.com/the-black-book-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Black-Book-2023-ล่าล้างบัญชีดำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7hRP8g6_22"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Black-Book-2023-ล่าล้างบัญชีดำ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Suspect (2023) ฆ่าสมการลวง",
-    "url": "https://lk-hdx.com/suspect-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Suspect-2023-ฆ่าสมการลวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ee3a0e5dab1b4dee80af0ab2347e2c88/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ee3a0e5dab1b4dee80af0ab2347e2c88"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Suspect-2023-ฆ่าสมการลวง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Saint of Second Chances (2023) พลังแห่งโอกาสครั้งที่สอง",
-    "url": "https://lk-hdx.com/the-saint-of-second-chances-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Saint-of-Second-Chances-2023-พลังแห่งโอกาสครั้งที่สอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/82015315c424d52c6b47e73a9e60121d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/82015315c424d52c6b47e73a9e60121d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Saint-of-Second-Chances-2023-พลังแห่งโอกาสครั้งที่สอง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Get Smart With Money (2022) ฉลาดรู้เรื่องเงิน",
-    "url": "https://lk-hdx.com/get-smart-with-money-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Get-Smart-With-Money-2022-ฉลาดรู้เรื่องเงิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1a8bed92c9880f9c4e0baa1afec557bd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1a8bed92c9880f9c4e0baa1afec557bd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Get-Smart-With-Money-2022-ฉลาดรู้เรื่องเงิน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Gladbeck The Hostage Crisis (2022) วิกฤตตัวประกันแกลดเป็ด",
-    "url": "https://lk-hdx.com/gladbeck-the-hostage-crisis-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Gladbeck-The-Hostage-Crisis-2022-วิกฤตตัวประกันแกลดเป็ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4d61574ac35f2a971aa16a22ce0ec5a8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4d61574ac35f2a971aa16a22ce0ec5a8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Gladbeck-The-Hostage-Crisis-2022-วิกฤตตัวประกันแกลดเป็ด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Godspeed (2022) ขอให้เดินทางโดยสวัสดิภาพ",
-    "url": "https://lk-hdx.com/godspeed-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Godspeed-2022-ขอให้เดินทางโดยสวัสดิภาพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/57bd22081d5bd84ddb3c1aadfc299fdb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/57bd22081d5bd84ddb3c1aadfc299fdb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Godspeed-2022-ขอให้เดินทางโดยสวัสดิภาพ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fenced In (2022) สงครามข้ามรั้ว",
-    "url": "https://lk-hdx.com/fenced-in-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fenced-In-2022-สงครามข้ามรั้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41440ce7c99bd9d8dde8df88e9527277/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41440ce7c99bd9d8dde8df88e9527277"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fenced-In-2022-สงครามข้ามรั้ว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "For Jojo (2022) เพื่อนรัก พักงานแต่ง",
-    "url": "https://lk-hdx.com/for-jojo-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/For-Jojo-2022-เพื่อนรัก-พักงานแต่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/63d19e412b8429f60b1ce9337ca07b0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63d19e412b8429f60b1ce9337ca07b0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/For-Jojo-2022-เพื่อนรัก-พักงานแต่ง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Forgive Us Our Trespasses (2022)",
-    "url": "https://lk-hdx.com/forgive-us-our-trespasses-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Forgive-Us-Our-Trespasses-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ec958fcb7c1d87e44f6599758d5f0dec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec958fcb7c1d87e44f6599758d5f0dec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Forgive-Us-Our-Trespasses-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fistful of Vengeance (2022) กำปั้นคั่งแค้น",
-    "url": "https://lk-hdx.com/fistful-of-vengeance-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fistful-of-Vengeance-2022-กำปั้นคั่งแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/da75da2b9cc0dc1944145d1666948293/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/da75da2b9cc0dc1944145d1666948293"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fistful-of-Vengeance-2022-กำปั้นคั่งแค้น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Forever Out Of My League (2022) รักสุด สุดเอื้อม",
-    "url": "https://lk-hdx.com/forever-out-of-my-league-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Forever-Out-Of-My-League-2022-รักสุด-สุดเอื้อม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/04da5754a97d1001b9d80a208461f320/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/04da5754a97d1001b9d80a208461f320"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Forever-Out-Of-My-League-2022-รักสุด-สุดเอื้อม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Guillermo del Toros Pinocchio (2022) พิน็อกคิโอ หุ่นน้อยผจญภัย โดยกีเยร์โม เดล โตโร",
-    "url": "https://lk-hdx.com/guillermo-del-toros-pinocchio-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Guillermo-del-Toros-Pinocchio-2022-พิน็อกคิโอ-หุ่นน้อยผจญภัย-โดยกีเยร์โม-เดล-โตโร-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ayz_yxb_Jt"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Guillermo-del-Toros-Pinocchio-2022-พิน็อกคิโอ-หุ่นน้อยผจญภัย-โดยกีเยร์โม-เดล-โตโร-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Glass Onion A Knives Out Mystery (2022) ฆาตกรรมหรรษา ใครฆ่าเพื่อน",
-    "url": "https://lk-hdx.com/glass-onion-a-knives-out-mystery-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Glass-Onion-A-Knives-Out-Mystery-2022-ฆาตกรรมหรรษา-ใครฆ่าเพื่อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d2443cdf517f692377a99aa53cb3b33e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d2443cdf517f692377a99aa53cb3b33e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Glass-Onion-A-Knives-Out-Mystery-2022-ฆาตกรรมหรรษา-ใครฆ่าเพื่อน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ghislaine Maxwell Filthy Rich (2022) กิสเลน แมกซ์เวลล์ รวยอย่างสกปรก",
-    "url": "https://lk-hdx.com/ghislaine-maxwell-filthy-rich-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ghislaine-Maxwell-Filthy-Rich-2022-กิสเลน-แมกซ์เวลล์-รวยอย่างสกปรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a123449022694ad300ff1911775ea9fb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a123449022694ad300ff1911775ea9fb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ghislaine-Maxwell-Filthy-Rich-2022-กิสเลน-แมกซ์เวลล์-รวยอย่างสกปรก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Tall Girl 2 (2022) รักยุ่งของสาวโย่ง ภาค 2",
-    "url": "https://lk-hdx.com/tall-girl-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Tall-Girl-2-2022-รักยุ่งของสาวโย่ง-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a30f7a0598b4fb3bb275d5d070e9bc99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a30f7a0598b4fb3bb275d5d070e9bc99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Tall-Girl-2-2022-รักยุ่งของสาวโย่ง-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Tall Girl 1 (2019) รักยุ่งของสาวโย่ง ภาค 1",
-    "url": "https://lk-hdx.com/tall-girl-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Tall-Girl-1-2019-รักยุ่งของสาวโย่ง-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/U3_lNWIpMX"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Tall-Girl-1-2019-รักยุ่งของสาวโย่ง-ภาค-1-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rise Of The Teenage Mutant Ninja Turtles The Movie (2022) กำเนิดเต่านินจา เดอะ มูฟวี่",
-    "url": "https://lk-hdx.com/rise-of-the-teenage-mutant-ninja-turtles-the-movie-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Rise-Of-The-Teenage-Mutant-Ninja-Turtles-The-Movie-2022-กำเนิดเต่านินจา-เดอะ-มูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ea2cbb23c82946b16e3d29e38b225f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ea2cbb23c82946b16e3d29e38b225f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Rise-Of-The-Teenage-Mutant-Ninja-Turtles-The-Movie-2022-กำเนิดเต่านินจา-เดอะ-มูฟวี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rabbids Invasion Mission to Mars (2022) กระต่ายซ่าพาโลกป่วน ภารกิจสู่ดาวอังคาร",
-    "url": "https://lk-hdx.com/rabbids-invasion-mission-to-mars-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Rabbids-Invasion-Mission-to-Mars-2022-กระต่ายซ่าพาโลกป่วน-ภารกิจสู่ดาวอังคาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ef9Cl_bmwh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Rabbids-Invasion-Mission-to-Mars-2022-กระต่ายซ่าพาโลกป่วน-ภารกิจสู่ดาวอังคาร-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rescued by Ruby (2022) รูบี้มาช่วยแล้ว",
-    "url": "https://lk-hdx.com/rescued-by-ruby-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Rescued-by-Ruby-2022-รูบี้มาช่วยแล้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5698f2106dd7c25dfd56e6cd7d800544/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5698f2106dd7c25dfd56e6cd7d800544"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Rescued-by-Ruby-2022-รูบี้มาช่วยแล้ว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Erax (2022) อีแร็กซ์",
-    "url": "https://lk-hdx.com/erax-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Erax-2022-อีแร็กซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b80c75f4537351e276b977f37a199f3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b80c75f4537351e276b977f37a199f3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Erax-2022-อีแร็กซ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Entergalactic (2022) ศิลปินสาวผู้มีเสน่ห์",
-    "url": "https://lk-hdx.com/entergalactic-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Entergalactic-2022-ศิลปินสาวผู้มีเสน่ห์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41967d4c3a799350f302ec6506e171b3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41967d4c3a799350f302ec6506e171b3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Entergalactic-2022-ศิลปินสาวผู้มีเสน่ห์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Four To Dinner (2022) ดินเนอร์ 4 ที่",
-    "url": "https://lk-hdx.com/four-to-dinner-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Four-To-Dinner-2022-ดินเนอร์-4-ที่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2aebd5ff1b8e527fa1be0dbd95830b94/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2aebd5ff1b8e527fa1be0dbd95830b94"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Four-To-Dinner-2022-ดินเนอร์-4-ที่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Furioza (2022) อำมหิต",
-    "url": "https://lk-hdx.com/furioza-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Furioza-2022-อำมหิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/001462e2f4e6f4fbb6a58ffbb3d40f3f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/001462e2f4e6f4fbb6a58ffbb3d40f3f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Furioza-2022-อำมหิต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Don’t Blame Karma (2022) ชีช้ำกรรมซัด",
-    "url": "https://lk-hdx.com/dont-blame-karma-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dont-Blame-Karma-2022-ชีช้ำกรรมซัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/633fd907d48b417725059954f0f135df/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/633fd907d48b417725059954f0f135df"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Dont-Blame-Karma-2022-ชีช้ำกรรมซัด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Dangerous Liaisons (2022) เกมรักวัยอันตราย",
-    "url": "https://lk-hdx.com/dangerous-liaisons-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dangerous-Liaisons-2022-เกมรักวัยอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/227199871828ba494749d71a6388534b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/227199871828ba494749d71a6388534b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Dangerous-Liaisons-2022-เกมรักวัยอันตราย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Drifting Home (2022) บ้านล่องลอย",
-    "url": "https://lk-hdx.com/drifting-home-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Drifting-Home-2022-บ้านล่องลอย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1443ab47675845eb05a5652044c8b378/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1443ab47675845eb05a5652044c8b378"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Drifting-Home-2022-บ้านล่องลอย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Do Revenge (2022) แค้นนัก สลับกันแก้",
-    "url": "https://lk-hdx.com/do-revenge-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Do-Revenge-2022-แค้นนัก-สลับกันแก้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e44c0fd9538708bcd646483211eb0f23/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e44c0fd9538708bcd646483211eb0f23"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Do-Revenge-2022-แค้นนัก-สลับกันแก้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Darlings (2022) ที่รัก",
-    "url": "https://lk-hdx.com/darlings-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Darlings-2022-ที่รัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9ce1e3ed484bc71e0ce99648712851b6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9ce1e3ed484bc71e0ce99648712851b6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Darlings-2022-ที่รัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Deon Cole Charleen’s Boy (2022) ดีน โคล ลูกแม่ชาร์ลีน",
-    "url": "https://lk-hdx.com/deon-cole-charleens-boy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Deon-Cole-Charleens-Boy-2022-ดีน-โคล-ลูกแม่ชาร์ลีน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/3PGJl_X8JP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Deon-Cole-Charleens-Boy-2022-ดีน-โคล-ลูกแม่ชาร์ลีน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bhool Bhulaiyaa 2 (2022) คฤหาสน์วิปลาส ภาค 2",
-    "url": "https://lk-hdx.com/bhool-bhulaiyaa-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bhool-Bhulaiyaa-2-2022-คฤหาสน์วิปลาส-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e36cd68673ca399df90a64289902c916/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e36cd68673ca399df90a64289902c916"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bhool-Bhulaiyaa-2-2022-คฤหาสน์วิปลาส-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Cici (2022)",
