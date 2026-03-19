@@ -15051,153 +15051,433 @@
   },
   {
     "title": "Toscana (2022) ทัสคานี",
-    "url": "https://lk-hdx.com/toscana-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Toscana-2022-ทัสคานี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3b7ac3066aa56c334c4454c14db53c63/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3b7ac3066aa56c334c4454c14db53c63"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Toscana-2022-ทัสคานี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Photographer Murder in Pinamar (2022) ฆาตกรรมช่างภาพ",
-    "url": "https://lk-hdx.com/the-photographer-murder-in-pinamar-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Photographer-Murder-in-Pinamar-2022-ฆาตกรรมช่างภาพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7dc6aa2cbe015eaaa6aa0c4537abb969/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7dc6aa2cbe015eaaa6aa0c4537abb969"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Photographer-Murder-in-Pinamar-2022-ฆาตกรรมช่างภาพ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Adam Project (2022) ย้อนเวลาหาอดัม",
-    "url": "https://lk-hdx.com/the-adam-project-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Adam-Project-2022-ย้อนเวลาหาอดัม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/59bb62070f6fac567187c2135e30e59f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/59bb62070f6fac567187c2135e30e59f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Adam-Project-2022-ย้อนเวลาหาอดัม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Redeem Team (2022) เดอะ รีดีม ทีม",
-    "url": "https://lk-hdx.com/the-redeem-team-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Redeem-Team-2022-เดอะ-รีดีม-ทีม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b13a31923ef695653575ee3e88dd5ce4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b13a31923ef695653575ee3e88dd5ce4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Redeem-Team-2022-เดอะ-รีดีม-ทีม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Metal Lords (2022) เมทัลลอร์ด",
-    "url": "https://lk-hdx.com/metal-lords-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Metal-Lords-2022-เมทัลลอร์ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73e29bc83f86ea5b260ecfb0e0cfd036/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73e29bc83f86ea5b260ecfb0e0cfd036"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Metal-Lords-2022-เมทัลลอร์ด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Man of God (2022)",
-    "url": "https://lk-hdx.com/man-of-god-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Man-of-God-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/0kn_X5nq31"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Man-of-God-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Marmaduke (2022) มาร์มาดุ๊ค",
-    "url": "https://lk-hdx.com/marmaduke-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Marmaduke-2022-มาร์มาดุ๊ค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73f5b5014ee3b90e0500dee85daf52f6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73f5b5014ee3b90e0500dee85daf52f6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Marmaduke-2022-มาร์มาดุ๊ค-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love Goals (2022) เป้าหมายรัก",
-    "url": "https://lk-hdx.com/love-goals-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-Goals-2022-เป้าหมายรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/IJRsX9Sb_K"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-Goals-2022-เป้าหมายรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lesson Plan (2022) โรงเรียนอันตราย",
-    "url": "https://lk-hdx.com/lesson-plan-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Lesson-Plan-2022-โรงเรียนอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff2d2f82d812de5b78a41ab7d015dbfc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff2d2f82d812de5b78a41ab7d015dbfc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Lesson-Plan-2022-โรงเรียนอันตราย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Look Both Ways (2022) สองทาง",
-    "url": "https://lk-hdx.com/look-both-ways-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Look-Both-Ways-2022-สองทาง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/19f3390d21855a08035109d4abaea34f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19f3390d21855a08035109d4abaea34f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Look-Both-Ways-2022-สองทาง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Loving Adults (2022) รักจนวันตาย",
-    "url": "https://lk-hdx.com/loving-adults-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Loving-Adults-2022-รักจนวันตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/q3HC5_8W6c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Loving-Adults-2022-รักจนวันตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Looop Lapeta (2022) วันวุ่นเวียนวน",
-    "url": "https://lk-hdx.com/looop-lapeta-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Looop-Lapeta-2022-วันวุ่นเวียนวน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/sHdhlfYe_2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Looop-Lapeta-2022-วันวุ่นเวียนวน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love and Leashes (2022) รักจูงรัก",
-    "url": "https://lk-hdx.com/love-and-leashes-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-and-Leashes-2022-รักจูงรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qd5_QS4HGU"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-and-Leashes-2022-รักจูงรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nick Kroll Little Big Boy (2022) นิค โครล ผู้ใหญ่ใจเด็ก",
-    "url": "https://lk-hdx.com/nick-kroll-little-big-boy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Nick-Kroll-Little-Big-Boy-2022-นิค-โครล-ผู้ใหญ่ใจเด็ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/36b619ef9417ef1573606d8137d6afd9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/36b619ef9417ef1573606d8137d6afd9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Nick-Kroll-Little-Big-Boy-2022-นิค-โครล-ผู้ใหญ่ใจเด็ก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "No Limit (2022) โนลิมิต",
-    "url": "https://lk-hdx.com/no-limit-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/No-Limit-2022-โนลิมิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/03a7e1badbf7b3390eb15942681bd8b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/03a7e1badbf7b3390eb15942681bd8b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/No-Limit-2022-โนลิมิต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Matilda the Musical (2022) มาทิลด้า เดอะ มิวสิคัล",
-    "url": "https://lk-hdx.com/matilda-the-musical-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Matilda-the-Musical-2022-มาทิลด้า-เดอะ-มิวสิคัล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/62485cae64bc3a9e13e35182a8007975/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/62485cae64bc3a9e13e35182a8007975"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Matilda-the-Musical-2022-มาทิลด้า-เดอะ-มิวสิคัล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "My Name Is Vendetta (2022) ในนามของความแค้น",
-    "url": "https://lk-hdx.com/my-name-is-vendetta-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Name-Is-Vendetta-2022-ในนามของความแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90e11d74f6c696a38c951330ed30d5b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90e11d74f6c696a38c951330ed30d5b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Name-Is-Vendetta-2022-ในนามของความแค้น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "My Best Friend Anne Frank (2022) แอนน์ แฟรงค์ เพื่อนรัก",
-    "url": "https://lk-hdx.com/my-best-friend-anne-frank-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Best-Friend-Anne-Frank-2022-แอนน์-แฟรงค์-เพื่อนรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8ea30ec2d4a43bcd8c1f0075a75c341c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8ea30ec2d4a43bcd8c1f0075a75c341c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Best-Friend-Anne-Frank-2022-แอนน์-แฟรงค์-เพื่อนรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Meskina (2022) ผู้หญิงบนคาน",
-    "url": "https://lk-hdx.com/meskina-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Meskina-2022-ผู้หญิงบนคาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b68cb81654eac75613782de264058d40/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b68cb81654eac75613782de264058d40"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Meskina-2022-ผู้หญิงบนคาน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Me Time (2022)",
-    "url": "https://lk-hdx.com/me-time-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Me-Time-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/12fa52624d3ae1185d4c7bf23e06f997/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/12fa52624d3ae1185d4c7bf23e06f997"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Me-Time-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love Like the Falling Petals (2022) ใบไม้ผลิที่ไม่มีเธอเป็นซากุระ",
-    "url": "https://lk-hdx.com/love-like-the-falling-petals-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-Like-the-Falling-Petals-2022-ใบไม้ผลิที่ไม่มีเธอเป็นซากุระ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/340a2a2e8195ca2cd135871dbe0833f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/340a2a2e8195ca2cd135871dbe0833f2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-Like-the-Falling-Petals-2022-ใบไม้ผลิที่ไม่มีเธอเป็นซากุระ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jewel (2022) ดุจดั่งอัญมณี",
-    "url": "https://lk-hdx.com/jewel-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jewel-2022-ดุจดั่งอัญมณี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/64c08305197bbf695ddcd1d03c256113/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/64c08305197bbf695ddcd1d03c256113"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jewel-2022-ดุจดั่งอัญมณี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jennifer Lopez Halftime (2022)",
-    "url": "https://lk-hdx.com/jennifer-lopez-halftime-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jennifer-Lopez-Halftime-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/afd74c285fd815c98c9f3e425b4b3688/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/afd74c285fd815c98c9f3e425b4b3688"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jennifer-Lopez-Halftime-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jana Gana Mana (2022)",
-    "url": "https://lk-hdx.com/jana-gana-mana-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jana-Gana-Mana-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2ca3905e2e15bfbb6afe2879a2c66189/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2ca3905e2e15bfbb6afe2879a2c66189"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jana-Gana-Mana-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jak pokochalam gangstera (2022)",
-    "url": "https://lk-hdx.com/jak-pokochalam-gangstera-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jak-pokochalam-gangstera-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44466c3389bdcd9d127f5ed7fbe95d13/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44466c3389bdcd9d127f5ed7fbe95d13"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jak-pokochalam-gangstera-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I Used to Be Famous (2022) คนเคยดัง",
-    "url": "https://lk-hdx.com/i-used-to-be-famous-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/I-Used-to-Be-Famous-2022-คนเคยดัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa988e3ee2838107f31b89f014f7bf4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa988e3ee2838107f31b89f014f7bf4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/I-Used-to-Be-Famous-2022-คนเคยดัง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "In Good Hands (2022) ฝากรักไว้ให้ดูแล",
-    "url": "https://lk-hdx.com/in-good-hands-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/In-Good-Hands-2022-ฝากรักไว้ให้ดูแล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2b9dd63265e973bc5297433dda1d0317/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2b9dd63265e973bc5297433dda1d0317"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/In-Good-Hands-2022-ฝากรักไว้ให้ดูแล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Heartsong (2022) เพลงหัวใจ",
-    "url": "https://lk-hdx.com/heartsong-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Heartsong-2022-เพลงหัวใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8fc22ca55313666b2238ba1b7cfe4494/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8fc22ca55313666b2238ba1b7cfe4494"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Heartsong-2022-เพลงหัวใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hello Goodbye and Everything in Between (2022)",
-    "url": "https://lk-hdx.com/hello-goodbye-and-everything-in-between-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Hello-Goodbye-and-Everything-in-Between-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b4c2a3a805f5e40004632bfcb794ecd7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4c2a3a805f5e40004632bfcb794ecd7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Hello-Goodbye-and-Everything-in-Between-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Happily Never After (2022)",
-    "url": "https://lk-hdx.com/happily-never-after-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Happily-Never-After-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d84583958084f1f63e2b945c5292aab1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d84583958084f1f63e2b945c5292aab1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Happily-Never-After-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hell Dogs (2022) ในบ้านไม้ไผ่",
