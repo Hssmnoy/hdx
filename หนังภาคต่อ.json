@@ -8183,153 +8183,433 @@
   },
   {
     "title": "Jack Reacher 1 (2012) ยอดคนสืบระห่ำ ภาค 1",
-    "url": "https://lk-hdx.com/jack-reacher-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-1-2012-ยอดคนสืบระห่ำ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Y7ytv8s1n_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-1-2012-ยอดคนสืบระห่ำ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Godzilla (2014) ก็อตซิลล่า",
-    "url": "https://lk-hdx.com/godzilla-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2014-ก็อตซิลล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/76956d2a60b7437c7fe4b20c8f48c92b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/76956d2a60b7437c7fe4b20c8f48c92b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2014-ก็อตซิลล่า-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "From Vegas to Macau 3 (2016) โคตรเซียนมาเก๊า เขย่าเวกัส ภาค 3",
-    "url": "https://lk-hdx.com/from-vegas-to-macau-3-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/From-Vegas-to-Macau-3-2016-โคตรเซียนมาเก๊า-เขย่าเวกัส-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/972f21a63802b6411529f461699ebd5c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/972f21a63802b6411529f461699ebd5c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/From-Vegas-to-Macau-3-2016-โคตรเซียนมาเก๊า-เขย่าเวกัส-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "From Vegas To Macau 2 (2015) โคตรเซียนมาเก๊า เขย่าเวกัส ภาค 2",
-    "url": "https://lk-hdx.com/from-vegas-to-macau-2-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/From-Vegas-To-Macau-2-2015-โคตรเซียนมาเก๊า-เขย่าเวกัส-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/85888d5faa3b3390b955a73116b17d73/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/85888d5faa3b3390b955a73116b17d73"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/From-Vegas-To-Macau-2-2015-โคตรเซียนมาเก๊า-เขย่าเวกัส-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dune Part Two (2024) ดูน ภาค 2",
-    "url": "https://lk-hdx.com/dune-part-two-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/11e62dd10046f86861218bf6bd596984/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/11e62dd10046f86861218bf6bd596984"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Along with the Gods 2 The Last 49 Days (2018) ฝ่า 7 นรกไปกับพระเจ้า ภาค 2",
-    "url": "https://lk-hdx.com/along-with-the-gods-2-the-last-49-days-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Along-with-the-Gods-2-The-Last-49-Days-2018-ฝ่า-7-นรกไปกับพระเจ้า-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a6ba55ab08a999ab81edbe7af8e2205/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a6ba55ab08a999ab81edbe7af8e2205"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Along-with-the-Gods-2-The-Last-49-Days-2018-ฝ่า-7-นรกไปกับพระเจ้า-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Along With the Gods 1 The Two Worlds (2017) ฝ่า 7 นรกไปกับพระเจ้า ภาค 1",
-    "url": "https://lk-hdx.com/along-with-the-gods-1-the-two-worlds-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Along-With-the-Gods-1-The-Two-Worlds-2017-ฝ่า-7-นรกไปกับพระเจ้า-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/baacd837a4002e48f2f9dd7b6648ceb9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/baacd837a4002e48f2f9dd7b6648ceb9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Along-With-the-Gods-1-The-Two-Worlds-2017-ฝ่า-7-นรกไปกับพระเจ้า-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Through My Window 3 Looking at You (2024) รักผ่านหน้าต่าง ดวงตาจ้องมองเธอ",
-    "url": "https://lk-hdx.com/through-my-window-3-looking-at-you-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qwi_mYlnVk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Godzilla City on the Edge of Battle (2018)",
-    "url": "https://lk-hdx.com/godzilla-city-on-the-edge-of-battle-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Godzilla-City-on-the-Edge-of-Battle-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8043a6deb0ffcd5d6cf7db4ecf1d9c5a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8043a6deb0ffcd5d6cf7db4ecf1d9c5a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Godzilla-City-on-the-Edge-of-Battle-2018-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Venom 2 Let There Be Carnage (2021) เวน่อม ภาค 2 ศึกอสูรแดงเดือด",
-    "url": "https://lk-hdx.com/venom-2-let-there-be-carnage-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-2-Let-There-Be-Carnage-2021-เวน่อม-ภาค-2-ศึกอสูรแดงเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5e39b0ba5d63a53d51e180a319e6ce77/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e39b0ba5d63a53d51e180a319e6ce77"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-2-Let-There-Be-Carnage-2021-เวน่อม-ภาค-2-ศึกอสูรแดงเดือด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Venom 1 (2018) เวน่อม ภาค 1",
-    "url": "https://lk-hdx.com/venom-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-1-2018-เวน่อม-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/6Ev_EsYApG"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-1-2018-เวน่อม-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้ ภาค 2",
-    "url": "https://lk-hdx.com/zombieland-2-double-tap-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-2-Double-Tap-2019-แก๊งซ่าส์ล่าล้างซอมบี้-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fd1182e7eb22fa1bef87c24fbdc8f08f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fd1182e7eb22fa1bef87c24fbdc8f08f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-2-Double-Tap-2019-แก๊งซ่าส์ล่าล้างซอมบี้-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Zombieland (2009) ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้ ภาค 1",
-    "url": "https://lk-hdx.com/zombieland-1-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-1-2009-แก๊งคนซ่าส์ล่าซอมบี้-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Xt4AVvth_W"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-1-2009-แก๊งคนซ่าส์ล่าซอมบี้-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Wreck it Ralph (2012) ราล์ฟ วายร้ายหัวใจฮีโร่",
-    "url": "https://lk-hdx.com/wreck-it-ralph-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Wreck-it-Ralph-2012-ราล์ฟ-วายร้ายหัวใจฮีโร่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7ab416281fddd388131ee7bd4475b8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7ab416281fddd388131ee7bd4475b8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Wreck-it-Ralph-2012-ราล์ฟ-วายร้ายหัวใจฮีโร่-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Snow White and the Huntsman (2012) สโนว์ไวท์ พรานป่า ในศึกมหัศจรรย์",
-    "url": "https://lk-hdx.com/snow-white-and-the-huntsman-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Snow-White-and-the-Huntsman-2012-สโนว์ไวท์-พรานป่า-ในศึกมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/473c013f0973074c13146f73d1832f8a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/473c013f0973074c13146f73d1832f8a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Snow-White-and-the-Huntsman-2012-สโนว์ไวท์-พรานป่า-ในศึกมหัศจรรย์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Purge Anarchy (2014) คืนอำมหิต คืนล่าฆ่าไม่ผิด",
-    "url": "https://lk-hdx.com/the-purge-anarchy-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Purge-Anarchy-2014-คืนอำมหิต-คืนล่าฆ่าไม่ผิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8151286b1ad6dca6d77b72d2f7271501/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8151286b1ad6dca6d77b72d2f7271501"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Purge-Anarchy-2014-คืนอำมหิต-คืนล่าฆ่าไม่ผิด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Queen of Kung Fu 3 (2022) ราชินีกังฟู ภาค 3",
-    "url": "https://lk-hdx.com/the-queen-of-kung-fu-3-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-of-Kung-Fu-3-2022-ราชินีกังฟู-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ee48e2cb263b4f7bdcba0268a29c0da6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ee48e2cb263b4f7bdcba0268a29c0da6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-of-Kung-Fu-3-2022-ราชินีกังฟู-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Queen Of Kung Fu 2 (2021) ราชินีกังฟู ภาค 2",
-    "url": "https://lk-hdx.com/the-queen-of-kung-fu-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-Of-Kung-Fu-2-2021-ราชินีกังฟู-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/g_WTuU2I16"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-Of-Kung-Fu-2-2021-ราชินีกังฟู-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Olympus Has Fallen (2013) ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว",
-    "url": "https://lk-hdx.com/olympus-has-fallen-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/24b4b262fdfa7b350b127d29b9cd5640/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/24b4b262fdfa7b350b127d29b9cd5640"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Purge (2013) คืนอำมหิต",
-    "url": "https://lk-hdx.com/the-purge-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Purge-2013-คืนอำมหิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dcd14caf5512a039620f88ed6a198936/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dcd14caf5512a039620f88ed6a198936"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Purge-2013-คืนอำมหิต-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Basic Instinct 2 (2006) เจ็บธรรมดาที่ไม่ธรรมดา ภาค 2",
-    "url": "https://lk-hdx.com/basic-instinct-2-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Basic-Instinct-2-2006-เจ็บธรรมดาที่ไม่ธรรมดา-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8102f1a016552acf458c49f9fd8786b7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8102f1a016552acf458c49f9fd8786b7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Basic-Instinct-2-2006-เจ็บธรรมดาที่ไม่ธรรมดา-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "อีสานตุ๊ดซี่ ภาค 2 (2024) E-Sarn Tootsie Part 2",
-    "url": "https://lk-hdx.com/%e0%b8%ad%e0%b8%b5%e0%b8%aa%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b8%e0%b9%8a%e0%b8%94%e0%b8%8b%e0%b8%b5%e0%b9%88-%e0%b8%a0%e0%b8%b2%e0%b8%84-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/อีสานตุ๊ดซี่-ภาค-2-2024-E-Sarn-Tootsie-Part-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/03f6206c777c454623b8da063c1d1675/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/03f6206c777c454623b8da063c1d1675"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/อีสานตุ๊ดซี่-ภาค-2-2024-E-Sarn-Tootsie-Part-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "อีสานตุ๊ดซี่ ภาค 1 (2024) E-Sarn Tootsie Part 1",
-    "url": "https://lk-hdx.com/e-sarn-tootsie-part-1-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/อีสานตุ๊ดซี่-ภาค-1-2024-E-Sarn-Tootsie-Part-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3b854fd54b7261d063ad55cb9be701e2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3b854fd54b7261d063ad55cb9be701e2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/อีสานตุ๊ดซี่-ภาค-1-2024-E-Sarn-Tootsie-Part-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Yin Yang Master Dream of Eternity (2020) หยิน หยาง ศึกมหาเวทสะท้านพิภพ สู่ฝันอมตะ",
-    "url": "https://lk-hdx.com/the-yin-yang-master-dream-of-eternity-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Yin-Yang-Master-Dream-of-Eternity-2020-หยิน-หยาง-ศึกมหาเวทสะท้านพิภพ-สู่ฝันอมตะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a5821136fa8362bc5a3d684e17817d4e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a5821136fa8362bc5a3d684e17817d4e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Yin-Yang-Master-Dream-of-Eternity-2020-หยิน-หยาง-ศึกมหาเวทสะท้านพิภพ-สู่ฝันอมตะ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "4 Kings (2021) อาชีวะยุค 90",
-    "url": "https://lk-hdx.com/%e0%b8%ad%e0%b8%b2%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%b0%e0%b8%a2%e0%b8%b8%e0%b8%84-90-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/อาชีวะยุค-90-2021-4-Kings-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0806b559b426f7c682e3ac45c5680c9e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0806b559b426f7c682e3ac45c5680c9e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/อาชีวะยุค-90-2021-4-Kings-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "4 Kings 2 (2023)",
-    "url": "https://lk-hdx.com/4-kings-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/4-Kings-2-2023-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3c1a803bc38d6715cd921591a03de01a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c1a803bc38d6715cd921591a03de01a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/4-Kings-2-2023-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "My Big Fat Greek Wedding 3 (2023) รวมญาติงานแต่งตระกูลจี้วายป่วง",
-    "url": "https://lk-hdx.com/my-big-fat-greek-wedding-3-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Big-Fat-Greek-Wedding-3-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2196ad2c7d3bb611cf6df067b6652cbe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2196ad2c7d3bb611cf6df067b6652cbe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Big-Fat-Greek-Wedding-3-2023-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kingdom 3 The Flame of Destiny (2023) สงครามผงาดบันลังก์จิ๋นซี 3 ภาค เพลิงกาฬแห่งโชคชะตา",
-    "url": "https://lk-hdx.com/kingdom-3-the-flame-of-destiny-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Kingdom-3-The-Flame-of-Destiny-2023-สงครามผงาดบันลังก์จิ๋นซี-3-ภาค-เพลิงกาฬแห่งโชคชะตา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e15c7f1bab41ce46f326cfe846e8cc39/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e15c7f1bab41ce46f326cfe846e8cc39"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Kingdom-3-The-Flame-of-Destiny-2023-สงครามผงาดบันลังก์จิ๋นซี-3-ภาค-เพลิงกาฬแห่งโชคชะตา-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Tokyo Revengers 2 Part 2 Bloody Halloween Final Battle (2023) โตเกียว รีเวนเจอร์ส ฮาโลวีนสีเลือด ศึกตัดสิน",
-    "url": "https://lk-hdx.com/tokyo-revengers-2-part-2-bloody-halloween-final-battle-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-2-Bloody-Halloween-Final-Battle-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-ศึกตัดสิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9f413baec2ef271b56a7d1b5fbe5b30c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9f413baec2ef271b56a7d1b5fbe5b30c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-2-Bloody-Halloween-Final-Battle-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-ศึกตัดสิน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Tokyo Revengers 2 Part 1 Bloody Halloween Destiny (2023) โตเกียว รีเวนเจอร์ส ฮาโลวีนสีเลือด โชคชะตา",
-    "url": "https://lk-hdx.com/tokyo-revengers-2-part-1-bloody-halloween-destiny-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-1-Bloody-Halloween-Destiny-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-โชคชะตา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b539ffe099fb63170e099e3080732ac0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b539ffe099fb63170e099e3080732ac0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-1-Bloody-Halloween-Destiny-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-โชคชะตา-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hobbit 3 The Battle Of The Five Armies (2014) เดอะ ฮอบบิท ภาค 3 สงคราม 5 ทัพ",
