@@ -1,0 +1,33 @@
+name: HDX
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # รันทุกวันเที่ยงคืน UTC (ปรับตามต้องการ)
+  workflow_dispatch: # เพิ่ม option manual run
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: node hdx.js
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto update scrape results" || echo "No changes to commit"
+          git push origin main
