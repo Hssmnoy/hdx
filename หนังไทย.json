@@ -5604,152 +5604,436 @@
   {
     "title": "Bangkok Dark Tales (2019) บางกอกสยอง",
     "url": "https://lk-hdx.com/bangkok-dark-tales-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bangkok-Dark-Tales-2019-บางกอกสยอง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bangkok-Dark-Tales-2019-บางกอกสยอง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e82e690ee874ea3933ae439e86078d8b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e82e690ee874ea3933ae439e86078d8b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bikeman 2 (2019) ไบค์แมน ภาค 2",
     "url": "https://lk-hdx.com/bikeman-2-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bikeman-2-2019-ไบค์แมน-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bikeman-2-2019-ไบค์แมน-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/qdOVuJVfA_"
+      }
+    ]
   },
   {
     "title": "Bikeman 1 (2018) ไบค์แมน​ ภาค 1 ศักรินทร์ตูดหมึก",
     "url": "https://lk-hdx.com/bikeman-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bikeman-1-2018-ไบค์แมน​-ภาค-1-ศักรินทร์ตูดหมึก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bikeman-1-2018-ไบค์แมน​-ภาค-1-ศักรินทร์ตูดหมึก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/178125e4519d8606629138eb52d90a2d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/178125e4519d8606629138eb52d90a2d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "God Bless The Trainees Too (2021) ห้าวเป้งจ๋า อย่าแกงน้อง",
     "url": "https://lk-hdx.com/god-bless-the-trainees-too-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/God-Bless-The-Trainees-Too-2021-ห้าวเป้งจ๋า-อย่าแกงน้อง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/God-Bless-The-Trainees-Too-2021-ห้าวเป้งจ๋า-อย่าแกงน้อง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0212d02fd43b4c066ae60760fdb41aeb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0212d02fd43b4c066ae60760fdb41aeb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bad Genius (2017) ฉลาดเกมส์โกง",
     "url": "https://lk-hdx.com/bad-genius-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bad-Genius-2017-ฉลาดเกมส์โกง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bad-Genius-2017-ฉลาดเกมส์โกง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3676d382d013405285cb692c0500b52e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3676d382d013405285cb692c0500b52e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "7 Days (2018) เรารักกัน จันทร์-อาทิตย์",
     "url": "https://lk-hdx.com/7-days-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/7-Days-2018-เรารักกัน-จันทร์-อาทิตย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/7-Days-2018-เรารักกัน-จันทร์-อาทิตย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/260275e900c7d4828d61f3fe3c7aa492"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/260275e900c7d4828d61f3fe3c7aa492/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Homestay (2018) โฮมสเตย์",
     "url": "https://lk-hdx.com/homestay-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Homestay-2018-โฮมสเตย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Homestay-2018-โฮมสเตย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/40cac406099166366bd619a9d8e6aaef"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/40cac406099166366bd619a9d8e6aaef/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Long Live Love (2023) ลอง ลีฟ เลิฟว์",
     "url": "https://lk-hdx.com/long-live-love-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Long-Live-Love-2023-ลอง-ลีฟ-เลิฟว์-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Long-Live-Love-2023-ลอง-ลีฟ-เลิฟว์-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e20bb158dab18c4ab3f1dad4a01eed8c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e20bb158dab18c4ab3f1dad4a01eed8c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Whole Truth (2021) ปริศนารูหลอน",
     "url": "https://lk-hdx.com/the-whole-truth-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Whole-Truth-2021-ปริศนารูหลอน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Whole-Truth-2021-ปริศนารูหลอน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9e4694ae2fb29f8e4f655bb39c988f38"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9e4694ae2fb29f8e4f655bb39c988f38/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ghost Rookie (2023) ผีมือใหม่",
     "url": "https://lk-hdx.com/ghost-rookie-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Ghost-Rookie-2023-ผีมือใหม่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Ghost-Rookie-2023-ผีมือใหม่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/de8eb327ac413c1844e78651b22ac4b0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/de8eb327ac413c1844e78651b22ac4b0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Brother Of The Year (2018) น้อง พี่ ที่รัก",
     "url": "https://lk-hdx.com/brother-of-the-year-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Brother-Of-The-Year-2018-น้อง-พี่-ที่รัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Brother-Of-The-Year-2018-น้อง-พี่-ที่รัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0dd65d291cccc7195ea65084e85dd33e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0dd65d291cccc7195ea65084e85dd33e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Medium (2021) ร่างทรง",
     "url": "https://lk-hdx.com/the-medium-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Medium-2021-ร่างทรง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Medium-2021-ร่างทรง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cef9aab3cd25522991f5330f009dc789"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cef9aab3cd25522991f5330f009dc789/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Still 2 (2014) ตายโหง ภาค 2 ตายเฮี้ยน",
     "url": "https://lk-hdx.com/still-2-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-2-2014-ตายโหง-ภาค-2-ตายเฮี้ยน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-2-2014-ตายโหง-ภาค-2-ตายเฮี้ยน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/185fe81d709b28b1aa442d1fc40f014f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/185fe81d709b28b1aa442d1fc40f014f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Still 1 (2010) ตายโหง ภาค 1",
     "url": "https://lk-hdx.com/still-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-1-2010-ตายโหง-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-1-2010-ตายโหง-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dfec7fcc06ee465c0be57f7746bc19e5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dfec7fcc06ee465c0be57f7746bc19e5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Oops There’s Dad (2005) วัยอลวน 4 ตั้ม-โอ๋ รีเทิร์น",
     "url": "https://lk-hdx.com/oops-theres-dad-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Oops-Theres-Dad-2005-วัยอลวน-4-ตั้ม-โอ๋-รีเทิร์น-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Oops-Theres-Dad-2005-วัยอลวน-4-ตั้ม-โอ๋-รีเทิร์น-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0b3c29271bf18cb89616552d429b89ba"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0b3c29271bf18cb89616552d429b89ba/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sin Sisters 2 (2010) ผู้หญิง 5 บาป ภาค 2",
     "url": "https://lk-hdx.com/sin-sisters-2-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-2-2010-ผู้หญิง-5-บาป-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-2-2010-ผู้หญิง-5-บาป-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8d79138e5f80ab09932c2c7949141461"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8d79138e5f80ab09932c2c7949141461/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sin Sisters 1 (2002) ผู้หญิง 5 บาป ภาค 1",
     "url": "https://lk-hdx.com/sin-sisters-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-1-2002-ผู้หญิง-5-บาป-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-1-2002-ผู้หญิง-5-บาป-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b6e90169645524c97d3702d9f4d8c282"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b6e90169645524c97d3702d9f4d8c282/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Sisters (2004) ผีช่องแอร์",
     "url": "https://lk-hdx.com/the-sisters-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Sisters-2004-ผีช่องแอร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Sisters-2004-ผีช่องแอร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/05b7e555d215791f13979e5089ee5e72"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/05b7e555d215791f13979e5089ee5e72/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mon Ruk Dok Pak Bung (2021) มนต์รักดอกผักบุ้ง เลิกคุยทั้งอำเภอ",
     "url": "https://lk-hdx.com/mon-ruk-dok-pak-bung-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Mon-Ruk-Dok-Pak-Bung-2021-มนต์รักดอกผักบุ้ง-เลิกคุยทั้งอำเภอ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Mon-Ruk-Dok-Pak-Bung-2021-มนต์รักดอกผักบุ้ง-เลิกคุยทั้งอำเภอ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5bc695e820309c5cdffe8d07b1bcea08"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5bc695e820309c5cdffe8d07b1bcea08/master.m3u8"
+      }
+    ]
   },
   {
     "title": "2 Gether The Movie (2021) เพราะเราคู่กัน",
     "url": "https://lk-hdx.com/2-gether-the-movie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/2-Gether-The-Movie-2021-เพราะเราคู่กัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/2-Gether-The-Movie-2021-เพราะเราคู่กัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a8e832ac07189fd7ace04419981b3f69"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a8e832ac07189fd7ace04419981b3f69/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Som Pla Noi (2021) ส้ม ปลา น้อย",
     "url": "https://lk-hdx.com/som-pla-noi-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Som-Pla-Noi-2021-ส้ม-ปลา-น้อย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Som-Pla-Noi-2021-ส้ม-ปลา-น้อย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/VlWFxUIi_U"
+      }
+    ]
   },
   {
     "title": "Noodle Boxer (2006) แสบสนิท ศิษย์ส่ายหน้า",
     "url": "https://lk-hdx.com/noodle-boxer-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Noodle-Boxer-2006-แสบสนิท-ศิษย์ส่ายหน้า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Noodle-Boxer-2006-แสบสนิท-ศิษย์ส่ายหน้า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/26cad7cf58adb10e6e5666d75927d395"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/26cad7cf58adb10e6e5666d75927d395/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hod Na Hiaw (2009) โหดหน้าเหี่ยว",
     "url": "https://lk-hdx.com/hod-na-hiaw-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hod-Na-Hiaw-2009-โหดหน้าเหี่ยว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hod-Na-Hiaw-2009-โหดหน้าเหี่ยว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/badc42ce59ee760cf7e0660fac04f9d2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/badc42ce59ee760cf7e0660fac04f9d2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "See How They Run (2006) โกยเถอะโยม",
     "url": "https://lk-hdx.com/see-how-they-run-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/See-How-They-Run-2006-โกยเถอะโยม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/See-How-They-Run-2006-โกยเถอะโยม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1d4d1f5ccc2a6efef98ee441f34bd189"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1d4d1f5ccc2a6efef98ee441f34bd189/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Friendship (2008) เฟรนด์ชิพ เธอกับฉัน",
     "url": "https://lk-hdx.com/friendship-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Friendship-2008-เฟรนด์ชิพ-เธอกับฉัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Friendship-2008-เฟรนด์ชิพ-เธอกับฉัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/aaab52f1b540ad868ab6582501f8ea46"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/aaab52f1b540ad868ab6582501f8ea46/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Passion (2006) อำมหิตพิศวาส",
     "url": "https://lk-hdx.com/the-passion-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Passion-2006-อำมหิตพิศวาส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Passion-2006-อำมหิตพิศวาส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0ea394fa619388a2a764549207936940"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0ea394fa619388a2a764549207936940/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My God Father (2020) เฮ้ย! ลูกเพ่ นี่ลูกพ่อ",
     "url": "https://lk-hdx.com/my-god-father-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-God-Father-2020-เฮ้ย-ลูกเพ่-นี่ลูกพ่อ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-God-Father-2020-เฮ้ย-ลูกเพ่-นี่ลูกพ่อ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/d1N1Z_GKob"
+      }
+    ]
   },
   {
     "title": "The One Hundred (2022) ๑๐๐ ร้อยขา",
     "url": "https://lk-hdx.com/the-one-hundred-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-One-Hundred-2022-๑๐๐-ร้อยขา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-One-Hundred-2022-๑๐๐-ร้อยขา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/01b5b054ca8f4e1922335e401c2ba07c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/01b5b054ca8f4e1922335e401c2ba07c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Six Characters (2022) มายาพิศวง",
     "url": "https://lk-hdx.com/six-characters-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Six-Characters-2022-มายาพิศวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Six-Characters-2022-มายาพิศวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/26aa2109ec8dbcfa9ec08838a546bf93"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/26aa2109ec8dbcfa9ec08838a546bf93/master.m3u8"
+      }
+    ]
   },
   {
     "title": "SLR (2022) กล้อง ติด ตาย",
     "url": "https://lk-hdx.com/slr-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/SLR-2022-กล้อง-ติด-ตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/SLR-2022-กล้อง-ติด-ตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/fqFu_9rv6x"
+      }
+    ]
   },
   {
     "title": "Bangkok Love Story (2007) เพื่อน กูรักมึงว่ะ",
