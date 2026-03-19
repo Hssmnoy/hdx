@@ -32662,152 +32662,436 @@
   {
     "title": "Eurovision Song Contest The Story of Fire Saga (2020)",
     "url": "https://lk-hdx.com/eurovision-song-contest-the-story-of-fire-saga-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Eurovision-Song-Contest-The-Story-of-Fire-Saga-2020-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Eurovision-Song-Contest-The-Story-of-Fire-Saga-2020-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/3CRiJ_aayY"
+      }
+    ]
   },
   {
     "title": "Dolly Parton’s Christmas on the Square (2020) ดอลลี่ พาร์ตัน คริสต์มาส ออน เดอะ สแควร์",
     "url": "https://lk-hdx.com/dolly-partons-christmas-on-the-square-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dolly-Partons-Christmas-on-the-Square-2020-ดอลลี่-พาร์ตัน-คริสต์มาส-ออน-เดอะ-สแควร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dolly-Partons-Christmas-on-the-Square-2020-ดอลลี่-พาร์ตัน-คริสต์มาส-ออน-เดอะ-สแควร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d0940df0017c4d4d87bf70cb5a89ac8c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d0940df0017c4d4d87bf70cb5a89ac8c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Desperados (2020) เสียฟอร์ม ยอมเพราะรัก",
     "url": "https://lk-hdx.com/desperados-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Desperados-2020-เสียฟอร์ม-ยอมเพราะรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Desperados-2020-เสียฟอร์ม-ยอมเพราะรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/921ff81a8be5a70b419d254cc57b75a7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/921ff81a8be5a70b419d254cc57b75a7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dear Mother (2020) เดียร์ มาเธอร์",
     "url": "https://lk-hdx.com/dear-mother-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dear-Mother-2020-เดียร์-มาเธอร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dear-Mother-2020-เดียร์-มาเธอร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/CJoU_owD4k"
+      }
+    ]
   },
   {
     "title": "Coffee and Kareem (2020) คอฟฟี่กับคารีม",
     "url": "https://lk-hdx.com/coffee-and-kareem-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Coffee-and-Kareem-2020-คอฟฟี่กับคารีม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Coffee-and-Kareem-2020-คอฟฟี่กับคารีม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f0f50be5b5d1f16919ff51736d7f88fa"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f0f50be5b5d1f16919ff51736d7f88fa/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Friendzone (2021) โซนนี้เพื่อนขอ",
     "url": "https://lk-hdx.com/friendzone-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Friendzone-2021-โซนนี้เพื่อนขอ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Friendzone-2021-โซนนี้เพื่อนขอ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8a6823b905c1237cf90bfc48ae77a330"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8a6823b905c1237cf90bfc48ae77a330/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Forever Rich (2021) ฟอร์เอเวอร์ ริช",
     "url": "https://lk-hdx.com/forever-rich-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Forever-Rich-2021-ฟอร์เอเวอร์-ริช-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Forever-Rich-2021-ฟอร์เอเวอร์-ริช-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/21d30f0e6d59db27cc0cd2e144a66af9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/21d30f0e6d59db27cc0cd2e144a66af9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Found (2021)",
     "url": "https://lk-hdx.com/found-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Found-2021-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Found-2021-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1eea12dbad777e177a64ce25805e0649"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1eea12dbad777e177a64ce25805e0649/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sheherazade (2018) ผู้หญิงข้างถนน",
     "url": "https://lk-hdx.com/sheherazade-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sheherazade-2018-ผู้หญิงข้างถนน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sheherazade-2018-ผู้หญิงข้างถนน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1dd2734e8942c0290e91c8a09e5e95ce"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1dd2734e8942c0290e91c8a09e5e95ce/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Roma (2018) โรม่า",
     "url": "https://lk-hdx.com/roma-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Roma-2018-โรม่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Roma-2018-โรม่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d798414a85253e0df241db9818cde191"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d798414a85253e0df241db9818cde191/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Outlaw King (2018) กษัตริย์นอกขัตติยะ",
     "url": "https://lk-hdx.com/outlaw-king-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Outlaw-King-2018-กษัตริย์นอกขัตติยะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Outlaw-King-2018-กษัตริย์นอกขัตติยะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/t8Ljj_X_wV"
+      }
+    ]
   },
   {
     "title": "Never Stop Dreaming The Life and Legacy of Shimon Peres (2018)",
     "url": "https://lk-hdx.com/never-stop-dreaming-the-life-and-legacy-of-shimon-peres-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Never-Stop-Dreaming-The-Life-and-Legacy-of-Shimon-Peres-2018-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Never-Stop-Dreaming-The-Life-and-Legacy-of-Shimon-Peres-2018-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/58c72cf0e6d499cedf2cbb45e3b97fbb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/58c72cf0e6d499cedf2cbb45e3b97fbb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mirage (2018) ภาพลวงตา",
     "url": "https://lk-hdx.com/mirage-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mirage-2018-ภาพลวงตา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mirage-2018-ภาพลวงตา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7133390aab0f6d5ff7eeaa12b52fc3a9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7133390aab0f6d5ff7eeaa12b52fc3a9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Monster (2018) ปีศาจ",
     "url": "https://lk-hdx.com/monster-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Monster-2018-ปีศาจ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Monster-2018-ปีศาจ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f75b8d750caefe2ad13c34696b83ee8d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f75b8d750caefe2ad13c34696b83ee8d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mute (2018) มิวท์",
     "url": "https://lk-hdx.com/mute-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mute-2018-มิวท์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mute-2018-มิวท์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/40157fa878e9789a131772c3a9e2203b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/40157fa878e9789a131772c3a9e2203b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I Am Not an Easy Man (2018) ผมไม่ใช่ผู้ชายง่ายๆ",
     "url": "https://lk-hdx.com/i-am-not-an-easy-man-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Am-Not-an-Easy-Man-2018-ผมไม่ใช่ผู้ชายง่ายๆ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Am-Not-an-Easy-Man-2018-ผมไม่ใช่ผู้ชายง่ายๆ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2e3598620a79db7f1a2dabf9ee97c5ac"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2e3598620a79db7f1a2dabf9ee97c5ac/master.m3u8"
+      }
+    ]
   },
   {
     "title": "How It Ends (2018) ฮาว อิท เอนด์ส",
     "url": "https://lk-hdx.com/how-it-ends-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/How-It-Ends-2018-ฮาว-อิท-เอนด์ส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/How-It-Ends-2018-ฮาว-อิท-เอนด์ส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9f03efacab4bd266ea92a555b1e59104"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9f03efacab4bd266ea92a555b1e59104/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hold the Dark (2018) โฮลด์ เดอะ ดาร์ก",
     "url": "https://lk-hdx.com/hold-the-dark-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hold-the-Dark-2018-โฮลด์-เดอะ-ดาร์ก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hold-the-Dark-2018-โฮลด์-เดอะ-ดาร์ก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/be885f0a220d032d5eedd701d0989086"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/be885f0a220d032d5eedd701d0989086/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ariana Grande Excuse Me, I Love You (2020) อารีอานา กรานเด",
     "url": "https://lk-hdx.com/ariana-grande-excuse-me-i-love-you-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Ariana-Grande-Excuse-Me-I-Love-You-2020-อารีอานา-กรานเด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Ariana-Grande-Excuse-Me-I-Love-You-2020-อารีอานา-กรานเด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bd301a907a764dafd2b231929c259275"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bd301a907a764dafd2b231929c259275/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Athlete A (2020) นักกีฬาผู้กล้าหาญ",
     "url": "https://lk-hdx.com/athlete-a-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Athlete-A-2020-นักกีฬาผู้กล้าหาญ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Athlete-A-2020-นักกีฬาผู้กล้าหาญ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b413828a1ae8a73770bc74a1bef83c82"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b413828a1ae8a73770bc74a1bef83c82/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Diana The Musical (2021) ไดอานา เดอะ",
     "url": "https://lk-hdx.com/diana-the-musical-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Diana-The-Musical-2021-ไดอานา-เดอะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Diana-The-Musical-2021-ไดอานา-เดอะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0f18243eb6c820966aa0d06aaa88e1e5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0f18243eb6c820966aa0d06aaa88e1e5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "David and the Elves (2021) เดวิดกับเอลฟ์",
     "url": "https://lk-hdx.com/david-and-the-elves-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/David-and-the-Elves-2021-เดวิดกับเอลฟ์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/David-and-the-Elves-2021-เดวิดกับเอลฟ์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/316ac9d15e4ea2470ceea98856ebe7e9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/316ac9d15e4ea2470ceea98856ebe7e9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Confessions of an Invisible Girl (2021) คำสารภาพของสาวล่องหน",
     "url": "https://lk-hdx.com/confessions-of-an-invisible-girl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Confessions-of-an-Invisible-Girl-2021-คำสารภาพของสาวล่องหน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Confessions-of-an-Invisible-Girl-2021-คำสารภาพของสาวล่องหน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1a4341958d48d93ce37690467d6e7549"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1a4341958d48d93ce37690467d6e7549/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Crazy About Her (2021) บ้า ก็บ้ารัก",
     "url": "https://lk-hdx.com/crazy-about-her-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Crazy-About-Her-2021-บ้า-ก็บ้ารัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Crazy-About-Her-2021-บ้า-ก็บ้ารัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c6f142e7cb6ed965c453e8a10587d122"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c6f142e7cb6ed965c453e8a10587d122/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Kingdom of Us (2017)",
     "url": "https://lk-hdx.com/kingdom-of-us-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kingdom-of-Us-2017-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kingdom-of-Us-2017-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7e10c88c78e64093ab0116330efd2513"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7e10c88c78e64093ab0116330efd2513/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I Don’t Feel at Home in This World Anymore (2017) โลกนี้ไม่ใช่ที่ของฉัน",
     "url": "https://lk-hdx.com/i-dont-feel-at-home-in-this-world-anymore-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Dont-Feel-at-Home-in-This-World-Anymore-2017-โลกนี้ไม่ใช่ที่ของฉัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Dont-Feel-at-Home-in-This-World-Anymore-2017-โลกนี้ไม่ใช่ที่ของฉัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ab302a1f1d7287b60a53871b246dca68"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ab302a1f1d7287b60a53871b246dca68/master.m3u8"
+      }
+    ]
   },
   {
     "title": "First They Killed My Father (2017) เมื่อพ่อของฉันถูกฆ่า",
     "url": "https://lk-hdx.com/first-they-killed-my-father-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/First-They-Killed-My-Father-2017-เมื่อพ่อของฉันถูกฆ่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/First-They-Killed-My-Father-2017-เมื่อพ่อของฉันถูกฆ่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2eb83ffce70edb923be8ce2a6415b6db"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2eb83ffce70edb923be8ce2a6415b6db/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bright (2017) ไบรท์",
     "url": "https://lk-hdx.com/bright-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Bright-2017-ไบรท์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Bright-2017-ไบรท์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0963c324473f81a41701abbc564b9761"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0963c324473f81a41701abbc564b9761/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Fundamentals of Caring (2016) บทเรียนพื้นฐานของการใส่ใจ",
     "url": "https://lk-hdx.com/the-fundamentals-of-caring-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Fundamentals-of-Caring-2016-บทเรียนพื้นฐานของการใส่ใจ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Fundamentals-of-Caring-2016-บทเรียนพื้นฐานของการใส่ใจ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e9dfb4a5c00a6acf7da28b1013492e64"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e9dfb4a5c00a6acf7da28b1013492e64/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Tallulah (2016) ทาลูลาห์",
     "url": "https://lk-hdx.com/tallulah-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Tallulah-2016-ทาลูลาห์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Tallulah-2016-ทาลูลาห์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/kkHaS_zW0A"
+      }
+    ]
   },
   {
     "title": "Amanda Knox (2016) อแมนด้า น็อกซ์",
