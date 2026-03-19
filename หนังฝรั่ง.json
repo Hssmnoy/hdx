@@ -45617,153 +45617,441 @@
   },
   {
     "title": "Wonka (2023) วองก้า",
-    "url": "https://lk-hdx.com/wonka/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Wonka-2023-วองก้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25b3fad149ca55b33fb11c49485cd7f1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25b3fad149ca55b33fb11c49485cd7f1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Wonka-2023-วองก้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Napoleon (2023) จักรพรรดินโปเลียน",
-    "url": "https://lk-hdx.com/napoleon-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Napoleon-2023-จักรพรรดินโปเลียน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/92af1b091e8bfd1c6459f5b478fe3320/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/92af1b091e8bfd1c6459f5b478fe3320"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Napoleon-2023-จักรพรรดินโปเลียน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Thanksgiving (2023) คืนเดือดเชือดขาช็อป",
-    "url": "https://lk-hdx.com/thanksgiving-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Thanksgiving-2023-คืนเดือดเชือดขาช็อป-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_5XhAMIPd3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Thanksgiving-2023-คืนเดือดเชือดขาช็อป-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Semper Fi (2019) ตำรวจระห่ำ ฆ่าไม่ตาย",
-    "url": "https://lk-hdx.com/semper-fi-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Semper-Fi-2019-ตำรวจระห่ำ-ฆ่าไม่ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5c1f7e3c32d75c025d55d2481305dc34/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5c1f7e3c32d75c025d55d2481305dc34"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Semper-Fi-2019-ตำรวจระห่ำ-ฆ่าไม่ตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Stray (2019) ผีอยากเป็นลูกคน",
-    "url": "https://lk-hdx.com/stray-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Stray-2019-ผีอยากเป็นลูกคน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/734b2148ff449206a32fa1bfe340fe41/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/734b2148ff449206a32fa1bfe340fe41"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Stray-2019-ผีอยากเป็นลูกคน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Scary Stories to Tell in the Dark (2019) คืนนี้มีสยอง",
-    "url": "https://lk-hdx.com/scary-stories-to-tell-in-the-dark-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Scary-Stories-to-Tell-in-the-Dark-2019-คืนนี้มีสยอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c2d5e2d6eb4129893d7e61e5cea9f1bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2d5e2d6eb4129893d7e61e5cea9f1bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Scary-Stories-to-Tell-in-the-Dark-2019-คืนนี้มีสยอง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Solar Impact (2019) ซอมบี้สุริยะ",
-    "url": "https://lk-hdx.com/solar-impact-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Solar-Impact-2019-ซอมบี้สุริยะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a193ef0e4ae83e32cfefea323af0b317/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a193ef0e4ae83e32cfefea323af0b317"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Solar-Impact-2019-ซอมบี้สุริยะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Run This Town (2019) เมืองอาชญากล",
-    "url": "https://lk-hdx.com/run-this-town-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Run-This-Town-2019-เมืองอาชญากล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/18d90cb95649b0c4c800d78a543ec7ff/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/18d90cb95649b0c4c800d78a543ec7ff"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Run-This-Town-2019-เมืองอาชญากล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pokémon Detective Pikachu (2019) โปเกมอน ยอดนักสืบพิคาชู",
-    "url": "https://lk-hdx.com/pokemon-detective-pikachu-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Pokemon-Detective-Pikachu-2019-โปเกมอน-ยอดนักสืบพิคาชู-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8776393ddb546f17cc7323ae37ede5ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8776393ddb546f17cc7323ae37ede5ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Pokemon-Detective-Pikachu-2019-โปเกมอน-ยอดนักสืบพิคาชู-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Paradise Hills (2019) สวรรค์ซ้อนนรก",
-    "url": "https://lk-hdx.com/paradise-hills-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Paradise-Hills-2019-สวรรค์ซ้อนนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/47701baca04e1381290fa7b1074e5f4e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/47701baca04e1381290fa7b1074e5f4e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Paradise-Hills-2019-สวรรค์ซ้อนนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Paydirt (2020) ปล้นซ้อนแผน",
-    "url": "https://lk-hdx.com/paydirt-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Paydirt-2020-ปล้นซ้อนแผน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f1051fa04acdcd5553deb56ceabad062/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f1051fa04acdcd5553deb56ceabad062"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Paydirt-2020-ปล้นซ้อนแผน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Promising Young Woman (2020) สาวซ่าส์ล่าบัญชีแค้น",
-    "url": "https://lk-hdx.com/promising-young-woman-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Promising-Young-Woman-2020-สาวซ่าส์ล่าบัญชีแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/686bbeed7588e5934267b99202ff21a2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/686bbeed7588e5934267b99202ff21a2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Promising-Young-Woman-2020-สาวซ่าส์ล่าบัญชีแค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "No Escape (Follow Me) (2020) เกมนรก ห้องปิดตาย",
-    "url": "https://lk-hdx.com/no-escape-follow-me-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/No-Escape-Follow-Me-2020-เกมนรก-ห้องปิดตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/97434e25fd5fb384a2acd721c53bc791/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/97434e25fd5fb384a2acd721c53bc791"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/No-Escape-Follow-Me-2020-เกมนรก-ห้องปิดตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Not A Game (2020) เกมนี้ไม่ใช่เล่นๆ",
-    "url": "https://lk-hdx.com/not-a-game-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Not-A-Game-2020-เกมนี้ไม่ใช่เล่นๆ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f08dcff67d85f1c7460907fab45d4e4e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f08dcff67d85f1c7460907fab45d4e4e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Not-A-Game-2020-เกมนี้ไม่ใช่เล่นๆ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "My Spy (2020) พยัคฆ์ร้าย สปายแสบ",
-    "url": "https://lk-hdx.com/my-spy-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/My-Spy-2020-พยัคฆ์ร้าย-สปายแสบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/cvsDY_II6N"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/My-Spy-2020-พยัคฆ์ร้าย-สปายแสบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mortal (2020) ปริศนาพลังเหนือมนุษย์",
-    "url": "https://lk-hdx.com/mortal-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Mortal-2020-ปริศนาพลังเหนือมนุษย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7e_J7ZDuv2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Mortal-2020-ปริศนาพลังเหนือมนุษย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Full Measure (2019) วีรบุรุษโลกไม่จำ",
-    "url": "https://lk-hdx.com/the-last-full-measure-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Last-Full-Measure-2019-วีรบุรุษโลกไม่จำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8d164ba11398ac9edb4f99b151302bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8d164ba11398ac9edb4f99b151302bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Last-Full-Measure-2019-วีรบุรุษโลกไม่จำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Room (2019) ห้องขอหลอน",
-    "url": "https://lk-hdx.com/the-room-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Room-2019-ห้องขอหลอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dde70f29a8a34fb21b6e7486fc60fa0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dde70f29a8a34fb21b6e7486fc60fa0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Room-2019-ห้องขอหลอน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Mystery of the Dragon Seal (2019) อภินิหารมังกรฟัดโลก",
-    "url": "https://lk-hdx.com/the-mystery-of-the-dragon-seal-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Mystery-of-the-Dragon-Seal-2019-อภินิหารมังกรฟัดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/31f2236065c9585e3565b895b1aa2025/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/31f2236065c9585e3565b895b1aa2025"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Mystery-of-the-Dragon-Seal-2019-อภินิหารมังกรฟัดโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Triple Threat (2019) ทริปเปิล เธรท สามโหดมหากาฬ",
-    "url": "https://lk-hdx.com/triple-threat-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Triple-Threat-2019-ทริปเปิล-เธรท-สามโหดมหากาฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90abdfaed922d4fd286b85da67fa18f4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90abdfaed922d4fd286b85da67fa18f4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Triple-Threat-2019-ทริปเปิล-เธรท-สามโหดมหากาฬ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Peanut Butter Falcon (2019) คู่ซ่า บ้าล่าฝัน",
-    "url": "https://lk-hdx.com/the-peanut-butter-falcon-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Peanut-Butter-Falcon-2019-คู่ซ่า-บ้าล่าฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ac1f74ba2d7f5057bee29987cb160d90/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac1f74ba2d7f5057bee29987cb160d90"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Peanut-Butter-Falcon-2019-คู่ซ่า-บ้าล่าฝัน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Mortuary Collection (2019) เรื่องเล่าจากศพ",
-    "url": "https://lk-hdx.com/the-mortuary-collection-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Mortuary-Collection-2019-เรื่องเล่าจากศพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/735d6874686733e71b702ca593029eff/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/735d6874686733e71b702ca593029eff"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Mortuary-Collection-2019-เรื่องเล่าจากศพ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Dare (2019) เพื่อนรักนักเชือด",
-    "url": "https://lk-hdx.com/the-dare-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dare-2019-เพื่อนรักนักเชือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e81328476f09930b8d51bc1502ad7f07/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e81328476f09930b8d51bc1502ad7f07"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dare-2019-เพื่อนรักนักเชือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Furies (2019) จับเธอมาล่า",
-    "url": "https://lk-hdx.com/the-furies-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Furies-2019-จับเธอมาล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e115579085034abd678e7bddac28eb35/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e115579085034abd678e7bddac28eb35"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Furies-2019-จับเธอมาล่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tesla (2020) เทสลา คนล่าอนาคต",
-    "url": "https://lk-hdx.com/tesla-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Tesla-2020-เทสลา-คนล่าอนาคต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/06a4a34217b2dd87df8974ee502ea644/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/06a4a34217b2dd87df8974ee502ea644"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Tesla-2020-เทสลา-คนล่าอนาคต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Outpost (2020) ผ่ายุทธภูมิล้อมตาย",
-    "url": "https://lk-hdx.com/the-outpost-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Outpost-2020-ผ่ายุทธภูมิล้อมตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/77931a6d9f1cbb1f0b4f62afa2f0eea8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/77931a6d9f1cbb1f0b4f62afa2f0eea8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Outpost-2020-ผ่ายุทธภูมิล้อมตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Hunt (2020) จับ ฆ่า ล่าโหด",
-    "url": "https://lk-hdx.com/the-hunt-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunt-2020-จับ-ฆ่า-ล่าโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb743e79babe11f5a81770073ca0ad90/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb743e79babe11f5a81770073ca0ad90"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunt-2020-จับ-ฆ่า-ล่าโหด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Santana (2020) แค้นสั่งล่า",
-    "url": "https://lk-hdx.com/santana-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Santana-2020-แค้นสั่งล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a301e6790649161dbc927ed7740e835b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a301e6790649161dbc927ed7740e835b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Santana-2020-แค้นสั่งล่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Songbird (2020) โควิด 23 ไวรัสล้างโลก",
-    "url": "https://lk-hdx.com/songbird-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Songbird-2020-โควิด-23-ไวรัสล้างโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eb321c42172282793af902b495af1f12/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eb321c42172282793af902b495af1f12"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Songbird-2020-โควิด-23-ไวรัสล้างโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fall Into Winter (2023)",
-    "url": "https://lk-hdx.com/fall-into-winter-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Fall-Into-Winter-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/084ab12bff18c97744e35277fc1658ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/084ab12bff18c97744e35277fc1658ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Fall-Into-Winter-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Christmas as Usual (2023) คริสตมาสธรรมด๊า ธรรมดา",
