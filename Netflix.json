@@ -9859,153 +9859,441 @@
   },
   {
     "title": "In for a Murder (2021) ฆาตกรรม จำต้องสืบ",
-    "url": "https://lk-hdx.com/in-for-a-murder-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/In-for-a-Murder-2021-ฆาตกรรม-จำต้องสืบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4877f09f0312eb56b399dca601e0c74/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4877f09f0312eb56b399dca601e0c74"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/In-for-a-Murder-2021-ฆาตกรรม-จำต้องสืบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Get The Goat (2021) คู่ยุ่งตะลุยหาแพะ",
-    "url": "https://lk-hdx.com/get-the-goat-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-The-Goat-2021-คู่ยุ่งตะลุยหาแพะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/GLV3OVe_5U"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-The-Goat-2021-คู่ยุ่งตะลุยหาแพะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ferry (2021) แฟร์รี่ เจ้าพ่อผงาด",
-    "url": "https://lk-hdx.com/ferry-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ferry-2021-แฟร์รี่-เจ้าพ่อผงาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ffd404f46d0dfc23d0769e1773c8273/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ffd404f46d0dfc23d0769e1773c8273"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Ferry-2021-แฟร์รี่-เจ้าพ่อผงาด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nyad (2023) ว่ายเพื่อฝัน",
-    "url": "https://lk-hdx.com/nyad-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Nyad-2023-ว่ายเพื่อฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/29426a621d12a446e0b77731d87f9185/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/29426a621d12a446e0b77731d87f9185"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Nyad-2023-ว่ายเพื่อฝัน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sly (2023) ซิลเวสเตอร์ สตอลโลนด",
-    "url": "https://lk-hdx.com/sly-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Sly-2023-ซิลเวสเตอร์-สตอลโลน-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb3e5bbb894208ad98bb67a6b66d54f6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb3e5bbb894208ad98bb67a6b66d54f6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Sly-2023-ซิลเวสเตอร์-สตอลโลน-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "Over The Moon (2020) เนรมิตฝันสู่จันทรา",
-    "url": "https://lk-hdx.com/over-the-moon-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Over-The-Moon-2020-เนรมิตฝันสู่จันทรา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d10d5ca66685b65fbaddfe202c4962a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d10d5ca66685b65fbaddfe202c4962a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Over-The-Moon-2020-เนรมิตฝันสู่จันทรา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Just Another Christmas (2020) คริสต์มาส อีกแล้ว",
-    "url": "https://lk-hdx.com/just-another-christmas-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Just-Another-Christmas-2020-คริสต์มาส-อีกแล้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/J1JsQl_aB1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Just-Another-Christmas-2020-คริสต์มาส-อีกแล้ว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "How I Became a Gangster (2020) วิถีมาเฟีย",
-    "url": "https://lk-hdx.com/how-i-became-a-gangster-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/How-I-Became-a-Gangster-2020-วิถีมาเฟีย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a48beb11b6273263fca8909a6f497cb5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a48beb11b6273263fca8909a6f497cb5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/How-I-Became-a-Gangster-2020-วิถีมาเฟีย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Great Hack (2019) แฮ็กสนั่นโลก",
-    "url": "https://lk-hdx.com/the-great-hack-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Great-Hack-2019-แฮ็กสนั่นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdfa5e04a670824083465da8012e6adb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdfa5e04a670824083465da8012e6adb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Great-Hack-2019-แฮ็กสนั่นโลก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Wounds (2019) สัญญาณสั่งตาย",
-    "url": "https://lk-hdx.com/wounds-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Wounds-2019-สัญญาณสั่งตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c938b8155dc517a5623ad2a4275e1522/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c938b8155dc517a5623ad2a4275e1522"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Wounds-2019-สัญญาณสั่งตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Occupant (2020) บ้าน ซ่อน แอบ",
-    "url": "https://lk-hdx.com/the-occupant-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Occupant-2020-บ้าน-ซ่อน-แอบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e2b74bf64dee826c820c04bb399a3313/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e2b74bf64dee826c820c04bb399a3313"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Occupant-2020-บ้าน-ซ่อน-แอบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The 8th Night (2021) คืนที่ 8",
-    "url": "https://lk-hdx.com/the-8th-night-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-8th-Night-2021-คืนที่-8-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/whVL_iG2GW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-8th-Night-2021-คืนที่-8-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Untold Deal With The Devil (2021) สัญญาปีศาจ",
-    "url": "https://lk-hdx.com/untold-deal-with-the-devil-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Untold-Deal-With-The-Devil-2021-สัญญาปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/91d8dbeb15db3ce261bd3e5769773b5e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/91d8dbeb15db3ce261bd3e5769773b5e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Untold-Deal-With-The-Devil-2021-สัญญาปีศาจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Get the Grift (2021) ครอบครัวจอมตุ๋น",
-    "url": "https://lk-hdx.com/get-the-grift-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-the-Grift-2021-ครอบครัวจอมตุ๋น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/230b7d49fea6440994eb778aa7982889/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/230b7d49fea6440994eb778aa7982889"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-the-Grift-2021-ครอบครัวจอมตุ๋น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Chernobyl 1986 (2021) เชอร์โนบิล 1986",
-    "url": "https://lk-hdx.com/chernobyl-1986-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Chernobyl-1986-2021-เชอร์โนบิล-1986-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c9723ad6422aa2a65775d29f238774c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c9723ad6422aa2a65775d29f238774c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Chernobyl-1986-2021-เชอร์โนบิล-1986-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ghost Stories (2020) เรื่องผี เรื่องวิญญาณ",
-    "url": "https://lk-hdx.com/ghost-stories-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-Stories-2020-เรื่องผี-เรื่องวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7b6db991f45a0944bce90f85d93f3e31/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7b6db991f45a0944bce90f85d93f3e31"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-Stories-2020-เรื่องผี-เรื่องวิญญาณ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rising High (2020) สูงเสียดฟ้า",
-    "url": "https://lk-hdx.com/rising-high-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Rising-High-2020-สูงเสียดฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ec894fa1e56f20e1d84454a88a435786/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec894fa1e56f20e1d84454a88a435786"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Rising-High-2020-สูงเสียดฟ้า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Eli (2019) อีไล จิตต้องขัง",
-    "url": "https://lk-hdx.com/eli-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Eli-2019-อีไล-จิตต้องขัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aaec27029466f8ef04e515040706b9a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aaec27029466f8ef04e515040706b9a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Eli-2019-อีไล-จิตต้องขัง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Klaus (2019) มหัศจรรย์ตำนานคริสต์มาส",
-    "url": "https://lk-hdx.com/klaus-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Klaus-2019-มหัศจรรย์ตำนานคริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f89770ce938b19045ffb60afc14f40b6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f89770ce938b19045ffb60afc14f40b6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Klaus-2019-มหัศจรรย์ตำนานคริสต์มาส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Extinction (2018) ฝันร้าย ภัยสูญพันธุ์",
-    "url": "https://lk-hdx.com/extinction-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Extinction-2018-ฝันร้าย-ภัยสูญพันธุ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/339dcd015297c87abafa3ad6b7c56916/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/339dcd015297c87abafa3ad6b7c56916"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Extinction-2018-ฝันร้าย-ภัยสูญพันธุ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "22 July (2018) 22 กรกฎาคม วันมหาโหด",
-    "url": "https://lk-hdx.com/22-july-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/22-July-2018-22-กรกฎาคม-วันมหาโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c57b8dfa31270bc7da90b4869ffdf163/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c57b8dfa31270bc7da90b4869ffdf163"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/22-July-2018-22-กรกฎาคม-วันมหาโหด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Furie (2019) ไฟแค้นดับนรก",
-    "url": "https://lk-hdx.com/furie-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Furie-2019-ไฟแค้นดับนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/281e604a7e06b03678cd7ad30e605ec5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/281e604a7e06b03678cd7ad30e605ec5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Furie-2019-ไฟแค้นดับนรก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "American Factory (2019) โรงงานจีน ฝันอเมริกัน",
-    "url": "https://lk-hdx.com/american-factory-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Factory-2019-โรงงานจีน-ฝันอเมริกัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8736f4419c3d065b4306c644062f504e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8736f4419c3d065b4306c644062f504e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Factory-2019-โรงงานจีน-ฝันอเมริกัน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fatal Affair (2020) พิศวาสอันตราย",
-    "url": "https://lk-hdx.com/fatal-affair-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Fatal-Affair-2020-พิศวาสอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9d0a7d9a01316cb048e7d69f6a5a17a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9d0a7d9a01316cb048e7d69f6a5a17a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Fatal-Affair-2020-พิศวาสอันตราย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bulbbul (2020) รอยรักตำนานอาถรรพ์",
-    "url": "https://lk-hdx.com/bulbbul-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bulbbul-2020-รอยรักตำนานอาถรรพ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/398174d26b17c3927e9fc26f6963a8f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/398174d26b17c3927e9fc26f6963a8f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Bulbbul-2020-รอยรักตำนานอาถรรพ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Amina (2021) อะมีนา ราชินีนักรบ",
-    "url": "https://lk-hdx.com/amina-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Amina-2021-อะมีนา-ราชินีนักรบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9aa1a97ad9ab4fb406b786fada30f9a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9aa1a97ad9ab4fb406b786fada30f9a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Amina-2021-อะมีนา-ราชินีนักรบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Camp Confidential Americas Secret Nazis (2021) ค่ายลับ นาซีอเมริกา",
-    "url": "https://lk-hdx.com/camp-confidential-americas-secret-nazis-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Camp-Confidential-Americas-Secret-Nazis-2021-ค่ายลับ-นาซีอเมริกา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/02cb33d7464cbd2f08c9b2030a4f05bc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/02cb33d7464cbd2f08c9b2030a4f05bc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Camp-Confidential-Americas-Secret-Nazis-2021-ค่ายลับ-นาซีอเมริกา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Carolin Kebekus The Last Christmas Special (2021) คาโรลิน เคเบคัส คริสต์มาสสุดพิเศษ",
-    "url": "https://lk-hdx.com/carolin-kebekus-the-last-christmas-special-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Carolin-Kebekus-The-Last-Christmas-Special-2021-คาโรลิน-เคเบคัส-คริสต์มาสสุดพิเศษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aa11615f33827b60e1a706d5e3270a62/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aa11615f33827b60e1a706d5e3270a62"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Carolin-Kebekus-The-Last-Christmas-Special-2021-คาโรลิน-เคเบคัส-คริสต์มาสสุดพิเศษ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Beasts Of No Nation (2015) เดรัจฉานไร้สัญชาติ",
-    "url": "https://lk-hdx.com/beasts-of-no-nation-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Beasts-Of-No-Nation-2015-เดรัจฉานไร้สัญชาติ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b77e21bc20cc7033f06ee0cb2ce7aba5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b77e21bc20cc7033f06ee0cb2ce7aba5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Beasts-Of-No-Nation-2015-เดรัจฉานไร้สัญชาติ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Chasing Coral (2017) ไล่ล่าหาปะการัง",
-    "url": "https://lk-hdx.com/chasing-coral-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Chasing-Coral-2017-ไล่ล่าหาปะการัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c78eb14affe7f95e996013ade60dddbc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c78eb14affe7f95e996013ade60dddbc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Chasing-Coral-2017-ไล่ล่าหาปะการัง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Animal Crackers (2017) มหัศจรรย์ละครสัตว์",
