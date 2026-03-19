@@ -6471,153 +6471,425 @@
   },
   {
     "title": "Snap (2015) แค่ ได้คิดถึง",
-    "url": "https://lk-hdx.com/snap-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Snap-2015-แค่-ได้คิดถึง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_moSFxwUJn"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Snap-2015-แค่-ได้คิดถึง-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Wall (2018) เณรกระโดดกำแพง",
-    "url": "https://lk-hdx.com/the-wall-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Wall-2018-เณรกระโดดกำแพง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tPqkd_OYYe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Wall-2018-เณรกระโดดกำแพง-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The 400 Bravers (2018) 400 นักรบขุนรองปลัดชู",
-    "url": "https://lk-hdx.com/the-400-bravers-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-400-Bravers-2018-400-นักรบขุนรองปลัดชู-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5822477ca07217a6b5d192e825e53071/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5822477ca07217a6b5d192e825e53071"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-400-Bravers-2018-400-นักรบขุนรองปลัดชู-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "OMG! Oh My Girl (2022) OMG รักจังวะ ผิดจังหวะ",
-    "url": "https://lk-hdx.com/omg-oh-my-girl-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/OMG-Oh-My-Girl-2022-OMG-รักจังวะ-ผิดจังหวะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cb2ee2b2734bb3cc2e5fb70e252d99f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cb2ee2b2734bb3cc2e5fb70e252d99f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/OMG-Oh-My-Girl-2022-OMG-รักจังวะ-ผิดจังหวะ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Pah Phee Bok (2022) ผ้าผีบอก",
-    "url": "https://lk-hdx.com/pah-phee-bok-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Pah-Phee-Bok-2022-ผ้าผีบอก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/CrMrn1_Tdd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Pah-Phee-Bok-2022-ผ้าผีบอก-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Protect (2019) บอดี้การ์ด หน้าหัก",
-    "url": "https://lk-hdx.com/the-protect-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Protect-2019-บอดี้การ์ด-หน้าหัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6bd5be0ccc7553dbad22911686b452f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6bd5be0ccc7553dbad22911686b452f2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Protect-2019-บอดี้การ์ด-หน้าหัก-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Do You Love Me (2020) รักหนูมั้ย",
-    "url": "https://lk-hdx.com/do-you-love-me-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Do-You-Love-Me-2020-รักหนูมั้ย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nHNA_IalhJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Do-You-Love-Me-2020-รักหนูมั้ย-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Once Upon A Star (2023) มนต์รักนักพากย์",
-    "url": "https://lk-hdx.com/once-upon-a-star-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Once-Upon-A-Star-2023-มนต์รักนักพากย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6f5fb0ff88ec43f435f4778f2a1bc90/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6f5fb0ff88ec43f435f4778f2a1bc90"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Once-Upon-A-Star-2023-มนต์รักนักพากย์-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Dark Secrets (2019) สาป ซ่อน ศพ",
-    "url": "https://lk-hdx.com/dark-secrets-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dark-Secrets-2019-สาป-ซ่อน-ศพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1deeb107594ce98bbda5ea153079b25f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1deeb107594ce98bbda5ea153079b25f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dark-Secrets-2019-สาป-ซ่อน-ศพ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Where We Belong (2019) ที่ตรงนั้น มีฉันหรือเปล่า",
-    "url": "https://lk-hdx.com/where-we-belong-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Where-We-Belong-2019-ที่ตรงนั้น-มีฉันหรือเปล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df70a2656bb23351889de73c62d13678/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df70a2656bb23351889de73c62d13678"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Where-We-Belong-2019-ที่ตรงนั้น-มีฉันหรือเปล่า-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "My Next Doll (2023) ยัยตุ๊กตาซ้อมรักยกกำลังสอง",
-    "url": "https://lk-hdx.com/my-next-doll-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Next-Doll-2023-ยัยตุ๊กตาซ้อมรักยกกำลังสอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ff5a590b860822970aa4ccd46f633120/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ff5a590b860822970aa4ccd46f633120"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Next-Doll-2023-ยัยตุ๊กตาซ้อมรักยกกำลังสอง-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "My Sexdoll (2020) พร้อมรุก ยัยตุ๊กตาซ้อมรัก",
-    "url": "https://lk-hdx.com/my-sexdoll-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Sexdoll-2020-พร้อมรุก-ยัยตุ๊กตาซ้อมรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/0rn_b3egBD"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Sexdoll-2020-พร้อมรุก-ยัยตุ๊กตาซ้อมรัก-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Faces of Anne (2022) แอน",
-    "url": "https://lk-hdx.com/faces-of-anne-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Faces-of-Anne-2022-แอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4287615cedc9d9b5d71f2dcfb3117451/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4287615cedc9d9b5d71f2dcfb3117451"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Faces-of-Anne-2022-แอน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Leio (2022) ไลโอ โคตรแย้ยักษ์",
-    "url": "https://lk-hdx.com/leio-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Leio-2022-ไลโอ-โคตรแย้ยักษ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e064ed97a111484ea26ddbae37251422/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e064ed97a111484ea26ddbae37251422"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Leio-2022-ไลโอ-โคตรแย้ยักษ์-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Night of the Killer Bears (2022) คืนหมีฆ่า",
-    "url": "https://lk-hdx.com/night-of-the-killer-bears-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-of-the-Killer-Bears-2022-คืนหมีฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbc8ba08679468352cf79895aab35930/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbc8ba08679468352cf79895aab35930"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-of-the-Killer-Bears-2022-คืนหมีฆ่า-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Love 101 (2022) LOVE เลยร้อยเอ็ด",
-    "url": "https://lk-hdx.com/love-101-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-101-2022-LOVE-เลยร้อยเอ็ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a619424a05d8aa1bafffa271badb5685/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a619424a05d8aa1bafffa271badb5685"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-101-2022-LOVE-เลยร้อยเอ็ด-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Love You My Arrogance 2 (2022) สปาร์คใจนายจอมหยิ่ง เดอะ มูฟวี่ 2",
-    "url": "https://lk-hdx.com/love-you-my-arrogance-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-You-My-Arrogance-2-2022-สปาร์คใจนายจอมหยิ่ง-เดอะ-มูฟวี่-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/4ygOcu_loD"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-You-My-Arrogance-2-2022-สปาร์คใจนายจอมหยิ่ง-เดอะ-มูฟวี่-2-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Is Love You My Arrogance 1 (2020) สปาร์คใจนายจอมหยิ่ง เดอะ มูฟวี่ 1",
-    "url": "https://lk-hdx.com/is-love-you-my-arrogance-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Is-Love-You-My-Arrogance-1-2020-สปาร์คใจนายจอมหยิ่ง-เดอะ-มูฟวี่-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a473218150ee4200a2d105d966340613/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a473218150ee4200a2d105d966340613"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Is-Love-You-My-Arrogance-1-2020-สปาร์คใจนายจอมหยิ่ง-เดอะ-มูฟวี่-1-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "E San of the Dead (2022) ซอมบี้ไทบ้าน",
-    "url": "https://lk-hdx.com/e-san-of-the-dead-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/E-San-of-the-Dead-2022-ซอมบี้ไทบ้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/k4J9o5_QJr"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/E-San-of-the-Dead-2022-ซอมบี้ไทบ้าน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Fast & Feel Love (2022) เร็วโหด เหมือนโกรธเธอ",
-    "url": "https://lk-hdx.com/fast-feel-love-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-Feel-Love-2022-เร็วโหด-เหมือนโกรธเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/24e0718639752ff82cee4a01e1489e82/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/24e0718639752ff82cee4a01e1489e82"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-Feel-Love-2022-เร็วโหด-เหมือนโกรธเธอ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Fearless Love (2022) ทวงคืน",
-    "url": "https://lk-hdx.com/fearless-love-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fearless-Love-2022-ทวงคืน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/513e46e8b4e32fa3642af51ac7156333/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/513e46e8b4e32fa3642af51ac7156333"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fearless-Love-2022-ทวงคืน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Trapped 13 (2022) 13หมูป่า เรื่องเล่าจากในถ้ำ",
-    "url": "https://lk-hdx.com/the-trapped-13-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Trapped-13-2022-13หมูป่า-เรื่องเล่าจากในถ้ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/505dface813abd45e24ec27c7b91a579/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/505dface813abd45e24ec27c7b91a579"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Trapped-13-2022-13หมูป่า-เรื่องเล่าจากในถ้ำ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Groove Town Detectives (2022) สายสืบหน้าฮ่าน",
-    "url": "https://lk-hdx.com/groove-town-detectives-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Groove-Town-Detectives-2022-สายสืบหน้าฮ่าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e2a9f1fbf7178b8f8cd56318ee077a02/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e2a9f1fbf7178b8f8cd56318ee077a02"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Groove-Town-Detectives-2022-สายสืบหน้าฮ่าน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Daeng Phra Khanong (2022) แดงพระโขนง",
-    "url": "https://lk-hdx.com/daeng-phra-khanong-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Daeng-Phra-Khanong-2022-แดงพระโขนง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4882dccb510a0548f4445f9b196a621/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4882dccb510a0548f4445f9b196a621"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Daeng-Phra-Khanong-2022-แดงพระโขนง-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Cracked (2022) ภาพหวาด",
-    "url": "https://lk-hdx.com/cracked-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Cracked-2022-ภาพหวาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/112636bfbb46cb8ccfbc30b6244bf2c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/112636bfbb46cb8ccfbc30b6244bf2c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Cracked-2022-ภาพหวาด-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ZIEN-LANG Best Friends Forever (2023) เซียนหรั่ง เดอะมูฟวี่",
-    "url": "https://lk-hdx.com/zien-lang-best-friends-forever-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023-เซียนหรั่ง-เดอะมูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/abfac5a30c5a9ae860fcba4a9a22c6be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/abfac5a30c5a9ae860fcba4a9a22c6be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023-เซียนหรั่ง-เดอะมูฟวี่-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Buppae Sannivas 2 (2022) บุพเพสันนิวาส ภาค 2",
-    "url": "https://lk-hdx.com/buppae-sannivas-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Buppae-Sannivas-2-2022-บุพเพสันนิวาส-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5bec7902dec4e650e6018d9802287dca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5bec7902dec4e650e6018d9802287dca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Buppae-Sannivas-2-2022-บุพเพสันนิวาส-ภาค-2-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Bugtangmo (2022) บักแตงโม",
-    "url": "https://lk-hdx.com/bugtangmo-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bugtangmo-2022-บักแตงโม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/27bee69b594cda6afecf30a29c084203/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/27bee69b594cda6afecf30a29c084203"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bugtangmo-2022-บักแตงโม-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Alone in Outing (2022) เธอ เหงา เรา เต่า",
-    "url": "https://lk-hdx.com/alone-in-outing-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Alone-in-Outing-2022-เธอ-เหงา-เรา-เต่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/20240a9dcaffd28dbec3817c41af1e7e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/20240a9dcaffd28dbec3817c41af1e7e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Alone-in-Outing-2022-เธอ-เหงา-เรา-เต่า-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Deaw13 Thai Stand Up Comedy (2022) เดี่ยว 13",
-    "url": "https://lk-hdx.com/deaw13-thai-stand-up-comedy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Deaw13-Thai-Stand-Up-Comedy-2022-เดี่ยว-13-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9859a214666a4d97cb450553bdbeb845/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9859a214666a4d97cb450553bdbeb845"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Deaw13-Thai-Stand-Up-Comedy-2022-เดี่ยว-13-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Lost Lotteries (2022) ปฏิบัติการกู้หวย",
