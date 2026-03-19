@@ -865,153 +865,445 @@
   },
   {
     "title": "Yoh! Bestie (2026)",
-    "url": "https://lk-hdx.com/yoh-bestie-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/02/Yoh-Bestie-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/240875cdaf96ed83fcd8758580e0c520/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/240875cdaf96ed83fcd8758580e0c520"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/02/Yoh-Bestie-2026-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rental Family (2025) ครอบครัวให้เช่า",
-    "url": "https://lk-hdx.com/rental-family-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/02/Rental-Family-2025-ครอบครัวให้เช่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/93faa315680c8558b3f0b38ac56ea7ba/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/93faa315680c8558b3f0b38ac56ea7ba"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/02/Rental-Family-2025-ครอบครัวให้เช่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Silent Night Deadly Night (2025)",
-    "url": "https://lk-hdx.com/silent-night-deadly-night-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/02/Silent-Night-Deadly-Night-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ad208b65fa4d8da7d1ebf2ba5faa792e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ad208b65fa4d8da7d1ebf2ba5faa792e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/02/Silent-Night-Deadly-Night-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Portal in the Pines (2025)",
-    "url": "https://lk-hdx.com/portal-in-the-pines-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Portal-in-the-Pines-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/adec957fbb720434e35a8b6124946993/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/adec957fbb720434e35a8b6124946993"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Portal-in-the-Pines-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Grizzly Night (2026)",
-    "url": "https://lk-hdx.com/grizzly-night-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Grizzly-Night-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/fd23ee37e057d3e8abe05effcea5b9ed/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fd23ee37e057d3e8abe05effcea5b9ed"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Grizzly-Night-2026-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Anaconda (2025) อนาคอนดา เลื้อยสยองโลก",
-    "url": "https://lk-hdx.com/anaconda-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Anaconda-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ZQ7XUN2_2m"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Anaconda-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Send Help (2026) โปรดส่งใครมาช่วยฉันที",
-    "url": "https://lk-hdx.com/send-help-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Send-Help-2026-โปรดส่งใครมาช่วยฉันที-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Fh73aLLI_e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Send-Help-2026-โปรดส่งใครมาช่วยฉันที-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sisu 2 (2025) สิสู้…เฒ่ามหากาฬ ภาค 2",
-    "url": "https://lk-hdx.com/sisu-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Sisu-2-2025-สิสู้…เฒ่ามหากาฬ-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7b33ff99ec3a2521ca37ef3b6615b0be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7b33ff99ec3a2521ca37ef3b6615b0be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Sisu-2-2025-สิสู้…เฒ่ามหากาฬ-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Wrecking Crew (2026) คู่พยัคฆ์เดือด เชือดเจ้าพ่อฮาวาย",
-    "url": "https://lk-hdx.com/the-wrecking-crew-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Wrecking-Crew-2026-คู่พยัคฆ์เดือด-เชือดเจ้าพ่อฮาวาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c942f5880134f60a640d02725f251eed/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c942f5880134f60a640d02725f251eed"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Wrecking-Crew-2026-คู่พยัคฆ์เดือด-เชือดเจ้าพ่อฮาวาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Greenland 2 Migration (2025) ฝ่าชะตา โลกาวินาศ",
-    "url": "https://lk-hdx.com/greenland-2-migration-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Greenland-2-Migration-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c251dc9f035f314bdd502adc6f21465d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c251dc9f035f314bdd502adc6f21465d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Greenland-2-Migration-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Return to Silent Hill (2026) เมืองห่าผี นครคืนชีพ",
-    "url": "https://lk-hdx.com/return-to-silent-hill-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4d5397452329743d1997ef48725218eb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4d5397452329743d1997ef48725218eb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Primate (2026) ลิงคลั่งพันธุ์ดิบ",
-    "url": "https://lk-hdx.com/primate-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Primate-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f45c31e82a61b1dbf9a94d88922f17d9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f45c31e82a61b1dbf9a94d88922f17d9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Primate-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Roofman (2025) คนดีที่ลัก",
-    "url": "https://lk-hdx.com/roofman-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Roofman-2025-คนดีที่ลัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b21975c2129c708a262bd31c42aa0bbb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b21975c2129c708a262bd31c42aa0bbb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Roofman-2025-คนดีที่ลัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Speed Faster (2026)",
-    "url": "https://lk-hdx.com/speed-faster-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Speed-Faster-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ea27c07cc51f88f26e195f475d70f557/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ea27c07cc51f88f26e195f475d70f557"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Speed-Faster-2026-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Big Fake (2026) จอมปลอม",
-    "url": "https://lk-hdx.com/the-big-fake-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Big-Fake-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/eb85e82282197ee629716f8dd2f16d9c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eb85e82282197ee629716f8dd2f16d9c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Big-Fake-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Orphans (2025) เดอะ ออร์แฟนส์",
-    "url": "https://lk-hdx.com/the-orphans-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Orphans-2025-เดอะ-ออร์แฟนส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/62bda492429e678ca1a583c3e94fdeca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/62bda492429e678ca1a583c3e94fdeca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Orphans-2025-เดอะ-ออร์แฟนส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "All the Devils Are Here (2025) ที่นี่…มีแต่ปีศาจ",
-    "url": "https://lk-hdx.com/all-the-devils-are-here-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/All-the-Devils-Are-Here-2025-ที่นี่…มีแต่ปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5c2062db1fde0433fece1eaf0377fbd8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5c2062db1fde0433fece1eaf0377fbd8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/All-the-Devils-Are-Here-2025-ที่นี่…มีแต่ปีศาจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "From the Ashes The Pit (2026) จากเถ้าถ่าน นรกใต้ดิน",
-    "url": "https://lk-hdx.com/from-the-ashes-the-pit-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a2e12d47e8552b3efa55e5dacfc7e1ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a2e12d47e8552b3efa55e5dacfc7e1ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ready or Not (2019) เกมพร้อมตาย",
-    "url": "https://lk-hdx.com/ready-or-not-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Ready-or-Not-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9d8d7fe9ba542eb234de8dab9c30dd43/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9d8d7fe9ba542eb234de8dab9c30dd43"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Ready-or-Not-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Late Night (2019) เลท ไนท์",
-    "url": "https://lk-hdx.com/late-night-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Late-Night-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58c8e92a28536223368f07cabbbe5cfd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58c8e92a28536223368f07cabbbe5cfd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Late-Night-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The King’s Man (2021) กำเนิดโคตรพยัคฆ์คิงส์แมน",
-    "url": "https://lk-hdx.com/the-kings-man-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Kings-Man-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db96fcbcce4ab04450c50180fd752b65/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db96fcbcce4ab04450c50180fd752b65"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Kings-Man-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kingsman 2 The Golden Circle (2017) คิงส์แมน 2 รวมพลังโคตรพยัคฆ์",
-    "url": "https://lk-hdx.com/kingsman-2-the-golden-circle-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kingsman-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d6c8c6b84a2ef9fe0a2065942e014e0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d6c8c6b84a2ef9fe0a2065942e014e0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kingsman-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kingsman 1 The Secret Service (2014) คิงส์แมน 1 โคตรพิทักษ์บ่มพยัคฆ์",
-    "url": "https://lk-hdx.com/kingsman-1-the-secret-service-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kingsman-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f051f98a55398056c14e3d459f3ceae8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f051f98a55398056c14e3d459f3ceae8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kingsman-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "300 Rise of an Empire (2014) 300 มหาศึกกำเนิดอาณาจักร",
-    "url": "https://lk-hdx.com/300-rise-of-an-empire-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/300-Rise-of-an-Empire-2014-300-มหาศึกกำเนิดอาณาจักร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/74f41ed921c9202e6e40b44da4593329/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74f41ed921c9202e6e40b44da4593329"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/300-Rise-of-an-Empire-2014-300-มหาศึกกำเนิดอาณาจักร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "300 (2006) ขุนศึกพันธุ์สะท้านโลก",
-    "url": "https://lk-hdx.com/300-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/300-2006-ขุนศึกพันธุ์สะท้านโลก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b0fd467b7234b69accf06292dd05cbf1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b0fd467b7234b69accf06292dd05cbf1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/300-2006-ขุนศึกพันธุ์สะท้านโลก-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
-    "url": "https://lk-hdx.com/the-ministry-of-ungentlemanly-warfare/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-แสบจารชนคนพลิกโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e3549fdeccf7cf43f3929e4b0b00b03/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e3549fdeccf7cf43f3929e4b0b00b03"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-แสบจารชนคนพลิกโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nobody (2021) คนธรรมดานรกเรียกพี่",
-    "url": "https://lk-hdx.com/nobody-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Nobody-2021-คนธรรมดานรกเรียกพี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4c1844dafb04fffa119e2d4db8f318b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4c1844dafb04fffa119e2d4db8f318b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Nobody-2021-คนธรรมดานรกเรียกพี่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Two Is a Family (2016) หนึ่งห้องใจ ให้สองคน",
-    "url": "https://lk-hdx.com/two-is-a-family-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Two-Is-a-Family-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e6729f27bb7e73d3c8a1c065e6be1687/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e6729f27bb7e73d3c8a1c065e6be1687"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Two-Is-a-Family-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Killer Whale (2026)",
-    "url": "https://lk-hdx.com/killer-whale-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Killer-Whale-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5969fefe7a6e6fcbd8f428372caeb8d5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5969fefe7a6e6fcbd8f428372caeb8d5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Killer-Whale-2026-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wildcat (2025) ไวลด์แคท สวยต้องปล้น",
-    "url": "https://lk-hdx.com/wildcat-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Wildcat-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9a24e80b59c368179af369b58ce79037/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9a24e80b59c368179af369b58ce79037"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Wildcat-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Greenland (2020) นาทีระทึก วันสิ้นโลก",
