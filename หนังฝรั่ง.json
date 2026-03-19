@@ -12065,153 +12065,433 @@
   },
   {
     "title": "พ่อตาซ่าส์ วิวาห์ป่วง (2013) The Big Wedding",
-    "url": "https://lk-hdx.com/the-big-wedding-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Big-Wedding-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6944c7c77f4fda917e9faaeb6b61c992/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6944c7c77f4fda917e9faaeb6b61c992"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Big-Wedding-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "อันนา คาเรนิน่า รักร้อนซ่อนชู้ (2012) Anna Karenina",
-    "url": "https://lk-hdx.com/anna-karenina-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Anna-Karenina-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/whmanE_N6x"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Anna-Karenina-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "รักใครให้ร้องเพลงรัก (2016) Sing Street",
-    "url": "https://lk-hdx.com/sing-street-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Sing-Street-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e8bc14a2813d6f19a9e4a818eff7d7f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e8bc14a2813d6f19a9e4a818eff7d7f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Sing-Street-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The World to Come (2020) ข้าม เขต เพศ รัก",
-    "url": "https://lk-hdx.com/the-world-to-come-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/The-World-to-Come-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/18cbda4018737da24e2b9aa658c0598d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/18cbda4018737da24e2b9aa658c0598d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/The-World-to-Come-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Family Man (2016) อะแฟมิลี่แมน ชื่อนี้ใครก็รัก",
-    "url": "https://lk-hdx.com/a-family-man-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Family-Man-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff6d155b72ad270eebeb50e0b7537ae4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff6d155b72ad270eebeb50e0b7537ae4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Family-Man-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Manchester by the Sea (2016) แค่ ใครสักคน",
-    "url": "https://lk-hdx.com/manchester-by-the-sea-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Manchester-by-the-Sea-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c17de7275e5e3e0dac2c87434959fe63/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c17de7275e5e3e0dac2c87434959fe63"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Manchester-by-the-Sea-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Paul (2011) เพื่อนเฟี้ยวต่างโลก",
-    "url": "https://lk-hdx.com/paul-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Paul-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/246f4efe373e5def7ef2750439104d5f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/246f4efe373e5def7ef2750439104d5f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Paul-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "T2 Trainspotting แก๊งเมาแหลก พันธุ์แหกกฎ ภาค 2 (2017)",
-    "url": "https://lk-hdx.com/t2-trainspotting-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/T2-Trainspotting-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7f1febc01c374fe16cb17c5bdf662310/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7f1febc01c374fe16cb17c5bdf662310"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/T2-Trainspotting-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trainspotting 1 แก๊งเมาแหลก พันธุ์แหกกฎ ภาค 1 (1996)",
-    "url": "https://lk-hdx.com/trainspotting-1-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Trainspotting-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ynYzSHLZ_Q"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Trainspotting-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "จินตนาการรัก ลิขิตชีวิต (2003) Big Fish",
-    "url": "https://lk-hdx.com/big-fish-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Big-Fish-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/02ebbcae377dce9b1ba68393b0f13f79/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/02ebbcae377dce9b1ba68393b0f13f79"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Big-Fish-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สืบสยอง หลอนอำมหิต (2012) The Devil Inside",
-    "url": "https://lk-hdx.com/the-devil-inside-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Devil-Inside-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Uurl19F_Ue"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Devil-Inside-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สายลับรั่วป่วนมหาลัย (2014) 22 Jump Street",
-    "url": "https://lk-hdx.com/22-jump-street/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/22-Jump-Street-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3549aa86b5d8477a2990ba0997e5d1b6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3549aa86b5d8477a2990ba0997e5d1b6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/22-Jump-Street-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Twisters (2024) ทวิสเตอร์ส",
-    "url": "https://lk-hdx.com/twisters/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a45524312a8bd004b86f087b13b1558d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a45524312a8bd004b86f087b13b1558d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "แรกเริ่มรู้จัก (2024) Umjolo Day Ones",
-    "url": "https://lk-hdx.com/umjolo-day-ones-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/แรกเริ่มรู้จัก-2024-Umjolo-Day-Ones-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9fed6168b96285160f8701244eb896ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9fed6168b96285160f8701244eb896ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/แรกเริ่มรู้จัก-2024-Umjolo-Day-Ones-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gladiator II (2024) แกลดดิเอเตอร์ นักรบผู้กล้า ผ่าแผ่นดินทรราช 2",
-    "url": "https://lk-hdx.com/gladiator-ii-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Gladiator-II-2024-แกลดดิเอเตอร์-นักรบผู้กล้า-ผ่าแผ่นดินทรราช-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/R_zI1m8OdY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Gladiator-II-2024-แกลดดิเอเตอร์-นักรบผู้กล้า-ผ่าแผ่นดินทรราช-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สเต๊ป บราเธอร์ส ถึงหน้าแก่แต่ใจยังเอ๊าะ Step Brothers (2008)",
-    "url": "https://lk-hdx.com/step-brothers-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Step-Brothers-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bda8553c90946a6266eba8bc28bdac92/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bda8553c90946a6266eba8bc28bdac92"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Step-Brothers-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "กั๊กใจให้เพื่อนเลิฟ Made of Honor (2008)",
-    "url": "https://lk-hdx.com/made-of-honor-2008-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Made-of-Honor-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/86430404909e0f90bece0581e7b0fd73/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/86430404909e0f90bece0581e7b0fd73"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Made-of-Honor-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Die Alone (2024)",
-    "url": "https://lk-hdx.com/die-alone-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Die-Alone-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0f5f2b1fdd0c4e03b3cec3d42116b13f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f5f2b1fdd0c4e03b3cec3d42116b13f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Die-Alone-2024-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Carpool Karaoke Christmas (2024)",
-    "url": "https://lk-hdx.com/a-carpool-karaoke-christmas-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/A-Carpool-Karaoke-Christmas-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3140e914d7699a9ad7b865232d034463/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3140e914d7699a9ad7b865232d034463"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/A-Carpool-Karaoke-Christmas-2024-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cash Out (2024) แผนปล้นคนหักเหลี่ยม",
-    "url": "https://lk-hdx.com/cash-out-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Cash-Out-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8619b9906dbc030f87a6e4761ba2835a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8619b9906dbc030f87a6e4761ba2835a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Cash-Out-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ราชินีและคนสนิท (2017) Victoria and Abdul",
-    "url": "https://lk-hdx.com/victoria-and-abdul-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Victoria-and-Abdul-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/596277522aa968c06479a9d417cc66fe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/596277522aa968c06479a9d417cc66fe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Victoria-and-Abdul-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "วันฟาสต์มูฟ (2024) One Fast Move",
-    "url": "https://lk-hdx.com/one-fast-move/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/One-Fast-Move-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/8T3Ta4Muv_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/One-Fast-Move-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เดอะ เฟฟเวอริท อีเสน่ห์ร้าย (2018) The Favourite",
-    "url": "https://lk-hdx.com/the-favourite-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Favourite-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7a0a1c7a6d9b50475e25b637e990c248/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a0a1c7a6d9b50475e25b637e990c248"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Favourite-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "โมบี้ดิค วาฬยักษ์เพชฌฆาต (2010) Moby Dick",
-    "url": "https://lk-hdx.com/moby-dick-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Moby-Dick-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9e77fd5d3f087808af5a4403cd53044f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9e77fd5d3f087808af5a4403cd53044f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Moby-Dick-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ตามหาศรัทธารัก (1997) Good Will Hunting",
-    "url": "https://lk-hdx.com/good-will-hunting-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Good-Will-Hunting-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0bdfe80f40d659b994dc96e0eb065539/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0bdfe80f40d659b994dc96e0eb065539"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Good-Will-Hunting-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "พลิกขบวนล่า นักฆ่ามหากาฬ (2022) Bullet Train",
-    "url": "https://lk-hdx.com/bullet-train/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bullet-Train-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0242279c138cdc92748dce257214eda1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0242279c138cdc92748dce257214eda1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bullet-Train-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022) Doctor Strange in the Multiverse of Madness",
-    "url": "https://lk-hdx.com/doctor-strange-in-the-multiverse-of-madness/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-in-the-Multiverse-of-Madness-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a0c19cb4a261911aee95ee55d54c3c6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a0c19cb4a261911aee95ee55d54c3c6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-in-the-Multiverse-of-Madness-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "จอมเวทย์มหากาฬ (2016) Doctor Strange",
-    "url": "https://lk-hdx.com/doctor-strange-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b2ae8d9c8cc42c1b1a6db271b75c7ced/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b2ae8d9c8cc42c1b1a6db271b75c7ced"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Doctor-Strange-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trouble with the Curve (2012) หักโค้งชีวิต สะกิดรัก",
-    "url": "https://lk-hdx.com/trouble-with-the-curve-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Trouble-with-the-Curve-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dc6fd0bde0c2124b3c75a46192e69454/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dc6fd0bde0c2124b3c75a46192e69454"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Trouble-with-the-Curve-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Annapolis (2006) เกียรติยศลูกผู้ชาย",
-    "url": "https://lk-hdx.com/annapolis-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Annapolis-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66297558f49e099e1a9cd5b37be2a3e3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66297558f49e099e1a9cd5b37be2a3e3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Annapolis-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Poolman (2024) พูลแมน",
