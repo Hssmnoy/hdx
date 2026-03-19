@@ -10041,153 +10041,403 @@
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 23 พลิกรหัสพิฆาตพยัคฆ์ร้าย 007 James Bond 007 Skyfall (2012)",
-    "url": "https://lk-hdx.com/james-bond-007-skyfall-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/เจมส์-บอนด์-007-ภาค-23-พลิกรหัสพิฆาตพยัคฆ์ร้าย-007-James-Bond-007-Skyfall-2012-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/เจมส์-บอนด์-007-ภาค-23-พลิกรหัสพิฆาตพยัคฆ์ร้าย-007-James-Bond-007-Skyfall-2012-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1f69f31dae7b93379f4e9ae8b8f50c6d/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1f69f31dae7b93379f4e9ae8b8f50c6d"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 22 พยัคฆ์ร้ายทวงแค้นระห่ำโลก James Bond 007 Quantum of Solace (2008)",
-    "url": "https://lk-hdx.com/james-bond-007-quantum-of-solace-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/เจมส์-บอนด์-007-ภาค-22-พยัคฆ์ร้ายทวงแค้นระห่ำโลก-James-Bond-007-Quantum-of-Solace-2008-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/เจมส์-บอนด์-007-ภาค-22-พยัคฆ์ร้ายทวงแค้นระห่ำโลก-James-Bond-007-Quantum-of-Solace-2008-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/917b5a8d19700b25f084714fb13b202f/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/917b5a8d19700b25f084714fb13b202f"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 21 พยัคฆ์ร้ายเดิมพันระห่ำโลก James Bond 007 Casino Royale (2006)",
-    "url": "https://lk-hdx.com/james-bond-007-casino-royale-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/James-Bond-007-Casino-Royale-2006-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/James-Bond-007-Casino-Royale-2006-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a59b0c673e592a91ba86b653aaadf4ae/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a59b0c673e592a91ba86b653aaadf4ae"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 20 พยัคฆ์ร้ายท้ามรณะ James Bond 007 Die Another Day (2002)",
-    "url": "https://lk-hdx.com/james-bond-007-die-another-day-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Die-Another-Day-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Die-Another-Day-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/513dfdb296691d2ef1e23d0301c47952/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/513dfdb296691d2ef1e23d0301c47952"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 19 พยัคฆ์ร้ายดับแผนครองโลก James Bond 007 The World Is Not Enough (1999)",
-    "url": "https://lk-hdx.com/james-bond-007-the-world-is-not-enough-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-The-World-Is-Not-Enough-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-The-World-Is-Not-Enough-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/iPx4_HEKWc"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 18 พยัคฆ์ร้ายไม่มีวันตาย James Bond 007 Tomorrow Never Dies (1997)",
-    "url": "https://lk-hdx.com/james-bond-007-tomorrow-never-dies-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Tomorrow-Never-Dies-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Tomorrow-Never-Dies-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0fa19f605476fa63fa3d75df3c5d56b1/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0fa19f605476fa63fa3d75df3c5d56b1"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 17 รหัสลับทลายโลก James Bond 007 GoldenEye (1995)",
-    "url": "https://lk-hdx.com/james-bond-007-goldeneye-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-GoldenEye-1995-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-GoldenEye-1995-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/11d032d423aeb38d0b8ad2a82d21dca5/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/11d032d423aeb38d0b8ad2a82d21dca5"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 16 รหัสสังหาร James Bond 007 Licence to Kill (1989)",
-    "url": "https://lk-hdx.com/james-bond-007-licence-to-kill-1989/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Licence-to-Kill-1989-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Licence-to-Kill-1989-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5325b58ff37cd1f814e7323053507a09/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5325b58ff37cd1f814e7323053507a09"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 15 พยัคฆ์ร้ายพญายม James Bond 007 A View To A Kill (1985)",
-    "url": "https://lk-hdx.com/james-bond-007-a-view-to-a-kill-1985/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-A-View-To-A-Kill-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-A-View-To-A-Kill-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/05b0b8c626be757a264584ae45942005/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/05b0b8c626be757a264584ae45942005"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 14 พยัคฆ์เหนือพยัคฆ์ James Bond 007 Never Say Never Again (1983)",
-    "url": "https://lk-hdx.com/james-bond-007-never-say-never-again-1983/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เจมส์-บอนด์-007-ภาค-14-พยัคฆ์เหนือพยัคฆ์-James-Bond-007-Never-Say-Never-Again-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เจมส์-บอนด์-007-ภาค-14-พยัคฆ์เหนือพยัคฆ์-James-Bond-007-Never-Say-Never-Again-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3b97fe69bcf20238dcdf61e7753bdc58/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3b97fe69bcf20238dcdf61e7753bdc58"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 13 เพชฌฆาตปลาหมึกยักษ์ James Bond 007 Octopussy (1983)",
-    "url": "https://lk-hdx.com/james-bond-007-octopussy-1983/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Octopussy-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Octopussy-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/XEnTglg_Fd"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 12 เจาะดวงตาเพชฌฆาต James Bond 007 For Your Eyes Only (1981)",
-    "url": "https://lk-hdx.com/james-bond-007-for-your-eyes-only-1981/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-For-Your-Eyes-Onl-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-For-Your-Eyes-Onl-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8bc115cb6ae8dc565bf796a2affdea2f/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8bc115cb6ae8dc565bf796a2affdea2f"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 11 พยัคฆ์ร้ายเหนือเมฆ James Bond 007 Moonraker (1979)",
-    "url": "https://lk-hdx.com/james-bond-007-moonraker-1979/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Moonraker-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Moonraker-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cead74c1439c86ba679565ca220ef565/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cead74c1439c86ba679565ca220ef565"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 10 พยัคฆ์ร้ายสุดที่รัก James Bond 007 The Spy Who Loved Me (1977)",
-    "url": "https://lk-hdx.com/james-bond-007-the-spy-who-loved-me-1977/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-The-Spy-Who-Loved-Me-1977-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-The-Spy-Who-Loved-Me-1977-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_FN9MOO_HZ"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 9 เพชฌฆาตปืนทอง James Bond 007 The Man With The Golden Gun (1974)",
-    "url": "https://lk-hdx.com/james-bond-007-the-man-with-the-golden-gun-1974/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-The-Man-With-The-Golden-Gun-1974-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-The-Man-With-The-Golden-Gun-1974-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d19730efc6e772623323b82ad76fb79d/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d19730efc6e772623323b82ad76fb79d"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 8 พยัคฆ์มฤตยู 007 (1973) James Bond 007 Live And Let Die",
-    "url": "https://lk-hdx.com/james-bond-007-live-and-let-die-1973/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Live-And-Let-Die-1973-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Live-And-Let-Die-1973-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d92289d52db3e18be830c6a771d8d8b3/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d92289d52db3e18be830c6a771d8d8b3"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 7 เพชรพยัคฆราช (1971) James Bond 007 Diamonds Are Forever",
-    "url": "https://lk-hdx.com/james-bond-007-diamonds-are-forever-1971/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Diamonds-Are-Forever-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Diamonds-Are-Forever-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0c8db39d821a64f3cf44ebb665e95b75/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0c8db39d821a64f3cf44ebb665e95b75"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 6 ยอดพยัคฆ์ราชินี (1969) James Bond 007 On Her Majesty’s Secret Service",
-    "url": "https://lk-hdx.com/james-bond-007-on-her-majestys-secret-service-1969/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-On-Her-Majestys-Secret-Service-1969-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-On-Her-Majestys-Secret-Service-1969-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/47043b1d13b5a5aa75ea3e8d38888f6d/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/47043b1d13b5a5aa75ea3e8d38888f6d"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 5 จอมมหากาฬ 007 (1967) James Bond 007 You Only Live Twice",
-    "url": "https://lk-hdx.com/james-bond-007-you-only-live-twice-1967/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-You-Only-Live-Twice-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-You-Only-Live-Twice-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/lpCJ_Z8TKl"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 4 ธันเดอร์บอลล์ 007 (1965) James Bond 007 Thunderball",
-    "url": "https://lk-hdx.com/james-bond-007-thunderball-1965/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Thunderball-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Thunderball-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/exb_s_v1Ni"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 3 จอมมฤตยู 007 (1964) James Bond 007 Goldfinger",
-    "url": "https://lk-hdx.com/james-bond-007-goldfinger-1964/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Goldfinger-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/James-Bond-007-Goldfinger-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ff63f465e263d6c3c94f615df80d98c0/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ff63f465e263d6c3c94f615df80d98c0"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 2 เพชฌฆาต 007 (1963) James Bond 007 From Russia With Love",
-    "url": "https://lk-hdx.com/james-bond-007-from-russia-with-love-1963/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-From-Russia-With-Love-1963-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-From-Russia-With-Love-1963-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/40722c85a033e31f892210ccc08df291/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/40722c85a033e31f892210ccc08df291"
+      }
+    ]
   },
   {
     "title": "เจมส์ บอนด์ 007 ภาค 1 พยัคฆ์ร้าย 007 (1962) James Bond 007 Dr.No",
-    "url": "https://lk-hdx.com/james-bond-007-dr-no-1962/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Dr.No-1962-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/James-Bond-007-Dr.No-1962-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/579be84b0a47fb407155ffe4d202d5d7/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/579be84b0a47fb407155ffe4d202d5d7"
+      }
+    ]
   },
   {
     "title": "สคูบี้ดู ภาค 2 สัตว์ประหลาดหลุดอลเวง (2004) Scooby Doo 2 Monsters Unleashed",
-    "url": "https://lk-hdx.com/scooby-doo-2-monsters-unleashed-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/สคูบี้ดู-ภาค-2-สัตว์ประหลาดหลุดอลเวง-2004-Scooby-Doo-2-Monsters-Unleashed-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/สคูบี้ดู-ภาค-2-สัตว์ประหลาดหลุดอลเวง-2004-Scooby-Doo-2-Monsters-Unleashed-165x248.webp",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0ed87d4bc5e6e363b5b69a53501cafd4/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0ed87d4bc5e6e363b5b69a53501cafd4"
+      }
+    ]
   },
   {
     "title": "เรแกน (2024) Reagan",
-    "url": "https://lk-hdx.com/reagan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เรแกน-2024-Reagan-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เรแกน-2024-Reagan-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bcf065dac903e79380fa6526951aa408/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bcf065dac903e79380fa6526951aa408"
+      }
+    ]
   },
   {
     "title": "Arthur the King (2024) อาเธอร์ จอมราชา",
-    "url": "https://lk-hdx.com/arthur-the-king-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Arthur-the-King-2024-อาเธอร์-จอมราชา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Arthur-the-King-2024-อาเธอร์-จอมราชา-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/067b451d7cbb5ad99e4bcb0e27eb44fb/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/067b451d7cbb5ad99e4bcb0e27eb44fb"
+      }
+    ]
   },
   {
     "title": "Upgraded (2024) รักฉบับอัปเกรด",
-    "url": "https://lk-hdx.com/upgraded-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Upgraded-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Upgraded-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/449827e8a939386afcf3e0a27e3eb006/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/449827e8a939386afcf3e0a27e3eb006"
+      }
+    ]
   },
   {
     "title": "ปราสาททราย (2024) The Sand Castle",
-    "url": "https://lk-hdx.com/the-sand-castle-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/ปราสาททราย-2024-The-Sand-Castle-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/ปราสาททราย-2024-The-Sand-Castle-165x248.webp",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bba7eda06759dfb010fe5f544283c599/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bba7eda06759dfb010fe5f544283c599"
+      }
+    ]
   },
   {
     "title": "Nightbitch (2024)",
-    "url": "https://lk-hdx.com/nightbitch-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Nightbitch-2024-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Nightbitch-2024-165x248.webp",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/294e70e2b12c610cd5f94b606c55a2b2/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/294e70e2b12c610cd5f94b606c55a2b2"
+      }
+    ]
   },
   {
     "title": "อโนรา (2024) Anora",
-    "url": "https://lk-hdx.com/anora-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/อโนรา-2024-Anora-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/อโนรา-2024-Anora-165x248.webp",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3fa2028ac0d0ad903b56063b2e1abe6c/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3fa2028ac0d0ad903b56063b2e1abe6c"
+      }
+    ]
   },
   {
     "title": "Superintelligence (2020)",
