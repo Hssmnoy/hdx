@@ -4321,153 +4321,433 @@
   },
   {
     "title": "Khun Bunlue (2018) ขุนบันลือ",
-    "url": "https://lk-hdx.com/khun-bunlue-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Khun-Bunlue-2018-ขุนบันลือ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PJjw_qMOkV"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Khun-Bunlue-2018-ขุนบันลือ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Sugar Cafe (2018) เปิดตำรับรักนายหน้าหวาน",
-    "url": "https://lk-hdx.com/sugar-cafe-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Sugar-Cafe-2018-เปิดตำรับรักนายหน้าหวาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/655cba5f8dbf49ab80d61098312c852f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/655cba5f8dbf49ab80d61098312c852f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Sugar-Cafe-2018-เปิดตำรับรักนายหน้าหวาน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Luang Ta Maha Heng (2019) หลวงตามหาเฮง",
-    "url": "https://lk-hdx.com/luang-ta-maha-heng-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Luang-Ta-Maha-Heng-2019-หลวงตามหาเฮง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa8c9ad629a61876224d63e3fd792bbc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa8c9ad629a61876224d63e3fd792bbc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Luang-Ta-Maha-Heng-2019-หลวงตามหาเฮง-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Master Petchtai (2020) คุณชายใหญ่",
-    "url": "https://lk-hdx.com/master-petchtai-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Master-Petchtai-2020-คุณชายใหญ่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/adcd216381a298547dade0ce5a956c60/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/adcd216381a298547dade0ce5a956c60"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Master-Petchtai-2020-คุณชายใหญ่-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Love and Run (2019) มิสเตอร์ดื้อ กันท่าเหรียญทอง",
-    "url": "https://lk-hdx.com/love-and-run-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Love-and-Run-2019-มิสเตอร์ดื้อ-กันท่าเหรียญทอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4a389e1b5caba488b253bca5ff13ba6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4a389e1b5caba488b253bca5ff13ba6d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Love-and-Run-2019-มิสเตอร์ดื้อ-กันท่าเหรียญทอง-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Rak Kham Kan (2020) รักข้ามคาน",
-    "url": "https://lk-hdx.com/rak-kham-kan-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Rak-Kham-Kan-2020-รักข้ามคาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d98e69363484f2ea47c861640a602ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d98e69363484f2ea47c861640a602ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Rak-Kham-Kan-2020-รักข้ามคาน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Pint Size Spy Girl (2020) สายลับหมากระเป๋ากับเสาไฟฟ้า",
-    "url": "https://lk-hdx.com/pint-size-spy-girl-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Pint-Size-Spy-Girl-2020-สายลับหมากระเป๋ากับเสาไฟฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb73d8b76dfcf537491477558cb72def/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb73d8b76dfcf537491477558cb72def"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Pint-Size-Spy-Girl-2020-สายลับหมากระเป๋ากับเสาไฟฟ้า-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Deadstock (2016) รัก ปี ลึก",
-    "url": "https://lk-hdx.com/deadstock-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Deadstock-2016-รัก-ปี-ลึก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2b0aed3b2e40415ccc6a57c573c73eaf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2b0aed3b2e40415ccc6a57c573c73eaf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Deadstock-2016-รัก-ปี-ลึก-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Dok Fah Mha Jazz (2017) ดอกฟ้า หมาแจ๊ส",
-    "url": "https://lk-hdx.com/dok-fah-mha-jazz-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Dok-Fah-Mha-Jazz-2017-ดอกฟ้า-หมาแจ๊ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cf668b339f541b17eed631392d37128f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cf668b339f541b17eed631392d37128f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Dok-Fah-Mha-Jazz-2017-ดอกฟ้า-หมาแจ๊ส-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Chiang Khan Story (2014) ตุ๊กแกรักแป้งมาก",
-    "url": "https://lk-hdx.com/chiang-khan-story-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Chiang-Khan-Story-2014-ตุ๊กแกรักแป้งมาก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8bc3d6967fa233552715945ed6d76451/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8bc3d6967fa233552715945ed6d76451"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Chiang-Khan-Story-2014-ตุ๊กแกรักแป้งมาก-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Ghost Is All Around (2016) 11.12.13 รักกันจะตาย",
-    "url": "https://lk-hdx.com/ghost-is-all-around-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Ghost-Is-All-Around-2016-11.12.13-รักกันจะตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Jfe5d_KIRS"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Ghost-Is-All-Around-2016-11.12.13-รักกันจะตาย-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Hong Hoon (2014) ห้องหุ่น",
-    "url": "https://lk-hdx.com/hong-hoon-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Hong-Hoon-2014-ห้องหุ่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1e3f47e81cb8902ac4ea03592d680c25/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1e3f47e81cb8902ac4ea03592d680c25"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Hong-Hoon-2014-ห้องหุ่น-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Mind Memory (2017) 1.44 พื้นที่รัก",
-    "url": "https://lk-hdx.com/mind-memory-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Mind-Memory-2017-1.44-พื้นที่รัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8645411fe6d5be1f87e32841f814f74c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8645411fe6d5be1f87e32841f814f74c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Mind-Memory-2017-1.44-พื้นที่รัก-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Pool (2018) นรก 6 เมตร",
-    "url": "https://lk-hdx.com/the-pool-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Pool-2018-นรก-6-เมตร-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/gboqDd_oWQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Pool-2018-นรก-6-เมตร-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Tiger Woman (2015) พรหมจรรย์ สวยพันธุ์สยอง",
-    "url": "https://lk-hdx.com/tiger-woman-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Tiger-Woman-2015-พรหมจรรย์-สวยพันธุ์สยอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b4abe36703332c6ec51637d054ffff6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4abe36703332c6ec51637d054ffff6d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Tiger-Woman-2015-พรหมจรรย์-สวยพันธุ์สยอง-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Viral (2018) ผีโทรศัพท์",
-    "url": "https://lk-hdx.com/viral-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Viral-2018-ผีโทรศัพท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bd1708059a05fd94c7d1d4167682ec83/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bd1708059a05fd94c7d1d4167682ec83"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Viral-2018-ผีโทรศัพท์-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Reside (2018) สิงสู่",
-    "url": "https://lk-hdx.com/reside-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Reside-2018-สิงสู่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0f3a896b57686d22f51b523c799365a4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f3a896b57686d22f51b523c799365a4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Reside-2018-สิงสู่-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Black Death (2015) ผีห่าอโยธยา",
-    "url": "https://lk-hdx.com/the-black-death-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Black-Death-2015-ผีห่าอโยธยา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/890a481032108a33fae2a4f040217f69/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/890a481032108a33fae2a4f040217f69"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Black-Death-2015-ผีห่าอโยธยา-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Lost in Blue (2016) ระหว่างเราครั้งก่อน",
-    "url": "https://lk-hdx.com/lost-in-blue-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Lost-in-Blue-2016-ระหว่างเราครั้งก่อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/28cc4a68c9563ab4431152250459a83b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/28cc4a68c9563ab4431152250459a83b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Lost-in-Blue-2016-ระหว่างเราครั้งก่อน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Suddenly Twenty (2016) 20 ใหม่ ยูเทิร์นวัย หัวใจรีเทิร์น",
-    "url": "https://lk-hdx.com/suddenly-twenty-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Suddenly-Twenty-2016-20-ใหม่-ยูเทิร์นวัย-หัวใจรีเทิร์น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f9134df83c2dc42c6a5cac5b854761c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f9134df83c2dc42c6a5cac5b854761c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Suddenly-Twenty-2016-20-ใหม่-ยูเทิร์นวัย-หัวใจรีเทิร์น-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Premika Parab (2017) เปรมิกา ป่าราบ",
-    "url": "https://lk-hdx.com/premika-parab-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Premika-Parab-2017-เปรมิกา-ป่าราบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fded0aa5ade083a1dd21593bc802db1a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fded0aa5ade083a1dd21593bc802db1a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Premika-Parab-2017-เปรมิกา-ป่าราบ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Hellfire Pass (2017) ช่องเขาขาด",
-    "url": "https://lk-hdx.com/hellfire-pass-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hellfire-Pass-2017-ช่องเขาขาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/H_6UJr2DLK"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Hellfire-Pass-2017-ช่องเขาขาด-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Wandering (2016) ธุดงควัตร",
-    "url": "https://lk-hdx.com/wandering-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Wandering-2016-ธุดงควัตร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/82ef58b0f6fa0b7d19dd40fd99258da8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/82ef58b0f6fa0b7d19dd40fd99258da8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Wandering-2016-ธุดงควัตร-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ATM Er Rak Error (2012) ATM เออรัก เออเร่อ",
-    "url": "https://lk-hdx.com/atm-er-rak-error-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/ATM-Er-Rak-Error-2012-ATM-เออรัก-เออเร่อ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8bd2a359acff0c4442a83a79053c3767/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8bd2a359acff0c4442a83a79053c3767"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/ATM-Er-Rak-Error-2012-ATM-เออรัก-เออเร่อ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Dead Dumpster (2019) ภารกิจศพป่วน",
-    "url": "https://lk-hdx.com/the-dead-dumpster-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dead-Dumpster-2019-ภารกิจศพป่วน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/vE_HbflCTE"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dead-Dumpster-2019-ภารกิจศพป่วน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Mondo (2023) มอนโด รัก โพสต์ ลบ ลืม",
-    "url": "https://lk-hdx.com/mondo-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Mondo-2023-มอนโด-รัก-โพสต์-ลบ-ลืม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1c96a7baf86c72b008e1a2085410e83f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1c96a7baf86c72b008e1a2085410e83f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Mondo-2023-มอนโด-รัก-โพสต์-ลบ-ลืม-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Adventures (2023) ผจญภัยล่าขุมทรัพย์หมื่นลี้",
-    "url": "https://lk-hdx.com/the-adventures/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Adventures-2023-ผจญภัยล่าขุมทรัพย์หมื่นลี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2cc970464efd60e81bee74ce9aaa2891/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2cc970464efd60e81bee74ce9aaa2891"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Adventures-2023-ผจญภัยล่าขุมทรัพย์หมื่นลี้-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "May Nai Fai Rang Frer (2015) เมย์ไหน ไฟแรงเฟร่อ",
-    "url": "https://lk-hdx.com/may-nai-fai-rang-frer-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/May-Nai-Fai-Rang-Frer-2015-เมย์ไหน-ไฟแรงเฟร่อ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f606f8ee8d187fecfc547174b5fbd586/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f606f8ee8d187fecfc547174b5fbd586"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/May-Nai-Fai-Rang-Frer-2015-เมย์ไหน-ไฟแรงเฟร่อ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Make Money (2020) วุ่นนัก รักต้องประหยัด",
-    "url": "https://lk-hdx.com/make-money-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Make-Money-2020-วุ่นนัก-รักต้องประหยัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1c857e0fdc6f93f990b5b76589c20057/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1c857e0fdc6f93f990b5b76589c20057"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Make-Money-2020-วุ่นนัก-รักต้องประหยัด-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Love Battle (2019) รัก 2 ปี ยินดีคืนเงิน",
-    "url": "https://lk-hdx.com/love-battle-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-Battle-2019-รัก-2-ปี-ยินดีคืนเงิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea8c6018e8343e788f31969eb8dde6aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea8c6018e8343e788f31969eb8dde6aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-Battle-2019-รัก-2-ปี-ยินดีคืนเงิน-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Krasue Siam (2019) กระสือสยาม",
