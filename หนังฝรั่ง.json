@@ -58148,152 +58148,436 @@
   {
     "title": "Flashback (2023) แฟลชแบ็ค",
     "url": "https://lk-hdx.com/flashback-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Flashback-2023-แฟลชแบ็ค-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Flashback-2023-แฟลชแบ็ค-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/723c8be9c3e66fa56239a93ec835b0d3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/723c8be9c3e66fa56239a93ec835b0d3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Vjeran Tomic The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมน แห่งปารีส",
     "url": "https://lk-hdx.com/vjeran-tomic-the-spider-man-of-paris-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Vjeran-Tomic-The-Spider-Man-of-Paris-2023-เวรัน-โทมิช-สไปเดอร์แมน-แห่งปารีส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Vjeran-Tomic-The-Spider-Man-of-Paris-2023-เวรัน-โทมิช-สไปเดอร์แมน-แห่งปารีส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/021f909762971afbb8aa8a3d0afa1bcd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/021f909762971afbb8aa8a3d0afa1bcd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Disco Inferno (2023) ดิสโก้ อินเฟอร์โน",
     "url": "https://lk-hdx.com/disco-inferno-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Disco-Inferno-2023-ดิสโก้-อินเฟอร์โน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Disco-Inferno-2023-ดิสโก้-อินเฟอร์โน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/623c186465a0d80a43a1a5e0e6ff4c5a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/623c186465a0d80a43a1a5e0e6ff4c5a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Kandasamys The Baby (2023) หลานพาป่วนกับบ้านดาสามิส",
     "url": "https://lk-hdx.com/kandasamys-the-baby-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kandasamys-The-Baby-2023-หลานพาป่วนกับบ้านดาสามิส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kandasamys-The-Baby-2023-หลานพาป่วนกับบ้านดาสามิส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6496b7c26880c8ada66272669f5e4c18"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6496b7c26880c8ada66272669f5e4c18/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Crypto Boy (2023) คริปโตบอย",
     "url": "https://lk-hdx.com/crypto-boy-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Crypto-Boy-2023-คริปโตบอย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Crypto-Boy-2023-คริปโตบอย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/YZm6_sVOdb"
+      }
+    ]
   },
   {
     "title": "The Obscured (2022)",
     "url": "https://lk-hdx.com/the-obscured-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Obscured-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Obscured-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/64bd2b88d31201f44898755b6c2e2cab"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/64bd2b88d31201f44898755b6c2e2cab/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Umma (2022) ออมม่า",
     "url": "https://lk-hdx.com/umma-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Umma-2022-ออมม่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Umma-2022-ออมม่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dd08b3d58c993290e67580a77a955130"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dd08b3d58c993290e67580a77a955130/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Violent Night (2022) คืนเดือด",
     "url": "https://lk-hdx.com/violent-night-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Violent-Night-2022-คืนเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Violent-Night-2022-คืนเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7f858626158101e7c03f6f6835fec843"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7f858626158101e7c03f6f6835fec843/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Woman King (2022) มหาศึกวีรสตรีเหล็ก",
     "url": "https://lk-hdx.com/the-woman-king-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Woman-King-2022-มหาศึกวีรสตรีเหล็ก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Woman-King-2022-มหาศึกวีรสตรีเหล็ก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8a75514a97d86006d31949019f08c65e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8a75514a97d86006d31949019f08c65e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Prey (2022) โคแมนชี ปะทะ พรีเดเตอร์",
     "url": "https://lk-hdx.com/prey-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-2022-โคแมนชี-ปะทะ-พรีเดเตอร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-2022-โคแมนชี-ปะทะ-พรีเดเตอร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8d69b98f4948e1d316b5a372f1095e01"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8d69b98f4948e1d316b5a372f1095e01/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pinball The Man Who Saved the Game (2022)",
     "url": "https://lk-hdx.com/pinball-the-man-who-saved-the-game-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Pinball-The-Man-Who-Saved-the-Game-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Pinball-The-Man-Who-Saved-the-Game-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7750a3e1a664a3ef5df6c354480597b9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7750a3e1a664a3ef5df6c354480597b9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Camp Courage (2023) ค่ายคนกล้า",
     "url": "https://lk-hdx.com/camp-courage-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Camp-Courage-2023-ค่ายคนกล้า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Camp-Courage-2023-ค่ายคนกล้า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6f6605bcc9ba2a0d4be7a4ee192b1217"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6f6605bcc9ba2a0d4be7a4ee192b1217/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Shortcomings (2023) หัวใจชำรุดมนุษย์โรงหนัง",
     "url": "https://lk-hdx.com/shortcomings-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Shortcomings-2023-หัวใจชำรุดมนุษย์โรงหนัง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Shortcomings-2023-หัวใจชำรุดมนุษย์โรงหนัง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f0f071312faeb7297947bf4dd2792512"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f0f071312faeb7297947bf4dd2792512/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Burial (2023) ความยุติธรรมที่ถูกฝัง",
     "url": "https://lk-hdx.com/the-burial-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Burial-2023-ความยุติธรรมที่ถูกฝัง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Burial-2023-ความยุติธรรมที่ถูกฝัง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/10bdda546455f20746cb6def2ba95a29"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/10bdda546455f20746cb6def2ba95a29/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dark Harvest (2023)",
     "url": "https://lk-hdx.com/dark-harvest-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dark-Harvest-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dark-Harvest-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/kJOl7u_p_v"
+      }
+    ]
   },
   {
     "title": "Victoria’s Secret The Tour 23 (2023)",
     "url": "https://lk-hdx.com/victorias-secret-the-tour-23-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Victorias-Secret-The-Tour-23-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Victorias-Secret-The-Tour-23-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/890c709c6fe31256d265515c5beb03af"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/890c709c6fe31256d265515c5beb03af/master.m3u8"
+      }
+    ]
   },
   {
     "title": "It Lives Inside (2023) ขังปีศาจคลั่ง",
     "url": "https://lk-hdx.com/it-lives-inside-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/It-Lives-Inside-2023-ขังปีศาจคลั่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/It-Lives-Inside-2023-ขังปีศาจคลั่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/40fab3a9384bd4e2c46e2293f8598266"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/40fab3a9384bd4e2c46e2293f8598266/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Devil on Trial (2023) พิพากษาปีศาจ",
     "url": "https://lk-hdx.com/the-devil-on-trial-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Devil-on-Trial-2023-พิพากษาปีศาจ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Devil-on-Trial-2023-พิพากษาปีศาจ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0d74336115a5e3571c121737ae9cde47"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0d74336115a5e3571c121737ae9cde47/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ivy & Bean Doomed to Dance (2022) ไอวี่และบีน บัลเล่ต์จำเป็น",
     "url": "https://lk-hdx.com/ivy-bean-doomed-to-dance-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-Doomed-to-Dance-2022-ไอวี่และบีน-บัลเล่ต์จำเป็น-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-Doomed-to-Dance-2022-ไอวี่และบีน-บัลเล่ต์จำเป็น-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/466dd66923de04b646ee92f914b2142e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/466dd66923de04b646ee92f914b2142e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ivy & Bean The Ghost That Had to Go (2022) ไอวี่และบีน ผีในห้องน้ำ",
     "url": "https://lk-hdx.com/ivy-bean-the-ghost-that-had-to-go-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-The-Ghost-That-Had-to-Go-2022-ไอวี่และบีน-ผีในห้องน้ำ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-The-Ghost-That-Had-to-Go-2022-ไอวี่และบีน-ผีในห้องน้ำ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/58184a94f1cbd6413183019a81a767ae"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/58184a94f1cbd6413183019a81a767ae/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ivy & Bean (2022) ไอวี่และบีน",
     "url": "https://lk-hdx.com/ivy-bean-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-2022-ไอวี่และบีน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-2022-ไอวี่และบีน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2dd333b593068c806b20ab30f952ca56"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2dd333b593068c806b20ab30f952ca56/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Anatomy of Time (2022) เวลา",
     "url": "https://lk-hdx.com/anatomy-of-time-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Anatomy-of-Time-2022-เวลา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Anatomy-of-Time-2022-เวลา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_7LAgVknHv"
+      }
+    ]
   },
   {
     "title": "About Fate (2022)",
     "url": "https://lk-hdx.com/about-fate-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/About-Fate-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/About-Fate-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/21ae9ef1d58d141d48f0a7d593b42e0b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/21ae9ef1d58d141d48f0a7d593b42e0b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Day to Die (2022) วันปล้นฝ่าเส้นตาย",
     "url": "https://lk-hdx.com/a-day-to-die-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Day-to-Die-2022-วันปล้นฝ่าเส้นตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Day-to-Die-2022-วันปล้นฝ่าเส้นตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ec38fc8b6bceabfb1b18fa107e258045"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ec38fc8b6bceabfb1b18fa107e258045/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Battle Freestyle (2022) แบตเทิล สงครามจังหวะ ฟรีสไตล์",
     "url": "https://lk-hdx.com/battle-freestyle-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Battle-Freestyle-2022-แบตเทิล-สงครามจังหวะ-ฟรีสไตล์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Battle-Freestyle-2022-แบตเทิล-สงครามจังหวะ-ฟรีสไตล์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9182dfb14bac0e23abd5b5c1dafd0397"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9182dfb14bac0e23abd5b5c1dafd0397/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Beyond The Universe (2022) รักเหนือจักรวาล",
     "url": "https://lk-hdx.com/beyond-the-universe-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Beyond-The-Universe-2022-รักเหนือจักรวาล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Beyond-The-Universe-2022-รักเหนือจักรวาล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/44ea24854246b68deac940d956d98e23"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/44ea24854246b68deac940d956d98e23/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Night at the Kindergarten (2022) คืนหนึ่งในชั้นอนุบาล",
     "url": "https://lk-hdx.com/a-night-at-the-kindergarten-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Night-at-the-Kindergarten-2022-คืนหนึ่งในชั้นอนุบาล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Night-at-the-Kindergarten-2022-คืนหนึ่งในชั้นอนุบาล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/af4813db0fb796b44dde8dd8db0fc0dc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/af4813db0fb796b44dde8dd8db0fc0dc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Athena (2022) อเธน่า",
     "url": "https://lk-hdx.com/athena-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Athena-2022-อเธน่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Athena-2022-อเธน่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/SgieD0j_Cm"
+      }
+    ]
   },
   {
     "title": "A Man of Action (2022) อะ แมน ออฟ แอ็คชั่น",
     "url": "https://lk-hdx.com/a-man-of-action-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Man-of-Action-2022-อะ-แมน-ออฟ-แอ็คชั่น-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Man-of-Action-2022-อะ-แมน-ออฟ-แอ็คชั่น-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cb3bdbfe4b42901a381a7283eb6e1890"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cb3bdbfe4b42901a381a7283eb6e1890/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sneakerella (2022) สนีกเกอร์เรลล่า",
     "url": "https://lk-hdx.com/sneakerella-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sneakerella-2022-สนีกเกอร์เรลล่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sneakerella-2022-สนีกเกอร์เรลล่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cb3143b133e81295744fa20f32b2b0cb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cb3143b133e81295744fa20f32b2b0cb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pentatonix Around the World for the Holidays (2022)",
