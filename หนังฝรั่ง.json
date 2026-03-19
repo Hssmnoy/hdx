@@ -6041,153 +6041,407 @@
   },
   {
     "title": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
-    "url": "https://lk-hdx.com/alien-romulus/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Alien-Romulus-2024-เอเลี่ยน-โรมูลัส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Alien-Romulus-2024-เอเลี่ยน-โรมูลัส-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1a8e30a0fdec0d25b8e4277d5dac18b8/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1a8e30a0fdec0d25b8e4277d5dac18b8"
+      }
+    ]
   },
   {
     "title": "มฤตยูงาบ (2025) The Bayou",
-    "url": "https://lk-hdx.com/the-bayou-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มฤตยูงาบ-2025-The-Bayou-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มฤตยูงาบ-2025-The-Bayou-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/O9fTT_8sUV"
+      }
+    ]
   },
   {
     "title": "Lake Placid Legacy (2018) โคตรเคี่ยมบึงนรก ภาค 6",
-    "url": "https://lk-hdx.com/lake-placid-legacy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-Legacy-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-Legacy-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0704bce967ad5df7777dc45821585d94/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0704bce967ad5df7777dc45821585d94"
+      }
+    ]
   },
   {
     "title": "Lake Placid vs. Anaconda (2015) โคตรเคี่ยม ปะทะ อนาคอนด้า ภาค 5",
-    "url": "https://lk-hdx.com/lake-placid-vs-anaconda-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-vs.-Anaconda-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-vs.-Anaconda-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ac044f1615234935265928befb3292c3/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ac044f1615234935265928befb3292c3"
+      }
+    ]
   },
   {
     "title": "Lake Placid 4 The Final Chapter (2012) โคตรเคี่ยมบึงนรก ภาค 4",
-    "url": "https://lk-hdx.com/lake-placid-4-the-final-chapter-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-4-The-Final-Chapter-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-4-The-Final-Chapter-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ac87cf7df5f72634b1585e8df0e4e347/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ac87cf7df5f72634b1585e8df0e4e347"
+      }
+    ]
   },
   {
     "title": "Lake Placid 3 (2010) โคตรเคี่ยมบึงนรก ภาค 3",
-    "url": "https://lk-hdx.com/lake-placid-3-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Ea_eKVXAE5"
+      }
+    ]
   },
   {
     "title": "Lake Placid 2 (2007) โคตรเคี้ยมบึงนรก ภาค 2",
-    "url": "https://lk-hdx.com/lake-placid-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/50a4bcc4cb956ed9e85c1e4c7db27b7e/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/50a4bcc4cb956ed9e85c1e4c7db27b7e"
+      }
+    ]
   },
   {
     "title": "Lake Placid 1 (1999) แลคตาซิด โคตรเคี่ยม ภาค 1",
-    "url": "https://lk-hdx.com/lake-placid-1-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d4173db1fd80e1e9304d1d7ed83e8fe7/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d4173db1fd80e1e9304d1d7ed83e8fe7"
+      }
+    ]
   },
   {
     "title": "มนุษย์หมาป่า (2025) Wolf Man",
-    "url": "https://lk-hdx.com/wolf-man-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/มนุษย์หมาป่า-2025-Wolf-Man-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/มนุษย์หมาป่า-2025-Wolf-Man-165x248.webp",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cc269187db9adf21583ef0005f852f5b/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cc269187db9adf21583ef0005f852f5b"
+      }
+    ]
   },
   {
     "title": "กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่ (2025) Captain America Brave New World",
-    "url": "https://lk-hdx.com/captain-america-brave-new-world/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/กัปตัน-อเมริกา-ศึกฮีโร่จักรวาลใหม่-2025-Captain-America-Brave-New-World-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/กัปตัน-อเมริกา-ศึกฮีโร่จักรวาลใหม่-2025-Captain-America-Brave-New-World-165x248.webp",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/b79f196722512aac60421f762912e9b5/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/b79f196722512aac60421f762912e9b5"
+      }
+    ]
   },
   {
     "title": "Survive (2024) ต้องรอด",
-    "url": "https://lk-hdx.com/survive-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Survive-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Survive-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4ac42f06e2d65c1a2ef061bccc5c63f0/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4ac42f06e2d65c1a2ef061bccc5c63f0"
+      }
+    ]
   },
   {
     "title": "1992 (2024) คืนระห่ำโหด คนระห่ำแตก",
-    "url": "https://lk-hdx.com/1992-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/1992-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/1992-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/f49d6314aafb06adac7f6c8b81d5f29c/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/f49d6314aafb06adac7f6c8b81d5f29c"
+      }
+    ]
   },
   {
     "title": "Bones (2001) อมตะพันธุ์อำมหิต",
-    "url": "https://lk-hdx.com/bones-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Bones-2001-อมตะพันธุ์อำมหิต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Bones-2001-อมตะพันธุ์อำมหิต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/gm3_kaV_qU"
+      }
+    ]
   },
   {
     "title": "Journey 2 The Mysterious Island (2012) เจอร์นีย์ ภาค 2 พิชิตเกาะพิศวงอัศจรรย์สุดโลก",
-    "url": "https://lk-hdx.com/journey-2-the-mysterious-island-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6b6b4c092fe95b9932645499041bdc47/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6b6b4c092fe95b9932645499041bdc47"
+      }
+    ]
   },
   {
     "title": "Journey 1 to the Center of the Earth (2008) เจอร์นีย์ ภาค 1 ดิ่งทะลุสะดือโลก",
-    "url": "https://lk-hdx.com/journey-1-to-the-center-of-the-earth-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/160428758700fc132080a9aa6b6616a0/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/160428758700fc132080a9aa6b6616a0"
+      }
+    ]
   },
   {
     "title": "Strange Days (1995) สิ้นศตวรรษ วันช็อกโลก",
-    "url": "https://lk-hdx.com/strange-days-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Strange-Days-1995-สิ้นศตวรรษ-วันช็อกโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Strange-Days-1995-สิ้นศตวรรษ-วันช็อกโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2872b7f11103cfedbb41e799fec07521/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2872b7f11103cfedbb41e799fec07521"
+      }
+    ]
   },
   {
     "title": "The Alto Knights (2025) ทรชนครองเมือง",
-    "url": "https://lk-hdx.com/the-alto-knights-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Alto-Knights-2025-ทรชนครองเมือง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Alto-Knights-2025-ทรชนครองเมือง-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/d98c71f5754566d698d74348b6587eee/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/d98c71f5754566d698d74348b6587eee"
+      }
+    ]
   },
   {
     "title": "The Twister Caught in the Storm (2025) ติดอยู่กลางพายุ",
-    "url": "https://lk-hdx.com/the-twister-caught-in-the-storm-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Twister-Caught-in-the-Storm-2025-ติดอยู่กลางพายุ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Twister-Caught-in-the-Storm-2025-ติดอยู่กลางพายุ-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/e4ad4c0c62c896e4f47884a53666e3a7/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/e4ad4c0c62c896e4f47884a53666e3a7"
+      }
+    ]
   },
   {
     "title": "Popeye’s Revenge (2025)",
-    "url": "https://lk-hdx.com/popeyes-revenge-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Popeyes-Revenge-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Popeyes-Revenge-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/ef7381b282f0cc988d73ab039b59aaf5/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/ef7381b282f0cc988d73ab039b59aaf5"
+      }
+    ]
   },
   {
     "title": "Off Track 2 (2025) ออฟแทร็ค ภาค 2",
-    "url": "https://lk-hdx.com/off-track-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Off-Track-2-2025-ออฟแทร็ค-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Off-Track-2-2025-ออฟแทร็ค-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b1d684ede3167a76278e3ddb389cb9d9/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b1d684ede3167a76278e3ddb389cb9d9"
+      }
+    ]
   },
   {
     "title": "Scenic Route (2013) ซีนิค รูท หนทางดักมรณะ",
-    "url": "https://lk-hdx.com/scenic-route-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Scenic-Route-2013-ซีนิค-รูท-หนทางดักมรณะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Scenic-Route-2013-ซีนิค-รูท-หนทางดักมรณะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/850b2e3c8d77848710a46ca4c0a9fb61/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/850b2e3c8d77848710a46ca4c0a9fb61"
+      }
+    ]
   },
   {
     "title": "Ordinary Angels (2024) ปาฏิหาริย์สายใยรัก",
-    "url": "https://lk-hdx.com/ordinary-angels-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Ordinary-Angels-2024-ปาฏิหาริย์สายใยรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Ordinary-Angels-2024-ปาฏิหาริย์สายใยรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/535564f257865d495a91bf522f35f6f5/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/535564f257865d495a91bf522f35f6f5"
+      }
+    ]
   },
   {
     "title": "Wicked Little Letters (2024) ปริศนาจดหมายป่วน",
-    "url": "https://lk-hdx.com/wicked-little-letters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Wicked-Little-Letters-2024-ปริศนาจดหมายป่วน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Wicked-Little-Letters-2024-ปริศนาจดหมายป่วน-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bcd5c1f1c512f66511e84c63022e82ec/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bcd5c1f1c512f66511e84c63022e82ec"
+      }
+    ]
   },
   {
     "title": "After Everything (2018)",
-    "url": "https://lk-hdx.com/after-everything-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/After-Everything-2018-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/After-Everything-2018-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f731436ca3b80a18b34b29cfd462e8f0/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f731436ca3b80a18b34b29cfd462e8f0"
+      }
+    ]
   },
   {
     "title": "Fear Street Prom Queen (2025) ถนนอาถรรพ์ ราชินีงานพรอม",
-    "url": "https://lk-hdx.com/fear-street-prom-queen-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Fear-Street-Prom-Queen-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Fear-Street-Prom-Queen-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9c781a5cc937f3e64ff756be9865d54c/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9c781a5cc937f3e64ff756be9865d54c"
+      }
+    ]
   },
   {
     "title": "Nights in Rodanthe (2008) โรดันเต้รำลึก",
-    "url": "https://lk-hdx.com/nights-in-rodanthe-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Nights-in-Rodanthe-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Nights-in-Rodanthe-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/242113db2f1c8c07b244ec99af8c05d9/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/242113db2f1c8c07b244ec99af8c05d9"
+      }
+    ]
   },
   {
     "title": "The Wedding Planner (2001) จะปิ๊งมั้ย ถ้าหัวใจผิดแผน",
-    "url": "https://lk-hdx.com/the-wedding-planner-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Wedding-Planner-2001-จะปิ๊งมั้ย-ถ้าหัวใจผิดแผน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Wedding-Planner-2001-จะปิ๊งมั้ย-ถ้าหัวใจผิดแผน-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5d30aaadabb18235217015350435a05d/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5d30aaadabb18235217015350435a05d"
+      }
+    ]
   },
   {
     "title": "Final Destination 5 (2011) โกงตายสุดขีด ภาค 5",
-    "url": "https://lk-hdx.com/final-destination-5-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-5-2011-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-5-2011-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/GN_JP4oey9"
+      }
+    ]
   },
   {
     "title": "The Final Destination 4 (2009) โกงตาย ทะลุตาย ภาค 4",
-    "url": "https://lk-hdx.com/the-final-destination-4-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Final-Destination-4-2009-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Final-Destination-4-2009-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/625bbe6c70d9d0a0263f1a57d4f12a85/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/625bbe6c70d9d0a0263f1a57d4f12a85"
+      }
+    ]
   },
   {
     "title": "Final Destination 3 (2006) โกงความตาย เย้ยความตาย ภาค 3",
-    "url": "https://lk-hdx.com/final-destination-3-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-3-2006-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-3-2006-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/84af368e960cf8c71de46faf2d7f5d3e/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/84af368e960cf8c71de46faf2d7f5d3e"
+      }
+    ]
   },
   {
     "title": "Final Destination 2 (2003) โกงความตาย แล้วต้องตาย ภาค 2",
