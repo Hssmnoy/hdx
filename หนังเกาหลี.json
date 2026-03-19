@@ -5173,153 +5173,437 @@
   },
   {
     "title": "On the Occasion of Remembering the Turning Gate (2002)",
-    "url": "https://lk-hdx.com/on-the-occasion-of-remembering-the-turning-gate-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/On-the-Occasion-of-Remembering-the-Turning-Gate-2002-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ac1354ff9aa47afdfed1b7e0996c010f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac1354ff9aa47afdfed1b7e0996c010f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/On-the-Occasion-of-Remembering-the-Turning-Gate-2002-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Natalie (2010) นาตาลี",
-    "url": "https://lk-hdx.com/natalie-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Natalie-2010-นาตาลี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8d149ef7ce9481071894b580e49cf78/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8d149ef7ce9481071894b580e49cf78"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Natalie-2010-นาตาลี-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "0.0 MHz (2019) ผีอยู่ในผม",
-    "url": "https://lk-hdx.com/0-0-mhz-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/0.0-MHz-2019-ผีอยู่ในผม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/415d04dcff74b3466b3abaaf7d724e1f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/415d04dcff74b3466b3abaaf7d724e1f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/0.0-MHz-2019-ผีอยู่ในผม-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Money (2019) เพราะอยากรวย จึงต้องฉวยทางลัด",
-    "url": "https://lk-hdx.com/money-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Money-2019-เพราะอยากรวย-จึงต้องฉวยทางลัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7Fp_am6YgX"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Money-2019-เพราะอยากรวย-จึงต้องฉวยทางลัด-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Show Me The Ghost (2021) บ้านเช่าแถมผี",
-    "url": "https://lk-hdx.com/show-me-the-ghost-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Show-Me-The-Ghost-2021-บ้านเช่าแถมผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2bdf5fc8e19d5577ba7c8f9d6374d2ae/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2bdf5fc8e19d5577ba7c8f9d6374d2ae"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Show-Me-The-Ghost-2021-บ้านเช่าแถมผี-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Sinkhole (2021) ฝ่าวิกฤต หลุมระทึก",
-    "url": "https://lk-hdx.com/sinkhole-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sinkhole-2021-ฝ่าวิกฤต-หลุมระทึก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/18f521e1813033ae0aa811d6443200c0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/18f521e1813033ae0aa811d6443200c0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sinkhole-2021-ฝ่าวิกฤต-หลุมระทึก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Juror 8 (2019) 8 คนพิพากษา",
-    "url": "https://lk-hdx.com/juror-8-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Juror-8-2019-8-คนพิพากษา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa203a00768f3b105b8226f6f27ea18f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa203a00768f3b105b8226f6f27ea18f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Juror-8-2019-8-คนพิพากษา-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Stellar A Magical Ride (2022)",
-    "url": "https://lk-hdx.com/stellar-a-magical-ride-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Stellar-A-Magical-Ride-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0797f803c4814e3940257dcea74c64ff/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0797f803c4814e3940257dcea74c64ff"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Stellar-A-Magical-Ride-2022-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Kingmaker (2022)",
-    "url": "https://lk-hdx.com/kingmaker-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Kingmaker-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9f4e76447edde3886cff495d81815c2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9f4e76447edde3886cff495d81815c2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Kingmaker-2022-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Wailing (2016) ฆาตกรรมอำปีศาจ",
-    "url": "https://lk-hdx.com/the-wailing-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Wailing-2016-ฆาตกรรมอำปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/864741ed4c36f63f006109ef6f822e16/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/864741ed4c36f63f006109ef6f822e16"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Wailing-2016-ฆาตกรรมอำปีศาจ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Office (2015) พนักงานดีเดือด",
-    "url": "https://lk-hdx.com/office-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Office-2015-พนักงานดีเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dc64ee90eef665c375cf9ae49834d2fb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dc64ee90eef665c375cf9ae49834d2fb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Office-2015-พนักงานดีเดือด-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Villainess (2017) สวยแค้นโหด",
-    "url": "https://lk-hdx.com/the-villainess-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Villainess-2017-สวยแค้นโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/317723e6717882f3bea163edf5075e95/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/317723e6717882f3bea163edf5075e95"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Villainess-2017-สวยแค้นโหด-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Be With You (2018) ปาฏิหาริย์ สัญญารัก ฤดูฝน",
-    "url": "https://lk-hdx.com/be-with-you-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Be-With-You-2018-ปาฏิหาริย์-สัญญารัก-ฤดูฝน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/47b7ecd534e4b79e94e5cbbf37311e87/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/47b7ecd534e4b79e94e5cbbf37311e87"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Be-With-You-2018-ปาฏิหาริย์-สัญญารัก-ฤดูฝน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Scent of a Ghost (2019) ห้องนี้มีผีหรอ",
-    "url": "https://lk-hdx.com/scent-of-a-ghost-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Scent-of-a-Ghost-2019-ห้องนี้มีผีหรอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db62a4170fb87a683ce8a424d5242c34/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db62a4170fb87a683ce8a424d5242c34"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Scent-of-a-Ghost-2019-ห้องนี้มีผีหรอ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Age of Shadows (2016) คนล่าคน",
-    "url": "https://lk-hdx.com/the-age-of-shadows-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Age-of-Shadows-2016-คนล่าคน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5df222dfbd1e595716de34d678d6c517/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5df222dfbd1e595716de34d678d6c517"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Age-of-Shadows-2016-คนล่าคน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Swindlers (2017) มิจฉาชีพล่อลวงต้มตุ๋น",
-    "url": "https://lk-hdx.com/the-swindlers-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Swindlers-2017-มิจฉาชีพล่อลวงต้มตุ๋น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/10b7f4e32443b8cc0d7a514393439bf3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/10b7f4e32443b8cc0d7a514393439bf3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Swindlers-2017-มิจฉาชีพล่อลวงต้มตุ๋น-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Okay Madam (2020) อลเวงฮาวายกับสายลับกลางเวหา",
-    "url": "https://lk-hdx.com/okay-madam-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Okay-Madam-2020-อลเวงฮาวายกับสายลับกลางเวหา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ebb98bd574d835796d8789d0f0bc369/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ebb98bd574d835796d8789d0f0bc369"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Okay-Madam-2020-อลเวงฮาวายกับสายลับกลางเวหา-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Ghost Walk (2019) ย้อนรอยความตาย",
-    "url": "https://lk-hdx.com/ghost-walk-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Walk-2019-ย้อนรอยความตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/04d0578956b3f37dc8b590558af18a74/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/04d0578956b3f37dc8b590558af18a74"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Walk-2019-ย้อนรอยความตาย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Forgotten (2017) ความทรงจำพิศวง",
-    "url": "https://lk-hdx.com/forgotten-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Forgotten-2017-ความทรงจำพิศวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/22ab51e06909e694be29fa0b95424de9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/22ab51e06909e694be29fa0b95424de9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Forgotten-2017-ความทรงจำพิศวง-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Psychokinesis (2018) ไซโคคิเนซิส ยอดคุณพ่อจิตสะท้าน",
-    "url": "https://lk-hdx.com/psychokinesis-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Psychokinesis-2018-ไซโคคิเนซิส-ยอดคุณพ่อจิตสะท้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1a30feb89db7e47c0561b2be9f38f43b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1a30feb89db7e47c0561b2be9f38f43b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Psychokinesis-2018-ไซโคคิเนซิส-ยอดคุณพ่อจิตสะท้าน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Dream Change Laundromat (2017) เครื่องซักผ้าเปลี่ยนฝัน",
-    "url": "https://lk-hdx.com/dream-change-laundromat-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dream-Change-Laundromat-2017-เครื่องซักผ้าเปลี่ยนฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6b9387e893f727cf8a3637e75a24aa62/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b9387e893f727cf8a3637e75a24aa62"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Dream-Change-Laundromat-2017-เครื่องซักผ้าเปลี่ยนฝัน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Warning Do Not Pyay Amjeon (2019) คำเตือน อย่าดูมัน",
-    "url": "https://lk-hdx.com/warning-do-not-pyay-amjeon-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Warning-Do-Not-Pyay-Amjeon-2019-คำเตือน-อย่าดูมัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b5ed9be2e0b9e8a058f27dc91b3bc270/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5ed9be2e0b9e8a058f27dc91b3bc270"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Warning-Do-Not-Pyay-Amjeon-2019-คำเตือน-อย่าดูมัน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "A Man of Reason (2023)",
-    "url": "https://lk-hdx.com/a-man-of-reason-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/A-Man-of-Reason-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6adc85d9aec2164321659600affbcf4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6adc85d9aec2164321659600affbcf4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/A-Man-of-Reason-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hit and Run Squad (2019) ทีมเร็วสุดระห่ำ",
-    "url": "https://lk-hdx.com/hit-and-run-squad-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Hit-and-Run-Squad-2019-ทีมเร็วสุดระห่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/40f4d828cd0fd88faf95afc7dc3b2371/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40f4d828cd0fd88faf95afc7dc3b2371"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Hit-and-Run-Squad-2019-ทีมเร็วสุดระห่ำ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Deep Trap (2015) กับดัก ซ่อนตาย",
-    "url": "https://lk-hdx.com/deep-trap-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deep-Trap-2015-กับดัก-ซ่อนตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fd223a0c0cabfcac27af513c3ef79b0b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fd223a0c0cabfcac27af513c3ef79b0b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Deep-Trap-2015-กับดัก-ซ่อนตาย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Believer 2 (2023)",
-    "url": "https://lk-hdx.com/believer-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Believer-2-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/sr_0i3Ox8h"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Believer-2-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Ghost Mansion (2021) โกสต์ แมนชั่น",
-    "url": "https://lk-hdx.com/ghost-mansion-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-Mansion-2021-โกสต์-แมนชั่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f1ed01899a1116515c932e74e73f47b3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f1ed01899a1116515c932e74e73f47b3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-Mansion-2021-โกสต์-แมนชั่น-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Empire of Lust (2015) คาฮี ปรารถนาโค่นบัลลังก์",
-    "url": "https://lk-hdx.com/empire-of-lust-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Empire-of-Lust-2015-คาฮี-ปรารถนาโค่นบัลลังก์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qk_zU2fQE1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Empire-of-Lust-2015-คาฮี-ปรารถนาโค่นบัลลังก์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Space Sweeper (2021) ชนชั้นขยะปฏิวัติจักรวาล",
-    "url": "https://lk-hdx.com/space-sweeper-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Space-Sweeper-2021-ชนชั้นขยะปฏิวัติจักรวาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9a069b2dabe5beb99508a2b0ee295e67/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9a069b2dabe5beb99508a2b0ee295e67"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Space-Sweeper-2021-ชนชั้นขยะปฏิวัติจักรวาล-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Killing Romance (2023) แผนสังหารสุดปั่น",
-    "url": "https://lk-hdx.com/killing-romance-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Killing-Romance-2023-แผนสังหารสุดปั่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/0bml6XL_BH"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Killing-Romance-2023-แผนสังหารสุดปั่น-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Highway Family (2022)",
