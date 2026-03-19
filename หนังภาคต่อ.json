@@ -17711,153 +17711,445 @@
   },
   {
     "title": "Chief Daddy 1 (2018) คุณป๋าลาโลก ภาค 1",
-    "url": "https://lk-hdx.com/chief-daddy-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Chief-Daddy-1-2018-คุณป๋าลาโลก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/sdO15Fo_fh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Chief-Daddy-1-2018-คุณป๋าลาโลก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Zombies 3 (2022) ซอมบี้ ภาค 3",
-    "url": "https://lk-hdx.com/zombies-3-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Zombies-3-2022-ซอมบี้-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/104df6445a60d003a8e0dedfed91a7ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/104df6445a60d003a8e0dedfed91a7ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Zombies-3-2022-ซอมบี้-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Zombies 2 (2020) ซอมบี้ ภาค 2 เชียร์ลีดเดอร์ มนุษย์หมาป่า",
-    "url": "https://lk-hdx.com/zombies-2-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Zombies-2-2020-ซอมบี้-ภาค-2-เชียร์ลีดเดอร์-มนุษย์หมาป่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/397c1db9e4962c4fd170df28941f3a9e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/397c1db9e4962c4fd170df28941f3a9e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Zombies-2-2020-ซอมบี้-ภาค-2-เชียร์ลีดเดอร์-มนุษย์หมาป่า-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Zombies 1 (2018) ซอมบี้ ภาค 1 นักเรียนหน้าใหม่กับสาวเชียร์ลีดเดอร์",
-    "url": "https://lk-hdx.com/zombies-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Zombies-1-2018-ซอมบี้-ภาค-1-นักเรียนหน้าใหม่กับสาวเชียร์ลีดเดอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9caf1989ea88129b288e4034b0b763dd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9caf1989ea88129b288e4034b0b763dd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Zombies-1-2018-ซอมบี้-ภาค-1-นักเรียนหน้าใหม่กับสาวเชียร์ลีดเดอร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Enola Holmes 2 (2022) เอโนลา โฮล์มส์ ภาค 2",
-    "url": "https://lk-hdx.com/enola-holmes-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Enola-Holmes-2-2022-เอโนลา-โฮล์มส์-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/162cba83cf4ca7bbf9f2667d5d9a9364/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/162cba83cf4ca7bbf9f2667d5d9a9364"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Enola-Holmes-2-2022-เอโนลา-โฮล์มส์-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Enola Holmes 1 (2020) เอโนลา โฮล์มส์ ภาค 1",
-    "url": "https://lk-hdx.com/enola-holmes-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Enola-Holmes-1-2020-เอโนลา-โฮล์มส์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bfaa97f2664e8dd0f8b830f8fdc4deed/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bfaa97f2664e8dd0f8b830f8fdc4deed"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Enola-Holmes-1-2020-เอโนลา-โฮล์มส์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Under Wraps 2 (2022) มัมมี่ผีน่ารักมาก ภาค 2",
-    "url": "https://lk-hdx.com/under-wraps-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Under-Wraps-2-2022-มัมมี่ผีน่ารักมาก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1c8e90b986bfa3ba20c7e45f35701c9e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1c8e90b986bfa3ba20c7e45f35701c9e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Under-Wraps-2-2022-มัมมี่ผีน่ารักมาก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Under Wraps 1 (2021) มัมมี่ผีน่ารักมาก ภาค 1",
-    "url": "https://lk-hdx.com/under-wraps-1-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Under-Wraps-1-2021-มัมมี่ผีน่ารักมาก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66987f30521af641db8b5005581b6c35/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66987f30521af641db8b5005581b6c35"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Under-Wraps-1-2021-มัมมี่ผีน่ารักมาก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Claus Family 2 (2022) คริสต์มาสตระกูลคลอส ภาค 2",
-    "url": "https://lk-hdx.com/the-claus-family-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Claus-Family-2-2022-คริสต์มาสตระกูลคลอส-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4dcac54767b33debbc18fdaa6a4f9f63/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4dcac54767b33debbc18fdaa6a4f9f63"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Claus-Family-2-2022-คริสต์มาสตระกูลคลอส-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Claus Family 1 (2020) คริสต์มาสตระกูลคลอส ภาค 1",
-    "url": "https://lk-hdx.com/the-claus-family-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Claus-Family-1-2020-คริสต์มาสตระกูลคลอส-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c33bf139278ec921b3f9c3c6dea7d39c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c33bf139278ec921b3f9c3c6dea7d39c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Claus-Family-1-2020-คริสต์มาสตระกูลคลอส-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Breakout Brothers 3 (2022) ลูกผู้ชายแหกกรงเหล็ก ภาค 3",
-    "url": "https://lk-hdx.com/breakout-brothers-3-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-3-2022-ลูกผู้ชายแหกกรงเหล็ก-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6e26896e6633a2d5217fc96e67ef383f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6e26896e6633a2d5217fc96e67ef383f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-3-2022-ลูกผู้ชายแหกกรงเหล็ก-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Breakout Brothers 2 (2021) ลูกผู้ชายแหกกรงเหล็ก ภาค 2",
-    "url": "https://lk-hdx.com/breakout-brothers-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-2-2021-ลูกผู้ชายแหกกรงเหล็ก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5f0ececd2fa230001563ae33ba324d99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f0ececd2fa230001563ae33ba324d99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-2-2021-ลูกผู้ชายแหกกรงเหล็ก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Breakout Brothers 1 (2020) ลูกผู้ชายแหกกรงเหล็ก ภาค 1",
-    "url": "https://lk-hdx.com/breakout-brothers-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-1-2020-ลูกผู้ชายแหกกรงเหล็ก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2923bfa7f1dfd6e922bd0e12fc11372c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2923bfa7f1dfd6e922bd0e12fc11372c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-1-2020-ลูกผู้ชายแหกกรงเหล็ก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
-    "url": "https://lk-hdx.com/the-three-musketeers-dartagnan-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Three-Musketeers-DArtagnan-2023-สามทหารเสือ-กำเนิดนักรบดาร์ตาญัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cca6428c476776f265510745bf5bb3bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cca6428c476776f265510745bf5bb3bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Three-Musketeers-DArtagnan-2023-สามทหารเสือ-กำเนิดนักรบดาร์ตาญัง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Spider Man Into The Spider Verse (2018) สไปเดอร์ แมน ผงาดสู่จักรวาล แมงมุม",
-    "url": "https://lk-hdx.com/spider-man-into-the-spider-verse-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Spider-Man-Into-The-Spider-Verse-2018-สไปเดอร์-แมน-ผงาดสู่จักรวาล-แมงมุม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db22013697bf3553566ea664f3de0a13/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db22013697bf3553566ea664f3de0a13"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Spider-Man-Into-The-Spider-Verse-2018-สไปเดอร์-แมน-ผงาดสู่จักรวาล-แมงมุม-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Miracle Fighters 2 (2023) ฉีเหมินตุ้นเจี่ย ภาค 2",
-    "url": "https://lk-hdx.com/miracle-fighters-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Miracle-Fighters-2-2023-ฉีเหมินตุ้นเจี่ย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ddbc7dda90fa2976147a169861d0bda/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ddbc7dda90fa2976147a169861d0bda"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Miracle-Fighters-2-2023-ฉีเหมินตุ้นเจี่ย-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Northeastern Bro 2 Endless Love (2023) พี่ใหญ่กับรักแห่งเหมันต์ ภาค 2 รักนิรันดร์",
-    "url": "https://lk-hdx.com/northeastern-bro-2-endless-love-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Northeastern-Bro-2-Endless-Love-2023-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-2-รักนิรันดร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2fb41eaedc4d6a6aa16ea633b9e16439/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2fb41eaedc4d6a6aa16ea633b9e16439"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Northeastern-Bro-2-Endless-Love-2023-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-2-รักนิรันดร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Northeastern Bro 1 (2021) พี่ใหญ่กับรักแห่งเหมันต์ ภาค 1",
-    "url": "https://lk-hdx.com/the-northeastern-bro-1-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Northeastern-Bro-1-2021-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/L1Mj_jrpqM"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Northeastern-Bro-1-2021-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sang Krasue 2 (2023) แสงกระสือ ภาค 2",
-    "url": "https://lk-hdx.com/sang-krasue-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Sang-Krasue-2-2023-แสงกระสือ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/186994b6b404752a9ac768833fde02b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/186994b6b404752a9ac768833fde02b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Sang-Krasue-2-2023-แสงกระสือ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Krasue Inhuman Kiss (2019) แสงกระสือ ภาค 1",
-    "url": "https://lk-hdx.com/krasue-inhuman-kiss-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Krasue-Inhuman-Kiss-2019-แสงกระสือ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/997c43bfe97297666d79525ffb078a6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/997c43bfe97297666d79525ffb078a6d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Krasue-Inhuman-Kiss-2019-แสงกระสือ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fight Against Evil 2 (2023) ตำรวจล่าอาชญากร",
-    "url": "https://lk-hdx.com/fight-against-evil-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2-2023-ตำรวจล่าอาชญากร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b68499f48e0cff4fdbd29a19b492dd6e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b68499f48e0cff4fdbd29a19b492dd6e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2-2023-ตำรวจล่าอาชญากร-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fight Against Evil (2021)",
-    "url": "https://lk-hdx.com/fight-against-evil-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/95e47aecdadbfa16f17355180dfcfe2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/95e47aecdadbfa16f17355180dfcfe2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2021-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Vacation Friends 2 (2023) เพื่อนคู่แสบ แอบป่วนงาน ภาค 2",
-    "url": "https://lk-hdx.com/vacation-friends-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-2-2023-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7a6f207eb75f85d882728953711840d5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a6f207eb75f85d882728953711840d5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-2-2023-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Vacation Friends 1 (2021) เพื่อนคู่แสบ แอบป่วนงาน ภาค 1",
-    "url": "https://lk-hdx.com/vacation-friends-1-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-1-2021-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/af3a53b2377a3df9114cf281d4a216f0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/af3a53b2377a3df9114cf281d4a216f0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-1-2021-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fantasy Magician (2020) ฉีเหมินตุ้นเจี่ย",
-    "url": "https://lk-hdx.com/fantasy-magician-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fantasy-Magician-2020-ฉีเหมินตุ้นเจี่ย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/01eb921d46f8029d9743fcf8e4f021c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01eb921d46f8029d9743fcf8e4f021c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fantasy-Magician-2020-ฉีเหมินตุ้นเจี่ย-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา ภาค 2",
-    "url": "https://lk-hdx.com/the-thousand-faces-of-dunshu-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef863b67a11dc197be7829d76b9fcee2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef863b67a11dc197be7829d76b9fcee2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Thousand Faces of Dunjia 1 (2017) ผู้พิทักษ์หมัดเทวดา ภาค 1",
-    "url": "https://lk-hdx.com/the-thousand-faces-of-dunjia-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunjia-1-2017-ผู้พิทักษ์หมัดเทวดา-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66dc5ed3ffed716e1035f468e7eb95e7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66dc5ed3ffed716e1035f468e7eb95e7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunjia-1-2017-ผู้พิทักษ์หมัดเทวดา-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Guardians of the Galaxy 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล ภาค 3",
-    "url": "https://lk-hdx.com/guardians-of-the-galaxy-3-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/947b3ce2f3903232e8c384bbadc5a7e0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/947b3ce2f3903232e8c384bbadc5a7e0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Guardians of the Galaxy 2 (2017) รวมพันธุ์นักสู้พิทักษ์จักรวาล ภาค 2",
-    "url": "https://lk-hdx.com/guardians-of-the-galaxy-2-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5afa3e4c4067a5c5b44e5c959650e83/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5afa3e4c4067a5c5b44e5c959650e83"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Guardians of the Galaxy 1 (2014) รวมพันธุ์นักสู้พิทักษ์จักรวาล ภาค 1",
-    "url": "https://lk-hdx.com/guardians-of-the-galaxy-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/05708929a41619e695c90c0a34e07ae7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/05708929a41619e695c90c0a34e07ae7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Creed 3 (2023) ครี้ด ภาค 3",
