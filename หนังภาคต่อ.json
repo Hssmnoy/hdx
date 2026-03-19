@@ -8613,153 +8613,429 @@
   },
   {
     "title": "The Hobbit 3 The Battle Of The Five Armies (2014) เดอะ ฮอบบิท ภาค 3 สงคราม 5 ทัพ",
-    "url": "https://lk-hdx.com/the-hobbit-3-the-battle-of-the-five-armies-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Hobbit-3-The-Battle-Of-The-Five-Armies-2014-เดอะ-ฮอบบิท-ภาค-3-สงคราม-5-ทัพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/57e68c9f56f5d5a8126dae3f92f6951d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/57e68c9f56f5d5a8126dae3f92f6951d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Hobbit-3-The-Battle-Of-The-Five-Armies-2014-เดอะ-ฮอบบิท-ภาค-3-สงคราม-5-ทัพ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hobbit 2 (2013) เดอะ ฮอบบิท ภาค 2 ดินแดนเปลี่ยวร้างของสม็อค",
-    "url": "https://lk-hdx.com/the-hobbit-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Hobbit-2-2013-เดอะ-ฮอบบิท-ภาค-2-ดินแดนเปลี่ยวร้างของสม็อค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9060f738b0a8afd096fd705dc951c782/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9060f738b0a8afd096fd705dc951c782"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Hobbit-2-2013-เดอะ-ฮอบบิท-ภาค-2-ดินแดนเปลี่ยวร้างของสม็อค-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hobbit 1 An Unexpected Journey (2012) เดอะ ฮอบบิท ภาค 1 การผจญภัยสุดคาดคิด",
-    "url": "https://lk-hdx.com/the-hobbit-1-an-unexpected-journey-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Hobbit-1-An-Unexpected-Journey-2012-เดอะ-ฮอบบิท-ภาค-1-การผจญภัยสุดคาดคิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa2071b8d5c4937cc3e3f233ff366c5f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa2071b8d5c4937cc3e3f233ff366c5f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Hobbit-1-An-Unexpected-Journey-2012-เดอะ-ฮอบบิท-ภาค-1-การผจญภัยสุดคาดคิด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Death Race 2050 (2017) ซิ่งสั่งตาย 2050",
-    "url": "https://lk-hdx.com/death-race-2050-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-2050-2017-ซิ่งสั่งตาย-2050-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe962422025c004ada03b929f5f7eda4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe962422025c004ada03b929f5f7eda4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-2050-2017-ซิ่งสั่งตาย-2050-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Death Race 4 Beyond Anarchy (2018) เดธ เรซ ซิ่งสั่งตาย ภาค 4",
-    "url": "https://lk-hdx.com/death-race-4-beyond-anarchy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-4-Beyond-Anarchy-2018-เดธ-เรซ-ซิ่งสั่งตาย-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/k1zbW_giiQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-4-Beyond-Anarchy-2018-เดธ-เรซ-ซิ่งสั่งตาย-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Death Race 3 Inferno (2012) ซิ่งสั่งตาย ภาค 3 ซิ่งสู่นรก",
-    "url": "https://lk-hdx.com/death-race-3-inferno-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-3-Inferno-2012-ซิ่งสั่งตาย-ภาค-3-ซิ่งสู่นรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/xq6m1_KWyv"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-3-Inferno-2012-ซิ่งสั่งตาย-ภาค-3-ซิ่งสู่นรก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Death Race 2 (2010) ซิ่งสั่งตาย ภาค 2",
-    "url": "https://lk-hdx.com/death-race-2-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-2-2010-ซิ่งสั่งตาย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/mdf4h_AU2u"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-2-2010-ซิ่งสั่งตาย-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Death Race 1 (2008) ซิ่งสั่งตาย ภาค 1",
-    "url": "https://lk-hdx.com/death-race-1-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-1-2008-ซิ่งสั่งตาย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5c88e77c6a9391ff614e92eb9ec0ac9c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5c88e77c6a9391ff614e92eb9ec0ac9c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Death-Race-1-2008-ซิ่งสั่งตาย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sin City 2 A Dame To Kill For (2014) เมืองคนบาป ภาค 2",
-    "url": "https://lk-hdx.com/sin-city-2-a-dame-to-kill-for-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sin-City-2-A-Dame-To-Kill-For-2014-เมืองคนบาป-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a15fef31df66b1ce6a626d4307058601/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a15fef31df66b1ce6a626d4307058601"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sin-City-2-A-Dame-To-Kill-For-2014-เมืองคนบาป-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sin City 1 (2005) ซิน ซิตี้ เมืองคนตายยาก ภาค 1",
-    "url": "https://lk-hdx.com/sin-city-1-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sin-City-1-2005-ซิน-ซิตี้-เมืองคนตายยาก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7cd785aad684e8b7ee28c1faa3240d5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7cd785aad684e8b7ee28c1faa3240d5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sin-City-1-2005-ซิน-ซิตี้-เมืองคนตายยาก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "District B13 Ultimatum (2009) คู่ขบถ คนอันตราย ภาค 2",
-    "url": "https://lk-hdx.com/district-b13-ultimatum-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/District-B13-Ultimatum-2009-คู่ขบถ-คนอันตราย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e754508c6f89c44ab1dedf2de638106/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e754508c6f89c44ab1dedf2de638106"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/District-B13-Ultimatum-2009-คู่ขบถ-คนอันตราย-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "District B13 (2004) คู่ขบถ คนอันตราย ภาค 1",
-    "url": "https://lk-hdx.com/district-b13-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/District-B13-2004-คู่ขบถ-คนอันตราย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5460300c3df08baebcc2ddf118ae33e3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5460300c3df08baebcc2ddf118ae33e3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/District-B13-2004-คู่ขบถ-คนอันตราย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Battle Royale 2 Requiem (2003) เกมนรก โรงเรียนพันธุ์โหด ภาค 2",
-    "url": "https://lk-hdx.com/battle-royale-2-requiem-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Battle-Royale-2-Requiem-2003-เกมนรก-โรงเรียนพันธุ์โหด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/005f47c35ca4addfefb3e34b92fdc239/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/005f47c35ca4addfefb3e34b92fdc239"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Battle-Royale-2-Requiem-2003-เกมนรก-โรงเรียนพันธุ์โหด-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Battle Royale 1 (2000) เกมนรก โรงเรียนพันธุ์โหด ภาค 1",
-    "url": "https://lk-hdx.com/battle-royale-1-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Battle-Royale-1-2000-เกมนรก-โรงเรียนพันธุ์โหด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8d0ffe1d7a206428b63e053ec84e1e8e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8d0ffe1d7a206428b63e053ec84e1e8e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Battle-Royale-1-2000-เกมนรก-โรงเรียนพันธุ์โหด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "BloodRayne 3 The Third Reich (2010) ผ่าภิภพแวมไพร์ ภาค 3",
-    "url": "https://lk-hdx.com/bloodrayne-3-the-third-reich-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/BloodRayne-3-The-Third-Reich-2010-ผ่าภิภพแวมไพร์-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a6fe5ce653fd23c4c835656285ea367b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a6fe5ce653fd23c4c835656285ea367b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/BloodRayne-3-The-Third-Reich-2010-ผ่าภิภพแวมไพร์-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "BloodRayne 2 Deliverance (2007) ผ่าพิภพแวมไพร์ ภาค 2",
-    "url": "https://lk-hdx.com/bloodrayne-2-deliverance-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/BloodRayne-2-Deliverance-2007-ผ่าพิภพแวมไพร์-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/J_KLbwMsLA"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/BloodRayne-2-Deliverance-2007-ผ่าพิภพแวมไพร์-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "BloodRayne 1 (2005) ผ่าภิภพแวมไพร์ ภาค 1",
-    "url": "https://lk-hdx.com/bloodrayne-1-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/BloodRayne-1-2005-ผ่าภิภพแวมไพร์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/TCY_n88wVM"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/BloodRayne-1-2005-ผ่าภิภพแวมไพร์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Barbie Dreamhouse Adventures 2 (2018) ผจญภัยบ้านในฝันของบาร์บี้",
-    "url": "https://lk-hdx.com/barbie-dreamhouse-adventures-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Barbie-Dreamhouse-Adventures-2-2018-ผจญภัยบ้านในฝันของบาร์บี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e9905d276f0eace7d210bd045eacf587/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e9905d276f0eace7d210bd045eacf587"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Barbie-Dreamhouse-Adventures-2-2018-ผจญภัยบ้านในฝันของบาร์บี้-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Barbie Dreamhouse Adventures 1 (2018) ผจญภัยบ้านในฝันของบาร์บี้",
-    "url": "https://lk-hdx.com/barbie-dreamhouse-adventures-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Barbie-Dreamhouse-Adventures-1-2018-ผจญภัยบ้านในฝันของบาร์บี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6091567a34b874c24cd23200a42e3407/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6091567a34b874c24cd23200a42e3407"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Barbie-Dreamhouse-Adventures-1-2018-ผจญภัยบ้านในฝันของบาร์บี้-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Huntsman Winter’s War (2016) พรานป่าและราชินีน้ำแข็ง",
-    "url": "https://lk-hdx.com/the-huntsman-winters-war-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Huntsman-Winters-War-2016-พรานป่าและราชินีน้ำแข็ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/CNX0mZ_Yfa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Huntsman-Winters-War-2016-พรานป่าและราชินีน้ำแข็ง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The First Purge (2018) ปฐมบทคืนอำมหิต",
-    "url": "https://lk-hdx.com/the-first-purge-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-First-Purge-2018-ปฐมบทคืนอำมหิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6eebf0b22f203bb358bc17a9ceeb0c4b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6eebf0b22f203bb358bc17a9ceeb0c4b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-First-Purge-2018-ปฐมบทคืนอำมหิต-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Insurgent (2015) คนกบฏโลก",
-    "url": "https://lk-hdx.com/insurgent-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Insurgent-2015-คนกบฏโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/76832a88bdb2803813ab0717484f58d8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/76832a88bdb2803813ab0717484f58d8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Insurgent-2015-คนกบฏโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Satan’s Slaves (2017) เดี๋ยวแม่ลากไปลงนรก",
-    "url": "https://lk-hdx.com/satans-slaves-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Satans-Slaves-2017-เดี๋ยวแม่ลากไปลงนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b4b97898085e366701a96f2729584575/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4b97898085e366701a96f2729584575"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Satans-Slaves-2017-เดี๋ยวแม่ลากไปลงนรก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sinister 2 (2015) เห็นแล้วต้องตาย ภาค 2",
-    "url": "https://lk-hdx.com/sinister-2-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sinister-2-2015-เห็นแล้วต้องตาย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cfde13a63ddd04082b8875828744e3ce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cfde13a63ddd04082b8875828744e3ce"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sinister-2-2015-เห็นแล้วต้องตาย-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sinister 1 (2012) เห็นแล้วต้องตาย ภาค 1",
-    "url": "https://lk-hdx.com/sinister-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sinister-1-2012-เห็นแล้วต้องตาย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e53f64959c7bebc8c9eca99fe434c379/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e53f64959c7bebc8c9eca99fe434c379"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sinister-1-2012-เห็นแล้วต้องตาย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "American Psycho 2 All American Girl (2002) อเมริกัน ไซโค ภาค 2 สวยสับแหลก",
-    "url": "https://lk-hdx.com/american-psycho-2-all-american-girl-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/American-Psycho-2-All-American-Girl-2002-อเมริกัน-ไซโค-ภาค-2-สวยสับแหลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d293953ec3db29d42f6d2f8e5e36d361/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d293953ec3db29d42f6d2f8e5e36d361"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/American-Psycho-2-All-American-Girl-2002-อเมริกัน-ไซโค-ภาค-2-สวยสับแหลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "American Psycho 1 (2000) อเมริกัน ไซโค ภาค 1",
-    "url": "https://lk-hdx.com/american-psycho-1-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/American-Psycho-1-2000-อเมริกัน-ไซโค-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/09fd19bb24e7bc84842d034f519983cc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/09fd19bb24e7bc84842d034f519983cc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/American-Psycho-1-2000-อเมริกัน-ไซโค-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Infernal Affairs 3 (2003) ปิดตำนานสองคนสองคม",
-    "url": "https://lk-hdx.com/infernal-affairs-3-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-3-2003-ปิดตำนานสองคนสองคม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/40c6d2f1d0fc6ab74565788a57c19bad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40c6d2f1d0fc6ab74565788a57c19bad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-3-2003-ปิดตำนานสองคนสองคม-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Infernal Affairs 2 (2003) ต้นฉบับสองคนสองคม",
-    "url": "https://lk-hdx.com/infernal-affairs-2-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-2-2003-ต้นฉบับสองคนสองคม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2482b0f32b0b168c3913d7f746f0dd47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2482b0f32b0b168c3913d7f746f0dd47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-2-2003-ต้นฉบับสองคนสองคม-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Infernal Affairs 1 (2002) สองคนสองคม",
-    "url": "https://lk-hdx.com/infernal-affairs-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-1-2002-สองคนสองคม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f3d317d7f712ad6e91dc930d1275aad2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f3d317d7f712ad6e91dc930d1275aad2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-1-2002-สองคนสองคม-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Gantz O (2016) กันสึ โอ",
