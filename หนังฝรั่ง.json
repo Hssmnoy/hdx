@@ -18487,153 +18487,437 @@
   },
   {
     "title": "Bram Stoker’s Dracula (1992) แดร็กคูลา",
-    "url": "https://lk-hdx.com/bram-stokers-dracula-1992/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Bram-Stokers-Dracula-1992-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4fc7b387803e877e1e86acde1ef7c993/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4fc7b387803e877e1e86acde1ef7c993"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Bram-Stokers-Dracula-1992-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Convert (2023)",
-    "url": "https://lk-hdx.com/the-convert-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Convert-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ZLT8BLM_eQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Convert-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ghostlight (2024)",
-    "url": "https://lk-hdx.com/ghostlight-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Ghostlight-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/YYPYT_hmXl"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Ghostlight-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trap (2024) แทร็ป",
-    "url": "https://lk-hdx.com/trap-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Trap-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0650302466bccf958897dce7aa0d7039/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0650302466bccf958897dce7aa0d7039"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Trap-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "We Need to Talk About Kevin (2011) คำสารภาพโหดของเควิน",
-    "url": "https://lk-hdx.com/we-need-to-talk-about-kevin-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/We-Need-to-Talk-About-Kevin-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c6928ccf8bdf9f82684c16e3eefa276f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c6928ccf8bdf9f82684c16e3eefa276f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/We-Need-to-Talk-About-Kevin-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "White Chicks (2004) จับคู่ป่วนมาแต่งอึ๋ม",
-    "url": "https://lk-hdx.com/white-chicks-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/White-Chicks-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f879f8c478a3f444c667fe6fef763dbb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f879f8c478a3f444c667fe6fef763dbb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/White-Chicks-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Charlie and the Chocolate Factory (2005) ชาร์ลี กับ โรงงานช็อกโกแลต",
-    "url": "https://lk-hdx.com/charlie-and-the-chocolate-factory-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Charlie-and-the-Chocolate-Factory-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_zEtARudHX"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Charlie-and-the-Chocolate-Factory-2005-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Longlegs (2024) ถอดรหัสคลั่งอำมหิต",
-    "url": "https://lk-hdx.com/longlegs-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Longlegs-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/D_w7jrD9Ua"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Longlegs-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Drive Away Dolls (2024) ซิ่งหนีไปยัยคนสวย",
-    "url": "https://lk-hdx.com/drive-away-dolls-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Drive-Away-Dolls-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/31f995921aa2193876ef8c482a019484/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/31f995921aa2193876ef8c482a019484"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Drive-Away-Dolls-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Modern Masters (2024) ปรมาจารย์ยุคใหม่ เอสเอส ราจามูลี",
-    "url": "https://lk-hdx.com/modern-masters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Modern-Masters-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/03f41d285f80ec5e9c07f55ddf2469cd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/03f41d285f80ec5e9c07f55ddf2469cd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Modern-Masters-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mon Laferte (2024) ฉันรักเธอ",
-    "url": "https://lk-hdx.com/mon-laferte-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Mon-Laferte-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d3657b07c1c78d672869faa58a77640e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d3657b07c1c78d672869faa58a77640e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Mon-Laferte-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Pursuit of Happyness (2006) ยิ้มไว้ก่อนพ่อสอนไว้",
-    "url": "https://lk-hdx.com/the-pursuit-of-happyness-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Pursuit-of-Happyness-2006-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9e211c2cc58d070ee853bdffafef6189/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9e211c2cc58d070ee853bdffafef6189"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Pursuit-of-Happyness-2006-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "3096 Days (2013) บอกโลก ว่าต้องรอด",
-    "url": "https://lk-hdx.com/3096-days-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/3096-Days-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e18ecb228729d81404374c666c687f5f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e18ecb228729d81404374c666c687f5f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/3096-Days-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Catwoman (2004) แคทวูแมน",
-    "url": "https://lk-hdx.com/catwoman-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Catwoman-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eaad826ff15ddbeae6f90961a34ec78b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eaad826ff15ddbeae6f90961a34ec78b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Catwoman-2004-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "August Rush (2007) ทั้งชีวิตขอมีแต่เสียงเพลง",
-    "url": "https://lk-hdx.com/august-rush-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/August-Rush-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b635f4e800994f715a93eefa5accd365/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b635f4e800994f715a93eefa5accd365"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/August-Rush-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Second Chance Rivals (2019) ขอโอกาสเอื้อมคว้าฝัน",
-    "url": "https://lk-hdx.com/a-second-chance-rivals-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/A-Second-Chance-Rivals-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6bb437b552947f08d09707069fccc481/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6bb437b552947f08d09707069fccc481"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/A-Second-Chance-Rivals-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bernie the Dolphin 2 (2019) เบอร์นี่ โลมาน้อยหัวใจมหาสมุทร ภาค 2",
-    "url": "https://lk-hdx.com/bernie-the-dolphin-2-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Bernie-the-Dolphin-2-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a3ba5184371bdebec58eeaefbfbac31c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a3ba5184371bdebec58eeaefbfbac31c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Bernie-the-Dolphin-2-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bernie The Dolphin 1 (2018) เบอร์นี่ โลมาน้อย หัวใจมหาสมุทร ภาค 1",
-    "url": "https://lk-hdx.com/bernie-the-dolphin-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Bernie-The-Dolphin-1-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/304832bf5bae4ba43ee34fb63e69d34a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/304832bf5bae4ba43ee34fb63e69d34a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Bernie-The-Dolphin-1-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Back to Bataan (1945) สมรภูมิบาตาอัน",
-    "url": "https://lk-hdx.com/back-to-bataan-1945/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Back-to-Bataan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/79762e33cc76e679685159f388f5650a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/79762e33cc76e679685159f388f5650a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Back-to-Bataan-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hannibal Rising (2007) ฮันนิบาล ตำนานอำมหิตไม่เงียบ",
-    "url": "https://lk-hdx.com/hannibal-rising-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Hannibal-Rising-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/076e9cf31ac418a74051ad93d6fb4303/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/076e9cf31ac418a74051ad93d6fb4303"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Hannibal-Rising-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Primal Fear (1996) สัญชาตญาณดิบซ่อนนรก",
-    "url": "https://lk-hdx.com/primal-fear-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Primal-Fear-1996-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aa4dc228bee064cfd689b22f1113bd18/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aa4dc228bee064cfd689b22f1113bd18"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Primal-Fear-1996-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "In The Name Of The King 3 The Last Job (2014) ศึกนักรบกองพันปีศาจ ภาค 3",
-    "url": "https://lk-hdx.com/in-the-name-of-the-king-3-the-last-job-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/In-The-Name-Of-The-King-3-The-Last-Job-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/277a76af0d510cda2bcac2d942d764de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/277a76af0d510cda2bcac2d942d764de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/In-The-Name-Of-The-King-3-The-Last-Job-2014-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "In The Name Of The King 2 Two Worlds (2011) ศึกนักรบกองพันปีศาจ ภาค 2",
-    "url": "https://lk-hdx.com/in-the-name-of-the-king-2-two-worlds-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/In-The-Name-Of-The-King-2-Two-Worlds-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/59ddfc28a79cfe61950a43ba632c2a77/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/59ddfc28a79cfe61950a43ba632c2a77"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/In-The-Name-Of-The-King-2-Two-Worlds-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "In the Name of the King A Dungeon Siege Tale (2007) ศึกนักรบกองพันปีศาจ ภาค 1",
-    "url": "https://lk-hdx.com/in-the-name-of-the-king-a-dungeon-siege-tale-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/In-the-Name-of-the-King-A-Dungeon-Siege-Tale-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b74c4ebf1088bde7d8219ad3c979f7c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b74c4ebf1088bde7d8219ad3c979f7c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/In-the-Name-of-the-King-A-Dungeon-Siege-Tale-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mojave Diamonds (2023)",
-    "url": "https://lk-hdx.com/mojave-diamonds-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Mojave-Diamonds-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53330189c60374b6b59767e3e77c384f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53330189c60374b6b59767e3e77c384f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Mojave-Diamonds-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Sacrifice (2024)",
-    "url": "https://lk-hdx.com/a-sacrifice-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/A-Sacrifice-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3bd7146b42123b0dd3a5254355e5c7f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3bd7146b42123b0dd3a5254355e5c7f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/A-Sacrifice-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kill (2024)",
-    "url": "https://lk-hdx.com/kill-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Kill-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/077bd088d10d2685481392f6f1677ecc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/077bd088d10d2685481392f6f1677ecc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Kill-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Young Woman and the Sea (2024)",
-    "url": "https://lk-hdx.com/young-woman-and-the-sea-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Young-Woman-and-the-Sea-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e3550e8ceee0362799804f646b6a3cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e3550e8ceee0362799804f646b6a3cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Young-Woman-and-the-Sea-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Horrible Bosses 2 (2014) รวมหัวสอย เจ้านายจอมแสบ ภาค 2",
-    "url": "https://lk-hdx.com/horrible-bosses-2-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Horrible-Bosses-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/353cc55418be8ca02290bd4b3c72d0e1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/353cc55418be8ca02290bd4b3c72d0e1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Horrible-Bosses-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Horrible Bosses 1 (2011) รวมหัวสอย เจ้านายจอมแสบ ภาค 1",
-    "url": "https://lk-hdx.com/horrible-bosses-1-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Horrible-Bosses-1-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c0938e486bd08bbfe8515e576a60ac23/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c0938e486bd08bbfe8515e576a60ac23"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Horrible-Bosses-1-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ayla The Daughter of War (2017)",
