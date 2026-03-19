@@ -5129,153 +5129,429 @@
   },
   {
     "title": "Off the Stage (2024) สู่เวทีฝัน",
-    "url": "https://lk-hdx.com/off-the-stage-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Off-the-Stage-2024-สู่เวทีฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7209a8763d0bfceef895eb7b36b01266/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7209a8763d0bfceef895eb7b36b01266"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Off-the-Stage-2024-สู่เวทีฝัน-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "FAKE bodyguard (2021) บอดี้การ์ดพันธุ์เก๊",
-    "url": "https://lk-hdx.com/fake-bodyguard-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/FAKE-bodyguard-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cfbb97e7d64f444d80bed264eddf1735/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cfbb97e7d64f444d80bed264eddf1735"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/FAKE-bodyguard-2021-165x248.jpeg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Yin yang Master (2021) หยิน หยาง ศึกมหาเวท",
-    "url": "https://lk-hdx.com/the-yin-yang-master-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Yin-yang-Master-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3dda07db8f783453226d96885a3198c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3dda07db8f783453226d96885a3198c9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Yin-yang-Master-2021-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Ma, I Love You (2023) รักแม่นะ",
-    "url": "https://lk-hdx.com/ma-i-love-you-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023-รักแม่นะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5a789086af344f48f02cb7333aca7add/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5a789086af344f48f02cb7333aca7add"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023-รักแม่นะ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Rescue on One’s Own (2024) เดือดลุยเดี่ยว",
-    "url": "https://lk-hdx.com/rescue-on-ones-own-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Rescue-on-Ones-Own-2024-เดือดลุยเดี่ยว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/37b7457033031d1ba411e2af1d0c2955/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/37b7457033031d1ba411e2af1d0c2955"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Rescue-on-Ones-Own-2024-เดือดลุยเดี่ยว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Love Death and Cat (2024) เรื่องเล่าขานตำนานปีศาจแมว",
-    "url": "https://lk-hdx.com/love-death-and-cat-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024-เรื่องเล่าขานตำนานปีศาจแมว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/0aI53_hWoA"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024-เรื่องเล่าขานตำนานปีศาจแมว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Mystery of Jade (2024) เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่",
-    "url": "https://lk-hdx.com/the-mystery-of-jade-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Db6MvtJ2W_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "A Mirror Kill Magic (2021) กระจกสังหารปีศาจ",
-    "url": "https://lk-hdx.com/a-mirror-kill-magic-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Mirror-Kill-Magic-2021-กระจกสังหารปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fca1135537c39193a0e0a424bee28993/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fca1135537c39193a0e0a424bee28993"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Mirror-Kill-Magic-2021-กระจกสังหารปีศาจ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Battle at Lake Changjin 2 (2022) ยุทธการยึดสมรภูมิเดือด ภาค 2",
-    "url": "https://lk-hdx.com/the-battle-at-lake-changjin-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Battle-at-Lake-Changjin-2-2022-ยุทธการยึดสมรภูมิเดือด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4babb1d12d9f96b632294831c92afa61/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4babb1d12d9f96b632294831c92afa61"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Battle-at-Lake-Changjin-2-2022-ยุทธการยึดสมรภูมิเดือด-ภาค-2-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Suspect (2024) ซูเปอร์นักสืบ",
-    "url": "https://lk-hdx.com/suspect-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Suspect-2024-ซูเปอร์นักสืบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8dcec0329a0ba279afd9b9b49127ecf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8dcec0329a0ba279afd9b9b49127ecf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Suspect-2024-ซูเปอร์นักสืบ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Mojin The Lost Legend (2015) ล่าขุมทรัพย์ลึกใต้โลก",
-    "url": "https://lk-hdx.com/mojin-the-lost-legend-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Mojin-The-Lost-Legend-2015-ล่าขุมทรัพย์ลึกใต้โลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a09dfb481af5eeecaed972fce51ee906/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a09dfb481af5eeecaed972fce51ee906"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Mojin-The-Lost-Legend-2015-ล่าขุมทรัพย์ลึกใต้โลก-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Legend of Herring (2022) ตำนานปลาแฮร์ริ่ง",
-    "url": "https://lk-hdx.com/the-legend-of-herring-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Legend-of-Herring-2022-ตำนานปลาแฮร์ริ่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ae158557e75b45c5ad76f7d963af9f8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ae158557e75b45c5ad76f7d963af9f8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Legend-of-Herring-2022-ตำนานปลาแฮร์ริ่ง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Fate Of Reunion (2022) นางพญางูขาว ภาคอดีตชาติ",
-    "url": "https://lk-hdx.com/the-fate-of-reunion-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fate-Of-Reunion-2022-นางพญางูขาว-ภาคอดีตชาติ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4ac581be9dcd9f8a6d043cb034dfcd9b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4ac581be9dcd9f8a6d043cb034dfcd9b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fate-Of-Reunion-2022-นางพญางูขาว-ภาคอดีตชาติ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Master Z The Ip Man Legacy (2018) ยิปมัน ตำนานมาสเตอร์ Z",
-    "url": "https://lk-hdx.com/master-z-the-ip-man-legacy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Master-Z-The-Ip-Man-Legacy-2018-ยิปมัน-ตำนานมาสเตอร์-Z-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/3gf_dXV09J"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Master-Z-The-Ip-Man-Legacy-2018-ยิปมัน-ตำนานมาสเตอร์-Z-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Ip Man 4 The Finale (2019) ยิปมัน ภาค 4 เดอะ ไฟนอล",
-    "url": "https://lk-hdx.com/ip-man-4-the-finale-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Ip-Man-4-The-Finale-2019-ยิปมัน-ภาค-4-เดอะ-ไฟนอล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44bd13d6dc50707eab5a97d09ed6b9bd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44bd13d6dc50707eab5a97d09ed6b9bd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Ip-Man-4-The-Finale-2019-ยิปมัน-ภาค-4-เดอะ-ไฟนอล-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "IP Man 3 (2015) ยิปมัน ภาค 3 เปิดตำนานปรมาจารย์หมัดหย่งชุน",
-    "url": "https://lk-hdx.com/ip-man-3-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/IP-Man-3-2015-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/3V_2VqVIg0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/IP-Man-3-2015-165x248.jpeg",
+    "group": "หนังจีน"
   },
   {
     "title": "IP Man 2 (2010) ยิปมัน ภาค 2 เจ้ากังฟูสู้ยิปตา",
-    "url": "https://lk-hdx.com/ip-man-2-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-2-2010-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/1_xVo7MtIb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-2-2010-165x248.jpeg",
+    "group": "หนังจีน"
   },
   {
     "title": "IP Man 1 (2008) ยิปมัน ภาค 1 เจ้ากังฟูสู้ยิบตา",
-    "url": "https://lk-hdx.com/ip-man-1-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-1-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4c1088c80e9ca802b3c3e104d0ebfa26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4c1088c80e9ca802b3c3e104d0ebfa26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/IP-Man-1-2008-165x248.jpeg",
+    "group": "หนังจีน"
   },
   {
     "title": "Junk Flying car (2024) รถซิ่งเหินเวหา",
-    "url": "https://lk-hdx.com/junk-flying-car-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Junk-Flying-car-2024-รถซิ่งเหินเวหา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f1b4da0a5b192493ad039a6b0c8d288a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f1b4da0a5b192493ad039a6b0c8d288a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Junk-Flying-car-2024-รถซิ่งเหินเวหา-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Zhou Gong Subdues Demons (2024) ตระกูลโจวปราบปีศาจ",
-    "url": "https://lk-hdx.com/zhou-gong-subdues-demons-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Zhou-Gong-Subdues-Demons-2024-ตระกูลโจวปราบปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca1b5d61443d2ccc3df71ec0304c7e48/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca1b5d61443d2ccc3df71ec0304c7e48"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Zhou-Gong-Subdues-Demons-2024-ตระกูลโจวปราบปีศาจ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Quan Dao The Journey of a Boxer (2020)",
-    "url": "https://lk-hdx.com/quan-dao-the-journey-of-a-boxer-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Quan-Dao-The-Journey-of-a-Boxer-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6bfd768b68c25c654a2d76c5bd376fb8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6bfd768b68c25c654a2d76c5bd376fb8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Quan-Dao-The-Journey-of-a-Boxer-2020-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Third Suspect (2024) ผู้ต้องสงสัยคนที่สาม",
-    "url": "https://lk-hdx.com/the-third-suspect-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Third-Suspect-2024-ผู้ต้องสงสัยคนที่สาม-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/G5dF_pdwqh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Third-Suspect-2024-ผู้ต้องสงสัยคนที่สาม-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Sword of Destiny (2021) ปรมาจารย์ช่างตีดาบ",
-    "url": "https://lk-hdx.com/sword-of-destiny-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sword-of-Destiny-2021-ปรมาจารย์ช่างตีดาบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/46951001f6f2ae83b365912e67c572cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/46951001f6f2ae83b365912e67c572cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sword-of-Destiny-2021-ปรมาจารย์ช่างตีดาบ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Super Me (2019) ยอดมนุษย์สุดโต่ง",
-    "url": "https://lk-hdx.com/super-me-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Super-Me-2019-ยอดมนุษย์สุดโต่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/402e10dc9d561ff6946cca4db63113e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/402e10dc9d561ff6946cca4db63113e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Super-Me-2019-ยอดมนุษย์สุดโต่ง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Call of Heroes (2016) มังกรหนุ่มผยองเดช",
-    "url": "https://lk-hdx.com/call-of-heroes-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Call-of-Heroes-2016-มังกรหนุ่มผยองเดช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a4779091c004ed1e12d6f13e96df755d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a4779091c004ed1e12d6f13e96df755d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Call-of-Heroes-2016-มังกรหนุ่มผยองเดช-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Sianviathan (2024) สัตว์ร้ายมหึมา",
-    "url": "https://lk-hdx.com/sianviathan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sianviathan-2024-สัตว์ร้ายมหึมา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2dfe76062aca698380a14d09a464fa10/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2dfe76062aca698380a14d09a464fa10"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sianviathan-2024-สัตว์ร้ายมหึมา-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Strange Tales of a Lonely Studio (2024) เรื่องเล่าลึกลับเหลียวไจ",
-    "url": "https://lk-hdx.com/strange-tales-of-a-lonely-studio-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Strange-Tales-of-a-Lonely-Studio-2024-เรื่องเล่าลึกลับเหลียวไจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ce5deac97821455ae922343a52051220/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ce5deac97821455ae922343a52051220"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Strange-Tales-of-a-Lonely-Studio-2024-เรื่องเล่าลึกลับเหลียวไจ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Chinese Zodiac (2012) วิ่ง ปล้น ฟัด",
-    "url": "https://lk-hdx.com/chinese-zodiac-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Chinese-Zodiac-2012-วิ่ง-ปล้น-ฟัด-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2cc53bf2de6848289dd1aaa2e4fefdad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2cc53bf2de6848289dd1aaa2e4fefdad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Chinese-Zodiac-2012-วิ่ง-ปล้น-ฟัด-165x248.jpeg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Bravest (2019) ผู้พิทักษ์ดับไฟ",
-    "url": "https://lk-hdx.com/the-bravest-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Bravest-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a295d210d41f80579db1982983f84e9c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a295d210d41f80579db1982983f84e9c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Bravest-2019-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Devil of Village (2019) ตำนานอู่ฉางแห่งสำนักตรวจการหลวง",
-    "url": "https://lk-hdx.com/the-devil-of-village-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Devil-of-Village-2019-ตำนานอู่ฉางแห่งสำนักตรวจการหลวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bc1ed7c5a4cf0f26ec08a0bf8f402da2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bc1ed7c5a4cf0f26ec08a0bf8f402da2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Devil-of-Village-2019-ตำนานอู่ฉางแห่งสำนักตรวจการหลวง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Circle Line (2023)",
