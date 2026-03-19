@@ -11149,153 +11149,437 @@
   },
   {
     "title": "The Christmas Chronicles 1 (2018) ผจญภัยพิทักษ์คริสต์มาส ภาค 1",
-    "url": "https://lk-hdx.com/the-christmas-chronicles-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Christmas-Chronicles-2018-ผจญภัยพิทักษ์คริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fcc0e162d3f3b7f8d4d9d8ebda26d462/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fcc0e162d3f3b7f8d4d9d8ebda26d462"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Christmas-Chronicles-2018-ผจญภัยพิทักษ์คริสต์มาส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Knight Before Christmas (2019) อัศวินก่อนวันคริสต์มาส",
-    "url": "https://lk-hdx.com/the-knight-before-christmas-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Knight-Before-Christmas-2019-อัศวินก่อนวันคริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/519f3598b7cb188f067e6ab320b899cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/519f3598b7cb188f067e6ab320b899cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Knight-Before-Christmas-2019-อัศวินก่อนวันคริสต์มาส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mowgli Legend of the Jungle (2018) เมาคลี ตำนานแห่งเจ้าป่า",
-    "url": "https://lk-hdx.com/mowgli-legend-of-the-jungle-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Mowgli-Legend-of-the-Jungle-2018-เมาคลี-ตำนานแห่งเจ้าป่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/GL9_3CO2tj"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Mowgli-Legend-of-the-Jungle-2018-เมาคลี-ตำนานแห่งเจ้าป่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Woman in the Window (2021) ส่องปมมรณะ",
-    "url": "https://lk-hdx.com/the-woman-in-the-window-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Woman-in-the-Window-2021-ส่องปมมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a3cfc36a4d2a38ca46fc8730f3a59306/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a3cfc36a4d2a38ca46fc8730f3a59306"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Woman-in-the-Window-2021-ส่องปมมรณะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Thunder Force (2021) ธันเดอร์ฟอร์ซ ขบวนการฮีโร่ฟาดฟ้า",
-    "url": "https://lk-hdx.com/thunder-force-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Thunder-Force-2021-ธันเดอร์ฟอร์ซ-ขบวนการฮีโร่ฟาดฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/313e9bc31d936f454458cf7e84d7e08d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/313e9bc31d936f454458cf7e84d7e08d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Thunder-Force-2021-ธันเดอร์ฟอร์ซ-ขบวนการฮีโร่ฟาดฟ้า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "To All the Boys 3 Always And Forever (2021) แด่ชายทุกคนที่ฉันเคยรัก ชั่วนิจนิรันดร์ ภาค 3",
-    "url": "https://lk-hdx.com/to-all-the-boys-3-always-and-forever-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-3-Always-And-Forever-2021-แด่ชายทุกคนที่ฉันเคยรัก-ชั่วนิจนิรันดร์-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/943db910dc6a64f0c94c8c91e7eaf21a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/943db910dc6a64f0c94c8c91e7eaf21a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-3-Always-And-Forever-2021-แด่ชายทุกคนที่ฉันเคยรัก-ชั่วนิจนิรันดร์-ภาค-3-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "To All the Boys 2 P.S. I Still Love You (2020) แด่ชายทุกคนที่ฉันเคยรัก (ตอนนี้ก็ยังรัก) ภาค 2",
-    "url": "https://lk-hdx.com/to-all-the-boys-2-p-s-i-still-love-you-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-2-P.S.-I-Still-Love-You-2020-แด่ชายทุกคนที่ฉันเคยรัก-ตอนนี้ก็ยังรัก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6327364a83c53db4739c796302b57e47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6327364a83c53db4739c796302b57e47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-2-P.S.-I-Still-Love-You-2020-แด่ชายทุกคนที่ฉันเคยรัก-ตอนนี้ก็ยังรัก-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "To All the Boys 1 I’ve Loved Before (2018) แด่ชายทุกคนที่ฉันเคยรัก ภาค 1",
-    "url": "https://lk-hdx.com/to-all-the-boys-1-ive-loved-before-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-1-Ive-Loved-Before-2018-แด่ชายทุกคนที่ฉันเคยรัก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15baff14280349e6424023f0388314aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15baff14280349e6424023f0388314aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-1-Ive-Loved-Before-2018-แด่ชายทุกคนที่ฉันเคยรัก-ภาค-1-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Princess Switch 3 Romancing the Star (2021) เดอะ พริ้นเซส สวิตช์ ภาค 3 ไขว่คว้าหาดาว",
-    "url": "https://lk-hdx.com/the-princess-switch-3-romancing-the-star-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-3-Romancing-the-Star-2021-เดอะ-พริ้นเซส-สวิตช์-ภาค-3-ไขว่คว้าหาดาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9782f6b9b9e7be80684d86f0e674a0a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9782f6b9b9e7be80684d86f0e674a0a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-3-Romancing-the-Star-2021-เดอะ-พริ้นเซส-สวิตช์-ภาค-3-ไขว่คว้าหาดาว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Princess Switch 2 Switched Again (2020) เดอะ พริ้นเซส สวิตช์ ภาค 2 สลับแล้วสลับอีก",
-    "url": "https://lk-hdx.com/the-princess-switch-2-switched-again-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-2-Switched-Again-2020-เดอะ-พริ้นเซส-สวิตช์-ภาค-2-สลับแล้วสลับอีก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/215ae4d1b98dcecdad70c22aa6d5bab7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/215ae4d1b98dcecdad70c22aa6d5bab7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-2-Switched-Again-2020-เดอะ-พริ้นเซส-สวิตช์-ภาค-2-สลับแล้วสลับอีก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Princess Switch 1 (2018) เดอะ พริ้นเซส สวิตช์ ภาค 1 สลับตัวไม่สลับหัวใจ",
-    "url": "https://lk-hdx.com/the-princess-switch-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-1-2018-เดอะ-พริ้นเซส-สวิตช์-ภาค-1-สลับตัวไม่สลับหัวใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/397dbb417f745b864d85deb84f0a01a5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/397dbb417f745b864d85deb84f0a01a5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-1-2018-เดอะ-พริ้นเซส-สวิตช์-ภาค-1-สลับตัวไม่สลับหัวใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Witcher Nightmare of the Wolf (2021) เดอะ วิทเชอร์ นักล่าจอมอสูร ตำนานหมาป่า",
-    "url": "https://lk-hdx.com/the-witcher-nightmare-of-the-wolf-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Witcher-Nightmare-of-the-Wolf-2021-เดอะ-วิทเชอร์-นักล่าจอมอสูร-ตำนานหมาป่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/a_vVRr8t4Z"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Witcher-Nightmare-of-the-Wolf-2021-เดอะ-วิทเชอร์-นักล่าจอมอสูร-ตำนานหมาป่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Loud House Movie (2021) ครอบครัวตระกูลลาวด์ เดอะ มูฟวี่",
-    "url": "https://lk-hdx.com/the-loud-house-movie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Loud-House-Movie-2021-ครอบครัวตระกูลลาวด์-เดอะ-มูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c52ae5702004a3f30907bd6fe820852b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c52ae5702004a3f30907bd6fe820852b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Loud-House-Movie-2021-ครอบครัวตระกูลลาวด์-เดอะ-มูฟวี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Things Heard & Seen (2021) แว่วเสียงวิญญาณหลอน",
-    "url": "https://lk-hdx.com/things-heard-seen-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Things-Heard-Seen-2021-แว่วเสียงวิญญาณหลอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b4ebd564435f0fa0d4a1f8d09f36641d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4ebd564435f0fa0d4a1f8d09f36641d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Things-Heard-Seen-2021-แว่วเสียงวิญญาณหลอน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Mitchells vs. the Machines (2021) บ้านมิตเชลล์ปะทะจักรกล",
-    "url": "https://lk-hdx.com/the-mitchells-vs-the-machines-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Mitchells-vs.-the-Machines-2021-บ้านมิตเชลล์ปะทะจักรกล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58eda2b8d6384c67cb42e94f67d68ae1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58eda2b8d6384c67cb42e94f67d68ae1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Mitchells-vs.-the-Machines-2021-บ้านมิตเชลล์ปะทะจักรกล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Feel the Beat (2020) ขาแดนซ์วัยใส",
-    "url": "https://lk-hdx.com/feel-the-beat-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Feel-the-Beat-2020-ขาแดนซ์วัยใส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15bb99a09e5ffe33bedf92e0def70f12/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15bb99a09e5ffe33bedf92e0def70f12"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Feel-the-Beat-2020-ขาแดนซ์วัยใส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "How I Became a Super Hero (2020) ปริศนาพลังฮีโร่",
-    "url": "https://lk-hdx.com/how-i-became-a-super-hero-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/How-I-Became-a-Super-Hero-2020-ปริศนาพลังฮีโร่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8c21eb89976ed647aed1219099bb6c1d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8c21eb89976ed647aed1219099bb6c1d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/How-I-Became-a-Super-Hero-2020-ปริศนาพลังฮีโร่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jingle Jangle A Christmas Journey (2020) จิงเกิ้ล แจงเกิ้ล คริสต์มาสมหัศจรรย์",
-    "url": "https://lk-hdx.com/jingle-jangle-a-christmas-journey-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jingle-Jangle-A-Christmas-Journey-2020-จิงเกิ้ล-แจงเกิ้ล-คริสต์มาสมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b993d10712fe1cfc91ed796d51e58cf3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b993d10712fe1cfc91ed796d51e58cf3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jingle-Jangle-A-Christmas-Journey-2020-จิงเกิ้ล-แจงเกิ้ล-คริสต์มาสมหัศจรรย์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Magic School Bus Rides Again In the Zone (2020) เมจิกสคูลบัสกับการเดินทางสู่ความสนุกในโซน",
-    "url": "https://lk-hdx.com/the-magic-school-bus-rides-again-in-the-zone-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Magic-School-Bus-Rides-Again-In-the-Zone-2020-เมจิกสคูลบัสกับการเดินทางสู่ความสนุกในโซน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2e6dfd67e0d502d865c8ddfa8c2b790b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e6dfd67e0d502d865c8ddfa8c2b790b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Magic-School-Bus-Rides-Again-In-the-Zone-2020-เมจิกสคูลบัสกับการเดินทางสู่ความสนุกในโซน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Willoughbys (2020) วิลโลบี้ สี่พี่น้องผจญภัย",
-    "url": "https://lk-hdx.com/the-willoughbys-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Willoughbys-2020-วิลโลบี้-สี่พี่น้องผจญภัย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3bd73283afa9061494f8d0b389d390a4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3bd73283afa9061494f8d0b389d390a4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Willoughbys-2020-วิลโลบี้-สี่พี่น้องผจญภัย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Project Power (2020) โปรเจคท์ พาวเวอร์ พลังลับพลังฮีโร่",
-    "url": "https://lk-hdx.com/project-power-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Project-Power-2020-โปรเจคท์-พาวเวอร์-พลังลับพลังฮีโร่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8656aaddb75fe350c34a41625c3ed4e9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8656aaddb75fe350c34a41625c3ed4e9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Project-Power-2020-โปรเจคท์-พาวเวอร์-พลังลับพลังฮีโร่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Angela’s Christmas Wish (2020) อธิษฐานคริสต์มาสของแอนเจลา",
-    "url": "https://lk-hdx.com/angelas-christmas-wish-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Angelas-Christmas-Wish-2020-อธิษฐานคริสต์มาสของแอนเจลา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5c22f14c57ab979ce1c78c9d28d9e244/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5c22f14c57ab979ce1c78c9d28d9e244"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Angelas-Christmas-Wish-2020-อธิษฐานคริสต์มาสของแอนเจลา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Larva Island Movie (2020) ลาร์วาผจญภัยบนเกาะหรรษา",
-    "url": "https://lk-hdx.com/the-larva-island-movie-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Larva-Island-Movie-2020-ลาร์วาผจญภัยบนเกาะหรรษา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ee5186af9770af0fed158f71c9dde529/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ee5186af9770af0fed158f71c9dde529"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Larva-Island-Movie-2020-ลาร์วาผจญภัยบนเกาะหรรษา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Midnight Sky (2020) สัญญาณสงัด",
-    "url": "https://lk-hdx.com/the-midnight-sky-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Midnight-Sky-2020-สัญญาณสงัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d96b4bb0dec4ad7348e935dd76d7b357/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d96b4bb0dec4ad7348e935dd76d7b357"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Midnight-Sky-2020-สัญญาณสงัด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Babysitter’s Guide to Monster Hunting (2020) คู่มือล่าปีศาจฉบับพี่เลี้ยง",
-    "url": "https://lk-hdx.com/a-babysitters-guide-to-monster-hunting-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Babysitters-Guide-to-Monster-Hunting-2020-คู่มือล่าปีศาจฉบับพี่เลี้ยง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/77cb04f51b614f360a274e7bdc12a9d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/77cb04f51b614f360a274e7bdc12a9d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Babysitters-Guide-to-Monster-Hunting-2020-คู่มือล่าปีศาจฉบับพี่เลี้ยง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Yes Day (2021) เยสเดย์ วันนี้ห้ามเซย์โน",
-    "url": "https://lk-hdx.com/yes-day-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Yes-Day-2021-เยสเดย์-วันนี้ห้ามเซย์โน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/OpYs_VqsXN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Yes-Day-2021-เยสเดย์-วันนี้ห้ามเซย์โน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Yellow Door (2023) ชมรมหนังยุค 90",
-    "url": "https://lk-hdx.com/yellow-door-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Yellow-Door-2023-ชมรมหนังยุค-90-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5dfeeb7669d77f1d7b00b7ea207fb85/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5dfeeb7669d77f1d7b00b7ea207fb85"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Yellow-Door-2023-ชมรมหนังยุค-90-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Pain Hustlers (2023)",
-    "url": "https://lk-hdx.com/pain-hustlers-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Pain-Hustlers-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b5ef473516899c03e7e31697a54800ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5ef473516899c03e7e31697a54800ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Pain-Hustlers-2023-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sister Death (2023) ซิสเตอร์เดท",
-    "url": "https://lk-hdx.com/sister-death-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sister-Death-2023-ซิสเตอร์เดท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6899e44960d26651b7585c6dfcfcc170/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6899e44960d26651b7585c6dfcfcc170"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sister-Death-2023-ซิสเตอร์เดท-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "OneFour Against All Odds (2023) ดนตรีฝ่าอุปสรรค",
-    "url": "https://lk-hdx.com/onefour-against-all-odds-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/OneFour-Against-All-Odds-2023-ดนตรีฝ่าอุปสรรค-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/m_4JBMNydI"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/OneFour-Against-All-Odds-2023-ดนตรีฝ่าอุปสรรค-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Johnny Test’s Ultimate Meatloaf Quest (2021) จอห์นนี่ เทสต์ ตะลุยมีตโลฟสุดขอบฟ้า",
