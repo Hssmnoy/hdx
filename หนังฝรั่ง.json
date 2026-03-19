@@ -3895,153 +3895,429 @@
   },
   {
     "title": "Millers Girl (2024) หลักสูตรร้อนซ่อนรัก",
-    "url": "https://lk-hdx.com/millers-girl-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Millers-Girl-2024-หลักสูตรร้อนซ่อนรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/1ef134a1f269e3003cc7f21e38d9539f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/1ef134a1f269e3003cc7f21e38d9539f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Millers-Girl-2024-หลักสูตรร้อนซ่อนรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Eenie Meanie (2025)",
-    "url": "https://lk-hdx.com/eenie-meanie-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Eenie-Meanie-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/gCr_0jokZZ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Eenie-Meanie-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ด้วยรักและลูกปืน (2025) Love Hurts",
-    "url": "https://lk-hdx.com/love-hurts-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ด้วยรักและลูกปืน-2025-Love-Hurts-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c43ac1f9b492b6dfb0a93d1aea06d77d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c43ac1f9b492b6dfb0a93d1aea06d77d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ด้วยรักและลูกปืน-2025-Love-Hurts-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Abandoned Man (Netflix 2025) ชายผู้ถูกทอดทิ้ง",
-    "url": "https://lk-hdx.com/abandoned-man-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Abandoned-Man-2025-ชายผู้ถูกทอดทิ้ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ea05e62f5333e4d2ff94392b6092e95c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ea05e62f5333e4d2ff94392b6092e95c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Abandoned-Man-2025-ชายผู้ถูกทอดทิ้ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fall for Me (2025) ลวงรักทรยศ",
-    "url": "https://lk-hdx.com/fall-for-me-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Fall-for-Me-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6c91393282ee6942c513dcf8419481b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6c91393282ee6942c513dcf8419481b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Fall-for-Me-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "F1 The Movie F1 เดอะ มูฟวี่ (2025)",
-    "url": "https://lk-hdx.com/f1-the-movie/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/F1-The-Movie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8d48e26c84b58b973dc0b6c3394a423b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8d48e26c84b58b973dc0b6c3394a423b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/06/F1-The-Movie-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shanghai Knights (2003) คู่ใหญ่ ฟัดทลายโลก",
-    "url": "https://lk-hdx.com/shanghai-knights-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Shanghai-Knights-2003-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbcfce4ae03ba818072202ce9eb6ca41/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbcfce4ae03ba818072202ce9eb6ca41"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Shanghai-Knights-2003-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
-    "url": "https://lk-hdx.com/mission-impossible-8-the-final-reckoning-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/e35a9e0f96bc86230bc75daa25d9cca3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e35a9e0f96bc86230bc75daa25d9cca3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Night Always Comes คืนวันอันตราย (2025 Netflix)",
-    "url": "https://lk-hdx.com/night-always-comes-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Night-Always-Comes-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/393513d98881119cd9096ce18239bf8c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/393513d98881119cd9096ce18239bf8c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Night-Always-Comes-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blood Brothers Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ",
-    "url": "https://lk-hdx.com/blood-brothers-bara-naga-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Blood-Brothers-Bara-Naga-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ae89169a08cb54f780f70e3512b145a9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ae89169a08cb54f780f70e3512b145a9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Blood-Brothers-Bara-Naga-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wrath Of Man (2021) คนคลั่งแค้น ปล้นผ่านรก",
-    "url": "https://lk-hdx.com/wrath-of-man-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Wrath-Of-Man-2021-คนคลั่งแค้น-ปล้นผ่านรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5faca044c90cbba39ee351958a91e85e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5faca044c90cbba39ee351958a91e85e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Wrath-Of-Man-2021-คนคลั่งแค้น-ปล้นผ่านรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Red Notice (2021) โคตรคน 3 คม",
-    "url": "https://lk-hdx.com/red-notice-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Red-Notice-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MNYcH9_DOk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Red-Notice-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Grand Budapest Hotel (2014) คดีพิสดารโรงแรมแกรนด์บูดาเปสต์",
-    "url": "https://lk-hdx.com/the-grand-budapest-hotel-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Grand-Budapest-Hotel-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_ycWih_NfK"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Grand-Budapest-Hotel-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่",
-    "url": "https://lk-hdx.com/jurassic-world-rebirth-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/861810ecad302cc916e3173d34590ccd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/861810ecad302cc916e3173d34590ccd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Freakier Friday (DISNEY+ 2025) ศุกร์สยอง สี่ร่างสลับรุ่น",
-    "url": "https://lk-hdx.com/freakier-friday-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Freakier-Friday-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5f5fac5f1d4623ca2fd47477fb93bcf4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5f5fac5f1d4623ca2fd47477fb93bcf4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Freakier-Friday-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "My Oxford Year อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน (2025)",
-    "url": "https://lk-hdx.com/my-oxford-year-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/My-Oxford-Year-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7b48b872a2310e310bd8050f1c946a26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7b48b872a2310e310bd8050f1c946a26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/My-Oxford-Year-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Pickup (2025) เดอะพิคอัพ",
-    "url": "https://lk-hdx.com/the-pickup-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/The-Pickup-2025-เดอะพิคอัพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/da1e6838ca89561b11905638e04e25f5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/da1e6838ca89561b11905638e04e25f5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/The-Pickup-2025-เดอะพิคอัพ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Until Dawn (2025) ต้องรอดก่อนย่ำรุ่ง",
-    "url": "https://lk-hdx.com/until-dawn-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Until-Dawn-2025-ต้องรอดก่อนย่ำรุ่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/g7_Q5MwI1H"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Until-Dawn-2025-ต้องรอดก่อนย่ำรุ่ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Thousand Words ปาฏิหาริย์ 1000 คำ กำราบคนขี้จุ๊ (2012)",
-    "url": "https://lk-hdx.com/a-thousand-words-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/A-Thousand-Words-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/244f841696f2cba917b222cbfcebfebd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/244f841696f2cba917b222cbfcebfebd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/A-Thousand-Words-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Boy Kills World (2024) แค้นนี้ที่รอคิวล์ | เสียงไทย",
-    "url": "https://lk-hdx.com/boy-kills-world-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Boy-Kills-World-2024-แค้นนี้ที่รอคิวล์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0e072a79ef3c0908e9eb4580d42087d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0e072a79ef3c0908e9eb4580d42087d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Boy-Kills-World-2024-แค้นนี้ที่รอคิวล์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Memento ภาพหลอนซ่อนรอยมรณะ",
-    "url": "https://lk-hdx.com/memento/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Memento-2000-ภาพหลอนซ่อนรอยมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d983b1d84df3b58573f80ed069674f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d983b1d84df3b58573f80ed069674f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Memento-2000-ภาพหลอนซ่อนรอยมรณะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Wedding Banquet (2025) เดอะ เวดดิง แบงควิต",
-    "url": "https://lk-hdx.com/the-wedding-banquet-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/The-Wedding-Banquet-2025-เดอะ-เวดดิง-แบงควิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7ef1e53ffe788e831c2ad7e11d0a908e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7ef1e53ffe788e831c2ad7e11d0a908e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/The-Wedding-Banquet-2025-เดอะ-เวดดิง-แบงควิต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "War of the Worlds (2025) สงครามโลก",
-    "url": "https://lk-hdx.com/war-of-the-worlds/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/War-of-the-Worlds-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c921869ed79e0afd429a18ee7aed657a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c921869ed79e0afd429a18ee7aed657a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/War-of-the-Worlds-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "“I Know What You Did Last Summer ดู ซัมเมอร์สยอง…ต้องหวีด” (หนัง2025)",
-    "url": "https://lk-hdx.com/i-know-what-you-did-last-summer/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/I-Know-What-You-Did-Last-Summer-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3086d551266f853095970506ac9af656/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3086d551266f853095970506ac9af656"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/I-Know-What-You-Did-Last-Summer-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม",
-    "url": "https://lk-hdx.com/batman-v-superman-dawn-of-justice/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-v-Superman-Dawn-of-Justice-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/qe7uRd3_lF"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-v-Superman-Dawn-of-Justice-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ดู Inception อินเซ็ปชั่น จิตพิฆาตโลก (2010) (เต็มเรื่อง)",
-    "url": "https://lk-hdx.com/inception/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Inception-lk-hd-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff177e8afcddd6081f66ec4fb9fb1a84/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff177e8afcddd6081f66ec4fb9fb1a84"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Inception-lk-hd-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "An Honest Life | ชีวิตซื่อ | 2025",
-    "url": "https://lk-hdx.com/an-honest-life/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/An-Honest-Life-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/QQw0Sh_b6K"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/An-Honest-Life-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "50 First Dates (2004) ดูหนังรัก 50 เดท จีบเธอไม่เคยจำ",
-    "url": "https://lk-hdx.com/50-first-dates-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/50-First-Dates-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/031f3e6ad9a0173cb6bb2c26f866287f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/031f3e6ad9a0173cb6bb2c26f866287f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/50-First-Dates-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Karate Kid Legends คาราเต้ คิด ผนึกพลังตำนานนักสู้ (2025) HD",
-    "url": "https://lk-hdx.com/karate-kid-legends-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/Karate-Kid-Legends-lk-hd-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/06eb89c4d33cfd985d15df551ce78117/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/06eb89c4d33cfd985d15df551ce78117"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/Karate-Kid-Legends-lk-hd-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Picture of Beauty (2017)",
-    "url": "https://lk-hdx.com/picture-of-beauty-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/Picture-of-Beauty-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8c67ffefcbfe0ed75f05070769f0b8f6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8c67ffefcbfe0ed75f05070769f0b8f6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/Picture-of-Beauty-2017-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kraven the Hunter (2024) เครเว่น เดอะ ฮันเตอร์",
