@@ -3692,5 +3692,87 @@
     ],
     "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Call-Me-Chihiro-2023-ฉันชื่อจิฮิโระ-165x248.jpg",
     "group": "หนังญี่ปุ่น"
+  },
+  {
+    "title": "See Hear Love (2023) แม้จะมองไม่เห็น แม้จะไม่ได้ยิน แต่ก็รักเธอสุดหัวใจ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0e9594ea684b5baae4de42412a3e1cbe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e9594ea684b5baae4de42412a3e1cbe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/See-Hear-Love-2023-แม้จะมองไม่เห็น-แม้จะไม่ได้ยิน-แต่ก็รักเธอสุดหัวใจ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
+    "title": "The Village (2023) หมู่บ้าน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a4c0131dc17b13bf6f244259818e329d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a4c0131dc17b13bf6f244259818e329d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Village-2023-หมู่บ้าน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
+    "title": "Ultra Galaxy Fight the Destined Crossroad (2023) อุลตร้าแกแลคซีไฟท์ ทางแยกแห่งชะตา",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca6e5761a79ac785fb34eac26f3db407/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca6e5761a79ac785fb34eac26f3db407"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ultra-Galaxy-Fight-the-Destined-Crossroad-2023-อุลตร้าแกแลคซีไฟท์-ทางแยกแห่งชะตา-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
+    "title": "Missing The Lucie Blackman Case (2023) สูญหาย คดีลูซี่ แบล็คแมน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/701a5838d034447cad444ee99bf5b134/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/701a5838d034447cad444ee99bf5b134"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Missing-The-Lucie-Blackman-Case-2023-สูญหาย-คดีลูซี่-แบล็คแมน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
+    "title": "Zom 100 Bucket List of Dead (2023) ซอม 100 – 100 สิ่งที่อยากทำก่อนจะเป็นซอมบี้",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/SPrAiZgEI_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Zom-100-Bucket-List-of-Dead-2023-ซอม-100-–-100-สิ่งที่อยากทำก่อนจะเป็นซอมบี้-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
+    "title": "Call Me Chihiro (2023) ฉันชื่อจิฮิโระ",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PLNA5TT_nV"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Call-Me-Chihiro-2023-ฉันชื่อจิฮิโระ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   }
 ]
