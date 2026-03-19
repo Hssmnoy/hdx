@@ -21513,153 +21513,429 @@
   },
   {
     "title": "The Adjustment Bureau (2011) พลิกชะตาฝ่าองค์กรนรก",
-    "url": "https://lk-hdx.com/the-adjustment-bureau-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Adjustment-Bureau-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d825d7f94d9e13bf78840052b13bf2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d825d7f94d9e13bf78840052b13bf2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Adjustment-Bureau-2011-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Brimstone (2016)",
-    "url": "https://lk-hdx.com/brimstone-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Brimstone-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/00b48dc99bfa3a303f86aa765447ef5d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/00b48dc99bfa3a303f86aa765447ef5d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Brimstone-2016-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hush (2016) ฆ่าเธอให้เงียบสนิท",
-    "url": "https://lk-hdx.com/hush-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hush-2016-ฆ่าเธอให้เงียบสนิท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/675ec0324e5d762bc7ffb4ebd72ce0c4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/675ec0324e5d762bc7ffb4ebd72ce0c4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Hush-2016-ฆ่าเธอให้เงียบสนิท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Hangover Part 3 (2013) เมายกแก๊ง แฮงค์ยกก๊วน ภาค 3",
-    "url": "https://lk-hdx.com/the-hangover-part-3-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Hangover-Part-3-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4b4f98c235cc47aa27e672640941e562/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4b4f98c235cc47aa27e672640941e562"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Hangover-Part-3-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Hangover Part 2 (2011) เดอะ แฮงค์โอเวอร์ ภาค 2",
-    "url": "https://lk-hdx.com/the-hangover-part-2-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-Part-2-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b61d168513cf4208586f507c9b216490/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b61d168513cf4208586f507c9b216490"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-Part-2-2011-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Hangover (2009) เมายกแก๊ง แฮงค์ยกก๊วน ภาค 1",
-    "url": "https://lk-hdx.com/the-hangover-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/72c4aea3e064a5aea93d5adae6e28c42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/72c4aea3e064a5aea93d5adae6e28c42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jungle Cruise (2021) ผจญภัยล่องป่ามหัศจรรย์",
-    "url": "https://lk-hdx.com/jungle-cruise-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jungle-Cruise-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1130452ce060c8624ae6b42d63491534/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1130452ce060c8624ae6b42d63491534"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jungle-Cruise-2021-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Superfast! (2015) ฟาสต์เจ็บ เร็ว แรงทะลุฮา",
-    "url": "https://lk-hdx.com/superfast-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Superfast-2015-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Rut_xbvjFr"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Superfast-2015-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cinderella Man (2005) วีรบุรุษสังเวียนเกียรติยศ ",
-    "url": "https://lk-hdx.com/cinderella-man-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Cinderella-Man-2005-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2f9c7aaad66844a88762e4e724956d52/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2f9c7aaad66844a88762e4e724956d52"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Cinderella-Man-2005-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Constantine (2005) คอนสแตนติน คนพิฆาตผี",
-    "url": "https://lk-hdx.com/constantine-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Constantine-2005-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/939c4f3728d4c6ece7bc696163f1d742/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/939c4f3728d4c6ece7bc696163f1d742"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Constantine-2005-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Score (2001) ผ่ารหัสปล้นเหนือเมฆ",
-    "url": "https://lk-hdx.com/the-score-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Score-2001-ผ่ารหัสปล้นเหนือเมฆ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7fbb171ddd86fd64d904e7e531e6d001/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7fbb171ddd86fd64d904e7e531e6d001"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Score-2001-ผ่ารหัสปล้นเหนือเมฆ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Man Apart (2003) พยัคฆ์ดุพันธุ์ระห่ำ",
-    "url": "https://lk-hdx.com/a-man-apart-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/A-Man-Apart-2003-พยัคฆ์ดุพันธุ์ระห่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f5c2cb44e98ee4cb9cc28e8e68686738/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f5c2cb44e98ee4cb9cc28e8e68686738"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/A-Man-Apart-2003-พยัคฆ์ดุพันธุ์ระห่ำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Titanic (1997) ไททานิค",
-    "url": "https://lk-hdx.com/titanic-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Titanic-1997-ไททานิค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/179a186c47866f6808d7b11b8023df4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/179a186c47866f6808d7b11b8023df4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Titanic-1997-ไททานิค-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Key (1983) กุญแจ",
-    "url": "https://lk-hdx.com/the-key-1983/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Key-1983-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/97a4b66d82b083103b04a03c87d9ebb2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/97a4b66d82b083103b04a03c87d9ebb2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Key-1983-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mama (2013) ผีหวงลูก",
-    "url": "https://lk-hdx.com/mama-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Mama-2013-ผีหวงลูก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/E2Maa_BPRu"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Mama-2013-ผีหวงลูก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Polar (2019) ล่าเลือดเย็น",
-    "url": "https://lk-hdx.com/polar-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Polar-2019-ล่าเลือดเย็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/124fb017e2ea9e27d20a562dfb22e913/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/124fb017e2ea9e27d20a562dfb22e913"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Polar-2019-ล่าเลือดเย็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Watchers (2024) เดอะวอทเชอร์ส",
-    "url": "https://lk-hdx.com/the-watchers-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Watchers-2024-เดอะวอทเชอร์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/vP_Z_bKoX1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Watchers-2024-เดอะวอทเชอร์ส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Beach (2000) เดอะ บีช",
-    "url": "https://lk-hdx.com/the-beach-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Beach-2000-เดอะ-บีช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/239f4543f5ff8fd49b1f0ed224ee5709/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/239f4543f5ff8fd49b1f0ed224ee5709"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Beach-2000-เดอะ-บีช-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Final (2010) ขอสังหารให้สาสม",
-    "url": "https://lk-hdx.com/the-final-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Final-2010-ขอสังหารให้สาสม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c87d97926aae06cfb42050d91ea0530d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c87d97926aae06cfb42050d91ea0530d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Final-2010-ขอสังหารให้สาสม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
-    "url": "https://lk-hdx.com/the-parent-trap-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Parent-Trap-1998-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c6793813ec924a88dd3b96917851207c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c6793813ec924a88dd3b96917851207c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Parent-Trap-1998-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Peter Rabbit 2 The Runaway (2021) ปีเตอร์ แรบบิท ภาค 2",
-    "url": "https://lk-hdx.com/peter-rabbit-2-the-runaway-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Peter-Rabbit-2-The-Runaway-2021-ปีเตอร์-แรบบิท-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0c07a85edc719c7f2f9d942f8eb544b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0c07a85edc719c7f2f9d942f8eb544b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Peter-Rabbit-2-The-Runaway-2021-ปีเตอร์-แรบบิท-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Peter Rabbit 1 (2018) ปีเตอร์ แรบบิท ภาค 1",
-    "url": "https://lk-hdx.com/peter-rabbit-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Peter-Rabbit-1-2018-ปีเตอร์-แรบบิท-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cba456f41c7e19ea52595b99ad07cf6f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cba456f41c7e19ea52595b99ad07cf6f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Peter-Rabbit-1-2018-ปีเตอร์-แรบบิท-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "We Were Soldiers (2002) เรียกข้าว่าวีรบุรุษ",
-    "url": "https://lk-hdx.com/we-were-soldiers-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/We-Were-Soldiers-2002-เรียกข้าว่าวีรบุรุษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e1ed1a6cb8cf6db065a057647a7628f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e1ed1a6cb8cf6db065a057647a7628f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/We-Were-Soldiers-2002-เรียกข้าว่าวีรบุรุษ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Bone Collector (1999) พลิกซาก ผ่าคดีนรก",
-    "url": "https://lk-hdx.com/the-bone-collector-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Bone-Collector-1999-พลิกซาก-ผ่าคดีนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/C_KcOZwsaT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Bone-Collector-1999-พลิกซาก-ผ่าคดีนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Leaving Afghanistan (2019)",
-    "url": "https://lk-hdx.com/leaving-afghanistan-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Leaving-Afghanistan-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66cc7a4122f76cd2211e590257a0a56a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66cc7a4122f76cd2211e590257a0a56a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Leaving-Afghanistan-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deep Impact (1998) วันสิ้นโลก ฟ้าถล่มแผ่นดินทลาย",
-    "url": "https://lk-hdx.com/deep-impact-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Deep-Impact-1998-วันสิ้นโลก-ฟ้าถล่มแผ่นดินทลาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/u_XntfpBS5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Deep-Impact-1998-วันสิ้นโลก-ฟ้าถล่มแผ่นดินทลาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Lucky One (2012) สัญญารักจากปาฏิหาริย์",
-    "url": "https://lk-hdx.com/the-lucky-one-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lucky-One-2012-สัญญารักจากปาฏิหาริย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/456b599e224ba6b4aa4e55284761dc11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/456b599e224ba6b4aa4e55284761dc11"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lucky-One-2012-สัญญารักจากปาฏิหาริย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tiger House (2015)",
-    "url": "https://lk-hdx.com/tiger-house-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Tiger-House-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3f783719ddcfdcd6d2e00e685f976b4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3f783719ddcfdcd6d2e00e685f976b4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Tiger-House-2015-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Princess Diaries 2 Royal Engagement (2004) บันทึกรักเจ้าหญิงวุ่นลุ้นวิวาห์",
-    "url": "https://lk-hdx.com/the-princess-diaries-2-royal-engagement-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-2-Royal-Engagement-2004-บันทึกรักเจ้าหญิงวุ่นลุ้นวิวาห์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ex_2gRDFXt"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-2-Royal-Engagement-2004-บันทึกรักเจ้าหญิงวุ่นลุ้นวิวาห์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Princess Diaries 1 (2001) บันทึกรักเจ้าหญิงมือใหม่",
-    "url": "https://lk-hdx.com/the-princess-diaries-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-1-2001-บันทึกรักเจ้าหญิงมือใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8b377c275f782e31c10e465f585ac8f0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b377c275f782e31c10e465f585ac8f0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-1-2001-บันทึกรักเจ้าหญิงมือใหม่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Talented Mr. Ripley (1999) อำมหิต มร.ริปลีย์",
