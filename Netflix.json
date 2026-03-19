@@ -6845,153 +6845,433 @@
   },
   {
     "title": "Forever Rich (2021) ฟอร์เอเวอร์ ริช",
-    "url": "https://lk-hdx.com/forever-rich-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Forever-Rich-2021-ฟอร์เอเวอร์-ริช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/21d30f0e6d59db27cc0cd2e144a66af9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/21d30f0e6d59db27cc0cd2e144a66af9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Forever-Rich-2021-ฟอร์เอเวอร์-ริช-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Found (2021)",
-    "url": "https://lk-hdx.com/found-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Found-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1eea12dbad777e177a64ce25805e0649/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1eea12dbad777e177a64ce25805e0649"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Found-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Flip a Coin ONE OK ROCK Documentary (2021)",
-    "url": "https://lk-hdx.com/flip-a-coin-one-ok-rock-documentary-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Flip-a-Coin-ONE-OK-ROCK-Documentary-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/00a9724d3e5f929dbf5aaacba783a90a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/00a9724d3e5f929dbf5aaacba783a90a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Flip-a-Coin-ONE-OK-ROCK-Documentary-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sheherazade (2018) ผู้หญิงข้างถนน",
-    "url": "https://lk-hdx.com/sheherazade-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sheherazade-2018-ผู้หญิงข้างถนน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1dd2734e8942c0290e91c8a09e5e95ce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1dd2734e8942c0290e91c8a09e5e95ce"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sheherazade-2018-ผู้หญิงข้างถนน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Roma (2018) โรม่า",
-    "url": "https://lk-hdx.com/roma-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Roma-2018-โรม่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d798414a85253e0df241db9818cde191/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d798414a85253e0df241db9818cde191"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Roma-2018-โรม่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Outlaw King (2018) กษัตริย์นอกขัตติยะ",
-    "url": "https://lk-hdx.com/outlaw-king-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Outlaw-King-2018-กษัตริย์นอกขัตติยะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/t8Ljj_X_wV"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Outlaw-King-2018-กษัตริย์นอกขัตติยะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Never Stop Dreaming The Life and Legacy of Shimon Peres (2018)",
-    "url": "https://lk-hdx.com/never-stop-dreaming-the-life-and-legacy-of-shimon-peres-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Never-Stop-Dreaming-The-Life-and-Legacy-of-Shimon-Peres-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58c72cf0e6d499cedf2cbb45e3b97fbb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58c72cf0e6d499cedf2cbb45e3b97fbb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Never-Stop-Dreaming-The-Life-and-Legacy-of-Shimon-Peres-2018-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mirage (2018) ภาพลวงตา",
-    "url": "https://lk-hdx.com/mirage-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mirage-2018-ภาพลวงตา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7133390aab0f6d5ff7eeaa12b52fc3a9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7133390aab0f6d5ff7eeaa12b52fc3a9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Mirage-2018-ภาพลวงตา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Monster (2018) ปีศาจ",
-    "url": "https://lk-hdx.com/monster-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Monster-2018-ปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f75b8d750caefe2ad13c34696b83ee8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f75b8d750caefe2ad13c34696b83ee8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Monster-2018-ปีศาจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mute (2018) มิวท์",
-    "url": "https://lk-hdx.com/mute-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mute-2018-มิวท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/40157fa878e9789a131772c3a9e2203b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40157fa878e9789a131772c3a9e2203b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Mute-2018-มิวท์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I Am Not an Easy Man (2018) ผมไม่ใช่ผู้ชายง่ายๆ",
-    "url": "https://lk-hdx.com/i-am-not-an-easy-man-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Am-Not-an-Easy-Man-2018-ผมไม่ใช่ผู้ชายง่ายๆ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2e3598620a79db7f1a2dabf9ee97c5ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e3598620a79db7f1a2dabf9ee97c5ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Am-Not-an-Easy-Man-2018-ผมไม่ใช่ผู้ชายง่ายๆ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "How It Ends (2018) ฮาว อิท เอนด์ส",
-    "url": "https://lk-hdx.com/how-it-ends-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/How-It-Ends-2018-ฮาว-อิท-เอนด์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9f03efacab4bd266ea92a555b1e59104/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9f03efacab4bd266ea92a555b1e59104"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/How-It-Ends-2018-ฮาว-อิท-เอนด์ส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hold the Dark (2018) โฮลด์ เดอะ ดาร์ก",
-    "url": "https://lk-hdx.com/hold-the-dark-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hold-the-Dark-2018-โฮลด์-เดอะ-ดาร์ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/be885f0a220d032d5eedd701d0989086/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/be885f0a220d032d5eedd701d0989086"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Hold-the-Dark-2018-โฮลด์-เดอะ-ดาร์ก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Blackpink Light Up the Sky (2020) แบล็กพิงก์ ไลต์อัพเดอะสกาย",
-    "url": "https://lk-hdx.com/blackpink-light-up-the-sky-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Blackpink-Light-Up-the-Sky-2020-แบล็กพิงก์-ไลต์อัพเดอะสกาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f7c48e513160b6f380b4d3d4c5f5d99f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f7c48e513160b6f380b4d3d4c5f5d99f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Blackpink-Light-Up-the-Sky-2020-แบล็กพิงก์-ไลต์อัพเดอะสกาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "AK vs AK (2020)",
-    "url": "https://lk-hdx.com/ak-vs-ak-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/AK-vs-AK-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/SspCq5Z2V_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/AK-vs-AK-2020-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ariana Grande Excuse Me, I Love You (2020) อารีอานา กรานเด",
-    "url": "https://lk-hdx.com/ariana-grande-excuse-me-i-love-you-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Ariana-Grande-Excuse-Me-I-Love-You-2020-อารีอานา-กรานเด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bd301a907a764dafd2b231929c259275/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bd301a907a764dafd2b231929c259275"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Ariana-Grande-Excuse-Me-I-Love-You-2020-อารีอานา-กรานเด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Choo (2020) ฮัดเช้ย รักแท้ไม่แพ้ทาง",
-    "url": "https://lk-hdx.com/a-choo-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Choo-2020-ฮัดเช้ย-รักแท้ไม่แพ้ทาง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_iHw5SrS4c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Choo-2020-ฮัดเช้ย-รักแท้ไม่แพ้ทาง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Athlete A (2020) นักกีฬาผู้กล้าหาญ",
-    "url": "https://lk-hdx.com/athlete-a-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Athlete-A-2020-นักกีฬาผู้กล้าหาญ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b413828a1ae8a73770bc74a1bef83c82/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b413828a1ae8a73770bc74a1bef83c82"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Athlete-A-2020-นักกีฬาผู้กล้าหาญ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Diana The Musical (2021) ไดอานา เดอะ",
-    "url": "https://lk-hdx.com/diana-the-musical-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Diana-The-Musical-2021-ไดอานา-เดอะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0f18243eb6c820966aa0d06aaa88e1e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f18243eb6c820966aa0d06aaa88e1e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Diana-The-Musical-2021-ไดอานา-เดอะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Dhamaka (2021) คำขู่",
-    "url": "https://lk-hdx.com/dhamaka-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dhamaka-2021-คำขู่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de4a3da54708b4cf43d47d9bd7428b88/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de4a3da54708b4cf43d47d9bd7428b88"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Dhamaka-2021-คำขู่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "David and the Elves (2021) เดวิดกับเอลฟ์",
-    "url": "https://lk-hdx.com/david-and-the-elves-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/David-and-the-Elves-2021-เดวิดกับเอลฟ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/316ac9d15e4ea2470ceea98856ebe7e9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/316ac9d15e4ea2470ceea98856ebe7e9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/David-and-the-Elves-2021-เดวิดกับเอลฟ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Confessions of an Invisible Girl (2021) คำสารภาพของสาวล่องหน",
-    "url": "https://lk-hdx.com/confessions-of-an-invisible-girl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Confessions-of-an-Invisible-Girl-2021-คำสารภาพของสาวล่องหน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1a4341958d48d93ce37690467d6e7549/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1a4341958d48d93ce37690467d6e7549"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Confessions-of-an-Invisible-Girl-2021-คำสารภาพของสาวล่องหน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Crazy About Her (2021) บ้า ก็บ้ารัก",
-    "url": "https://lk-hdx.com/crazy-about-her-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Crazy-About-Her-2021-บ้า-ก็บ้ารัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c6f142e7cb6ed965c453e8a10587d122/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c6f142e7cb6ed965c453e8a10587d122"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Crazy-About-Her-2021-บ้า-ก็บ้ารัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Kingdom of Us (2017)",
-    "url": "https://lk-hdx.com/kingdom-of-us-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kingdom-of-Us-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e10c88c78e64093ab0116330efd2513/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e10c88c78e64093ab0116330efd2513"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Kingdom-of-Us-2017-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I Don’t Feel at Home in This World Anymore (2017) โลกนี้ไม่ใช่ที่ของฉัน",
-    "url": "https://lk-hdx.com/i-dont-feel-at-home-in-this-world-anymore-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Dont-Feel-at-Home-in-This-World-Anymore-2017-โลกนี้ไม่ใช่ที่ของฉัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ab302a1f1d7287b60a53871b246dca68/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab302a1f1d7287b60a53871b246dca68"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Dont-Feel-at-Home-in-This-World-Anymore-2017-โลกนี้ไม่ใช่ที่ของฉัน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "First They Killed My Father (2017) เมื่อพ่อของฉันถูกฆ่า",
-    "url": "https://lk-hdx.com/first-they-killed-my-father-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/First-They-Killed-My-Father-2017-เมื่อพ่อของฉันถูกฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2eb83ffce70edb923be8ce2a6415b6db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2eb83ffce70edb923be8ce2a6415b6db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/First-They-Killed-My-Father-2017-เมื่อพ่อของฉันถูกฆ่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bright (2017) ไบรท์",
-    "url": "https://lk-hdx.com/bright-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Bright-2017-ไบรท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0963c324473f81a41701abbc564b9761/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0963c324473f81a41701abbc564b9761"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Bright-2017-ไบรท์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Fundamentals of Caring (2016) บทเรียนพื้นฐานของการใส่ใจ",
-    "url": "https://lk-hdx.com/the-fundamentals-of-caring-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Fundamentals-of-Caring-2016-บทเรียนพื้นฐานของการใส่ใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e9dfb4a5c00a6acf7da28b1013492e64/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e9dfb4a5c00a6acf7da28b1013492e64"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Fundamentals-of-Caring-2016-บทเรียนพื้นฐานของการใส่ใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Tallulah (2016) ทาลูลาห์",
-    "url": "https://lk-hdx.com/tallulah-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Tallulah-2016-ทาลูลาห์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/kkHaS_zW0A"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Tallulah-2016-ทาลูลาห์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Big Fish And Begonia (2016)",
-    "url": "https://lk-hdx.com/big-fish-and-begonia-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Big-Fish-And-Begonia-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/mt2D_PlJgA"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Big-Fish-And-Begonia-2016-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Amanda Knox (2016) อแมนด้า น็อกซ์",
