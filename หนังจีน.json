@@ -12065,153 +12065,441 @@
   },
   {
     "title": "The Puppet (2023) ผีหุ่นเชิด",
-    "url": "https://lk-hdx.com/the-puppet-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Puppet-2023-ผีหุ่นเชิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ecbec29ff460b6004965e156578674bb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ecbec29ff460b6004965e156578674bb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Puppet-2023-ผีหุ่นเชิด-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Army Soul Of The Han Dynasty (2022) จิตวิญญาณทหารแห่งราชวงศ์ฮัน",
-    "url": "https://lk-hdx.com/army-soul-of-the-han-dynasty-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Army-Soul-Of-The-Han-Dynasty-2022-จิตวิญญาณทหารแห่งราชวงศ์ฮัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff29b6c54826d5077c2624db812a9cb9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff29b6c54826d5077c2624db812a9cb9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Army-Soul-Of-The-Han-Dynasty-2022-จิตวิญญาณทหารแห่งราชวงศ์ฮัน-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "A Man Called Hero (2022) เรียกข้าว่าฮีโร่",
-    "url": "https://lk-hdx.com/a-man-called-hero-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Man-Called-Hero-2022-เรียกข้าว่าฮีโร่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4a05a45fce1c50be88c004b8125742cc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4a05a45fce1c50be88c004b8125742cc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Man-Called-Hero-2022-เรียกข้าว่าฮีโร่-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Breakout Brothers 3 (2022) ลูกผู้ชายแหกกรงเหล็ก ภาค 3",
-    "url": "https://lk-hdx.com/breakout-brothers-3-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-3-2022-ลูกผู้ชายแหกกรงเหล็ก-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6e26896e6633a2d5217fc96e67ef383f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6e26896e6633a2d5217fc96e67ef383f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-3-2022-ลูกผู้ชายแหกกรงเหล็ก-ภาค-3-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Breakout Brothers 2 (2021) ลูกผู้ชายแหกกรงเหล็ก ภาค 2",
-    "url": "https://lk-hdx.com/breakout-brothers-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-2-2021-ลูกผู้ชายแหกกรงเหล็ก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5f0ececd2fa230001563ae33ba324d99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f0ececd2fa230001563ae33ba324d99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-2-2021-ลูกผู้ชายแหกกรงเหล็ก-ภาค-2-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Breakout Brothers 1 (2020) ลูกผู้ชายแหกกรงเหล็ก ภาค 1",
-    "url": "https://lk-hdx.com/breakout-brothers-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-1-2020-ลูกผู้ชายแหกกรงเหล็ก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2923bfa7f1dfd6e922bd0e12fc11372c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2923bfa7f1dfd6e922bd0e12fc11372c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Breakout-Brothers-1-2020-ลูกผู้ชายแหกกรงเหล็ก-ภาค-1-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Almost Love (2022) กว่าจะรัก",
-    "url": "https://lk-hdx.com/almost-love-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Almost-Love-2022-กว่าจะรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c57eb1bc3e74b34b054ecd3ab0fe8a0f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c57eb1bc3e74b34b054ecd3ab0fe8a0f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Almost-Love-2022-กว่าจะรัก-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Seven Days (2023)",
-    "url": "https://lk-hdx.com/seven-days-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Seven-Days-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e0fe845b4349f57dd7b3293fe00dac91/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e0fe845b4349f57dd7b3293fe00dac91"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Seven-Days-2023-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Delicious Romance (2023) สูตรรัก ฉบับโรแมนซ์",
-    "url": "https://lk-hdx.com/delicious-romance-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Delicious-Romance-2023-สูตรรัก-ฉบับโรแมนซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/701753ae7e645908967445e0ea90697a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/701753ae7e645908967445e0ea90697a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Delicious-Romance-2023-สูตรรัก-ฉบับโรแมนซ์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Ping PongThe Triumph (2023) ปิงปองจีน ปีนสู่ฝัน",
-    "url": "https://lk-hdx.com/ping-pongthe-triumph-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ping-PongThe-Triumph-2023-ปิงปองจีน-ปีนสู่ฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9953a61d49bafe1cc81863f1f53d0db4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9953a61d49bafe1cc81863f1f53d0db4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ping-PongThe-Triumph-2023-ปิงปองจีน-ปีนสู่ฝัน-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Panther SWAT (2023) หน่วยสวาทเสือดำ",
-    "url": "https://lk-hdx.com/panther-swat-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Panther-SWAT-2023-หน่วยสวาทเสือดำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/m_CZ2VQ7va"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Panther-SWAT-2023-หน่วยสวาทเสือดำ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Nanmao And Beima (2023)",
-    "url": "https://lk-hdx.com/nanmao-and-beima-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Nanmao-And-Beima-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3ece2026ed96ca5ace3aece3b70f0554/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3ece2026ed96ca5ace3aece3b70f0554"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Nanmao-And-Beima-2023-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Night of Soul Returning (2023) ค่ำคืนคืนวิญญาณ",
-    "url": "https://lk-hdx.com/night-of-soul-returning-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Night-of-Soul-Returning-2023-ค่ำคืนคืนวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/KsLo_hInps"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Night-of-Soul-Returning-2023-ค่ำคืนคืนวิญญาณ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Northeastern Zoo (2023) สวนสัตว์ป่วน ก๊วนตงเป่ย",
-    "url": "https://lk-hdx.com/northeastern-zoo-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Northeastern-Zoo-2023-สวนสัตว์ป่วน-ก๊วนตงเป่ย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4de98efa086db7549178e04be609da14/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4de98efa086db7549178e04be609da14"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Northeastern-Zoo-2023-สวนสัตว์ป่วน-ก๊วนตงเป่ย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Mystic Land (2023) คุนหลุนแดนลึกลับ",
-    "url": "https://lk-hdx.com/mystic-land-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Mystic-Land-2023-คุนหลุนแดนลึกลับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7c19825f49ab79a5a25e58b979a468ce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7c19825f49ab79a5a25e58b979a468ce"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Mystic-Land-2023-คุนหลุนแดนลึกลับ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Miracle Fighters 2 (2023) ฉีเหมินตุ้นเจี่ย ภาค 2",
-    "url": "https://lk-hdx.com/miracle-fighters-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Miracle-Fighters-2-2023-ฉีเหมินตุ้นเจี่ย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ddbc7dda90fa2976147a169861d0bda/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ddbc7dda90fa2976147a169861d0bda"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Miracle-Fighters-2-2023-ฉีเหมินตุ้นเจี่ย-ภาค-2-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Mysterious Case In River (2023) บันทึกลับแม่น้ำฮวงโห",
-    "url": "https://lk-hdx.com/mysterious-case-in-river-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Mysterious-Case-In-River-2023-บันทึกลับแม่น้ำฮวงโห-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0f62f682a3ae6bb40a00ce44985f3c39/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f62f682a3ae6bb40a00ce44985f3c39"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Mysterious-Case-In-River-2023-บันทึกลับแม่น้ำฮวงโห-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Northeastern Bro 2 Endless Love (2023) พี่ใหญ่กับรักแห่งเหมันต์ ภาค 2 รักนิรันดร์",
-    "url": "https://lk-hdx.com/northeastern-bro-2-endless-love-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Northeastern-Bro-2-Endless-Love-2023-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-2-รักนิรันดร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2fb41eaedc4d6a6aa16ea633b9e16439/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2fb41eaedc4d6a6aa16ea633b9e16439"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Northeastern-Bro-2-Endless-Love-2023-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-2-รักนิรันดร์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Northeastern Bro 1 (2021) พี่ใหญ่กับรักแห่งเหมันต์ ภาค 1",
-    "url": "https://lk-hdx.com/the-northeastern-bro-1-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Northeastern-Bro-1-2021-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/L1Mj_jrpqM"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Northeastern-Bro-1-2021-พี่ใหญ่กับรักแห่งเหมันต์-ภาค-1-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Lamb Game (2023)",
-    "url": "https://lk-hdx.com/lamb-game-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Lamb-Game-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e890ac56be8606bd4b8d1f83318621a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e890ac56be8606bd4b8d1f83318621a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Lamb-Game-2023-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Thousand Faces Of Feijia (2023) สงครามแม่ทัพปีศาจ",
-    "url": "https://lk-hdx.com/the-thousand-faces-of-feijia-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-Of-Feijia-2023-สงครามแม่ทัพปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db31105600e752e7f63f2a57334ce90f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db31105600e752e7f63f2a57334ce90f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-Of-Feijia-2023-สงครามแม่ทัพปีศาจ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Tricksters (2023) แก๊งโจรกลกังฟู",
-    "url": "https://lk-hdx.com/tricksters-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Tricksters-2023-แก๊งโจรกลกังฟู-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a0e4d010ae1c6cbadd02398e3e540e1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a0e4d010ae1c6cbadd02398e3e540e1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Tricksters-2023-แก๊งโจรกลกังฟู-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Where the Wind Blows (2023) คู่พายุเดือด",
-    "url": "https://lk-hdx.com/where-the-wind-blows-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Where-the-Wind-Blows-2023-คู่พายุเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/170609496e694a098e972abca7d02d06/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/170609496e694a098e972abca7d02d06"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Where-the-Wind-Blows-2023-คู่พายุเดือด-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Invisible Superman (2023) ฮีโร่ใส ใจฮีโร่",
-    "url": "https://lk-hdx.com/the-invisible-superman-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Invisible-Superman-2023-ฮีโร่ใส-ใจฮีโร่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e44b483292f491c5344d44af1b12f1b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e44b483292f491c5344d44af1b12f1b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Invisible-Superman-2023-ฮีโร่ใส-ใจฮีโร่-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Fight Against Evil 2 (2023) ตำรวจล่าอาชญากร",
-    "url": "https://lk-hdx.com/fight-against-evil-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2-2023-ตำรวจล่าอาชญากร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b68499f48e0cff4fdbd29a19b492dd6e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b68499f48e0cff4fdbd29a19b492dd6e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2-2023-ตำรวจล่าอาชญากร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Fight Against Evil (2021)",
-    "url": "https://lk-hdx.com/fight-against-evil-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/95e47aecdadbfa16f17355180dfcfe2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/95e47aecdadbfa16f17355180dfcfe2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fight-Against-Evil-2021-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Fantasy Magician (2020) ฉีเหมินตุ้นเจี่ย",
-    "url": "https://lk-hdx.com/fantasy-magician-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fantasy-Magician-2020-ฉีเหมินตุ้นเจี่ย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/01eb921d46f8029d9743fcf8e4f021c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01eb921d46f8029d9743fcf8e4f021c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fantasy-Magician-2020-ฉีเหมินตุ้นเจี่ย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา ภาค 2",
-    "url": "https://lk-hdx.com/the-thousand-faces-of-dunshu-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef863b67a11dc197be7829d76b9fcee2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef863b67a11dc197be7829d76b9fcee2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-ภาค-2-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Thousand Faces of Dunjia 1 (2017) ผู้พิทักษ์หมัดเทวดา ภาค 1",
-    "url": "https://lk-hdx.com/the-thousand-faces-of-dunjia-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunjia-1-2017-ผู้พิทักษ์หมัดเทวดา-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66dc5ed3ffed716e1035f468e7eb95e7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66dc5ed3ffed716e1035f468e7eb95e7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Thousand-Faces-of-Dunjia-1-2017-ผู้พิทักษ์หมัดเทวดา-ภาค-1-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Storm City (2023) พายุถล่มเมือง",
-    "url": "https://lk-hdx.com/storm-city-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Storm-City-2023-พายุถล่มเมือง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/99b4e39ff16cc10933bce4a26c858751/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/99b4e39ff16cc10933bce4a26c858751"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Storm-City-2023-พายุถล่มเมือง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Spicy Police Flower (2023) ตำรวจสาวหัวร้อน",
