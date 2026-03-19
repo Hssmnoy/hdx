@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # รันทุกวันเที่ยงคืน UTC (ปรับตามต้องการ)
   workflow_dispatch: # เพิ่ม option manual run
 
+permissions:
+   contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
