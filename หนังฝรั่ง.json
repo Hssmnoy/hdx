@@ -68898,152 +68898,436 @@
   {
     "title": "Kandahar (2023) กันดาฮาร์ ฝ่าสมรภูมิทรายเดือด",
     "url": "https://lk-hdx.com/kandahar-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Kandahar-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Kandahar-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/79b79d45af624b2aa5193378e9bce848"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/79b79d45af624b2aa5193378e9bce848/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Last Sentinel (2023)",
     "url": "https://lk-hdx.com/last-sentinel-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Last-Sentinel-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Last-Sentinel-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2c795118ede436c4039a9391aa7852a0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2c795118ede436c4039a9391aa7852a0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Missing (2023) เสิร์ชหา แม่หาย",
     "url": "https://lk-hdx.com/missing-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Missing-2023-เสิร์ชหา-แม่หาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Missing-2023-เสิร์ชหา-แม่หาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b6caad22332d00b4f12824769438894d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b6caad22332d00b4f12824769438894d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Cheaper by the Dozen (2022)",
     "url": "https://lk-hdx.com/cheaper-by-the-dozen-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Cheaper-by-the-Dozen-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Cheaper-by-the-Dozen-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4a213d91836ca424e3c3687e98ac7328"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4a213d91836ca424e3c3687e98ac7328/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Simulant (2023)",
     "url": "https://lk-hdx.com/simulant-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Simulant-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Simulant-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ffbcd7d65edb03864d4c20c89817cd7f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ffbcd7d65edb03864d4c20c89817cd7f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Renfield (2023) เรนฟิลด์",
     "url": "https://lk-hdx.com/renfield-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Renfield-2023-เรนฟิลด์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Renfield-2023-เรนฟิลด์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/906f620b04780dafd2a42b1f8f049a3d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/906f620b04780dafd2a42b1f8f049a3d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Pope’s Exorcist (2023) โป๊ปปราบผี",
     "url": "https://lk-hdx.com/the-popes-exorcist-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Popes-Exorcist-2023-โป๊ปปราบผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Popes-Exorcist-2023-โป๊ปปราบผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fd9663db3916a04eee4908ecb0cfcaea"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fd9663db3916a04eee4908ecb0cfcaea/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Tank (2023) ท่อสยองพันธุ์ขย้ำ",
     "url": "https://lk-hdx.com/the-tank-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Tank-2023-ท่อสยองพันธุ์ขย้ำ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Tank-2023-ท่อสยองพันธุ์ขย้ำ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6cf297a20883d97097c7a05b60259072"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6cf297a20883d97097c7a05b60259072/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Knights of the Zodiac (2023) เซนต์เซย์ย่า กำเนิดอัศวินจักรราศี",
     "url": "https://lk-hdx.com/knights-of-the-zodiac-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Knights-of-the-Zodiac-2023-เซนต์เซย์ย่า-กำเนิดอัศวินจักรราศี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Knights-of-the-Zodiac-2023-เซนต์เซย์ย่า-กำเนิดอัศวินจักรราศี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/27d87d8223f2272cc0caa6978463caac"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/27d87d8223f2272cc0caa6978463caac/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Happy Ending (2023) แฮปปี้ เอนดิ้ง",
     "url": "https://lk-hdx.com/happy-ending-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Happy-Ending-2023-แฮปปี้-เอนดิ้ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Happy-Ending-2023-แฮปปี้-เอนดิ้ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/b7_uHBIgfv"
+      }
+    ]
   },
   {
     "title": "A Day And A Half (2023) หนึ่งวันครึ่ง",
     "url": "https://lk-hdx.com/a-day-and-a-half-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Day-And-A-Half-2023-หนึ่งวันครึ่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Day-And-A-Half-2023-หนึ่งวันครึ่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cb4b3291ced93354ccd128fcb4263f9d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cb4b3291ced93354ccd128fcb4263f9d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The List (2023)",
     "url": "https://lk-hdx.com/the-list-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-List-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-List-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e25cac9a47e4a5b6034c5f757dd0bf30"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e25cac9a47e4a5b6034c5f757dd0bf30/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Somewhere in Queens (2023)",
     "url": "https://lk-hdx.com/somewhere-in-queens-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Somewhere-in-Queens-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Somewhere-in-Queens-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ae1cd6bbc875b9049aeff58ff2440cb5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ae1cd6bbc875b9049aeff58ff2440cb5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Tutor (2023)",
     "url": "https://lk-hdx.com/the-tutor-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Tutor-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Tutor-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5b0215362b51673c2da286ca6459a0f3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5b0215362b51673c2da286ca6459a0f3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Adults (2023)",
     "url": "https://lk-hdx.com/the-adults-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Adults-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Adults-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a83fe0d489e888e2a7a6469646be11c0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a83fe0d489e888e2a7a6469646be11c0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Scouts Honor (2023) แฟ้มลับสมาคมลูกเสือแห่งอเมริกา",
     "url": "https://lk-hdx.com/scouts-honor-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scouts-Honor-2023-แฟ้มลับสมาคมลูกเสือแห่งอเมริกา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scouts-Honor-2023-แฟ้มลับสมาคมลูกเสือแห่งอเมริกา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/D9_3mxzGyn"
+      }
+    ]
   },
   {
     "title": "Wolf Garden (2023)",
     "url": "https://lk-hdx.com/wolf-garden-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Wolf-Garden-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Wolf-Garden-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/96dd87f1fbaa8e28347e9735ea1d6979"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/96dd87f1fbaa8e28347e9735ea1d6979/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Vacation Friends 2 (2023) เพื่อนคู่แสบ แอบป่วนงาน ภาค 2",
     "url": "https://lk-hdx.com/vacation-friends-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-2-2023-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-2-2023-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7a6f207eb75f85d882728953711840d5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7a6f207eb75f85d882728953711840d5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Vacation Friends 1 (2021) เพื่อนคู่แสบ แอบป่วนงาน ภาค 1",
     "url": "https://lk-hdx.com/vacation-friends-1-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-1-2021-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Vacation-Friends-1-2021-เพื่อนคู่แสบ-แอบป่วนงาน-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/af3a53b2377a3df9114cf281d4a216f0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/af3a53b2377a3df9114cf281d4a216f0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Reading (2023)",
     "url": "https://lk-hdx.com/the-reading-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Reading-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Reading-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bee4757929e3a4a2dad19b283f4cccd7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bee4757929e3a4a2dad19b283f4cccd7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Locksmith (2023)",
     "url": "https://lk-hdx.com/the-locksmith-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Locksmith-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Locksmith-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/916196a23cc4b95cfd236eaa0101428d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/916196a23cc4b95cfd236eaa0101428d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Nomad (2023)",
     "url": "https://lk-hdx.com/the-nomad-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Nomad-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Nomad-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9eff19ec8ef493ad331a10592c13420b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9eff19ec8ef493ad331a10592c13420b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Teen Wolf The Movie (2023)",
     "url": "https://lk-hdx.com/teen-wolf-the-movie-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Teen-Wolf-The-Movie-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Teen-Wolf-The-Movie-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/34f8b3c4a5fc972c45f6ddeda3cd6bb8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/34f8b3c4a5fc972c45f6ddeda3cd6bb8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Transfusion (2023)",
     "url": "https://lk-hdx.com/transfusion-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Transfusion-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Transfusion-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_ss2mGIznw"
+      }
+    ]
   },
   {
     "title": "Sympathy for the Devil (2023)",
     "url": "https://lk-hdx.com/sympathy-for-the-devil-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Sympathy-for-the-Devil-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Sympathy-for-the-Devil-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5f580000a6daa666956a1b3bee23027e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5f580000a6daa666956a1b3bee23027e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Stephen Curry Underrated (2023)",
     "url": "https://lk-hdx.com/stephen-curry-underrated-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Stephen-Curry-Underrated-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Stephen-Curry-Underrated-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/964fea3b93c79cf84c6b0e5b920190a3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/964fea3b93c79cf84c6b0e5b920190a3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Snag (2023)",
     "url": "https://lk-hdx.com/snag-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Snag-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Snag-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e3583d920e57bea619f58af2c2f537f9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e3583d920e57bea619f58af2c2f537f9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Still A Michael J Fox Movie (2023)",
     "url": "https://lk-hdx.com/still-a-michael-j-fox-movie-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Still-A-Michael-J-Fox-Movie-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Still-A-Michael-J-Fox-Movie-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7e046f22d10f8967aa38e8bc7a2360a4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7e046f22d10f8967aa38e8bc7a2360a4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Somebody I Used to Know (2023)",
     "url": "https://lk-hdx.com/somebody-i-used-to-know-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Somebody-I-Used-to-Know-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Somebody-I-Used-to-Know-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b3eb09e1d49492acb2aedba453e35131"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b3eb09e1d49492acb2aedba453e35131/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sweeter Than Chocolate (2023)",
     "url": "https://lk-hdx.com/sweeter-than-chocolate-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Sweeter-Than-Chocolate-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Sweeter-Than-Chocolate-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/dUw4_G4p_U"
+      }
+    ]
   },
   {
     "title": "The Cases of Mystery Lane (2023)",
