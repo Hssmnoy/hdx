@@ -22369,153 +22369,445 @@
   },
   {
     "title": "Wonder Woman 1984 (2020) วันเดอร์ วูแมน 1984",
-    "url": "https://lk-hdx.com/wonder-woman-1984-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-1984-2020-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b7e6114b456b058fd6e120f5253dfdd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b7e6114b456b058fd6e120f5253dfdd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-1984-2020-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wonder Woman (2017) วันเดอร์ วูแมน",
-    "url": "https://lk-hdx.com/wonder-woman/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-2017-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9baf1a1a5e7ee6c478b2f63eeed649b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9baf1a1a5e7ee6c478b2f63eeed649b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-2017-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shazam! 2 Fury of the Gods (2023) ชาแซม! ภาค 2 จุดเดือดเทพเจ้า",
-    "url": "https://lk-hdx.com/shazam-2-fury-of-the-gods/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Shazam-2-Fury-of-the-Gods-2023-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e977f2a69b1bd402f68307871b313d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e977f2a69b1bd402f68307871b313d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Shazam-2-Fury-of-the-Gods-2023-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shazam 1 (2019) ชาแซม ภาค 1",
-    "url": "https://lk-hdx.com/shazam-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Shazam-1-2019-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/211e743a0be8648a2501523af79d1aa0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/211e743a0be8648a2501523af79d1aa0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Shazam-1-2019-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Celda 211 (2009) วันวิกฤติ ห้องขังนรก",
-    "url": "https://lk-hdx.com/celda-211-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Celda-211-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/da981d760739cf836014e786d0597e14/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/da981d760739cf836014e786d0597e14"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Celda-211-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bride Wars (2009) สงครามเจ้าสาว หักเหลี่ยมวิวาห์อลวน",
-    "url": "https://lk-hdx.com/bride-wars-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Bride-Wars-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d32b4c1b3bef93a57d9352f70d1531bc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d32b4c1b3bef93a57d9352f70d1531bc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Bride-Wars-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bionic (2024) เหนือมนุษย์",
-    "url": "https://lk-hdx.com/bionic-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Bionic-2024-เหนือมนุษย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/51359dd1644f20b7b0e653e104bd6f75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/51359dd1644f20b7b0e653e104bd6f75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Bionic-2024-เหนือมนุษย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Corlors of Evil Red (2024) แดงดั่งสีปีศาจ",
-    "url": "https://lk-hdx.com/corlors-of-evil-red-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Corlors-of-Evil-Red-2024-แดงดั่งสีปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ba379b0e67dc2d2e18f1c0bfefeb0f82/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ba379b0e67dc2d2e18f1c0bfefeb0f82"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Corlors-of-Evil-Red-2024-แดงดั่งสีปีศาจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gaga Chromatica Ball (2024) เลดี้ กาก้า โครมาติกา บอล คอนเสิร์ต สเปเชียล",
-    "url": "https://lk-hdx.com/gaga-chromatica-ball-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Gaga-Chromatica-Ball-2024-เลดี้-กาก้า-โครมาติกา-บอล-คอนเสิร์ต-สเปเชียล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/17eb6e2e39cbde1a905ab16f617dd150/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17eb6e2e39cbde1a905ab16f617dd150"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Gaga-Chromatica-Ball-2024-เลดี้-กาก้า-โครมาติกา-บอล-คอนเสิร์ต-สเปเชียล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Giver (2014) พลังพลิกโลก",
-    "url": "https://lk-hdx.com/the-giver-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Giver-2014-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/JWHRi8qkv_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Giver-2014-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Captive (2014) ล่ายื้อเวลามัจจุราช",
-    "url": "https://lk-hdx.com/the-captive-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Captive-2014-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/72fe66a4ab6194de6e2295f2229da9b5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/72fe66a4ab6194de6e2295f2229da9b5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Captive-2014-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Life Of Pi (2012) ชีวิตอัศจรรย์ของพาย",
-    "url": "https://lk-hdx.com/life-of-pi-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Life-Of-Pi-2012-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8c80f08e18ba6ea12cf1a40264311d70/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8c80f08e18ba6ea12cf1a40264311d70"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Life-Of-Pi-2012-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Automata (2014) ล่าจักรกล ยึดอนาคต",
-    "url": "https://lk-hdx.com/automata-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Automata-2014-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d7789bf48392cb55b238bdac37df24a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d7789bf48392cb55b238bdac37df24a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Automata-2014-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
-    "url": "https://lk-hdx.com/furiosa-a-mad-max-saga-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e64555b304f123b987b8a247ce5b44cd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e64555b304f123b987b8a247ce5b44cd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mad Max Fury Road (2015) แมด แม็กซ์ ถนนโลกันตร์",
-    "url": "https://lk-hdx.com/mad-max-fury-road-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Mad-Max-Fury-Road-2015-แมด-แม็กซ์-ถนนโลกันตร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cc2526f31903e14b4d58dfbb9ab8ca8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cc2526f31903e14b4d58dfbb9ab8ca8f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Mad-Max-Fury-Road-2015-แมด-แม็กซ์-ถนนโลกันตร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mad Max 3 Beyond Thunderdome (1985) แมดแม็กซ์ ภาค 3 โดมบันลือโลก",
-    "url": "https://lk-hdx.com/mad-max-3-beyond-thunderdome-1985/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-3-Beyond-Thunderdome-1985-แมดแม็กซ์-ภาค-3-โดมบันลือโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/74ce6bacb12bc42c6fdfe44005e5fc7d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74ce6bacb12bc42c6fdfe44005e5fc7d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-3-Beyond-Thunderdome-1985-แมดแม็กซ์-ภาค-3-โดมบันลือโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mad Max 2 The Road Warrior (1981) แมดแม็กซ์ ภาค 2 เส้นทางนักรบ",
-    "url": "https://lk-hdx.com/mad-max-2-the-road-warrior-1981/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-2-The-Road-Warrior-1981-แมดแม็กซ์-ภาค-2-เส้นทางนักรบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3ac8e1b8e5b8aaad2c819116776f1275/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3ac8e1b8e5b8aaad2c819116776f1275"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-2-The-Road-Warrior-1981-แมดแม็กซ์-ภาค-2-เส้นทางนักรบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mad Max 1 (1979) แมดแม็กซ์ ภาค 1",
-    "url": "https://lk-hdx.com/mad-max-1-1979/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-1-1979-แมดแม็กซ์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/925c17e9d843b8f813a56bce5ef848c5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/925c17e9d843b8f813a56bce5ef848c5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-1-1979-แมดแม็กซ์-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Beach Boys (2024)",
-    "url": "https://lk-hdx.com/the-beach-boys-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Beach-Boys-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4a5818b5786e17e5279cb819be506661/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4a5818b5786e17e5279cb819be506661"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Beach-Boys-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Kingdom (2007) ยุทธการเดือด ล่าข้ามแผ่นดิน",
-    "url": "https://lk-hdx.com/the-kingdom-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Kingdom-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_ZD1_2eAxw"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Kingdom-2007-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Under the Mountain (2009) อสูรปลุกไฟใต้พิภพ",
-    "url": "https://lk-hdx.com/under-the-mountain-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Under-the-Mountain-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ed41d080460dd9b63a91f49709d3523c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ed41d080460dd9b63a91f49709d3523c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Under-the-Mountain-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "42 (2013) ตำนานนักหวดสะท้านโลก",
-    "url": "https://lk-hdx.com/42-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/42-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b00448d2caee4ae3d353c0ff7d43d5f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b00448d2caee4ae3d353c0ff7d43d5f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/42-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
-    "url": "https://lk-hdx.com/percy-jackson-sea-of-monsters-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Percy-Jackson-Sea-of-Monsters-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7d9b6b63488e4a1f31682e52d28d2be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7d9b6b63488e4a1f31682e52d28d2be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Percy-Jackson-Sea-of-Monsters-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Percy Jackson & the Olympians The Lightning Thief (2010) เพอร์ซีย์ แจ็คสัน กับสายฟ้าที่หายไป",
-    "url": "https://lk-hdx.com/percy-jackson-the-olympians-the-lightning-thief-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0cefc0d8641da0befcaa4b7420d3f5e1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0cefc0d8641da0befcaa4b7420d3f5e1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rush (2013) อัดเต็มสปีด",
-    "url": "https://lk-hdx.com/rush-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Rush-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca1db933cf051cdcc6f4542dbef1e4de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca1db933cf051cdcc6f4542dbef1e4de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Rush-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Colonia (2015) โคโลเนีย หนีตาย",
-    "url": "https://lk-hdx.com/colonia-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Colonia-2015-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c966a5f1efef173732c7d170ac9de558/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c966a5f1efef173732c7d170ac9de558"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Colonia-2015-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Atlas (2024) ล่าข้ามจักรวาล",
-    "url": "https://lk-hdx.com/atlas-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Atlas-2024-ล่าข้ามจักรวาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7306d7612de40b7a27e8c3f51874015/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7306d7612de40b7a27e8c3f51874015"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Atlas-2024-ล่าข้ามจักรวาล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Signs (2002) สัญญาณสยองโลก",
-    "url": "https://lk-hdx.com/signs-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Signs-2002-สัญญาณสยองโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e1437bc9291ad7dce5a78589b034b77e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e1437bc9291ad7dce5a78589b034b77e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Signs-2002-สัญญาณสยองโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Road to Perdition (2002) ดับแค้นจอมคนเพชฌฆาต",
-    "url": "https://lk-hdx.com/road-to-perdition-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Road-to-Perdition-2002-ดับแค้นจอมคนเพชฌฆาต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/67602ebe981066934dacd70974f92d2f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/67602ebe981066934dacd70974f92d2f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Road-to-Perdition-2002-ดับแค้นจอมคนเพชฌฆาต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Hole (2021) ปริศนาถ้ำลับ",
-    "url": "https://lk-hdx.com/the-hole-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Hole-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b73f7165dd8ece7251634f4cb586f010/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b73f7165dd8ece7251634f4cb586f010"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Hole-2021-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blacklight (2022) โคตรระห่ำ ล้างบางนรก",
