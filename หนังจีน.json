@@ -6850,152 +6850,432 @@
   {
     "title": "The Captain (2019) เดอะ กัปตัน เหินฟ้าฝ่านรก",
     "url": "https://lk-hdx.com/the-captain-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Captain-2019-เดอะ-กัปตัน-เหินฟ้าฝ่านรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Captain-2019-เดอะ-กัปตัน-เหินฟ้าฝ่านรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/F_Q7MsEjnu"
+      }
+    ]
   },
   {
     "title": "The Invincible Dragon (2019) หมัดเหล็กล่าฆาตกร",
     "url": "https://lk-hdx.com/the-invincible-dragon-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Invincible-Dragon-2019-หมัดเหล็กล่าฆาตกร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Invincible-Dragon-2019-หมัดเหล็กล่าฆาตกร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ed4160e66141fbeb78a80146fe06c777"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ed4160e66141fbeb78a80146fe06c777/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Firestorm (2013) ปิดเมืองล่าโจร",
     "url": "https://lk-hdx.com/firestorm-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Firestorm-2013-ปิดเมืองล่าโจร-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Firestorm-2013-ปิดเมืองล่าโจร-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2358a12e481d6d33658591a2cc13436e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2358a12e481d6d33658591a2cc13436e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Naked Ambition (2014) ซั่มกระฉูด ทะลุโตเกียว",
     "url": "https://lk-hdx.com/naked-ambition-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Naked-Ambition-2014-ซั่มกระฉูด-ทะลุโตเกียว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Naked-Ambition-2014-ซั่มกระฉูด-ทะลุโตเกียว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/86287b00a66cdc2cfbb51ee809012a17"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/86287b00a66cdc2cfbb51ee809012a17/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Thunder rescue (2023) ปราบยาสายฟ้าฟาด",
     "url": "https://lk-hdx.com/thunder-rescue-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Thunder-rescue-2023-ปราบยาสายฟ้าฟาด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Thunder-rescue-2023-ปราบยาสายฟ้าฟาด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/18JrT8SfP_"
+      }
+    ]
   },
   {
     "title": "The Yin Yang Master Dream of Eternity (2020) หยิน หยาง ศึกมหาเวทสะท้านพิภพ สู่ฝันอมตะ",
     "url": "https://lk-hdx.com/the-yin-yang-master-dream-of-eternity-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Yin-Yang-Master-Dream-of-Eternity-2020-หยิน-หยาง-ศึกมหาเวทสะท้านพิภพ-สู่ฝันอมตะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Yin-Yang-Master-Dream-of-Eternity-2020-หยิน-หยาง-ศึกมหาเวทสะท้านพิภพ-สู่ฝันอมตะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a5821136fa8362bc5a3d684e17817d4e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a5821136fa8362bc5a3d684e17817d4e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Snake Beauty (2023) สระนาคาพิศวง",
     "url": "https://lk-hdx.com/snake-beauty-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Snake-Beauty-2023-สระนาคาพิศวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Snake-Beauty-2023-สระนาคาพิศวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5c8deaef30193713bc5e2cd92e3aade6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5c8deaef30193713bc5e2cd92e3aade6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Xio Hua Xie Qi An (2024) คดีประหลาดรองเท้าปัก",
     "url": "https://lk-hdx.com/xio-hua-xie-qi-an-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Xio-Hua-Xie-Qi-An-2024-คดีประหลาดรองเท้าปัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Xio-Hua-Xie-Qi-An-2024-คดีประหลาดรองเท้าปัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/77e7da2bbb6d3950fe0f49352acaa221"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/77e7da2bbb6d3950fe0f49352acaa221/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Impetuous Love in Action (2014) ศึกพิชิตใจของนายไฮโซ",
     "url": "https://lk-hdx.com/impetuous-love-in-action-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Impetuous-Love-in-Action-2014-ศึกพิชิตใจของนายไฮโซ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Impetuous-Love-in-Action-2014-ศึกพิชิตใจของนายไฮโซ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/737df9a871cca179fbb96599e7bde341"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/737df9a871cca179fbb96599e7bde341/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Zhong Kui Snow Girl and the Dark Crystal (2015) จงขุย ศึกเทพฤทธิ์พิชิตมาร",
     "url": "https://lk-hdx.com/zhong-kui-snow-girl-and-the-dark-crystal-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Zhong-Kui-Snow-Girl-and-the-Dark-Crystal-2015-จงขุย-ศึกเทพฤทธิ์พิชิตมาร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Zhong-Kui-Snow-Girl-and-the-Dark-Crystal-2015-จงขุย-ศึกเทพฤทธิ์พิชิตมาร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4a617bdb742940d5d49cfb0e22672164"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4a617bdb742940d5d49cfb0e22672164/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Master Of The Drunken Fist Beggar So (2016) ยอดยุทธ พ่อหนุ่มหมัดเมา",
     "url": "https://lk-hdx.com/master-of-the-drunken-fist-beggar-so-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Master-Of-The-Drunken-Fist-Beggar-So-2016-ยอดยุทธ-พ่อหนุ่มหมัดเมา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Master-Of-The-Drunken-Fist-Beggar-So-2016-ยอดยุทธ-พ่อหนุ่มหมัดเมา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/52dff06bb63584f8e68bb5e8979d6564"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/52dff06bb63584f8e68bb5e8979d6564/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Paradox (2017) เดือดซัดดิบ",
     "url": "https://lk-hdx.com/paradox-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Paradox-2017-เดือดซัดดิบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Paradox-2017-เดือดซัดดิบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e9273d0f9a7727549d949c6d37bf6fd2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e9273d0f9a7727549d949c6d37bf6fd2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Reset (2017) ย้อนเวลา ล่าทะลุมิติ",
     "url": "https://lk-hdx.com/reset-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Reset-2017-ย้อนเวลา-ล่าทะลุมิติ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Reset-2017-ย้อนเวลา-ล่าทะลุมิติ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cfddec9c1a29e4b79e0b2597a3d1f1e0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cfddec9c1a29e4b79e0b2597a3d1f1e0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Helios (2015) ล่าคมถล่มเมือง",
     "url": "https://lk-hdx.com/helios-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Helios-2015-ล่าคมถล่มเมือง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Helios-2015-ล่าคมถล่มเมือง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fb57c50067fbad7ccb7520bdfcc98cf4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fb57c50067fbad7ccb7520bdfcc98cf4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Battle For Justice (2023) ในนามของความยุติธรรม",
     "url": "https://lk-hdx.com/the-battle-for-justice-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Battle-For-Justice-2023-ในนามของความยุติธรรม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Battle-For-Justice-2023-ในนามของความยุติธรรม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a9fe2855867d225791c70093ab3ab503"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a9fe2855867d225791c70093ab3ab503/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Ennead Legacy Of Yuhuang (2023) สมบัติจักรพรรดิ",
     "url": "https://lk-hdx.com/the-ennead-legacy-of-yuhuang-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Ennead-Legacy-Of-Yuhuang-2023-สมบัติจักรพรรดิ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Ennead-Legacy-Of-Yuhuang-2023-สมบัติจักรพรรดิ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dcd5718f08442816fa7dbe2bd7d496ea"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dcd5718f08442816fa7dbe2bd7d496ea/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Operation Red Sea (2018) ยุทธภูมิทะเลแดง",
     "url": "https://lk-hdx.com/operation-red-sea-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Operation-Red-Sea-2018-ยุทธภูมิทะเลแดง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Operation-Red-Sea-2018-ยุทธภูมิทะเลแดง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d4bcf04f265b889f8d69f0161916be16"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d4bcf04f265b889f8d69f0161916be16/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mountain And Sea Monster (2020) สัตว์ประหลาดแห่งภูเขาและทะเล",
     "url": "https://lk-hdx.com/mountain-and-sea-monster-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Mountain-And-Sea-Monster-2020-สัตว์ประหลาดแห่งภูเขาและทะเล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Mountain-And-Sea-Monster-2020-สัตว์ประหลาดแห่งภูเขาและทะเล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8f7d4c3d69b8cb9b039a2e786764e1c3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8f7d4c3d69b8cb9b039a2e786764e1c3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mermaid Bound (2020) ศึกรักข้ามมหาสมุทร",
     "url": "https://lk-hdx.com/mermaid-bound-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Mermaid-Bound-2020-ศึกรักข้ามมหาสมุทร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Mermaid-Bound-2020-ศึกรักข้ามมหาสมุทร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_GIVpdPD6I"
+      }
+    ]
   },
   {
     "title": "Novoland The Castle In The Sky Time Reversal (2020) จิ่วโจวเมือง​สวรรค์​ พลิกแผ่นดินข้ามกาลเวลา",
     "url": "https://lk-hdx.com/novoland-the-castle-in-the-sky-time-reversal-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Novoland-The-Castle-In-The-Sky-Time-Reversal-2020-จิ่วโจวเมือง​สวรรค์​-พลิกแผ่นดินข้ามกาลเวลา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Novoland-The-Castle-In-The-Sky-Time-Reversal-2020-จิ่วโจวเมือง​สวรรค์​-พลิกแผ่นดินข้ามกาลเวลา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dd57573770d2d552ed24282a164b4ba9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dd57573770d2d552ed24282a164b4ba9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Nirvana Rebirth of Chinchilla (2020) กำเนิดวีรบุรุษชินชิลลา",
     "url": "https://lk-hdx.com/nirvana-rebirth-of-chinchilla-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Nirvana-Rebirth-of-Chinchilla-2020-กำเนิดวีรบุรุษชินชิลลา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Nirvana-Rebirth-of-Chinchilla-2020-กำเนิดวีรบุรุษชินชิลลา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ee16989595fa029f850b937fb0544b9c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ee16989595fa029f850b937fb0544b9c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Marshal Tian Peng (2020) แม่ทัพสวรรค์ ขุนพลเทียนเผิง",
     "url": "https://lk-hdx.com/marshal-tian-peng-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Marshal-Tian-Peng-2020-แม่ทัพสวรรค์-ขุนพลเทียนเผิง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Marshal-Tian-Peng-2020-แม่ทัพสวรรค์-ขุนพลเทียนเผิง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/xRq_s_JvF6"
+      }
+    ]
   },
   {
     "title": "Wukong (2017) หงอคง กำเนิดเทพเจ้าวานร",
     "url": "https://lk-hdx.com/wukong-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Wukong-2017-หงอคง-กำเนิดเทพเจ้าวานร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Wukong-2017-หงอคง-กำเนิดเทพเจ้าวานร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5f575b75a2e756127e47682e59bdf0a8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5f575b75a2e756127e47682e59bdf0a8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Wine Wars (2017) สงครามกลลวง",
     "url": "https://lk-hdx.com/wine-wars-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Wine-Wars-2017-สงครามกลลวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Wine-Wars-2017-สงครามกลลวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/04e48fd35a5ad22fe825e81cd67a4b9a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/04e48fd35a5ad22fe825e81cd67a4b9a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Legend of Zu (2018) ตำนานสงครามล้างพิภพ",
     "url": "https://lk-hdx.com/the-legend-of-zu-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Legend-of-Zu-2018-ตำนานสงครามล้างพิภพ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Legend-of-Zu-2018-ตำนานสงครามล้างพิภพ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/11a2b57c274458b35d03fbbd85437314"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/11a2b57c274458b35d03fbbd85437314/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Legend of Resistance (2018) ศึกชิงเพลิงทรัพย์",
     "url": "https://lk-hdx.com/the-legend-of-resistance-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Legend-of-Resistance-2018-ศึกชิงเพลิงทรัพย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Legend-of-Resistance-2018-ศึกชิงเพลิงทรัพย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1e3311cd31c1031dbda7e22e91c54957"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1e3311cd31c1031dbda7e22e91c54957/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Soul Hunter (2020) นักล่าวิญญาณ",
     "url": "https://lk-hdx.com/soul-hunter-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Soul-Hunter-2020-นักล่าวิญญาณ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Soul-Hunter-2020-นักล่าวิญญาณ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/46_BfpVRvI"
+      }
+    ]
   },
   {
     "title": "Tale Of Phantom A Love Story (2024) ชะตานำพารัก",
     "url": "https://lk-hdx.com/tale-of-phantom-a-love-story-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Tale-Of-Phantom-A-Love-Story-2024-ชะตานำพารัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Tale-Of-Phantom-A-Love-Story-2024-ชะตานำพารัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d4d0c9451b5d82acc71de7a57cf5188a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d4d0c9451b5d82acc71de7a57cf5188a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Third Pair Of Shoe Prints (2024) รอยเท้าคู่ที่สาม",
     "url": "https://lk-hdx.com/third-pair-of-shoe-prints-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Third-Pair-Of-Shoe-Prints-2024-รอยเท้าคู่ที่สาม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Third-Pair-Of-Shoe-Prints-2024-รอยเท้าคู่ที่สาม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cb7788f28d82bc3fa875071146d0d091"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cb7788f28d82bc3fa875071146d0d091/master.m3u8"
+      }
+    ]
   },
   {
     "title": "American Dreams in China (2013) สามซ่า กล้า ท้า ฝัน",
     "url": "https://lk-hdx.com/american-dreams-in-china-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/American-Dreams-in-China-2013-สามซ่า-กล้า-ท้า-ฝัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/American-Dreams-in-China-2013-สามซ่า-กล้า-ท้า-ฝัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ec628f1a1794f66471ee6b714a483007"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ec628f1a1794f66471ee6b714a483007/master.m3u8"
+      }
+    ]
   },
   {
     "title": "7 Assassins (2013) เพชฌฆาตทะเลทราย",
