@@ -8211,153 +8211,437 @@
   },
   {
     "title": "Larry Crowne (2011) รักกันไว้ หัวใจบานฉ่ำ",
-    "url": "https://lk-hdx.com/larry-crowne-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Larry-Crowne-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de83f619841d8b77746106af6def4813/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de83f619841d8b77746106af6def4813"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Larry-Crowne-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Ides of March (2011) การเมืองกินคน",
-    "url": "https://lk-hdx.com/the-ides-of-march-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Ides-of-March-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/619fa0f3339e26b254c3341df23e394f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/619fa0f3339e26b254c3341df23e394f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Ides-of-March-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mississippi Grind (2015) เกมเย้ยเซียน",
-    "url": "https://lk-hdx.com/mississippi-grind-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Mississippi-Grind-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d18a10c11cc02d947fdff2bc3078f1f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d18a10c11cc02d947fdff2bc3078f1f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Mississippi-Grind-2015-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mighty Joe Young (1998) ไมตี้ โจ ยัง สัญชาตญาณป่า ล่าถล่มเมือง",
-    "url": "https://lk-hdx.com/mighty-joe-young-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Mighty-Joe-Young-1998-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/yQZOpQH_QW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Mighty-Joe-Young-1998-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Quarantine (2008) ปิดตึกสยอง",
-    "url": "https://lk-hdx.com/quarantine-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Quarantine-2008-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c3d1851fa1a3de7772640e629adc95a0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c3d1851fa1a3de7772640e629adc95a0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Quarantine-2008-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "S.W.A.T. Firefight (2011) ส.ว.า.ท. หน่วยจู่โจมระห่ำโลก ภาค 2",
-    "url": "https://lk-hdx.com/s-w-a-t-firefight-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/S.W.A.T.-Firefight-2011-ส.ว.า.ท.-หน่วยจู่โจมระห่ำโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/276fc8dc8055b2596fcd7b4dfa93f93f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/276fc8dc8055b2596fcd7b4dfa93f93f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/S.W.A.T.-Firefight-2011-ส.ว.า.ท.-หน่วยจู่โจมระห่ำโลก-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "S.W.A.T. (2003) ส.ว.า.ท. หน่วยจู่โจมระห่ำโลก ภาค 1",
-    "url": "https://lk-hdx.com/s-w-a-t-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/S.W.A.T.-2003-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cef16bccbea74c607ca038fd23aee31b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cef16bccbea74c607ca038fd23aee31b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/S.W.A.T.-2003-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Prey for the Devil (2022) สวดส่งไปลงนรก",
-    "url": "https://lk-hdx.com/prey-for-the-devil-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-for-the-Devil-2022-สวดส่งไปลงนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b345094db414a1b57c6921105df392f8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b345094db414a1b57c6921105df392f8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-for-the-Devil-2022-สวดส่งไปลงนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "แชฟท์ ชื่อนี้มีไว้ล้างพันธุ์เจ้าพ่อ (2000) Shaft",
-    "url": "https://lk-hdx.com/shaft-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/แชฟท์-ชื่อนี้มีไว้ล้างพันธุ์เจ้าพ่อ-2000-Shaft-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/470f600344b98a6a8b597be6c104ff66/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/470f600344b98a6a8b597be6c104ff66"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/แชฟท์-ชื่อนี้มีไว้ล้างพันธุ์เจ้าพ่อ-2000-Shaft-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Morbius (2022) มอร์เบียส ฮีโร่พันธุ์กระหายเลือด",
-    "url": "https://lk-hdx.com/morbius-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Morbius-2022-มอร์เบียส-ฮีโร่พันธุ์กระหายเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/55d122a97de7c499987dc5dce1fe0a9c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/55d122a97de7c499987dc5dce1fe0a9c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Morbius-2022-มอร์เบียส-ฮีโร่พันธุ์กระหายเลือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wifelike (2022) เมเรดิธ มนุษย์เมียเทียม",
-    "url": "https://lk-hdx.com/wifelike-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Wifelike-2022-เมเรดิธ-มนุษย์เมียเทียม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5f97f8c30cc3c94a39786b5ec4359f05/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f97f8c30cc3c94a39786b5ec4359f05"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Wifelike-2022-เมเรดิธ-มนุษย์เมียเทียม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "จ๋อจัดตาย (2025) The Monkey",
-    "url": "https://lk-hdx.com/the-monkey-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/จ๋อจัดตาย-2025-The-Monkey-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/600f9e7125d3766054c03abeb6f7c798/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/600f9e7125d3766054c03abeb6f7c798"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/จ๋อจัดตาย-2025-The-Monkey-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "อุบัติการณ์สวรรค์สั่ง (2014) Left Behind",
-    "url": "https://lk-hdx.com/left-behind-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/อุบัติการณ์สวรรค์สั่ง-2014-Left-Behind-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3ecf718138e4187c2fd3d2f6045796ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3ecf718138e4187c2fd3d2f6045796ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/อุบัติการณ์สวรรค์สั่ง-2014-Left-Behind-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Control Freak (2025)",
-    "url": "https://lk-hdx.com/control-freak-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Control-Freak-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/14d927ea1fafac90e83af2fa2a471fde/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/14d927ea1fafac90e83af2fa2a471fde"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Control-Freak-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ดีเจนอกเครื่องแบบ (2025) Banger",
-    "url": "https://lk-hdx.com/banger-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ดีเจนอกเครื่องแบบ-2025-Banger-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/R_8SbQJMjL"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ดีเจนอกเครื่องแบบ-2025-Banger-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Flightplan (2005) เที่ยวบินระทึกท้านรก",
-    "url": "https://lk-hdx.com/flightplan-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Flightplan-2005-เที่ยวบินระทึกท้านรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2dca915c23c1a464c9b3623849b7f90a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2dca915c23c1a464c9b3623849b7f90a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Flightplan-2005-เที่ยวบินระทึกท้านรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "She’s The Man (2006) แอบแมน มาปิ๊งแมน",
-    "url": "https://lk-hdx.com/shes-the-man-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Shes-the-Man-2006-แอบแมน-มาปิ๊งแมน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5f2e4307cb6fe90ba12da96546146e8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f2e4307cb6fe90ba12da96546146e8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Shes-the-Man-2006-แอบแมน-มาปิ๊งแมน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ซัมเมอร์ช็อค แค้นต้องฆ่า (1978) I Spit on Your Grave",
-    "url": "https://lk-hdx.com/i-spit-on-your-grave-1978/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ซัมเมอร์ช็อค-แค้นต้องฆ่า-1978-I-Spit-on-Your-Grave-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fiT7qSJ_NE"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ซัมเมอร์ช็อค-แค้นต้องฆ่า-1978-I-Spit-on-Your-Grave-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Nightingale (2018) ปักษาพยาบาท",
-    "url": "https://lk-hdx.com/the-nightingale-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Nightingale-2018-แม่นกน้อยไนติงเกล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c9352806d0d0e9dd3fe4613e1611dfb9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c9352806d0d0e9dd3fe4613e1611dfb9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Nightingale-2018-แม่นกน้อยไนติงเกล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "บิดเปิดผี 6 หลุดนรกสยองโลก (2002) Hellraiser Hellseeker",
-    "url": "https://lk-hdx.com/hellraiser-hellseeker-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/บิดเปิดผี-6-หลุดนรกสยองโลก-2002-Hellraiser-Hellseeker-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b225fdbe6ccc51789586744ba6769e40/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b225fdbe6ccc51789586744ba6769e40"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/บิดเปิดผี-6-หลุดนรกสยองโลก-2002-Hellraiser-Hellseeker-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ผู้ชายใจไม่พ่าย (2025) VidaaMuyarchi",
-    "url": "https://lk-hdx.com/vidaamuyarchi-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ผู้ชายใจไม่พ่าย-2025-VidaaMuyarchi-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/547317b1ff5160e96cd7ef35cb6c5b8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/547317b1ff5160e96cd7ef35cb6c5b8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ผู้ชายใจไม่พ่าย-2025-VidaaMuyarchi-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Boiling Point (2021)",
-    "url": "https://lk-hdx.com/boiling-point-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Boiling-Point-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d8c6d35459c4930e042dfffeee7cf3ae/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d8c6d35459c4930e042dfffeee7cf3ae"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Boiling-Point-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "โคตรนรกปล้นเหนือเมฆ แพนเธอรา (2025) Den of Thieves 2 Pantera",
-    "url": "https://lk-hdx.com/den-of-thieves-2-pantera/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f04f3515de19c01a5ed6acbdb120e532/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f04f3515de19c01a5ed6acbdb120e532"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Prestige (2006) ศึกมายากลหยุดโลก",
-    "url": "https://lk-hdx.com/the-prestige-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Prestige-2006-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/10873fc1a41e6138f5120060f414e2be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/10873fc1a41e6138f5120060f414e2be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Prestige-2006-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Alexander and the Terrible Horrible No Good Very Bad Road Trip (2025)",
-    "url": "https://lk-hdx.com/alexander-and-the-terrible-horrible-no-good-very-bad-road-trip-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Alexander-and-the-Terrible-Horrible-No-Good-Very-Bad-Road-Trip-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea95b9a9def96f6b54e9e659ad0d71b8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea95b9a9def96f6b54e9e659ad0d71b8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/Alexander-and-the-Terrible-Horrible-No-Good-Very-Bad-Road-Trip-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เกมลับสงครามเย็น (2019) The Coldest Game",
-    "url": "https://lk-hdx.com/the-coldest-game-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เกมลับสงครามเย็น-2019-The-Coldest-Game-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jqFa1_TLSa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/เกมลับสงครามเย็น-2019-The-Coldest-Game-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "รายการชีวิต (2025) The Life List",
-    "url": "https://lk-hdx.com/the-life-list-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/รายการชีวิต-2025-The-Life-List-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/582a5f146f35f1294f211e6a85f67f49/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/582a5f146f35f1294f211e6a85f67f49"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/รายการชีวิต-2025-The-Life-List-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คาร์แจ็กเกอร์ส (2025) Carjackers",
-    "url": "https://lk-hdx.com/carjackers-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/คาร์แจ็กเกอร์ส-2025-Carjackers-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dab49ec7588ee072c71d70a0a1e42a7b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dab49ec7588ee072c71d70a0a1e42a7b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/คาร์แจ็กเกอร์ส-2025-Carjackers-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Holland (2025) ฮอลแลนด์ เมืองหลอนซ่อนความลับ",
-    "url": "https://lk-hdx.com/holland-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Holland-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/02a6f89692aad25026f816617669a3ed/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/02a6f89692aad25026f816617669a3ed"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/Holland-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "โคลด์ วอลเล็ต (2025) Cold Wallet",
-    "url": "https://lk-hdx.com/cold-wallet-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/โคลด์-วอลเล็ต-2025-Cold-Wallet-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ac8cea7fa0ce84409b342f6fbb7b3217/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac8cea7fa0ce84409b342f6fbb7b3217"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/โคลด์-วอลเล็ต-2025-Cold-Wallet-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tarot (2024) ทาโร่ต์ ไพ่เรียกผี",
