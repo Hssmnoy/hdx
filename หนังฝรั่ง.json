@@ -29651,153 +29651,429 @@
   },
   {
     "title": "Infinite (2021) อินฟินิท",
-    "url": "https://lk-hdx.com/infinite-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Infinite-2021-อินฟินิท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8b941ad18f26a0fc5b530a7ae92dec65/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b941ad18f26a0fc5b530a7ae92dec65"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Infinite-2021-อินฟินิท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Machine (2023)",
-    "url": "https://lk-hdx.com/the-machine-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Machine-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f7e0484a1e1b94263d9ab4144c1805fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f7e0484a1e1b94263d9ab4144c1805fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Machine-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "9 Bullets (2022) 9 บลูเลท",
-    "url": "https://lk-hdx.com/9-bullets-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/9-Bullets-2022-9-บลูเลท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15039065edfb40373dd1f396cd5351b3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15039065edfb40373dd1f396cd5351b3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/9-Bullets-2022-9-บลูเลท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Assassin’s Creed (2016) อัสแซสซินส์ ครีด",
-    "url": "https://lk-hdx.com/assassins-creed-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Assassins-Creed-2016-อัสแซสซินส์-ครีด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/55a0c4de7ff827645b2b8a479cd9bf95/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/55a0c4de7ff827645b2b8a479cd9bf95"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Assassins-Creed-2016-อัสแซสซินส์-ครีด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fighting with My Family (2019) สู้ท้าฝันเพื่อครอบครัว",
-    "url": "https://lk-hdx.com/fighting-with-my-family-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fighting-with-My-Family-2019-สู้ท้าฝันเพื่อครอบครัว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e4e35bf40e18305bfcab5dae74a6536c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e4e35bf40e18305bfcab5dae74a6536c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Fighting-with-My-Family-2019-สู้ท้าฝันเพื่อครอบครัว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hard Kill (2020) ฮาร์ดคิล",
-    "url": "https://lk-hdx.com/hard-kill-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hard-Kill-2020-ฮาร์ดคิล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/343dbd162c09803e4ca9e0e6dfd5f1db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/343dbd162c09803e4ca9e0e6dfd5f1db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Hard-Kill-2020-ฮาร์ดคิล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Reef Stalked (2022) ครีบพิฆา",
-    "url": "https://lk-hdx.com/the-reef-stalked-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Reef-Stalked-2022-ครีบพิฆาต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b5ee2de55bf8184b1358e2a4846fea47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5ee2de55bf8184b1358e2a4846fea47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Reef-Stalked-2022-ครีบพิฆาต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Boys in the Boat (2023)",
-    "url": "https://lk-hdx.com/the-boys-in-the-boat-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Boys-in-the-Boat-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/17638b1d3e4d8bd4deec12ae6432ec6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17638b1d3e4d8bd4deec12ae6432ec6d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Boys-in-the-Boat-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Freud’s Last Session (2023)",
-    "url": "https://lk-hdx.com/freuds-last-session-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Freuds-Last-Session-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cc796f29baec1046d8fdb1fec8170d4e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cc796f29baec1046d8fdb1fec8170d4e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Freuds-Last-Session-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "This Is Me Now (2024) ดิส อิส มี นาว เรื่องราวความรัก",
-    "url": "https://lk-hdx.com/this-is-me-now-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/This-Is-Me-Now-2024-ดิส-อิส-มี-นาว-เรื่องราวความรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d16b6f2a8e0d471ddc6f0ab11071b94a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d16b6f2a8e0d471ddc6f0ab11071b94a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/This-Is-Me-Now-2024-ดิส-อิส-มี-นาว-เรื่องราวความรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Venom 2 Let There Be Carnage (2021) เวน่อม ภาค 2 ศึกอสูรแดงเดือด",
-    "url": "https://lk-hdx.com/venom-2-let-there-be-carnage-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-2-Let-There-Be-Carnage-2021-เวน่อม-ภาค-2-ศึกอสูรแดงเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5e39b0ba5d63a53d51e180a319e6ce77/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e39b0ba5d63a53d51e180a319e6ce77"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-2-Let-There-Be-Carnage-2021-เวน่อม-ภาค-2-ศึกอสูรแดงเดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Venom 1 (2018) เวน่อม ภาค 1",
-    "url": "https://lk-hdx.com/venom-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-1-2018-เวน่อม-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/6Ev_EsYApG"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Venom-1-2018-เวน่อม-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dunkirk (2017) ดันเคิร์ก",
-    "url": "https://lk-hdx.com/dunkirk-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dunkirk-2017-ดันเคิร์ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c9f7772c0c1638c1d15853863fdb263c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c9f7772c0c1638c1d15853863fdb263c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Dunkirk-2017-ดันเคิร์ก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "White House Down (2013) วินาทียึดโลก",
-    "url": "https://lk-hdx.com/white-house-down-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/White-House-Down-2013-วินาทียึดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e464fe39b53004f10f8806efd2ad173d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e464fe39b53004f10f8806efd2ad173d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/White-House-Down-2013-วินาทียึดโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Covenant (2023) เดอะ โคเวแนนท์",
-    "url": "https://lk-hdx.com/the-covenant-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Covenant-2023-เดอะ-โคเวแนนท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/93a9aff841d5d6ed581db9a8deeaa952/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/93a9aff841d5d6ed581db9a8deeaa952"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Covenant-2023-เดอะ-โคเวแนนท์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tower Heist (2011) ปล้นเสียดฟ้า บ้าเหนือเมฆ",
-    "url": "https://lk-hdx.com/tower-heist-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Tower-Heist-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cd70992fa0defe9ce6c8812f4c37be28/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cd70992fa0defe9ce6c8812f4c37be28"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Tower-Heist-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Safe (2012) โคตรระห่ำ ทะลุรหัส",
-    "url": "https://lk-hdx.com/safe-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Safe-2012-โคตรระห่ำ-ทะลุรหัส-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/kRlBvZ_Pal"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Safe-2012-โคตรระห่ำ-ทะลุรหัส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้ ภาค 2",
-    "url": "https://lk-hdx.com/zombieland-2-double-tap-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-2-Double-Tap-2019-แก๊งซ่าส์ล่าล้างซอมบี้-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fd1182e7eb22fa1bef87c24fbdc8f08f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fd1182e7eb22fa1bef87c24fbdc8f08f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-2-Double-Tap-2019-แก๊งซ่าส์ล่าล้างซอมบี้-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Zombieland (2009) ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้ ภาค 1",
-    "url": "https://lk-hdx.com/zombieland-1-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-1-2009-แก๊งคนซ่าส์ล่าซอมบี้-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Xt4AVvth_W"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombieland-1-2009-แก๊งคนซ่าส์ล่าซอมบี้-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Old Henry (2021)",
-    "url": "https://lk-hdx.com/old-henry-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Old-Henry-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f54b34d5cfd5fc82821bf3e83b56fb12/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f54b34d5cfd5fc82821bf3e83b56fb12"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Old-Henry-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Grey (2011) ฝ่าฝูงเขี้ยวสยองโลก",
-    "url": "https://lk-hdx.com/the-grey-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Grey-2011-ฝ่าฝูงเขี้ยวสยองโลก-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/O_PnTGACSW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Grey-2011-ฝ่าฝูงเขี้ยวสยองโลก-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "22 Bullets (2010) 22 นัด ยมบาลล้างยมบาล",
-    "url": "https://lk-hdx.com/22-bullets-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/22-Bullets-2010-22-นัด-ยมบาลล้างยมบาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6174504a4b25037f7a8e4aea89ab6bdb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6174504a4b25037f7a8e4aea89ab6bdb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/22-Bullets-2010-22-นัด-ยมบาลล้างยมบาล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Forgotten Battle (2020) สงครามที่ถูกลืม",
-    "url": "https://lk-hdx.com/the-forgotten-battle-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Forgotten-Battle-2020-สงครามที่ถูกลืม-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/a_GTxXwoPh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Forgotten-Battle-2020-สงครามที่ถูกลืม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Mercenary (2021) ทหารรับจ้างคนสุดท้าย",
-    "url": "https://lk-hdx.com/the-last-mercenary-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Mercenary-2021-ทหารรับจ้างคนสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ed9db5d9b208d737507b01464fa9c8e4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ed9db5d9b208d737507b01464fa9c8e4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Mercenary-2021-ทหารรับจ้างคนสุดท้าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Triangle of Sadness (2022) มันยอร์ชมาก",
-    "url": "https://lk-hdx.com/triangle-of-sadness-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Triangle-of-Sadness-2022-มันยอร์ชมาก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eec10548c6d0c6790708b2e0903bb91b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eec10548c6d0c6790708b2e0903bb91b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Triangle-of-Sadness-2022-มันยอร์ชมาก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Colony (2021)",
-    "url": "https://lk-hdx.com/the-colony-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Colony-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e57931f3cf58340b38f077274ea39aa2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e57931f3cf58340b38f077274ea39aa2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Colony-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Through The Eye (2011) ซ้อนแผนซ่อนแค้น",
-    "url": "https://lk-hdx.com/through-the-eye-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-The-Eye-2011-ซ้อนแผนซ่อนแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/t9beu_zXy8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-The-Eye-2011-ซ้อนแผนซ่อนแค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bad Ass (2012) เก๋าโหดโคตรระห่ำ",
-    "url": "https://lk-hdx.com/bad-ass-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Bad-Ass-2012-เก๋าโหดโคตรระห่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b4c5471442828956816c6c20dcd303f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4c5471442828956816c6c20dcd303f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Bad-Ass-2012-เก๋าโหดโคตรระห่ำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Night Of The Sicario (2021) คืนแห่งชิคาริโอ้",
-    "url": "https://lk-hdx.com/night-of-the-sicario-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Night-Of-The-Sicario-2021-คืนแห่งชิคาริโอ้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/81dfbdd34e2673f544d47e94023d7304/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/81dfbdd34e2673f544d47e94023d7304"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Night-Of-The-Sicario-2021-คืนแห่งชิคาริโอ้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Night Raiders (2021) ไนท์ เลเดอร์",
-    "url": "https://lk-hdx.com/night-raiders-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Night-Raiders-2021-ไนท์-เลเดอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8987c4f55506265b033e44b7524c6650/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8987c4f55506265b033e44b7524c6650"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Night-Raiders-2021-ไนท์-เลเดอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Notorious Nick (2021)",
