@@ -877,153 +877,441 @@
   },
   {
     "title": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
-    "url": "https://lk-hdx.com/mission-impossible-8-the-final-reckoning-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/e35a9e0f96bc86230bc75daa25d9cca3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e35a9e0f96bc86230bc75daa25d9cca3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "โมโนโนเกะ เดอะ มูฟวี่ บทที่ 2 | เถ้าธุลีแห่งความแค้น (2025)",
-    "url": "https://lk-hdx.com/mononoke-the-movie-chapter-ii/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Mononoke-the-Movie-Chapter-II-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_v3pQvvufb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Mononoke-the-Movie-Chapter-II-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่",
-    "url": "https://lk-hdx.com/jurassic-world-rebirth-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/861810ecad302cc916e3173d34590ccd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/861810ecad302cc916e3173d34590ccd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Freakier Friday (DISNEY+ 2025) ศุกร์สยอง สี่ร่างสลับรุ่น",
-    "url": "https://lk-hdx.com/freakier-friday-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Freakier-Friday-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5f5fac5f1d4623ca2fd47477fb93bcf4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5f5fac5f1d4623ca2fd47477fb93bcf4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Freakier-Friday-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Creation of the Gods II Demon Force “กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ” (2025)",
-    "url": "https://lk-hdx.com/creation-of-the-gods-ii-demon-force-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Creation-of-the-Gods-II-Demon-Force-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c16cfd21bb9bbca235ab9800a14a696e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c16cfd21bb9bbca235ab9800a14a696e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Creation-of-the-Gods-II-Demon-Force-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม",
-    "url": "https://lk-hdx.com/batman-v-superman-dawn-of-justice/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-v-Superman-Dawn-of-Justice-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/qe7uRd3_lF"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-v-Superman-Dawn-of-Justice-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "I the Executioner (Veteran 2) (2024) คู่เดือดนรกต้องกราบ",
-    "url": "https://lk-hdx.com/i-the-executioner-veteran-2-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/I-the-Executioner-Veteran-2-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/90509100f71e9c8aabf0fd25b1a5f719/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/90509100f71e9c8aabf0fd25b1a5f719"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/I-the-Executioner-Veteran-2-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Veteran (2015) ขอโทษทีปืนพี่มันลั่น",
-    "url": "https://lk-hdx.com/veteran-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Veteran-2015-ขอโทษทีปืนพี่มันลั่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cb11d1a37454bddbedee0dd75a5e52ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cb11d1a37454bddbedee0dd75a5e52ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Veteran-2015-ขอโทษทีปืนพี่มันลั่น-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Happy Gilmore 2 Netflix (2025) แฮปปี้ กิลมอร์ 2",
-    "url": "https://lk-hdx.com/happy-gilmore-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/Happy-Gilmore-2-2025-แฮปปี้-กิลมอร์-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/978963355e454d4737b2dcbc484fd5e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/978963355e454d4737b2dcbc484fd5e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/Happy-Gilmore-2-2025-แฮปปี้-กิลมอร์-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "เดอะ ก็อดฟาเธอร์ ภาค 2 (The Godfather 2)",
-    "url": "https://lk-hdx.com/the-godfather-2-1974/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/The-Godfather-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/be970b283c4f9ae74043bc488752457f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/be970b283c4f9ae74043bc488752457f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/The-Godfather-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "เดอะ ก็อดฟาเธอร์ ภาค 1 (The Godfather)",
-    "url": "https://lk-hdx.com/the-godfather-1/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/The-Godfather-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ab04fe25c7e21860887cfb446e746416/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab04fe25c7e21860887cfb446e746416"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/The-Godfather-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Figth Break Sphere 4 (2025) สัประยุทธ์ทะลุฟ้า ภาค 4",
-    "url": "https://lk-hdx.com/figth-break-sphere-4-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5c8b14e55fd6e18f7cb232678c9f3140/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5c8b14e55fd6e18f7cb232678c9f3140"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Happy Gilmore (1996) กิลมอร์ พลังช้าง",
-    "url": "https://lk-hdx.com/happy-gilmore-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/Happy-Gilmore-1996-กิลมอร์-พลังช้าง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d00419c926a55e2a8058f6907e0c7cf9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d00419c926a55e2a8058f6907e0c7cf9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/Happy-Gilmore-1996-กิลมอร์-พลังช้าง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ghostbusters Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
-    "url": "https://lk-hdx.com/ghostbusters-frozen-empire/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6db6cb0469ca607731cb19149844d626/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6db6cb0469ca607731cb19149844d626"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Smurfs 3 The Lost Village (2017) เดอะ สเมิร์ฟ ภาค 3 หมู่บ้านที่สาบสูญ",
-    "url": "https://lk-hdx.com/the-smurfs-3-the-lost-village-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/The-Smurfs-3-The-Lost-Village-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ae1ddfda18d32e2a10ea204404a6c02/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ae1ddfda18d32e2a10ea204404a6c02"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/The-Smurfs-3-The-Lost-Village-2017-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Smurfs 2 (2013) เดอะ สเมิร์ฟ ภาค 2",
-    "url": "https://lk-hdx.com/the-smurfs-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Smurfs-2-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0e8bba438cf95438865662ebbaed4fb5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e8bba438cf95438865662ebbaed4fb5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Smurfs-2-2013-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Smurfs 1 (2011) เดอะ สเมิร์ฟ ภาค 1",
-    "url": "https://lk-hdx.com/the-smurfs-1-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Smurfs-1-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b4fa4df99f3d768f837ae97932ded0cc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4fa4df99f3d768f837ae97932ded0cc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Smurfs-1-2011-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Cabin Fever 3 Patient Zero (2014) ต้นตำรับ เชื้อพันธุ์นรก ภาค 3",
-    "url": "https://lk-hdx.com/cabin-fever-3-patient-zero-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Cabin-Fever-3-Patient-Zero-2014-ต้นตำรับ-เชื้อพันธุ์นรก-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5fa2378e79bfc18665a926c57875fcf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5fa2378e79bfc18665a926c57875fcf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/06/Cabin-Fever-3-Patient-Zero-2014-ต้นตำรับ-เชื้อพันธุ์นรก-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Cabin Fever 2 Spring Fever (2009) 10 วินาที หนีตายเชื้อนรก ภาค 2",
-    "url": "https://lk-hdx.com/cabin-fever-2-spring-fever-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Cabin-Fever-2-Spring-Fever-2009-10-วินาที-หนีตายเชื้อนรก-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3a4f08086eb981139da5ff71445991a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a4f08086eb981139da5ff71445991a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/06/Cabin-Fever-2-Spring-Fever-2009-10-วินาที-หนีตายเชื้อนรก-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Cabin Fever 1 (2002) 10 วินาที หนีตาย เชื้อนรก ภาค 1",
-    "url": "https://lk-hdx.com/cabin-fever-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Cabin-Fever-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7b799107a6c29730aa0051410a15bde3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7b799107a6c29730aa0051410a15bde3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Cabin-Fever-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sonic the Hedgehog 3 (2024) โซนิค เดอะ เฮดจ์ฮ็อก ภาค 3",
-    "url": "https://lk-hdx.com/sonic-the-hedgehog-3/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/โซนิค-เดอะ-เฮดจ์ฮ็อก-ภาค-3-2024-Sonic-the-Hedgehog-3-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e5dd5605c83426180b2437b57d0b4f70/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e5dd5605c83426180b2437b57d0b4f70"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/โซนิค-เดอะ-เฮดจ์ฮ็อก-ภาค-3-2024-Sonic-the-Hedgehog-3-165x248.webp",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sonic the Hedgehog 2 (2022) โซนิค เดอะ เฮดจ์ฮ็อก ภาค 2",
-    "url": "https://lk-hdx.com/sonic-the-hedgehog-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sonic-the-Hedgehog-2-2022-โซนิค-เดอะ-เฮดจ์ฮ็อก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a6a535ad6e9346b46a6122e3ed727264/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a6a535ad6e9346b46a6122e3ed727264"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sonic-the-Hedgehog-2-2022-โซนิค-เดอะ-เฮดจ์ฮ็อก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sonic the Hedgehog 1 (2020) โซนิค เดอะ เฮดจ์ฮ็อก ภาค 1",
-    "url": "https://lk-hdx.com/sonic-the-hedgehog-1/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sonic-the-Hedgehog-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe27ded2c957544ebbd84a71746812b5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe27ded2c957544ebbd84a71746812b5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sonic-the-Hedgehog-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง ภาค 2 อาณาจักรใหม่",
-    "url": "https://lk-hdx.com/godzilla-x-kong-the-new-empire/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-ภาค-2-อาณาจักรใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca85908fbecee789c75ad464cebb30d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca85908fbecee789c75ad464cebb30d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-ภาค-2-อาณาจักรใหม่-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "จันดารา ปัจฉิมบท (2013) Jan Dara The Finale",
-    "url": "https://lk-hdx.com/jan-dara-the-finale-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/จันดารา-ปัจฉิมบท-2013-Jan-Dara-The-Finale-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/16e20c04fde6619533f2784c9027c974/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/16e20c04fde6619533f2784c9027c974"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/จันดารา-ปัจฉิมบท-2013-Jan-Dara-The-Finale-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "จันดารา ปฐมบท (2012) Jan Dara The Beginning",
-    "url": "https://lk-hdx.com/jan-dara-the-beginning-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Jan-Dara-The-Beginning-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/81faa1fe5c6cdf749b3144ba3ded3bdd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/81faa1fe5c6cdf749b3144ba3ded3bdd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Jan-Dara-The-Beginning-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "จันดารา (2001) Jan Dara",
-    "url": "https://lk-hdx.com/jan-dara-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Jan-Dara-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/y34IJdJd_o"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Jan-Dara-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic World 3 Dominion (2022) จูราสสิค เวิลด์ ภาค 3 ทวงคืนอาณาจักร",
-    "url": "https://lk-hdx.com/jurassic-world-3-dominion-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jurassic-World-3-Dominion-2022-จูราสสิค-เวิลด์-ภาค-3-ทวงคืนอาณาจักร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/40761409f575443a38ae99db51f104d8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40761409f575443a38ae99db51f104d8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jurassic-World-3-Dominion-2022-จูราสสิค-เวิลด์-ภาค-3-ทวงคืนอาณาจักร-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic World 2 Fallen Kingdom (2018) จูราสสิค เวิลด์ ภาค 2 อาณาจักรล่มสลาย",
-    "url": "https://lk-hdx.com/jurassic-world-2-fallen-kingdom-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jurassic-World-2-Fallen-Kingdom-2018-จูราสสิค-เวิลด์-ภาค-2-อาณาจักรล่มสลาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f74645951111ba27957c27587754d843/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f74645951111ba27957c27587754d843"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jurassic-World-2-Fallen-Kingdom-2018-จูราสสิค-เวิลด์-ภาค-2-อาณาจักรล่มสลาย-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic World 1 (2015) จูราสสิค เวิลด์ ภาค 1 อาณาจักรไดโนเสาร์",
-    "url": "https://lk-hdx.com/jurassic-world-1-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jurassic-World-1-2015-จูราสสิค-เวิลด์-ภาค-1-อาณาจักรไดโนเสาร์-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1e700b9158a2f39aa787389f0822b85/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1e700b9158a2f39aa787389f0822b85"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jurassic-World-1-2015-จูราสสิค-เวิลด์-ภาค-1-อาณาจักรไดโนเสาร์-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2",
