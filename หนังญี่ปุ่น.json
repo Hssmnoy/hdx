@@ -3015,153 +3015,421 @@
   },
   {
     "title": "Brave Father Online (2019) คุณพ่อนักรบแห่งแสง",
-    "url": "https://lk-hdx.com/brave-father-online-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Brave-Father-Online-2019-คุณพ่อนักรบแห่งแสง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/J_PhmzKs5I"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Brave-Father-Online-2019-คุณพ่อนักรบแห่งแสง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ajin Demi Human (2017) อาจิน ฅนไม่รู้จักตาย",
-    "url": "https://lk-hdx.com/ajin-demi-human-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ajin-Demi-Human-2017-อาจิน-ฅนไม่รู้จักตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0759cbec532e63a51599c939016be334/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0759cbec532e63a51599c939016be334"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Ajin-Demi-Human-2017-อาจิน-ฅนไม่รู้จักตาย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Back Street Girls (2019) ไอดอลสุดซ่าป๊ะป๋าสั่งลุย",
-    "url": "https://lk-hdx.com/back-street-girls-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Back-Street-Girls-2019-ไอดอลสุดซ่าป๊ะป๋าสั่งลุย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7f200bf659586dcf01d59c32a3d68b1d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7f200bf659586dcf01d59c32a3d68b1d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Back-Street-Girls-2019-ไอดอลสุดซ่าป๊ะป๋าสั่งลุย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Rurouni Kenshin 3 The Legend Ends (2014) รูโรนิ เคนชิน ภาค 3 คนจริง โคตรซามูไร",
-    "url": "https://lk-hdx.com/rurouni-kenshin-3-the-legend-ends-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-3-The-Legend-Ends-2014-รูโรนิ-เคนชิน-ภาค-3-คนจริง-โคตรซามูไร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0aede4feda686e5643b71651d7a4f6c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0aede4feda686e5643b71651d7a4f6c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-3-The-Legend-Ends-2014-รูโรนิ-เคนชิน-ภาค-3-คนจริง-โคตรซามูไร-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Rurouni Kenshin 2 Kyoto Inferno (2014) รูโรนิ เคนชิน ภาค 2 เกียวโตทะเลเพลิง",
-    "url": "https://lk-hdx.com/rurouni-kenshin-2-kyoto-inferno-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2-Kyoto-Inferno-2014-รูโรนิ-เคนชิน-ภาค-2-เกียวโตทะเลเพลิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/28cdbac5505fa54ea5591ef2b3552228/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/28cdbac5505fa54ea5591ef2b3552228"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2-Kyoto-Inferno-2014-รูโรนิ-เคนชิน-ภาค-2-เกียวโตทะเลเพลิง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Rurouni Kenshin 1 (2012) รูโรนิ เคนชิน ภาค 1 ซามูไร เอ็กซ์",
-    "url": "https://lk-hdx.com/rurouni-kenshin-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-1-2012-รูโรนิ-เคนชิน-ภาค-1-ซามูไร-เอ็กซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7TNGosPj_0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-1-2012-รูโรนิ-เคนชิน-ภาค-1-ซามูไร-เอ็กซ์-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Rurouni Kenshin The Final (2021) รูโรนิ เคนชิน ซามูไรพเนจร ปัจฉิมบท",
-    "url": "https://lk-hdx.com/rurouni-kenshin-the-final-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-The-Final-2021-รูโรนิ-เคนชิน-ซามูไรพเนจร-ปัจฉิมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dc81b27da9b11a0e73005fef74e45164/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dc81b27da9b11a0e73005fef74e45164"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-The-Final-2021-รูโรนิ-เคนชิน-ซามูไรพเนจร-ปัจฉิมบท-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Rurouni Kenshin The Beginning (2021) รูโรนิ เคนชิน ซามูไรพเนจร ปฐมบท",
-    "url": "https://lk-hdx.com/rurouni-kenshin-the-beginning-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-The-Beginning-2021-รูโรนิ-เคนชิน-ซามูไรพเนจร-ปฐมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c41f0eb28942b918e6999b63de0c581a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c41f0eb28942b918e6999b63de0c581a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-The-Beginning-2021-รูโรนิ-เคนชิน-ซามูไรพเนจร-ปฐมบท-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ride or Die (2021) อยู่เป็น ยอมตาย เพื่อเธอ",
-    "url": "https://lk-hdx.com/ride-or-die-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Ride-or-Die-2021-อยู่เป็น-ยอมตาย-เพื่อเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/FDBWkT_1OQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Ride-or-Die-2021-อยู่เป็น-ยอมตาย-เพื่อเธอ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Jigen Daisuke (2023) ไดสุเกะ จิเก็น",
-    "url": "https://lk-hdx.com/jigen-daisuke-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jigen-Daisuke-2023-ไดสุเกะ-จิเก็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c43a25a68f9e7d0338fa5166403888bc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c43a25a68f9e7d0338fa5166403888bc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jigen-Daisuke-2023-ไดสุเกะ-จิเก็น-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Fable 2 The Killer Who Doesnt Kill (2021) โหดไม่ถามชื่อ ภาค 2",
-    "url": "https://lk-hdx.com/the-fable-2-the-killer-who-doesnt-kill-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-2-The-Killer-Who-Doesnt-Kill-2021-โหดไม่ถามชื่อ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dd53f8716e7a5ab3378ebcda12934a8e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dd53f8716e7a5ab3378ebcda12934a8e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-2-The-Killer-Who-Doesnt-Kill-2021-โหดไม่ถามชื่อ-ภาค-2-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Fable 1 (2019) โหดไม่ถามชื่อ ภาค 1",
-    "url": "https://lk-hdx.com/the-fable-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-1-2019-โหดไม่ถามชื่อ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/236ac837421ff3fa4f808e3f636b4c92/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/236ac837421ff3fa4f808e3f636b4c92"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-1-2019-โหดไม่ถามชื่อ-ภาค-1-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kakegurui The Movie (2019) โคตรเซียนโรงเรียนพนัน",
-    "url": "https://lk-hdx.com/kakegurui-the-movie-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kakegurui-The-Movie-2019-โคตรเซียนโรงเรียนพนัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/9jRG_SoNyH"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kakegurui-The-Movie-2019-โคตรเซียนโรงเรียนพนัน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Suicide Forest Village (2021) ป่าผีดุ",
-    "url": "https://lk-hdx.com/suicide-forest-village-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Suicide-Forest-Village-2021-ป่าผีดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/oD9bO_vQFF"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Suicide-Forest-Village-2021-ป่าผีดุ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Asakusa Kid (2021) เด็กอาซากุสะ",
-    "url": "https://lk-hdx.com/asakusa-kid-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Asakusa-Kid-2021-เด็กอาซากุสะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7195617c42b681b8a3ee5f1d2d7e7e95/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7195617c42b681b8a3ee5f1d2d7e7e95"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Asakusa-Kid-2021-เด็กอาซากุสะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Akira and Akira (2022) อากิระกับอากิระ",
-    "url": "https://lk-hdx.com/akira-and-akira-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Akira-and-Akira-2022-อากิระกับอากิระ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/744534e52551ecb320f18dfd3a0102d1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/744534e52551ecb320f18dfd3a0102d1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Akira-and-Akira-2022-อากิระกับอากิระ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "My Broken Mariko (2022) แด่มาริโกะของฉัน",
-    "url": "https://lk-hdx.com/my-broken-mariko-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Broken-Mariko-2022-แด่มาริโกะของฉัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad32d2eba69556fd4594c033cbb0e394/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad32d2eba69556fd4594c033cbb0e394"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Broken-Mariko-2022-แด่มาริโกะของฉัน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Way of the Househusband The Movie (2022) พ่อบ้านสุดเก๋า เดอะมูฟวี่",
-    "url": "https://lk-hdx.com/the-way-of-the-househusband-the-movie-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Way-of-the-Househusband-The-Movie-2022-พ่อบ้านสุดเก๋า-เดอะมูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f7ceffc980e398b8cb89e29f8424997b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f7ceffc980e398b8cb89e29f8424997b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Way-of-the-Househusband-The-Movie-2022-พ่อบ้านสุดเก๋า-เดอะมูฟวี่-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Prior Convictions (2022)",
-    "url": "https://lk-hdx.com/prior-convictions-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Prior-Convictions-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f6896c50759ccba43ed5a3cc6bb7e8e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f6896c50759ccba43ed5a3cc6bb7e8e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Prior-Convictions-2022-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Blue Summer (2018) รักฤดูร้อน",
-    "url": "https://lk-hdx.com/blue-summer-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Blue-Summer-2018-รักฤดูร้อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6aa9a4a7a4bb880c1e6fe1d884695e42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6aa9a4a7a4bb880c1e6fe1d884695e42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Blue-Summer-2018-รักฤดูร้อน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Call Boy (2018) หนุ่มตามสายคลายเหงา",
-    "url": "https://lk-hdx.com/call-boy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Call-Boy-2018-หนุ่มตามสายคลายเหงา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e0c875e8d6e2413886fe1c0fad51af6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e0c875e8d6e2413886fe1c0fad51af6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Call-Boy-2018-หนุ่มตามสายคลายเหงา-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "I Am A Hero (2015) ข้าคือฮีโร่",
-    "url": "https://lk-hdx.com/i-am-a-hero-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Am-A-Hero-2015-ข้าคือฮีโร่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/159c5e4da7b435e5d61a8a7580185583/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/159c5e4da7b435e5d61a8a7580185583"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Am-A-Hero-2015-ข้าคือฮีโร่-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "One Day You Will Reach the Sea (2022)",
-    "url": "https://lk-hdx.com/one-day-you-will-reach-the-sea-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/One-Day-You-Will-Reach-the-Sea-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/knJPwU8jr_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/One-Day-You-Will-Reach-the-Sea-2022-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kaguya sama Love Is War (2019) บอกรักกับคุณคางุยะซะดีๆ",
-    "url": "https://lk-hdx.com/kaguya-sama-love-is-war-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kaguya-sama-Love-Is-War-2019-บอกรักกับคุณคางุยะซะดีๆ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/898202403893ed1a89ee2d74095592ff/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/898202403893ed1a89ee2d74095592ff"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kaguya-sama-Love-Is-War-2019-บอกรักกับคุณคางุยะซะดีๆ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Night Beyond the Tricornered Window (2021) คู่หูสามเหลี่ยมล่าปีศาจ",
-    "url": "https://lk-hdx.com/the-night-beyond-the-tricornered-window-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Night-Beyond-the-Tricornered-Window-2021-คู่หูสามเหลี่ยมล่าปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c1f2ef9d3b21a446c18705e1350d5042/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c1f2ef9d3b21a446c18705e1350d5042"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Night-Beyond-the-Tricornered-Window-2021-คู่หูสามเหลี่ยมล่าปีศาจ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส",
-    "url": "https://lk-hdx.com/tokyo-revengers-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/87302686110ebbfd38a1e795675c796f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/87302686110ebbfd38a1e795675c796f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Countdown (2023)",
-    "url": "https://lk-hdx.com/countdown-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Countdown-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/oyg_GycmgY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Countdown-2023-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Good Morning Sleeping Lion (2022) สิงห์เฒ่าสุดเก๋า ผจญโอตะสุดเกรียน",
-    "url": "https://lk-hdx.com/good-morning-sleeping-lion-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-Morning-Sleeping-Lion-2022-สิงห์เฒ่าสุดเก๋า-ผจญโอตะสุดเกรียน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b5246d54938265c53674228f0fc03297/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5246d54938265c53674228f0fc03297"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-Morning-Sleeping-Lion-2022-สิงห์เฒ่าสุดเก๋า-ผจญโอตะสุดเกรียน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kamen Rider Beyond Generations (2022) มาสค์ไรเดอร์ ศึกไอ้มดแดงข้ามศตวรรษ",
-    "url": "https://lk-hdx.com/kamen-rider-beyond-generations-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kamen-Rider-Beyond-Generations-2022-มาสค์ไรเดอร์-ศึกไอ้มดแดงข้ามศตวรรษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3b8b606da366209ad353bf3bdc4c0228/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3b8b606da366209ad353bf3bdc4c0228"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kamen-Rider-Beyond-Generations-2022-มาสค์ไรเดอร์-ศึกไอ้มดแดงข้ามศตวรรษ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kingdom 2 Harukanaru Daichie (2022) คิงดอม เดอะ มูฟวี่ 2",
-    "url": "https://lk-hdx.com/kingdom-2-harukanaru-daichie-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kingdom-2-Harukanaru-Daichie-2022-คิงดอม-เดอะ-มูฟวี่-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/M_hn3MFDPb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kingdom-2-Harukanaru-Daichie-2022-คิงดอม-เดอะ-มูฟวี่-2-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kingdom The Movie 1 Kingudamu (2019) คิงดอม เดอะ มูฟวี่ 1",
