@@ -16429,153 +16429,441 @@
   },
   {
     "title": "Jurassic Island (2022) เกาะจูราสสิก",
-    "url": "https://lk-hdx.com/jurassic-island-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jurassic-Island-2022-เกาะจูราสสิก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44a4bd69087a368669cd24a29f069a15/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44a4bd69087a368669cd24a29f069a15"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jurassic-Island-2022-เกาะจูราสสิก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ant Man and the Wasp (2018) แอนท์ แมน และ เดอะ วอสพ์",
-    "url": "https://lk-hdx.com/ant-man-and-the-wasp-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ant-Man-and-the-Wasp-2018-แอนท์-แมน-และ-เดอะ-วอสพ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3cb64bebb47c8d9ec0235f8bb7754d48/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3cb64bebb47c8d9ec0235f8bb7754d48"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ant-Man-and-the-Wasp-2018-แอนท์-แมน-และ-เดอะ-วอสพ์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ant Man (2015) มนุษย์มดมหากาฬ",
-    "url": "https://lk-hdx.com/ant-man-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ant-Man-2015-มนุษย์มดมหากาฬ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b962eac3045cccea1153a402922fb0a5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b962eac3045cccea1153a402922fb0a5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ant-Man-2015-มนุษย์มดมหากาฬ-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fast X (2023) เร็ว แรงทะลุนรก ภาค 10",
-    "url": "https://lk-hdx.com/fast-x-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fast-X-2023-เร็ว-แรงทะลุนรก-ภาค-10-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d1ebd217632a4e328ca2bcf2b23f5b19/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d1ebd217632a4e328ca2bcf2b23f5b19"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fast-X-2023-เร็ว-แรงทะลุนรก-ภาค-10-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "F9 The Fast Saga (2021) เร็ว แรงทะลุนรก ภาค 9",
-    "url": "https://lk-hdx.com/f9-the-fast-saga-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/F9-The-Fast-Saga-2021-เร็ว-แรงทะลุนรก-ภาค-9-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/48c02c52d048fdaaa2838d7c65fe7e3d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/48c02c52d048fdaaa2838d7c65fe7e3d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/F9-The-Fast-Saga-2021-เร็ว-แรงทะลุนรก-ภาค-9-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fast and Furious Hobbs And Shaw (2019) เร็วแรงทะลุนรก ฮ็อบส์ แอนด์ ชอว์",
-    "url": "https://lk-hdx.com/fast-and-furious-hobbs-and-shaw-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fast-and-Furious-Hobbs-And-Shaw-2019-เร็วแรงทะลุนรก-ฮ็อบส์-แอนด์-ชอว์-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1430bf41cbc080397cc3da04a07e211b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1430bf41cbc080397cc3da04a07e211b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fast-and-Furious-Hobbs-And-Shaw-2019-เร็วแรงทะลุนรก-ฮ็อบส์-แอนด์-ชอว์-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Fate of the Furious 8 (2017) เร็ว แรงทะลุนรก ภาค 8",
-    "url": "https://lk-hdx.com/the-fate-of-the-furious-8-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Fate-of-the-Furious-8-2017-เร็ว-แรงทะลุนรก-ภาค-8-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8d415fea3650a35ae68d1943657e02e0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8d415fea3650a35ae68d1943657e02e0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Fate-of-the-Furious-8-2017-เร็ว-แรงทะลุนรก-ภาค-8-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fast And Furious 7 (2015) เร็ว แรงทะลุนรก ภาค 7",
-    "url": "https://lk-hdx.com/fast-and-furious-7-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-And-Furious-7-2015-เร็ว-แรงทะลุนรก-ภาค-7-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5df78e7995f61736cf54adf7fbf6c7aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5df78e7995f61736cf54adf7fbf6c7aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-And-Furious-7-2015-เร็ว-แรงทะลุนรก-ภาค-7-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fast And Furious 6 (2013) เร็ว แรงทะลุนรก ภาค 6",
-    "url": "https://lk-hdx.com/fast-and-furious-6-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-And-Furious-6-2013-เร็ว-แรงทะลุนรก-ภาค-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dc374afb20fef84ba4f43825a4bdc425/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dc374afb20fef84ba4f43825a4bdc425"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-And-Furious-6-2013-เร็ว-แรงทะลุนรก-ภาค-6-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fast Five 5 (2011) เร็ว แรงทะลุนรก ภาค 5",
-    "url": "https://lk-hdx.com/fast-five-5-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fast-Five-5-2011-เร็ว-แรงทะลุนรก-ภาค-5-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/33215f7e980037e4ec5aacbb6160d24b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/33215f7e980037e4ec5aacbb6160d24b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fast-Five-5-2011-เร็ว-แรงทะลุนรก-ภาค-5-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fast and Furious 4 (2009) เร็ว แรงทะลุนรก ภาค 4 ยกทีมซิ่ง แรงทะลุไมล์",
-    "url": "https://lk-hdx.com/fast-and-furious-4-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-and-Furious-4-2009-เร็ว-แรงทะลุนรก-ภาค-4-ยกทีมซิ่ง-แรงทะลุไมล์-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fc99fe3765c43540ae3595967ac4c235/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fc99fe3765c43540ae3595967ac4c235"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fast-and-Furious-4-2009-เร็ว-แรงทะลุนรก-ภาค-4-ยกทีมซิ่ง-แรงทะลุไมล์-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Fast and the Furious 3 Tokyo Drift (2006) เร็ว แรงทะลุนรก ภาค 3 ซิ่งแหกพิกัดโตเกียว",
-    "url": "https://lk-hdx.com/the-fast-and-the-furious-3-tokyo-drift-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Fast-and-the-Furious-3-Tokyo-Drift-2006-เร็ว-แรงทะลุนรก-ภาค-3-ซิ่งแหกพิกัดโตเกียว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4d09800cc5412dde3cb1d538f128d5b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4d09800cc5412dde3cb1d538f128d5b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Fast-and-the-Furious-3-Tokyo-Drift-2006-เร็ว-แรงทะลุนรก-ภาค-3-ซิ่งแหกพิกัดโตเกียว-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "2 Fast 2 Furious (2003) เร็วคูณ 2 ดับเบิ้ลแรงท้านรก",
-    "url": "https://lk-hdx.com/2-fast-2-furious-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/2-Fast-2-Furious-2003-เร็วคูณ-2-ดับเบิ้ลแรงท้านรก-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7bcab962cae035e2f5a125c0cfaf237b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7bcab962cae035e2f5a125c0cfaf237b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/2-Fast-2-Furious-2003-เร็วคูณ-2-ดับเบิ้ลแรงท้านรก-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Fast and the Furious 1 (2001) เร็วแรงทะลุนรก ภาค 1",
-    "url": "https://lk-hdx.com/the-fast-and-the-furious-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Fast-and-the-Furious-1-2001-เร็วแรงทะลุนรก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41ea640cf516bab9dd4ac18c7895af4b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41ea640cf516bab9dd4ac18c7895af4b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Fast-and-the-Furious-1-2001-เร็วแรงทะลุนรก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Doblemente Embarazada 2 (2022) โดเบลเมนเต้ เอ็มบาราซาดา ภาค 2",
-    "url": "https://lk-hdx.com/doblemente-embarazada-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Doblemente-Embarazada-2-2022-โดเบลเมนเต้-เอ็มบาราซาดา-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/kzGPI7W30_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Doblemente-Embarazada-2-2022-โดเบลเมนเต้-เอ็มบาราซาดา-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Scream 6 (2023) หวีดสุดขีด ภาค 6",
-    "url": "https://lk-hdx.com/scream-6-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-6-2023-หวีดสุดขีด-ภาค-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/p_Y7Z1H8wY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-6-2023-หวีดสุดขีด-ภาค-6-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Scream 5 (2022) หวีดสุดขีด ภาค 5",
-    "url": "https://lk-hdx.com/scream-5-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-5-2022-หวีดสุดขีด-ภาค-5-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbe6317cdbc4ba3f9653a682ac897b24/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbe6317cdbc4ba3f9653a682ac897b24"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-5-2022-หวีดสุดขีด-ภาค-5-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Scream 4 (2011) หวีด แหกกฏ ภาค 4",
-    "url": "https://lk-hdx.com/scream-4-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-4-2011-หวีด-แหกกฏ-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8bc8994b82fdf2cf3bce6af85924dd7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8bc8994b82fdf2cf3bce6af85924dd7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-4-2011-หวีด-แหกกฏ-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Scream 3 (2000) หวีดสุดท้าย นรกยังได้ยิน ภาค 3",
-    "url": "https://lk-hdx.com/scream-3-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Scream-3-2000-หวีดสุดท้าย-นรกยังได้ยิน-ภาค-3-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ba94e7e00caac089dd292e6f97c903c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ba94e7e00caac089dd292e6f97c903c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Scream-3-2000-หวีดสุดท้าย-นรกยังได้ยิน-ภาค-3-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Scream 2 (1997) หวีดสุดขีด ภาค 2",
-    "url": "https://lk-hdx.com/scream-2-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-2-1997-หวีดสุดขีด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tM2g3Q4_mP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-2-1997-หวีดสุดขีด-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Scream 1 (1996) หวีดสุดขีด ภาค 1",
-    "url": "https://lk-hdx.com/scream-1-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-1-1996-หวีดสุดขีด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de4d96d1046f27a29e0fd7ebab8048ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de4d96d1046f27a29e0fd7ebab8048ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-1-1996-หวีดสุดขีด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Resident Evil Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ",
-    "url": "https://lk-hdx.com/resident-evil-death-island-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Resident-Evil-Death-Island-2023-ผีชีวะ-วิกฤตเกาะมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f17f59df8d88bbed8a3b9d7f02b70f87/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f17f59df8d88bbed8a3b9d7f02b70f87"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Resident-Evil-Death-Island-2023-ผีชีวะ-วิกฤตเกาะมรณะ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Resident Evil Vendetta (2017) ผีชีวะ ล้างบางเชื้อคลั่ง",
-    "url": "https://lk-hdx.com/resident-evil-vendetta-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Resident-Evil-Vendetta-2017-ผีชีวะ-ล้างบางเชื้อคลั่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9708d47c0d6fa091246e386af20749f4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9708d47c0d6fa091246e386af20749f4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Resident-Evil-Vendetta-2017-ผีชีวะ-ล้างบางเชื้อคลั่ง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Resident Evil Damnation (2012) ผีชีวะ สงครามดับพันธุ์ไวรัส",
-    "url": "https://lk-hdx.com/resident-evil-damnation-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Resident-Evil-Damnation-2012-ผีชีวะ-สงครามดับพันธุ์ไวรัส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/64a584b9a46f5d90eb339e0fd866b6ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/64a584b9a46f5d90eb339e0fd866b6ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Resident-Evil-Damnation-2012-ผีชีวะ-สงครามดับพันธุ์ไวรัส-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Nun 2 (2023) เดอะ นัน ภาค 2",
-    "url": "https://lk-hdx.com/the-nun-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-2-2023-เดอะ-นัน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/24c16f5dc2d87a6e53dadc49a5a5916d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/24c16f5dc2d87a6e53dadc49a5a5916d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-2-2023-เดอะ-นัน-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Nun 1 (2018) เดอะนัน ภาค 1",
-    "url": "https://lk-hdx.com/the-nun-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-1-2018-เดอะนัน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/12c935cc1ffa6b8b1346546fb0a31ecd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/12c935cc1ffa6b8b1346546fb0a31ecd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-1-2018-เดอะนัน-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Street Flow 2 (2023) ทางแยก ภาค 2",
-    "url": "https://lk-hdx.com/street-flow-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-2-2023-ทางแยก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d1c5ba2661e4e82d3e44c0e6a9390980/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d1c5ba2661e4e82d3e44c0e6a9390980"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-2-2023-ทางแยก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Street Flow 1 (2019) ทางแยก ภาค 1",
-    "url": "https://lk-hdx.com/street-flow-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-1-2019-ทางแยก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c147d19abe8560e014876d381e1cd1ef/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c147d19abe8560e014876d381e1cd1ef"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-1-2019-ทางแยก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Through My Window (2022) รักผ่านหน้าต่าง",
-    "url": "https://lk-hdx.com/through-my-window-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Through-My-Window-2022-รักผ่านหน้าต่าง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdbd14c380079f459dcce559548cee3e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdbd14c380079f459dcce559548cee3e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Through-My-Window-2022-รักผ่านหน้าต่าง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Too Old for Fairy Tales (2022) เทพนิยายไม่ใช่ของเด็กโต",
-    "url": "https://lk-hdx.com/too-old-for-fairy-tales-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Too-Old-for-Fairy-Tales-2022-เทพนิยายไม่ใช่ของเด็กโต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c0b83c673d1fe024c638bbc230b14224/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c0b83c673d1fe024c638bbc230b14224"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Too-Old-for-Fairy-Tales-2022-เทพนิยายไม่ใช่ของเด็กโต-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alice in Wonderland (2010) อลิซ ในแดนมหัศจรรย์",
