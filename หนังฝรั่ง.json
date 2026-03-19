@@ -18069,153 +18069,421 @@
   },
   {
     "title": "Nice Girls (2024)",
-    "url": "https://lk-hdx.com/nice-girls-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Nice-Girls-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Z9iWSFck_3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Nice-Girls-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "After the Bite (2023)",
-    "url": "https://lk-hdx.com/after-the-bite-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/After-the-Bite-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/g3wLV8fo_J"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/After-the-Bite-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shanghai (2010) ไฟรัก ไฟสงคราม",
-    "url": "https://lk-hdx.com/shanghai-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Shanghai-2010-ไฟรัก-ไฟสงคราม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8ff717571ee05a5f8856abd2adffecc6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8ff717571ee05a5f8856abd2adffecc6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Shanghai-2010-ไฟรัก-ไฟสงคราม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pulse (2006) ไคโร่ ผีอินเตอร์เน็ต",
-    "url": "https://lk-hdx.com/pulse-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Pulse-2006-ไคโร่-ผีอินเตอร์เน็ต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/09e718818d2bdb657e74ad94704a35fa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/09e718818d2bdb657e74ad94704a35fa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Pulse-2006-ไคโร่-ผีอินเตอร์เน็ต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Two Brothers (2004) พี่น้องสองเสือ",
-    "url": "https://lk-hdx.com/two-brothers-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Two-Brothers-2004-พี่น้องสองเสือ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/68cd43ed72ed1707fb7c275377476c76/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/68cd43ed72ed1707fb7c275377476c76"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Two-Brothers-2004-พี่น้องสองเสือ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Buddy Games Spring Awakening (2023) เกมบ้าท้าสหาย ย้อนวันวานภาคฤดูใบไม้ผลิ",
-    "url": "https://lk-hdx.com/buddy-games-spring-awakening-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Buddy-Games-Spring-Awakening-2023-เกมบ้าท้าสหาย-ย้อนวันวานภาคฤดูใบไม้ผลิ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/113601cd7b614dda236ff767572329f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/113601cd7b614dda236ff767572329f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Buddy-Games-Spring-Awakening-2023-เกมบ้าท้าสหาย-ย้อนวันวานภาคฤดูใบไม้ผลิ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Crescent City (2024)",
-    "url": "https://lk-hdx.com/crescent-city-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Crescent-City-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7d22095c6a8a97de2998d65a46a696fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7d22095c6a8a97de2998d65a46a696fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Crescent-City-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Teachers’ Lounge (2023) ห้องเรียนเดือด",
-    "url": "https://lk-hdx.com/the-teachers-lounge-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Teachers-Lounge-2023-ห้องเรียนเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ada88ec6946f06685829d8ea0261b417/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ada88ec6946f06685829d8ea0261b417"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Teachers-Lounge-2023-ห้องเรียนเดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Union (2024) เดอะ ยูเนี่ยน",
-    "url": "https://lk-hdx.com/the-union-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Union-2024-เดอะ-ยูเนี่ยน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6e3ffe8401894b7a6de24abd18058da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6e3ffe8401894b7a6de24abd18058da"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Union-2024-เดอะ-ยูเนี่ยน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Daughters (2024)",
-    "url": "https://lk-hdx.com/daughters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Daughters-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7702f747d3888db71aeee8d116b9727b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7702f747d3888db71aeee8d116b9727b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Daughters-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jackpot! (2024) แจ็คพ็อต ลุ้น รอด รวย!",
-    "url": "https://lk-hdx.com/jackpot-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Jackpot-2024-แจ็คพ็อต-ลุ้น-รอด-รวย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/32307763a93ff45a5c52e94db74bcef2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/32307763a93ff45a5c52e94db74bcef2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Jackpot-2024-แจ็คพ็อต-ลุ้น-รอด-รวย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Outlander (2008) ไวกิ้ง ปีศาจมังกรไฟ  ",
-    "url": "https://lk-hdx.com/outlander-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Outlander-2008-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef3379863fd86fc1779b735abe68fb6b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef3379863fd86fc1779b735abe68fb6b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Outlander-2008-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Black Snake Moan (2006) แรงรักดับราคะ",
-    "url": "https://lk-hdx.com/black-snake-moan-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Black-Snake-Moan-2006-แรงรักดับราคะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef6d8687f114d0112eb406a8acdfcb97/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef6d8687f114d0112eb406a8acdfcb97"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Black-Snake-Moan-2006-แรงรักดับราคะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
-    "url": "https://lk-hdx.com/freaks-of-nature-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Freaks-of-Nature-2015-สามพันธุ์เพี้ยน-เกรียนพิทักษ์โลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6d94edf7f18dd76b4863a9d6586f8caf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6d94edf7f18dd76b4863a9d6586f8caf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Freaks-of-Nature-2015-สามพันธุ์เพี้ยน-เกรียนพิทักษ์โลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Wrestler (2008) เพื่อเธอขอสู้ยิบตา",
-    "url": "https://lk-hdx.com/the-wrestler-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Wrestler-2008-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cdfd8bdd8d557820244d62eb2530669d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cdfd8bdd8d557820244d62eb2530669d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Wrestler-2008-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Boy in the Striped Pyjamas (2008) เด็กชายในชุดนอนลายทาง",
-    "url": "https://lk-hdx.com/the-boy-in-the-striped-pyjamas-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Boy-in-the-Striped-Pyjamas-2008-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ae47033485561f12584d3fd57bc6246/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ae47033485561f12584d3fd57bc6246"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Boy-in-the-Striped-Pyjamas-2008-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "In Isolation (2022)",
-    "url": "https://lk-hdx.com/in-isolation-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/In-Isolation-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/zkVI_5JIUA"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/In-Isolation-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fancy Dance (2023)",
-    "url": "https://lk-hdx.com/fancy-dance-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Fancy-Dance-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/aBfi_l1qR9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Fancy-Dance-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "We Grown Now (2023) ตราไว้ในวัยเยาว์",
-    "url": "https://lk-hdx.com/we-grown-now-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/We-Grown-Now-2023-ตราไว้ในวัยเยาว์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v71qau8_RK"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/We-Grown-Now-2023-ตราไว้ในวัยเยาว์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tolkien (2019) โทลคีน",
-    "url": "https://lk-hdx.com/tolkien-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Tolkien-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aaf05c516faf448fbc830042fa6ec8e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aaf05c516faf448fbc830042fa6ec8e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Tolkien-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Con Is On (2018) ปล้นวายป่วง",
-    "url": "https://lk-hdx.com/the-con-is-on-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Con-Is-On-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/35695442003b551d88c0c64f1dd70f35/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/35695442003b551d88c0c64f1dd70f35"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Con-Is-On-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Condemned (2007) เกมล่าคน ทรชนเดนตาย",
-    "url": "https://lk-hdx.com/the-condemned-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Condemned-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/22b261f71c725aa8f697bb47235e1e69/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/22b261f71c725aa8f697bb47235e1e69"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Condemned-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Apollo 13 (1995) อพอลโล่ 13 ผ่าวิกฤตอวกาศ",
-    "url": "https://lk-hdx.com/apollo-13-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Apollo-13-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/83df569f08479cb5f4a9af5f1f006720/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/83df569f08479cb5f4a9af5f1f006720"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Apollo-13-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Vampires (1998) รับจ้างล้างพันธุ์แวมไพร์",
-    "url": "https://lk-hdx.com/vampires-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Vampires-1998-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ln9ChIv_5M"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Vampires-1998-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Inside the Mind of a Dog (2024) อ่านใจสุนัข",
-    "url": "https://lk-hdx.com/inside-the-mind-of-a-dog-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/055059a2e83fb865c4069a61ad5ee0ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/055059a2e83fb865c4069a61ad5ee0ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Instigators (2024)",
-    "url": "https://lk-hdx.com/the-instigators-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Instigators-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ai_p5z1yD7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Instigators-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "May December (2023) รัก ร่าน ร้าย",
-    "url": "https://lk-hdx.com/may-december-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/May-December-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ef_ADCpazO"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/May-December-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Peter Five Eight (2024)",
-    "url": "https://lk-hdx.com/peter-five-eight-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Peter-Five-Eight-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e6a2778b4bf025fe25c222b839881d04/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e6a2778b4bf025fe25c222b839881d04"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Peter-Five-Eight-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I Saw the TV Glow (2024) จิตจ้องจอ",
-    "url": "https://lk-hdx.com/i-saw-the-tv-glow-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/I-Saw-the-TV-Glow-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/487e3c1aa48b4b6e13e1671e9b2ead27/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/487e3c1aa48b4b6e13e1671e9b2ead27"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/I-Saw-the-TV-Glow-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Maximum Risk (1996) คนอึดล่าสุดโลก",
-    "url": "https://lk-hdx.com/maximum-risk-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Maximum-Risk-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/563f9f62da1566844b59276458304392/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/563f9f62da1566844b59276458304392"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Maximum-Risk-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bram Stoker’s Dracula (1992) แดร็กคูลา",
