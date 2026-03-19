@@ -6487,97 +6487,271 @@
   },
   {
     "title": "Decision to Leave (2022)",
-    "url": "https://lk-hdx.com/decision-to-leave-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Decision-to-Leave-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Xalc1_PqUm"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Decision-to-Leave-2022-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Love and Leashes (2022) รักจูงรัก",
-    "url": "https://lk-hdx.com/love-and-leashes-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-and-Leashes-2022-รักจูงรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qd5_QS4HGU"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-and-Leashes-2022-รักจูงรัก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Cassiopeia (2022)",
-    "url": "https://lk-hdx.com/cassiopeia-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Cassiopeia-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/660f217604985f060e934dfda7e4683c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/660f217604985f060e934dfda7e4683c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Cassiopeia-2022-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Broker (2022) จัดหารัก",
-    "url": "https://lk-hdx.com/broker-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Broker-2022-จัดหารัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ffb9c869034a0efd3065d208e33fe91/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ffb9c869034a0efd3065d208e33fe91"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Broker-2022-จัดหารัก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Seoul Vibe (2022) ซิ่งทะลุโซล",
-    "url": "https://lk-hdx.com/seoul-vibe-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Seoul-Vibe-2022-ซิ่งทะลุโซล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b3e56a15d158530d93a79e318fe1eddb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b3e56a15d158530d93a79e318fe1eddb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Seoul-Vibe-2022-ซิ่งทะลุโซล-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Celeb Five (2022) หลังม่าน",
-    "url": "https://lk-hdx.com/celeb-five-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Celeb-Five-2022-หลังม่าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6b599148ef53c6f1aa4250b9c359ba93/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b599148ef53c6f1aa4250b9c359ba93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Celeb-Five-2022-หลังม่าน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Carter (2022) คาร์เตอร์",
-    "url": "https://lk-hdx.com/carter-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Carter-2022-คาร์เตอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb17a8559990d1166358fe025611f0d7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb17a8559990d1166358fe025611f0d7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Carter-2022-คาร์เตอร์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Assassin (2023)",
-    "url": "https://lk-hdx.com/the-assassin-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Assassin-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/6yKvtuQBh_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Assassin-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Cyber Hell (2022) เปิดโปงนรกไซเบอร์",
-    "url": "https://lk-hdx.com/cyber-hell-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Cyber-Hell-2022-เปิดโปงนรกไซเบอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b377fece7ae646f654596034716a3a0f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b377fece7ae646f654596034716a3a0f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Cyber-Hell-2022-เปิดโปงนรกไซเบอร์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Heart Puppy (2023)",
-    "url": "https://lk-hdx.com/my-heart-puppy-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Heart-Puppy-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a7894c24100b93b51224589483be953c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a7894c24100b93b51224589483be953c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Heart-Puppy-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Glorious My Revenge (2023)",
-    "url": "https://lk-hdx.com/the-glorious-my-revenge-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Glorious-My-Revenge-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ee47e191433924c1b203a19e0afe5ada/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ee47e191433924c1b203a19e0afe5ada"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Glorious-My-Revenge-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "20th Century Girl (2022) 20 เซนจูรี่ รักนี้ซาบซ่า",
-    "url": "https://lk-hdx.com/20th-century-girl-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/20th-Century-Girl-2022-20-เซนจูรี่-รักนี้ซาบซ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6dbffb5e7a09728b6dc52f6097c61561/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6dbffb5e7a09728b6dc52f6097c61561"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/20th-Century-Girl-2022-20-เซนจูรี่-รักนี้ซาบซ่า-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Gangnam Zombie (2023) คังนัมซอมบี้",
-    "url": "https://lk-hdx.com/gangnam-zombie-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Gangnam-Zombie-2023-คังนัมซอมบี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4afce85750f6461d24b79f525aeb5e95/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4afce85750f6461d24b79f525aeb5e95"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Gangnam-Zombie-2023-คังนัมซอมบี้-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Unlocked (2023) แค่โทรศัพท์มือถือหาย ทำไมต้องกลายเป็นศพ",
-    "url": "https://lk-hdx.com/unlocked-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Unlocked-2023-แค่โทรศัพท์มือถือหาย-ทำไมต้องกลายเป็นศพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f52ff68343b850d0e515e69e74c07b17/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f52ff68343b850d0e515e69e74c07b17"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Unlocked-2023-แค่โทรศัพท์มือถือหาย-ทำไมต้องกลายเป็นศพ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Jung E (2023) จอง อี",
-    "url": "https://lk-hdx.com/jung-e-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jung-E-2023-จอง-อี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d8c328bbaa0b0c1d010e29cff81b5616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d8c328bbaa0b0c1d010e29cff81b5616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jung-E-2023-จอง-อี-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Kill Boksoon (2023) คิลบกซุน",
-    "url": "https://lk-hdx.com/kill-boksoon-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Kill-Boksoon-2023-คิลบกซุน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5887e9421e64440add8c313ed58084e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5887e9421e64440add8c313ed58084e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Kill-Boksoon-2023-คิลบกซุน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Confession (2023) ฆาตกรรมคำลวง",
-    "url": "https://lk-hdx.com/confession-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Confession-2023-ฆาตกรรมคำลวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/IhXe28VMq_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Confession-2023-ฆาตกรรมคำลวง-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "J Hope in the Box (2023)",
-    "url": "https://lk-hdx.com/j-hope-in-the-box-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/J-Hope-in-the-Box-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73285656b68b1a2c6c732d09934c6e37/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73285656b68b1a2c6c732d09934c6e37"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/J-Hope-in-the-Box-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Tomorrow X Together Our Lost Summer (2023)",
-    "url": "https://lk-hdx.com/tomorrow-x-together-our-lost-summer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Tomorrow-X-Together-Our-Lost-Summer-2023-lk-hd-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e88bdf9dd764c22cc40d65bbb0b97156/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e88bdf9dd764c22cc40d65bbb0b97156"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/08/Tomorrow-X-Together-Our-Lost-Summer-2023-lk-hd-165x248.jpg",
+    "group": "หนังเกาหลี"
   }
 ]
