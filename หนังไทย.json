@@ -2585,153 +2585,441 @@
   },
   {
     "title": "ปิดเมืองล่า (2024) Pattaya Heat",
-    "url": "https://lk-hdx.com/pattaya-heat-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Pattaya-Heat-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1d9cf6630c7cce956d45bd98a5bbbe6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1d9cf6630c7cce956d45bd98a5bbbe6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Pattaya-Heat-2024-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ท็อป ซีเคร็ต วัยรุ่นพันล้าน (2011) The Billionaire",
-    "url": "https://lk-hdx.com/the-billionaire-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Billionaire-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/263f8749b44f23954d04903694e8d0a8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/263f8749b44f23954d04903694e8d0a8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Billionaire-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไชน่าทาวน์ ชะช่า (2024) Chinatown Chacha",
-    "url": "https://lk-hdx.com/chinatown-chacha-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Chinatown-Chacha-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/398afa5b88bdd338dbf4c6971d526bde/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/398afa5b88bdd338dbf4c6971d526bde"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Chinatown-Chacha-2024-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "เร็วทะลุเร็ว (2014) Vengeance of an Assassin",
-    "url": "https://lk-hdx.com/vengeance-of-an-assassin-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Vengeance-of-an-Assassin-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9fb5f283a12f74082b2275c4f220d1c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9fb5f283a12f74082b2275c4f220d1c9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Vengeance-of-an-Assassin-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "ผีหัวขาด ภาค 2 (2004) Headless Hero 2",
-    "url": "https://lk-hdx.com/headless-hero-2-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-2-2004-Headless-Hero-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44155e6470baae9d6a20344ef8198c04/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44155e6470baae9d6a20344ef8198c04"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-2-2004-Headless-Hero-2-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ผีหัวขาด ภาค 1 (2002) Headless Hero 1",
-    "url": "https://lk-hdx.com/headless-hero-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-1-2002-Headless-Hero-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ce27552fc2bce3c50d8de46694aeb2ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ce27552fc2bce3c50d8de46694aeb2ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-1-2002-Headless-Hero-1-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "คนไฟบิน (2006) Dynamite Warriors",
-    "url": "https://lk-hdx.com/dynamite-warriors-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/คนไฟบิน-2006-Dynamite-Warriors-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f62dac96812c7d9fb0cd542385f600e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f62dac96812c7d9fb0cd542385f600e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/คนไฟบิน-2006-Dynamite-Warriors-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สยิว (2003) Sayew",
-    "url": "https://lk-hdx.com/sayew-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Sayew-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/06041f84d5479e51c4bd34a16bdd1e8c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/06041f84d5479e51c4bd34a16bdd1e8c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Sayew-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "มหาอุตม์ (2003) Maha ut",
-    "url": "https://lk-hdx.com/maha-ut-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Maha-ut-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf03fcd5a21f9a7015c7f5aa2fed66c3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf03fcd5a21f9a7015c7f5aa2fed66c3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Maha-ut-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "แฟนฉัน (2003) My Girl",
-    "url": "https://lk-hdx.com/my-girl-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/My-Girl-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6ae7b5d4e9914a8079d4c26e5c365630/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6ae7b5d4e9914a8079d4c26e5c365630"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/My-Girl-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "สูบคู่กู้โลก (2012) Soob Kuu Ku Lok",
-    "url": "https://lk-hdx.com/soob-kuu-ku-lok-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Soob-Kuu-Ku-Lok-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6f68d3f35460eab77c26d6c3941cb1cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6f68d3f35460eab77c26d6c3941cb1cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Soob-Kuu-Ku-Lok-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไม่ได้ขอให้มารัก (2012) It Gets Better",
-    "url": "https://lk-hdx.com/it-gets-better-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/It-Gets-Bette-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7105d31c4c6753320d49e32a02e63f55/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7105d31c4c6753320d49e32a02e63f55"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/It-Gets-Bette-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "อีสานซอมบี้ (2023) E-Sarn Zombie",
-    "url": "https://lk-hdx.com/e-sarn-zombie-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/อีสานซอมบี้-2023-E-Sarn-Zombie-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ofU6lZqPk_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/อีสานซอมบี้-2023-E-Sarn-Zombie-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "13 เกมสยอง (2006) 13 Beloved",
-    "url": "https://lk-hdx.com/13-beloved-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/13-เกมสยอง-2006-13-Beloved-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/782d5d175726ea9b10d541d4384744c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/782d5d175726ea9b10d541d4384744c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/13-เกมสยอง-2006-13-Beloved-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ฟ้าต่ำ แผ่นดินสูง (2013) Boundary",
-    "url": "https://lk-hdx.com/boundary-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ฟ้าต่ำ-แผ่นดินสูง-2013-Boundary-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dca7d561ef5494ad2ed5743afc8a921f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dca7d561ef5494ad2ed5743afc8a921f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ฟ้าต่ำ-แผ่นดินสูง-2013-Boundary-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สายน้ำติดเชื้อ (2013) By the River",
-    "url": "https://lk-hdx.com/by-the-river-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/สายน้ำติดเชื้อ-2013-By-the-River-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/a2MRlBD_Hk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/สายน้ำติดเชื้อ-2013-By-the-River-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "วัยเป้ง นักเลงขาสั้น (2014) Dangerous Boys",
-    "url": "https://lk-hdx.com/dangerous-boys-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/วัยเป้ง-นักเลงขาสั้น-2014-Dangerous-Boys-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2fc5e99117fd1bdfcc9f87b670b7a269/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2fc5e99117fd1bdfcc9f87b670b7a269"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/วัยเป้ง-นักเลงขาสั้น-2014-Dangerous-Boys-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "แม่เบี้ย (2015) Maebia",
-    "url": "https://lk-hdx.com/maebia-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/แม่เบี้ย-2015-Maebia-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c406627435026d348107bf28403037e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c406627435026d348107bf28403037e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/แม่เบี้ย-2015-Maebia-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "สลิธ โปรเจกต์ล่า (2023) Slyth The Hunt Saga",
-    "url": "https://lk-hdx.com/slyth-the-hunt-saga-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/สลิธ-โปรเจกต์ล่า-2023-Slyth-The-Hunt-Saga-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d6b7c5ed3674a0358757bc9d5825d894/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d6b7c5ed3674a0358757bc9d5825d894"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/สลิธ-โปรเจกต์ล่า-2023-Slyth-The-Hunt-Saga-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สายล่อฟ้า (2004) Sai lor fah",
-    "url": "https://lk-hdx.com/sai-lor-fah-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/สายล่อฟ้า-2004-Sai-lor-fah-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7afec1c4b61deb77837bac8add2e52e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7afec1c4b61deb77837bac8add2e52e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/สายล่อฟ้า-2004-Sai-lor-fah-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "คน ผี ปีศาจ (2004) Evil",
-    "url": "https://lk-hdx.com/evil-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/คน-ผี-ปีศาจ-Evil-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/164ddf8f24b098f49c88f4529307fa91/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/164ddf8f24b098f49c88f4529307fa91"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/คน-ผี-ปีศาจ-Evil-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ผีฮา คนเฮ (2023) Ghost’s News",
-    "url": "https://lk-hdx.com/ghosts-news-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/ผีฮา-คนเฮ-2023-Ghosts-News-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/21abe4a21af58ce5499b49e36946702d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/21abe4a21af58ce5499b49e36946702d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/ผีฮา-คนเฮ-2023-Ghosts-News-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์ (2024) Deaw Special Super Soft Power",
-    "url": "https://lk-hdx.com/deaw-special-super-soft-power-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-2024-Deaw-Special-Super-Soft-Power-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb9b6cd8f6529af91d5fa022c72eccb3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb9b6cd8f6529af91d5fa022c72eccb3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-2024-Deaw-Special-Super-Soft-Power-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "พัสดุฝ่าแดนมรณะ (2024) The Package",
-    "url": "https://lk-hdx.com/the-package-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/พัสดุฝ่าแดนมรณะ-2024-The-Package-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a62050b6ab5b8711ab83d54f60090e43/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a62050b6ab5b8711ab83d54f60090e43"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/พัสดุฝ่าแดนมรณะ-2024-The-Package-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "โปรแกรมหน้า วิญญาณอาฆาต (2008) Coming Soon",
-    "url": "https://lk-hdx.com/coming-soon-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/โปรแกรมหน้า-วิญญาณอาฆาต-2008-Coming-Soon-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25b6b1c3d47ee8c3cf4f2f6d62ed70ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25b6b1c3d47ee8c3cf4f2f6d62ed70ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/โปรแกรมหน้า-วิญญาณอาฆาต-2008-Coming-Soon-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ปิดเทอมใหญ่ หัวใจว้าวุ่น (2008) Hormones",
-    "url": "https://lk-hdx.com/hormones-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/ปิดเทอมใหญ่-หัวใจว้าวุ่น-2008-Hormones-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_Hlxs_XYyD"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/ปิดเทอมใหญ่-หัวใจว้าวุ่น-2008-Hormones-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Cobweb (2023) ปริศนาใยแมงมุม",
-    "url": "https://lk-hdx.com/cobweb/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Trending-Topic-2023-ฮิตติดเทรนด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a8ae29fc8ce38a81e6687e303db8738/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a8ae29fc8ce38a81e6687e303db8738"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Trending-Topic-2023-ฮิตติดเทรนด์-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "รถไฟฟ้า มาหานะเธอ (2009) Bangkok Traffic Love Story",
-    "url": "https://lk-hdx.com/bangkok-traffic-love-story-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/รถไฟฟ้า-มาหานะเธอ-2009-Bangkok-Traffic-Love-Story-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/931a644b7912de4a0aa3973e70a99351/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/931a644b7912de4a0aa3973e70a99351"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/รถไฟฟ้า-มาหานะเธอ-2009-Bangkok-Traffic-Love-Story-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ของแขก (2023) The Djinn’s Curse",
-    "url": "https://lk-hdx.com/the-djinns-curse-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/ของแขก-2023-The-Djinns-Curse-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d83777df91dc64ddc71bce4598e41a06/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d83777df91dc64ddc71bce4598e41a06"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/ของแขก-2023-The-Djinns-Curse-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ธี่หยด (2023) Death Whisperer",
-    "url": "https://lk-hdx.com/death-whisperer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/ธี่หยด-2023-Death-Whisperer-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5371422813e7500fcfd8b9bc0d0ecc33/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5371422813e7500fcfd8b9bc0d0ecc33"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/ธี่หยด-2023-Death-Whisperer-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สมมติ (2023) Supposed",
