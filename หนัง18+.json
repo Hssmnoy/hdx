@@ -877,153 +877,441 @@
   },
   {
     "title": "Violet (2025)",
-    "url": "https://lk-hdx.com/violet-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Violet-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/592b0176f5de36159af31dba87c07676/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/592b0176f5de36159af31dba87c07676"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Violet-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Hard Feelings (2023) วัยพลุ่งพล่าน",
-    "url": "https://lk-hdx.com/hard-feelings/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Hard-Feelings-2023-วัยพลุ่งพล่าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d97742609cd914249ca86c07eb320410/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d97742609cd914249ca86c07eb320410"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Hard-Feelings-2023-วัยพลุ่งพล่าน-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Puri for Rent (2025)",
-    "url": "https://lk-hdx.com/puri-for-rent-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Puri-for-Rent-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f453e7ebe5148c574aabcb5bbb04f731/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f453e7ebe5148c574aabcb5bbb04f731"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Puri-for-Rent-2025-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "18+ Halimuyak (2025)",
-    "url": "https://lk-hdx.com/halimuyak-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Halimuyak-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/636bc180ee5dc39f5142fa925e617d28/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/636bc180ee5dc39f5142fa925e617d28"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Halimuyak-2025-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "18+ Delusyon (2025)",
-    "url": "https://lk-hdx.com/delusyon-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Delusyon-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bcc71d6d198eb684be7a1fe26a915e0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bcc71d6d198eb684be7a1fe26a915e0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Delusyon-2025-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "18+ Arouse (2025)",
-    "url": "https://lk-hdx.com/arouse-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Arouse-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a871edb4280c67f69b09d0991a3619eb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a871edb4280c67f69b09d0991a3619eb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Arouse-2025-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Scarlet Innocence (2014) แค้นรักพิศวาส",
-    "url": "https://lk-hdx.com/scarlet-innocence-2014-%e0%b9%81%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%9e%e0%b8%b4%e0%b8%a8%e0%b8%a7%e0%b8%b2%e0%b8%aa/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Scarlet-Innocence-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5d50e3f1598de0db5819085d90db941/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5d50e3f1598de0db5819085d90db941"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Scarlet-Innocence-2014-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "18+ Pizza Dare 1 (2020)",
-    "url": "https://lk-hdx.com/pizza-dare-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Pizza-Dare-1-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1afd082364282d036f4edb6577a8b7a7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1afd082364282d036f4edb6577a8b7a7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/Pizza-Dare-1-2020-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Kabitan (2024)",
-    "url": "https://lk-hdx.com/kabitan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Kabitan-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2470a48455903565ebc9b5c074826452/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2470a48455903565ebc9b5c074826452"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/Kabitan-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Rules of Dating (2005)",
-    "url": "https://lk-hdx.com/rules-of-dating-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Rules-of-Dating-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/899d3d8a3908173a10fb4361435e1cc5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/899d3d8a3908173a10fb4361435e1cc5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/Rules-of-Dating-2005-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "How to Live in This World (2019)",
-    "url": "https://lk-hdx.com/how-to-live-in-this-world-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/How-to-Live-in-This-World-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4345c338067eca36c24018f43ef49b31/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4345c338067eca36c24018f43ef49b31"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/How-to-Live-in-This-World-2019-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Undergrads (2024)",
-    "url": "https://lk-hdx.com/undergrads-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Undergrads-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a1fc20555409600f03c4e714f6145ee6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a1fc20555409600f03c4e714f6145ee6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/Undergrads-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "รักเร่าร้อนของยัยตัวแสบ (2012) My P.S. Partner (Whatcha Wearin?)",
-    "url": "https://lk-hdx.com/my-p-s-partner-whatcha-wearin-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/รักเร่าร้อนของยัยตัวแสบ-2012-My-P.S.-Partner-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73b499a3b20b29a583da65c74211141a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73b499a3b20b29a583da65c74211141a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/รักเร่าร้อนของยัยตัวแสบ-2012-My-P.S.-Partner-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Selina s Gold (2022)",
-    "url": "https://lk-hdx.com/selina-s-gold-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Selina-s-Gold-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5946f3a9f368a5497ca5b2550d6f51e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5946f3a9f368a5497ca5b2550d6f51e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/Selina-s-Gold-2022-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "เบบี้เกิร์ล (2024) Babygirl",
-    "url": "https://lk-hdx.com/babygirl-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เบบี้เกิร์ล-2024-Babygirl-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53f68306df4653354568b4fc92d0f138/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53f68306df4653354568b4fc92d0f138"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/เบบี้เกิร์ล-2024-Babygirl-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Blue Is the Warmest Color (2013) วันที่หัวใจกล้ารัก",
-    "url": "https://lk-hdx.com/blue-is-the-warmest-color-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Blue-Is-the-Warmest-Color-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e94528b39801481f803bae0703ac8683/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e94528b39801481f803bae0703ac8683"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Blue-Is-the-Warmest-Color-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Tokyo Nights (2025)",
-    "url": "https://lk-hdx.com/tokyo-nights-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Tokyo-Nights-2025-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/P_ldv5MzaP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Tokyo-Nights-2025-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Higop (2023)",
-    "url": "https://lk-hdx.com/higop-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Higop-2023-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7570998c891ebc643b59322ce2d22643/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7570998c891ebc643b59322ce2d22643"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Higop-2023-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Lady Karuizawa (1982)",
-    "url": "https://lk-hdx.com/lady-karuizawa-1982/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Lady-Karuizawa-1982-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5d9bdca3239d205356016043431f0ac9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5d9bdca3239d205356016043431f0ac9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Lady-Karuizawa-1982-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "The Escort Wife (2022)",
-    "url": "https://lk-hdx.com/the-escort-wife-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/The-Escort-Wife-2022-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c54c207cf0198b9bbb999dd3dd4f1553/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c54c207cf0198b9bbb999dd3dd4f1553"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/The-Escort-Wife-2022-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Lampas Langit (2022)",
-    "url": "https://lk-hdx.com/lampas-langit-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Lampas-Langit-2022-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b70b5418478138dfc8ddb85b1c6812d1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b70b5418478138dfc8ddb85b1c6812d1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Lampas-Langit-2022-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "เรา (2018) We",
-    "url": "https://lk-hdx.com/we-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/เรา-2018-We-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Eb_J0TKh8t"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/เรา-2018-We-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Teacher s Pet (2025)",
-    "url": "https://lk-hdx.com/teacher-s-pet-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Teacher-s-Pet-2025-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7a83aeb05184f8bacf833fdcdc78c09f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a83aeb05184f8bacf833fdcdc78c09f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Teacher-s-Pet-2025-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Uhaw (2024)",
-    "url": "https://lk-hdx.com/uhaw-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Uhaw-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d66c21214fafd612f6c19769c91061c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d66c21214fafd612f6c19769c91061c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Uhaw-2024-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Dirty Ice Cream (2024)",
-    "url": "https://lk-hdx.com/dirty-ice-cream-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Dirty-Ice-Cream-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/03310a788fda0f6a830b7d7dc521c4d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/03310a788fda0f6a830b7d7dc521c4d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Dirty-Ice-Cream-2024-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "Sugar Baby (2023)",
-    "url": "https://lk-hdx.com/sugar-baby-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Sugar-Baby-2023-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cac8629bdb9fc34954f02b1306c22dce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cac8629bdb9fc34954f02b1306c22dce"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Sugar-Baby-2023-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "รักผิดต้องลองใหม่ (1993) Crazy Love",
-    "url": "https://lk-hdx.com/crazy-love-1993/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/รักผิดต้องลองใหม่-1993-Crazy-Love-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/vKO9Ob_ia_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/รักผิดต้องลองใหม่-1993-Crazy-Love-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "First Taste (Unang Tikim) 2024",
-    "url": "https://lk-hdx.com/unang-tikim-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Unang-Tikim-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d8d96d7abba8700f43ed364047ca973d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d8d96d7abba8700f43ed364047ca973d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/Unang-Tikim-2024-165x248.webp",
+    "group": "หนัง18+"
   },
   {
     "title": "A Tale Of Legendary Libido (2008) ไอ้หนุ่มพลังช้าง ไวอาก้าเรียกพี่",
-    "url": "https://lk-hdx.com/a-tale-of-legendary-libido-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Tale-Of-Legendary-Libido-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fd940f264f8da3b17f4bc798c5d06d11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fd940f264f8da3b17f4bc798c5d06d11"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Tale-Of-Legendary-Libido-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Kaulayaw (2024) 18+",
-    "url": "https://lk-hdx.com/kaulayaw-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Kaulayaw-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0b656274113bedad7c354cccbb142042/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b656274113bedad7c354cccbb142042"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Kaulayaw-2024-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Motel Cactus (1997)",
