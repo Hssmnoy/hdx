@@ -3457,153 +3457,433 @@
   },
   {
     "title": "The Admiral Roaring Currents (2014) ยีซุนชิน ขุนพลคลื่นคำราม",
-    "url": "https://lk-hdx.com/the-admiral-roaring-currents-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Admiral-Roaring-Currents-2014-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Me_0wJkbpi"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Admiral-Roaring-Currents-2014-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Cursed Dead Man’s Prey (2021) ศพคืนชีพ",
-    "url": "https://lk-hdx.com/the-cursed-dead-mans-prey-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Cursed-Dead-Mans-Prey-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/56edd75b8c51e59776704065ccc9bd3c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/56edd75b8c51e59776704065ccc9bd3c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Cursed-Dead-Mans-Prey-2021-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Thirst (2009) นักบวชผี ปีศาจแวมไพร์",
-    "url": "https://lk-hdx.com/thirst-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Thirst-2009-นักบวชผี-ปีศาจแวมไพร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e99bcf69c7bffd9ca8d73494c9495751/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e99bcf69c7bffd9ca8d73494c9495751"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Thirst-2009-นักบวชผี-ปีศาจแวมไพร์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Recon (2021) ปมปริศนาเขตปลอดทหาร",
-    "url": "https://lk-hdx.com/the-recon-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Recon-2021-ปมปริศนาเขตปลอดทหาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tP4_CZB7e9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Recon-2021-ปมปริศนาเขตปลอดทหาร-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Always (2011) กอดคือสัญญา หัวใจฝากมาชั่วนิรันดร์",
-    "url": "https://lk-hdx.com/always/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Always-2011-กอดคือสัญญา-หัวใจฝากมาชั่วนิรันดร์-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/23173339cf0d1139ac77fd50bac3ca74/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/23173339cf0d1139ac77fd50bac3ca74"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Always-2011-กอดคือสัญญา-หัวใจฝากมาชั่วนิรันดร์-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Oldboy (2003) เคลียร์บัญชีแค้นจิตโหด",
-    "url": "https://lk-hdx.com/oldboy-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Oldboy-2003-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/57483c517ad35113fea1a0c6ce3d653a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/57483c517ad35113fea1a0c6ce3d653a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Oldboy-2003-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Tae Guk Gi The Brotherhood of War (2004) เท กึก กี เลือดเนื้อ เพื่อฝัน วันสิ้นสงคราม",
-    "url": "https://lk-hdx.com/tae-guk-gi-the-brotherhood-of-war-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Tae-Guk-Gi-The-Brotherhood-of-War-2004-เท-กึก-กี-เลือดเนื้อ-เพื่อฝัน-วันสิ้นสงคราม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0e42c3255d67638cfb779db4803898d4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e42c3255d67638cfb779db4803898d4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Tae-Guk-Gi-The-Brotherhood-of-War-2004-เท-กึก-กี-เลือดเนื้อ-เพื่อฝัน-วันสิ้นสงคราม-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Illang The Wolf Brigade (2018) กองพลหมาป่าพันธุ์ปีศาจ",
-    "url": "https://lk-hdx.com/illang-the-wolf-brigade-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Illang-The-Wolf-Brigade-2018-กองพลหมาป่าพันธุ์ปีศาจ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c7a080211bef6da1c2cf16edb48a70ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c7a080211bef6da1c2cf16edb48a70ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Illang-The-Wolf-Brigade-2018-กองพลหมาป่าพันธุ์ปีศาจ-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Midnight (2021) คืนฆ่าไร้เสียง",
-    "url": "https://lk-hdx.com/midnight-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Midnight-2021-คืนฆ่าไร้เสียง-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2c14e6c5717d62461da9a59048211333/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c14e6c5717d62461da9a59048211333"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Midnight-2021-คืนฆ่าไร้เสียง-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Alienoid 2 The Return to the Future (2024) วายร้ายเอเลี่ยน 2",
-    "url": "https://lk-hdx.com/alienoid-2-the-return-to-the-future-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe16a47fd1e1b7983bc8b005f1b4910c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe16a47fd1e1b7983bc8b005f1b4910c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Alienoid (2022) วายร้ายเอเลี่ยน",
-    "url": "https://lk-hdx.com/alienoid-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Alienoid-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a9e7e6a5e774a4e068720a019ba74296/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a9e7e6a5e774a4e068720a019ba74296"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Alienoid-2022-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Smugglers (2023) อหังการ์ทีมปล้นประดาน้ำ",
-    "url": "https://lk-hdx.com/smugglers-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Smugglers-2023-อหังการ์ทีมปล้นประดาน้ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5bace1da0b1dae8a35f9a49839037560/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5bace1da0b1dae8a35f9a49839037560"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Smugglers-2023-อหังการ์ทีมปล้นประดาน้ำ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Bloody Innocent (2010) เพื่อนรัก เพื่อนแค้น",
-    "url": "https://lk-hdx.com/bloody-innocent-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Bloody-Innocent-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d901a66b37d9dc1e84d0a68eef4a3ac8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d901a66b37d9dc1e84d0a68eef4a3ac8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Bloody-Innocent-2010-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Cobweb (2023) ปริศนาใยแมงมุม",
-    "url": "https://lk-hdx.com/cobweb/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Trending-Topic-2023-ฮิตติดเทรนด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a8ae29fc8ce38a81e6687e303db8738/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a8ae29fc8ce38a81e6687e303db8738"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Trending-Topic-2023-ฮิตติดเทรนด์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "A Special Lady (2017)",
-    "url": "https://lk-hdx.com/a-special-lady-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Special-Lady-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8da0641dbd6e8cd67f5849ee50a2b284/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8da0641dbd6e8cd67f5849ee50a2b284"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Special-Lady-2017-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Mother (2009) หัวใจเธอทวงแค้นสะกดโลก",
-    "url": "https://lk-hdx.com/mother-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Mother-2009-หัวใจเธอทวงแค้นสะกดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a2a9e442e65ede112af61b0c0b8f1fb1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a2a9e442e65ede112af61b0c0b8f1fb1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Mother-2009-หัวใจเธอทวงแค้นสะกดโลก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Honey Sweet (2023) รักโคตรจี๊ดของนายโคตรจืด",
-    "url": "https://lk-hdx.com/honey-sweet-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Honey-Sweet-2023-รักโคตรจี๊ดของนายโคตรจืด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d8b44e2d83fc6819ddc890b384a1b848/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d8b44e2d83fc6819ddc890b384a1b848"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Honey-Sweet-2023-รักโคตรจี๊ดของนายโคตรจืด-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Wild (2023)",
-    "url": "https://lk-hdx.com/the-wild-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Wild-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/70a4edff52b7eea792cb54056be3ec25/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/70a4edff52b7eea792cb54056be3ec25"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Wild-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Silenced (2011) เสียงจากหัวใจ ที่ไม่มีใครได้ยิน",
-    "url": "https://lk-hdx.com/silenced-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Silenced-2011-เสียงจากหัวใจ-ที่ไม่มีใครได้ยิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b2e370fa652c675171228fb30d711a6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b2e370fa652c675171228fb30d711a6d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Silenced-2011-เสียงจากหัวใจ-ที่ไม่มีใครได้ยิน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Bad Guys Reign of Chaos (2019) พวกเลว แก๊งแห่งความโกลาหล",
-    "url": "https://lk-hdx.com/the-bad-guys-reign-of-chaos-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Bad-Guys-Reign-of-Chaos-2019-พวกเลว-แก๊งแห่งความโกลาหล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58c610dfccadc2d3cdf3a728a2df187c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58c610dfccadc2d3cdf3a728a2df187c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Bad-Guys-Reign-of-Chaos-2019-พวกเลว-แก๊งแห่งความโกลาหล-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Beast (2019) ปิดโซลล่า",
-    "url": "https://lk-hdx.com/the-beast-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Beast-2019-ปิดโซลล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/851b8369e05a935a0e1d50424e9fda9f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/851b8369e05a935a0e1d50424e9fda9f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Beast-2019-ปิดโซลล่า-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Fatal Encounter (2014) พลิกแผนฆ่า โค่นบัลลังก์",
-    "url": "https://lk-hdx.com/the-fatal-encounter-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Fatal-Encounter-2014-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_qZKXn6Gyd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Fatal-Encounter-2014-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Kim Ji Young Born 1982 (2019) คิม จี ยอง เกิดปี 82",
-    "url": "https://lk-hdx.com/kim-ji-young-born-1982-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kim-Ji-Young-Born-1982-2019-คิม-จี-ยอง-เกิดปี-82-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e08af820ad311f4efbf2672d0a772ecc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e08af820ad311f4efbf2672d0a772ecc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Kim-Ji-Young-Born-1982-2019-คิม-จี-ยอง-เกิดปี-82-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Box (2021) เดอะบ็อกซ์",
-    "url": "https://lk-hdx.com/the-box-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Box-2021-เดอะบ็อกซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fc5df2e77aec7054d578b35be475e11a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fc5df2e77aec7054d578b35be475e11a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Box-2021-เดอะบ็อกซ์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Cold Eyes (2013) โคลด์ อายส์",
-    "url": "https://lk-hdx.com/cold-eyes-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Cold-Eyes-2013-โคลด์-อายส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/63kGIrzj_Z"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Cold-Eyes-2013-โคลด์-อายส์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Very Ordinary Couple (2013) รัก สุด ฟิน",
-    "url": "https://lk-hdx.com/very-ordinary-couple-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Very-Ordinary-Couple-2013-รัก-สุด-ฟิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8ceb7eb03d26068c6138af6bdc0687a2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8ceb7eb03d26068c6138af6bdc0687a2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Very-Ordinary-Couple-2013-รัก-สุด-ฟิน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Waiting For Rain (2021) รอวันฝนพร่ำ",
-    "url": "https://lk-hdx.com/waiting-for-rain-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Waiting-For-Rain-2021-รอวันฝนพร่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bfa7ec37559be7062051496b0ea370eb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bfa7ec37559be7062051496b0ea370eb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Waiting-For-Rain-2021-รอวันฝนพร่ำ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Cursed Lesson (2020) ผีโยคะ",
-    "url": "https://lk-hdx.com/the-cursed-lesson-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Cursed-Lesson-2020-ผีโยคะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ODNqV_73wc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Cursed-Lesson-2020-ผีโยคะ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Young Sister In Law 5 (2019)",
-    "url": "https://lk-hdx.com/young-sister-in-law-5-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-5-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b2a47786c1b9f0ca4f8f8db4c80b3f41/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b2a47786c1b9f0ca4f8f8db4c80b3f41"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-5-2019-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Young Sister In Law 2 (2017)",
-    "url": "https://lk-hdx.com/young-sister-in-law-2-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-2-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f472242a72b58a49a812408cb8d8b4c3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f472242a72b58a49a812408cb8d8b4c3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Young-Sister-In-Law-2-2017-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Young Sister In Law 1 (2016)",
