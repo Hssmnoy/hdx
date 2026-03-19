@@ -62889,153 +62889,425 @@
   },
   {
     "title": "Feed Me (2022) ฟีดมี",
-    "url": "https://lk-hdx.com/feed-me-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Feed-Me-2022-ฟีดมี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d3bc8e2530234e9f787a41bfe7e0b59f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d3bc8e2530234e9f787a41bfe7e0b59f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Feed-Me-2022-ฟีดมี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fallen Angels Murder Club Heroes and Felons (2022)",
-    "url": "https://lk-hdx.com/fallen-angels-murder-club-heroes-and-felons-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fallen-Angels-Murder-Club-Heroes-and-Felons-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a75e2cab067b2e7f5749c13fa767909a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a75e2cab067b2e7f5749c13fa767909a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fallen-Angels-Murder-Club-Heroes-and-Felons-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tom Papa What A Day (2022) ทอมปาปา วันอะไรเนี้ย",
-    "url": "https://lk-hdx.com/tom-papa-what-a-day-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Tom-Papa-What-A-Day-2022-ทอมปาปา-วันอะไรเนี้ย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/s__mAfWLC8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Tom-Papa-What-A-Day-2022-ทอมปาปา-วันอะไรเนี้ย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Lost Patient (2022)",
-    "url": "https://lk-hdx.com/the-lost-patient-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Lost-Patient-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb3be010248b44f81008f4138fd241d1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb3be010248b44f81008f4138fd241d1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Lost-Patient-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Dolphin King (2022) ราชาโลมาคนสุดท้าย",
-    "url": "https://lk-hdx.com/the-last-dolphin-king-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Last-Dolphin-King-2022-ราชาโลมาคนสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b8127a19e8cd10dc80e743b110ce096f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b8127a19e8cd10dc80e743b110ce096f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Last-Dolphin-King-2022-ราชาโลมาคนสุดท้าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Noel Diary (2022) บันทึกของโนเอล",
-    "url": "https://lk-hdx.com/the-noel-diary-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Noel-Diary-2022-บันทึกของโนเอล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b4cbd2ed687df392343a133a156c779e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4cbd2ed687df392343a133a156c779e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Noel-Diary-2022-บันทึกของโนเอล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Swimmers (2022) เดอะ สวิมเมอร์",
-    "url": "https://lk-hdx.com/the-swimmers-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Swimmers-2022-เดอะ-สวิมเมอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bfcf1798f1f61e12a433733b41051a58/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bfcf1798f1f61e12a433733b41051a58"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Swimmers-2022-เดอะ-สวิมเมอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gigi & Nate (2022) จีจี้ และ เนต",
-    "url": "https://lk-hdx.com/gigi-nate-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gigi-Nate-2022-จีจี้-และ-เนต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/863185085c32c09dcfd8aecee616b151/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/863185085c32c09dcfd8aecee616b151"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gigi-Nate-2022-จีจี้-และ-เนต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Good Mourning (2022) หวัดดี! วันวุ่นสุดป่วน",
-    "url": "https://lk-hdx.com/good-mourning-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-Mourning-2022-หวัดดี-วันวุ่นสุดป่วน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8875113c352a7a7fe7cae1573e81b5f6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8875113c352a7a7fe7cae1573e81b5f6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-Mourning-2022-หวัดดี-วันวุ่นสุดป่วน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gasoline Alley (2022)",
-    "url": "https://lk-hdx.com/gasoline-alley-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gasoline-Alley-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nHsbSKmq_X"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gasoline-Alley-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "40 Years Young (2022) 40 ยังไหว",
-    "url": "https://lk-hdx.com/40-years-young-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/40-Years-Young-2022-40-ยังไหว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/WNM_VJdByU"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/40-Years-Young-2022-40-ยังไหว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Watch Out We’re Mad (2022) คู่บ้า อย่าให้เดือด",
-    "url": "https://lk-hdx.com/watch-out-were-mad-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Watch-Out-Were-Mad-2022-คู่บ้า-อย่าให้เดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/28a1a31ffc52a2cafa8b798100b63615/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/28a1a31ffc52a2cafa8b798100b63615"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Watch-Out-Were-Mad-2022-คู่บ้า-อย่าให้เดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wedding Season (2022)",
-    "url": "https://lk-hdx.com/wedding-season-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Wedding-Season-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9220b61a5cc34b845e95183dca918ee0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9220b61a5cc34b845e95183dca918ee0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Wedding-Season-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "White Noise (2022) เสียงสีขาว",
-    "url": "https://lk-hdx.com/white-noise-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/White-Noise-2022-เสียงสีขาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e8ea484d41793906c40be09b37f3fac4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e8ea484d41793906c40be09b37f3fac4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/White-Noise-2022-เสียงสีขาว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "7 Women and a Murder (2022) 7 สตรี 1 ฆาตกรรม",
-    "url": "https://lk-hdx.com/7-women-and-a-murder-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/7-Women-and-a-Murder-2022-7-สตรี-1-ฆาตกรรม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca89ea983f344e0fee6bf7ed1b36322a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca89ea983f344e0fee6bf7ed1b36322a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/7-Women-and-a-Murder-2022-7-สตรี-1-ฆาตกรรม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Who’s a Good Boy (2022) รักต้องเชื่อง",
-    "url": "https://lk-hdx.com/whos-a-good-boy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Whos-a-Good-Boy-2022-รักต้องเชื่อง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b23716e29a26fe82c8063f8d7a1f9e14/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b23716e29a26fe82c8063f8d7a1f9e14"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Whos-a-Good-Boy-2022-รักต้องเชื่อง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Windfall (2022)",
-    "url": "https://lk-hdx.com/windfall-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Windfall-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ini5HR_7vW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Windfall-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Without Saying Goodbye (2022) จนกว่าจะพบกันอีก",
-    "url": "https://lk-hdx.com/without-saying-goodbye-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Without-Saying-Goodbye-2022-จนกว่าจะพบกันอีก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/60cd385305e14fcec7c9e20b738b9761/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/60cd385305e14fcec7c9e20b738b9761"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Without-Saying-Goodbye-2022-จนกว่าจะพบกันอีก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dark Cloud (2022) ดาร์ก คราว",
-    "url": "https://lk-hdx.com/dark-cloud-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dark-Cloud-2022-ดาร์ก-คราว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/06bc45bb6c476e6e64218b2ac81ac20f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/06bc45bb6c476e6e64218b2ac81ac20f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Dark-Cloud-2022-ดาร์ก-คราว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dive (2022) ดำน้ำ ความฝันสูงสุด",
-    "url": "https://lk-hdx.com/dive-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dive-2022-ดำน้ำ-ความฝันสูงสุด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f7008e0eec50d045e8816975fda2e677/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f7008e0eec50d045e8816975fda2e677"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dive-2022-ดำน้ำ-ความฝันสูงสุด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dangerous Game The Legacy Murders (2022)",
-    "url": "https://lk-hdx.com/dangerous-game-the-legacy-murders-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dangerous-Game-The-Legacy-Murders-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3823950d8b3c7749e4fa38078468f361/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3823950d8b3c7749e4fa38078468f361"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dangerous-Game-The-Legacy-Murders-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Doblemente Embarazada 2 (2022) โดเบลเมนเต้ เอ็มบาราซาดา ภาค 2",
-    "url": "https://lk-hdx.com/doblemente-embarazada-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Doblemente-Embarazada-2-2022-โดเบลเมนเต้-เอ็มบาราซาดา-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/kzGPI7W30_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Doblemente-Embarazada-2-2022-โดเบลเมนเต้-เอ็มบาราซาดา-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dakota (2022) ดาโกต้า",
-    "url": "https://lk-hdx.com/dakota-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dakota-2022-ดาโกต้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25ea1fe8d4f762ee9c57f94e81a26ae8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25ea1fe8d4f762ee9c57f94e81a26ae8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dakota-2022-ดาโกต้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dirty Games (2022) เดอตี้ เกมส์",
-    "url": "https://lk-hdx.com/dirty-games-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dirty-Games-2022-เดอตี้-เกมส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d8521ab722fb82ff2280ec5e2efd4ecb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d8521ab722fb82ff2280ec5e2efd4ecb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dirty-Games-2022-เดอตี้-เกมส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deadstream (2022) เดดสตรีม",
-    "url": "https://lk-hdx.com/deadstream-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Deadstream-2022-เดดสตรีม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5dfca82121d654ab427de264b6d48db8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5dfca82121d654ab427de264b6d48db8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Deadstream-2022-เดดสตรีม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bigfoot (2022) บุกตะลุยดินแดนดึกดำบรรพ์",
-    "url": "https://lk-hdx.com/bigfoot-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bigfoot-2022-บุกตะลุยดินแดนดึกดำบรรพ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea33ada747dde60576b30f3d6241ef33/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea33ada747dde60576b30f3d6241ef33"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bigfoot-2022-บุกตะลุยดินแดนดึกดำบรรพ์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Book of Love (2022) นิยายรัก ฉบับฉันและเธอ",
-    "url": "https://lk-hdx.com/book-of-love-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Book-of-Love-2022-นิยายรัก-ฉบับฉันและเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5f140a5a49cd5c7d7b7ef98956efaa27/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f140a5a49cd5c7d7b7ef98956efaa27"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Book-of-Love-2022-นิยายรัก-ฉบับฉันและเธอ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bodies Bodies Bodies (2022) เพื่อนซี้ ปาร์ตี้ หนีตาย",
-    "url": "https://lk-hdx.com/bodies-bodies-bodies-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bodies-Bodies-Bodies-2022-เพื่อนซี้-ปาร์ตี้-หนีตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/TM_l0YuQev"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bodies-Bodies-Bodies-2022-เพื่อนซี้-ปาร์ตี้-หนีตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Anything’s Possible (2022) อะไร ๆ ก็เป็นไปได้",
-    "url": "https://lk-hdx.com/anythings-possible-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Anythings-Possible-2022-อะไร-ๆ-ก็เป็นไปได้-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_xvy75n7_V"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Anythings-Possible-2022-อะไร-ๆ-ก็เป็นไปได้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Autumn in the City (2022) ฤดูใบไม้ร่วงในเมืองนิวยอร์ค",
-    "url": "https://lk-hdx.com/autumn-in-the-city-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Autumn-in-the-City-2022-ฤดูใบไม้ร่วงในเมืองนิวยอร์ค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb48f86ffdd36535c064423ae05628b5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb48f86ffdd36535c064423ae05628b5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Autumn-in-the-City-2022-ฤดูใบไม้ร่วงในเมืองนิวยอร์ค-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Amityville Uprising (2022)",
