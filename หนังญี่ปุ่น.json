@@ -2585,153 +2585,433 @@
   },
   {
     "title": "Sundome 4 The Final (2009) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 4",
-    "url": "https://lk-hdx.com/sundome-4-the-final-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-4-The-Final-2009-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3061ef550aee9796e2ddc1c81c6f99cd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3061ef550aee9796e2ddc1c81c6f99cd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-4-The-Final-2009-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-4-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Sundome 3 (2008) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 3",
-    "url": "https://lk-hdx.com/sundome-3-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-3-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/naV_hYrVvq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-3-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-3-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Sundome 2 (2008) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 2",
-    "url": "https://lk-hdx.com/sundome-2-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-2-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/61a74f596da25af5c21429e1e9e47939/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/61a74f596da25af5c21429e1e9e47939"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-2-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-2-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Sundome 1 (2007) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 1",
-    "url": "https://lk-hdx.com/sundome-1-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-1-2007-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fadfa7fc8aed88dd987c9b5c083bb5f3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fadfa7fc8aed88dd987c9b5c083bb5f3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-1-2007-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-1-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Familly (2023)",
-    "url": "https://lk-hdx.com/familly-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Familly-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ebde0dd53485e9640915f2d3299a5e82/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ebde0dd53485e9640915f2d3299a5e82"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Familly-2023-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Last Recipe (2017) สูตรลับเมนูยอดเชฟ",
-    "url": "https://lk-hdx.com/the-last-recipe-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Last-Recipe-2017-สูตรลับเมนูยอดเชฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/da560c5a24c8f46dd4ce197d5551b10c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/da560c5a24c8f46dd4ce197d5551b10c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Last-Recipe-2017-สูตรลับเมนูยอดเชฟ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Shoplifters (2018) ครอบครัวที่ลัก",
-    "url": "https://lk-hdx.com/shoplifters-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Shoplifters-2018-ครอบครัวที่ลัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/411eca25e540158537249e282483fd73/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/411eca25e540158537249e282483fd73"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Shoplifters-2018-ครอบครัวที่ลัก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ghost Squad (2018) ทีมผีมหาประลัย",
-    "url": "https://lk-hdx.com/ghost-squad-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Squad-2018-ทีมผีมหาประลัย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/6A75_0upxE"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Squad-2018-ทีมผีมหาประลัย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Every Day A Good Day (2018) หัวใจ ใบชา ความรัก",
-    "url": "https://lk-hdx.com/every-day-a-good-day-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Every-Day-A-Good-Day-2018-หัวใจ-ใบชา-ความรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cd295250f310923176ac4c99af467ee2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cd295250f310923176ac4c99af467ee2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Every-Day-A-Good-Day-2018-หัวใจ-ใบชา-ความรัก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Parallel World Love Story (2019) รักในโลกพิศวง",
-    "url": "https://lk-hdx.com/parallel-world-love-story-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Parallel-World-Love-Story-2019-รักในโลกพิศวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/1_xHe9e0PK"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Parallel-World-Love-Story-2019-รักในโลกพิศวง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Stigmatized Properties (2020) ไลฟ์ติดผี",
-    "url": "https://lk-hdx.com/stigmatized-properties-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Stigmatized-Properties-2020-ไลฟ์ติดผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7bf55a1b1488c4265941d5d77c32e713/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7bf55a1b1488c4265941d5d77c32e713"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Stigmatized-Properties-2020-ไลฟ์ติดผี-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kaiji The Ultimate Gambler 2 (2011) ไคจิ กลโกงมรณะ ภาค 2",
-    "url": "https://lk-hdx.com/kaiji-the-ultimate-gambler-2-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-2-2011-ไคจิ-กลโกงมรณะ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1eca3ef9ca2cc7fed62b1fec5bdbc32/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1eca3ef9ca2cc7fed62b1fec5bdbc32"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-2-2011-ไคจิ-กลโกงมรณะ-ภาค-2-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kaiji The Ultimate Gambler 1 (2009) ไคจิ กลโกงมรณะ ภาค 1",
-    "url": "https://lk-hdx.com/kaiji-the-ultimate-gambler-1-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-1-2009-ไคจิ-กลโกงมรณะ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/2q2_qeoF4m"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-1-2009-ไคจิ-กลโกงมรณะ-ภาค-1-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Sadako is Back (2018) ซาดาโกะ กำเนิดตำนานคำสาปมรณะ",
-    "url": "https://lk-hdx.com/sadako-is-back-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Sadako-is-Back-2018-ซาดาโกะ-กำเนิดตำนานคำสาปมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6fd9e862cf3bea56588c6144e95d4c2e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6fd9e862cf3bea56588c6144e95d4c2e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Sadako-is-Back-2018-ซาดาโกะ-กำเนิดตำนานคำสาปมรณะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Hard Day (2023) วันโหด",
-    "url": "https://lk-hdx.com/hard-day-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hard-Day-2023-วันโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/vZe_0HkioF"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Hard-Day-2023-วันโหด-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Forest of Love (2019) เสียงเพรียกในป่ามืด",
-    "url": "https://lk-hdx.com/the-forest-of-love-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Forest-of-Love-2019-เสียงเพรียกในป่ามืด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/741bf2e1995b129d0d9d819ec115ca5f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/741bf2e1995b129d0d9d819ec115ca5f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Forest-of-Love-2019-เสียงเพรียกในป่ามืด-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "37 Seconds (2019) 37 วินาที",
-    "url": "https://lk-hdx.com/37-seconds-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/37-Seconds-2019-37-วินาที-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a0c2fe420da97e89655d1d86293ca6a7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a0c2fe420da97e89655d1d86293ca6a7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/37-Seconds-2019-37-วินาที-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Himeanole (2016) แอบรักแอบลับ",
-    "url": "https://lk-hdx.com/himeanole-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Himeanole-2016-แอบรักแอบลับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f94561459e45f376593b0cd29b8dd3de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f94561459e45f376593b0cd29b8dd3de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Himeanole-2016-แอบรักแอบลับ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Destiny Kamakura Monogatari (2017) มหัศจรรย์โลกแห่งความตาย",
-    "url": "https://lk-hdx.com/destiny-kamakura-monogatari-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Destiny-Kamakura-Monogatari-2017-มหัศจรรย์โลกแห่งความตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d6e10e3e4bef4e245b6ad3cfb5842ee7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d6e10e3e4bef4e245b6ad3cfb5842ee7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Destiny-Kamakura-Monogatari-2017-มหัศจรรย์โลกแห่งความตาย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Crazy Samurai Musashi (2020) ตำนานซามูไร มิยาโมโตะ มูซาชิ",
-    "url": "https://lk-hdx.com/crazy-samurai-musashi-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Crazy-Samurai-Musashi-2020-ตำนานซามูไร-มิยาโมโตะ-มูซาชิ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/084e5795bfaaf5aeeee3a6a954829894/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/084e5795bfaaf5aeeee3a6a954829894"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Crazy-Samurai-Musashi-2020-ตำนานซามูไร-มิยาโมโตะ-มูซาชิ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Howling Village (2019) อุโมงค์ผีดุ",
-    "url": "https://lk-hdx.com/howling-village-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Howling-Village-2019-อุโมงค์ผีดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f2db8560f0b28d6c1cde572341f0983e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f2db8560f0b28d6c1cde572341f0983e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Howling-Village-2019-อุโมงค์ผีดุ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "In Love and Deep Water (2023) ล่องเรือรักในน้ำลึก",
-    "url": "https://lk-hdx.com/in-love-and-deep-water-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/In-Love-and-Deep-Water-2023-ล่องเรือรักในน้ำลึก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d8c328bbaa0b0c1d010e29cff81b5616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d8c328bbaa0b0c1d010e29cff81b5616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/In-Love-and-Deep-Water-2023-ล่องเรือรักในน้ำลึก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ghost Theater (2015) โรงละครซ่อนผี",
-    "url": "https://lk-hdx.com/ghost-theater-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-Theater-2015-โรงละครซ่อนผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/80b28d0da30a2ae6ef8048e3f4c09f38/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/80b28d0da30a2ae6ef8048e3f4c09f38"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-Theater-2015-โรงละครซ่อนผี-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "One Cut of the Dead (2017) วันคัท ซอมบี้งับๆๆๆ",
-    "url": "https://lk-hdx.com/one-cut-of-the-dead-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/One-Cut-of-the-Dead-2017-วันคัท-ซอมบี้งับๆๆๆ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/91f970de3e0ea905309663282d6ffc07/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/91f970de3e0ea905309663282d6ffc07"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/One-Cut-of-the-Dead-2017-วันคัท-ซอมบี้งับๆๆๆ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Sing Dance Act Kabuki featuring Toma Ikuta (2022) ร้อง เต้น แสดง คาบูกิโดยโทมะ อิคุตะ",
-    "url": "https://lk-hdx.com/sing-dance-act-kabuki-featuring-toma-ikuta-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-Dance-Act-Kabuki-featuring-Toma-Ikuta-2022-ร้อง-เต้น-แสดง-คาบูกิโดยโทมะ-อิคุตะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e5a7e0166a4e0c25b5d9d4ee776815e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e5a7e0166a4e0c25b5d9d4ee776815e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-Dance-Act-Kabuki-featuring-Toma-Ikuta-2022-ร้อง-เต้น-แสดง-คาบูกิโดยโทมะ-อิคุตะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Knuckle Girl (2023) เจ๊ทวงแค้น",
-    "url": "https://lk-hdx.com/knuckle-girl-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Knuckle-Girl-2023-เจ๊ทวงแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/675aad0e540773c14e1dc6f1c31fc557/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/675aad0e540773c14e1dc6f1c31fc557"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Knuckle-Girl-2023-เจ๊ทวงแค้น-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Black Butler (2014) พ่อบ้านปีศาจ",
-    "url": "https://lk-hdx.com/black-butler-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Black-Butler-2014-พ่อบ้านปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf2045d98eedb60077e42c8cc09dee1f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf2045d98eedb60077e42c8cc09dee1f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Black-Butler-2014-พ่อบ้านปีศาจ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Bakuman (2015) วัยซนคนการ์ตูน",
-    "url": "https://lk-hdx.com/bakuman-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bakuman-2015-วัยซนคนการ์ตูน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9b987613c874d8cf7d5053b7a69310f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9b987613c874d8cf7d5053b7a69310f2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Bakuman-2015-วัยซนคนการ์ตูน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Brave Gunjyo Senki (2021) เจาะเวลา มาสู้โชกุน",
-    "url": "https://lk-hdx.com/brave-gunjyo-senki-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Brave-Gunjyo-Senki-2021-เจาะเวลา-มาสู้โชกุน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5569f57e160bc0728e49e9d23b7e41f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5569f57e160bc0728e49e9d23b7e41f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Brave-Gunjyo-Senki-2021-เจาะเวลา-มาสู้โชกุน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "What to Do with the Dead Kaiju (2022) ซากนรกไคจู",
-    "url": "https://lk-hdx.com/what-to-do-with-the-dead-kaiju-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/What-to-Do-with-the-Dead-Kaiju-2022-ซากนรกไคจู-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0f865e9ad568358145390c240efa1678/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f865e9ad568358145390c240efa1678"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/What-to-Do-with-the-Dead-Kaiju-2022-ซากนรกไคจู-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Brave Father Online (2019) คุณพ่อนักรบแห่งแสง",
