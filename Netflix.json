@@ -16783,153 +16783,445 @@
   },
   {
     "title": "The Curse of Bridge Hollow (2022) คำสาปแห่งบริดจ์ฮอลโลว์",
-    "url": "https://lk-hdx.com/the-curse-of-bridge-hollow-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Curse-of-Bridge-Hollow-2022-คำสาปแห่งบริดจ์ฮอลโลว์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d0ceadf7ce88f6f82d90c6bca5e2f51/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d0ceadf7ce88f6f82d90c6bca5e2f51"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Curse-of-Bridge-Hollow-2022-คำสาปแห่งบริดจ์ฮอลโลว์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Bubble (2022) วิกฤตไวรัส กองถ่ายหรรษา",
-    "url": "https://lk-hdx.com/the-bubble-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Bubble-2022-วิกฤตไวรัส-กองถ่ายหรรษา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/766905104b8a9fd56c144747ee6da3be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/766905104b8a9fd56c144747ee6da3be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Bubble-2022-วิกฤตไวรัส-กองถ่ายหรรษา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Soccer Football Movie (2022) ภารกิจปราบปีศาจฟุตบอล",
-    "url": "https://lk-hdx.com/the-soccer-football-movie-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Soccer-Football-Movie-2022-ภารกิจปราบปีศาจฟุตบอล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8f96bbb9318e4c975d61e4ce62b327fa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8f96bbb9318e4c975d61e4ce62b327fa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Soccer-Football-Movie-2022-ภารกิจปราบปีศาจฟุตบอล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Skandal Bringing Down Wirecard (2022) การล่มสลายของบริษัทไวร์การ์ด",
-    "url": "https://lk-hdx.com/skandal-bringing-down-wirecard-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Skandal-Bringing-Down-Wirecard-2022-การล่มสลายของบริษัทไวร์การ์ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7eb2ecb35be6d9bb1af6051184cd4af2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7eb2ecb35be6d9bb1af6051184cd4af2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Skandal-Bringing-Down-Wirecard-2022-การล่มสลายของบริษัทไวร์การ์ด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Silverton Siege (2022) วินาศกรรมซิลเวอร์ตัน",
-    "url": "https://lk-hdx.com/silverton-siege-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Silverton-Siege-2022-วินาศกรรมซิลเวอร์ตัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9cf48bc0d8b3a00f534a2d67e57ea5be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9cf48bc0d8b3a00f534a2d67e57ea5be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Silverton-Siege-2022-วินาศกรรมซิลเวอร์ตัน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Racionais MC’s (2022) จากถนนเชาเปาลู",
-    "url": "https://lk-hdx.com/racionais-mcs-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Racionais-MCs-2022-จากถนนเชาเปาลู-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e4f0d420d5b1b9815c166666f49c78b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e4f0d420d5b1b9815c166666f49c78b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Racionais-MCs-2022-จากถนนเชาเปาลู-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Return to Space (2022) คืนสู่อวกาศ",
-    "url": "https://lk-hdx.com/return-to-space-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Return-to-Space-2022-คืนสู่อวกาศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3c843e26b4ac551303f0797398595963/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c843e26b4ac551303f0797398595963"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Return-to-Space-2022-คืนสู่อวกาศ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mr. Harrigan’s Phone (2022) โทรศัพท์คนตาย",
-    "url": "https://lk-hdx.com/mr-harrigans-phone-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Mr.-Harrigans-Phone-2022-โทรศัพท์คนตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/31b90dfed0a49b90c9fe1227425a31db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/31b90dfed0a49b90c9fe1227425a31db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Mr.-Harrigans-Phone-2022-โทรศัพท์คนตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ehrengard The Art of Seduction (2023) ศิลปะแห่งการยั่วยวน",
-    "url": "https://lk-hdx.com/ehrengard-the-art-of-seduction-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ehrengard-The-Art-of-Seduction-2023-ศิลปะแห่งการยั่วยวน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eba1be285ab9604670f804526f7ffb1d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eba1be285ab9604670f804526f7ffb1d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ehrengard-The-Art-of-Seduction-2023-ศิลปะแห่งการยั่วยวน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love at First Sight (2023) รักแรกพบ",
-    "url": "https://lk-hdx.com/love-at-first-sight-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-at-First-Sight-2023-รักแรกพบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/19b972a8687fc51b04094464d84f97d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19b972a8687fc51b04094464d84f97d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-at-First-Sight-2023-รักแรกพบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Cyber Hell (2022) เปิดโปงนรกไซเบอร์",
-    "url": "https://lk-hdx.com/cyber-hell-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Cyber-Hell-2022-เปิดโปงนรกไซเบอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b377fece7ae646f654596034716a3a0f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b377fece7ae646f654596034716a3a0f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Cyber-Hell-2022-เปิดโปงนรกไซเบอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Elesin Oba The King’s Horseman (2022) ทหารม้าของราชา",
-    "url": "https://lk-hdx.com/elesin-oba-the-kings-horseman-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Elesin-Oba-The-Kings-Horseman-2022-ทหารม้าของราชา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0352a40e6facfc8aa8e2e2f570118fcd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0352a40e6facfc8aa8e2e2f570118fcd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Elesin-Oba-The-Kings-Horseman-2022-ทหารม้าของราชา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "End of the Road (2022) สุดปลายถนน",
-    "url": "https://lk-hdx.com/end-of-the-road-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/End-of-the-Road-2022-สุดปลายถนน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/65224d24efeb0c2f611fedc2f708cf16/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/65224d24efeb0c2f611fedc2f708cf16"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/End-of-the-Road-2022-สุดปลายถนน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Falling for Christmas (2022) ตกหลุมรักวันคริสต์มาส",
-    "url": "https://lk-hdx.com/falling-for-christmas-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Falling-for-Christmas-2022-ตกหลุมรักวันคริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/214eda98b61f05cbe89ca3391a7c85fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/214eda98b61f05cbe89ca3391a7c85fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Falling-for-Christmas-2022-ตกหลุมรักวันคริสต์มาส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "F*ck Love Too (2022) รักห่วยแตก อีกแล้ว",
-    "url": "https://lk-hdx.com/fck-love-too-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/F-ck-Love-Too-2022-รักห่วยแตก-อีกแล้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4f739a673e03f3ba4c190c0fa328928/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4f739a673e03f3ba4c190c0fa328928"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/F-ck-Love-Too-2022-รักห่วยแตก-อีกแล้ว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Counf (2023) ท่านเคานท์",
-    "url": "https://lk-hdx.com/the-counf-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Counf-2023-ท่านเคานท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7391fd84c7545550491b6c5c7821f978/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7391fd84c7545550491b6c5c7821f978"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Counf-2023-ท่านเคานท์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bigbug (2022) บิ๊กบั๊ก",
-    "url": "https://lk-hdx.com/bigbug-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bigbug-2022-บิ๊กบั๊ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca8f759a3c8915f6ac00384e65337de4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca8f759a3c8915f6ac00384e65337de4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bigbug-2022-บิ๊กบั๊ก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Black Crab (2022) แบล็คแคร็บ",
-    "url": "https://lk-hdx.com/black-crab-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Black-Crab-2022-แบล็คแคร็บ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/54975d36c26e5a0cb44b7919be88c9e0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54975d36c26e5a0cb44b7919be88c9e0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Black-Crab-2022-แบล็คแคร็บ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Blonde (2022) บลอนด์",
-    "url": "https://lk-hdx.com/blonde-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Blonde-2022-บลอนด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/zjlTbceb__"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Blonde-2022-บลอนด์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Brazen (2022) ใคร่ฆ่า",
-    "url": "https://lk-hdx.com/brazen-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Brazen-2022-ใคร่ฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/85ccf1ec852de9cdf7f6d505dd6970ea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/85ccf1ec852de9cdf7f6d505dd6970ea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Brazen-2022-ใคร่ฆ่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Blackout (2022) แบล็กเอาต์",
-    "url": "https://lk-hdx.com/blackout-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Blackout-2022-แบล็กเอาต์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/43151c1517928f912e7e142622ad83f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/43151c1517928f912e7e142622ad83f2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Blackout-2022-แบล็กเอาต์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Broad Peak (2022) บรอดพีค",
-    "url": "https://lk-hdx.com/broad-peak-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Broad-Peak-2022-บรอดพีค-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/xlj4YQze_Q"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Broad-Peak-2022-บรอดพีค-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bardo (2022) บันทึกผิดๆ ของความจริงแค่หยิบมือ",
-    "url": "https://lk-hdx.com/bardo-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bardo-2022-บันทึกผิดๆ-ของความจริงแค่หยิบมือ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb3449d9e2d4d2b27a3c5fafcf603079/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb3449d9e2d4d2b27a3c5fafcf603079"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bardo-2022-บันทึกผิดๆ-ของความจริงแค่หยิบมือ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Burning Patience (2022) ไฟฝัน แรงปรารถนา",
-    "url": "https://lk-hdx.com/burning-patience-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Burning-Patience-2022-ไฟฝัน-แรงปรารถนา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb9a1acb293c19d0f2d7e4c39327419d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb9a1acb293c19d0f2d7e4c39327419d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Burning-Patience-2022-ไฟฝัน-แรงปรารถนา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Beauty (2022) บิวตี้ เธอผู้งดงาม",
-    "url": "https://lk-hdx.com/beauty-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Beauty-2022-บิ้วตี้-เธอผู้งดงาม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2049d1187a725c5f10819b6132cab0d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2049d1187a725c5f10819b6132cab0d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Beauty-2022-บิ้วตี้-เธอผู้งดงาม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Broken Idol The Undoing of Diomedes Diaz (2022)",
-    "url": "https://lk-hdx.com/broken-idol-the-undoing-of-diomedes-diaz-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Broken-Idol-The-Undoing-of-Diomedes-Diaz-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a06e0618fdfced7c41cd9fdd02e561e7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a06e0618fdfced7c41cd9fdd02e561e7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Broken-Idol-The-Undoing-of-Diomedes-Diaz-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Along for the Ride (2022) ลมรักคืนฤดูร้อน",
-    "url": "https://lk-hdx.com/along-for-the-ride-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Along-for-the-Ride-2022-ลมรักคืนฤดูร้อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/acb3b348840e674eee2df8f7c50b9559/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/acb3b348840e674eee2df8f7c50b9559"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Along-for-the-Ride-2022-ลมรักคืนฤดูร้อน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Trip to Infinity (2022) การเดินทางสู่อินฟินิตี้",
-    "url": "https://lk-hdx.com/a-trip-to-infinity-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Trip-to-Infinity-2022-การเดินทางสู่อินฟินิตี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c33924aa091ea9f8b2e532a84cc81f3b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c33924aa091ea9f8b2e532a84cc81f3b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Trip-to-Infinity-2022-การเดินทางสู่อินฟินิตี้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Anikulapo (2022) อนิคูลาโพช",
-    "url": "https://lk-hdx.com/anikulapo-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Anikulapo-2022-อนิคูลาโพช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4059ac1ac3f659311c7efcbead8acc08/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4059ac1ac3f659311c7efcbead8acc08"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Anikulapo-2022-อนิคูลาโพช-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Perfect Pairing (2022) คู่นี้ คือเพอร์เฟค",
-    "url": "https://lk-hdx.com/a-perfect-pairing-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Perfect-Pairing-2022-คู่นี้-คือเพอร์เฟค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/36246c6265668bdb60867f26546eb916/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/36246c6265668bdb60867f26546eb916"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Perfect-Pairing-2022-คู่นี้-คือเพอร์เฟค-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Apollo 10 1/2 A Space Age Adventure (2022) อะพอลโล 10 1/2 วัยเด็กยุคอวกาศ",
