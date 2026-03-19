@@ -7280,152 +7280,444 @@
   {
     "title": "7 Assassins (2013) เพชฌฆาตทะเลทราย",
     "url": "https://lk-hdx.com/7-assassins-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/7-Assassins-2013-เพชฌฆาตทะเลทราย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/7-Assassins-2013-เพชฌฆาตทะเลทราย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0d7e810e2a49d3ed34dfd4c22609bf89"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0d7e810e2a49d3ed34dfd4c22609bf89/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Gigolo (2015) เสน่ห์รักหนุ่มจิ๊กโกโล่",
     "url": "https://lk-hdx.com/the-gigolo-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Gigolo-2015-เสน่ห์รักหนุ่มจิ๊กโกโล่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Gigolo-2015-เสน่ห์รักหนุ่มจิ๊กโกโล่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/atj2_fI0UV"
+      }
+    ]
   },
   {
     "title": "Bleeding Steel (2018) โคตรใหญ่ฟัดเหล็ก",
     "url": "https://lk-hdx.com/bleeding-steel-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Bleeding-Steel-2018-โคตรใหญ่ฟัดเหล็ก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Bleeding-Steel-2018-โคตรใหญ่ฟัดเหล็ก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4bede1b70cb70f905f9cc3cadd3c6cc1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4bede1b70cb70f905f9cc3cadd3c6cc1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Amazing Beauty (2018) นางสนมคนโปรด",
     "url": "https://lk-hdx.com/amazing-beauty-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Amazing-Beauty-2018-นางสนมคนโปรด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Amazing-Beauty-2018-นางสนมคนโปรด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2714b796dd17ff75aa943f04446ea2e4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2714b796dd17ff75aa943f04446ea2e4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Railroad Tigers (2016) ใหญ่ ปล้น ฟัด",
     "url": "https://lk-hdx.com/railroad-tigers-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Railroad-Tigers-2016-ใหญ่-ปล้น-ฟัด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Railroad-Tigers-2016-ใหญ่-ปล้น-ฟัด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_nIdjQ5Sdu"
+      }
+    ]
   },
   {
     "title": "Project Gutenberg (2018) เกมหักเหลี่ยม เฉือนคม",
     "url": "https://lk-hdx.com/project-gutenberg-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Project-Gutenberg-2018-เกมหักเหลี่ยม-เฉือนคม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Project-Gutenberg-2018-เกมหักเหลี่ยม-เฉือนคม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/65e55428ae22a776d44093e66b8444c7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/65e55428ae22a776d44093e66b8444c7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Shanghai Fortress (2019) เซี่ยงไฮ้ ปราการมหากาฬ",
     "url": "https://lk-hdx.com/shanghai-fortress-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Shanghai-Fortress-2019-เซี่ยงไฮ้-ปราการมหากาฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Shanghai-Fortress-2019-เซี่ยงไฮ้-ปราการมหากาฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f2ee4f4d5d821379de6b0de2c21c07a8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f2ee4f4d5d821379de6b0de2c21c07a8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Trapped (2020) กับดักนรก",
     "url": "https://lk-hdx.com/the-trapped-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Trapped-2020-กับดักนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Trapped-2020-กับดักนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f43b379232f0631ab3d43edc18a4c420"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f43b379232f0631ab3d43edc18a4c420/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Two Thumbs Up (2015) วีรบุรุษโจร",
     "url": "https://lk-hdx.com/two-thumbs-up-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Two-Thumbs-Up-2015-วีรบุรุษโจร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Two-Thumbs-Up-2015-วีรบุรุษโจร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6af4a70a923809de398f2a69d27b3b2f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6af4a70a923809de398f2a69d27b3b2f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Wild City (2015) คนเดือด เมืองป่า",
     "url": "https://lk-hdx.com/wild-city-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Wild-City-2015-คนเดือด-เมืองป่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Wild-City-2015-คนเดือด-เมืองป่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c584fb833d088274b5273404f22df07e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c584fb833d088274b5273404f22df07e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Due West Our Sex Journey (2012) กามาสัญจร",
     "url": "https://lk-hdx.com/due-west-our-sex-journey-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Due-West-Our-Sex-Journey-2012-กามาสัญจร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Due-West-Our-Sex-Journey-2012-กามาสัญจร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c62bae0208f4613e33d292835bc3bd27"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c62bae0208f4613e33d292835bc3bd27/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Thirty Years of Adonis (2017) อะดอนีส แรงรักข้ามเวลา",
     "url": "https://lk-hdx.com/thirty-years-of-adonis-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Thirty-Years-of-Adonis-2017-อะดอนีส-แรงรักข้ามเวลา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Thirty-Years-of-Adonis-2017-อะดอนีส-แรงรักข้ามเวลา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1bce31111aeb5d6732e8c06235129ea4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1bce31111aeb5d6732e8c06235129ea4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Infernal Affairs 3 (2003) ปิดตำนานสองคนสองคม",
     "url": "https://lk-hdx.com/infernal-affairs-3-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-3-2003-ปิดตำนานสองคนสองคม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-3-2003-ปิดตำนานสองคนสองคม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/40c6d2f1d0fc6ab74565788a57c19bad"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/40c6d2f1d0fc6ab74565788a57c19bad/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Infernal Affairs 2 (2003) ต้นฉบับสองคนสองคม",
     "url": "https://lk-hdx.com/infernal-affairs-2-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-2-2003-ต้นฉบับสองคนสองคม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-2-2003-ต้นฉบับสองคนสองคม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2482b0f32b0b168c3913d7f746f0dd47"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2482b0f32b0b168c3913d7f746f0dd47/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Infernal Affairs 1 (2002) สองคนสองคม",
     "url": "https://lk-hdx.com/infernal-affairs-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-1-2002-สองคนสองคม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Infernal-Affairs-1-2002-สองคนสองคม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f3d317d7f712ad6e91dc930d1275aad2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f3d317d7f712ad6e91dc930d1275aad2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Monkey King 3 (2018) ไซอิ๋ว ภาค 3 ตอน ศึกราชาวานรตะลุยเมืองแม่ม่าย",
     "url": "https://lk-hdx.com/the-monkey-king-3-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Monkey-King-3-2018-ไซอิ๋ว-ภาค-3-ตอน-ศึกราชาวานรตะลุยเมืองแม่ม่าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Monkey-King-3-2018-ไซอิ๋ว-ภาค-3-ตอน-ศึกราชาวานรตะลุยเมืองแม่ม่าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fd86d41cbed5c9d3cd10af1ab15ce6f2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fd86d41cbed5c9d3cd10af1ab15ce6f2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Monkey King 2 (2016) ไซอิ๋ว ภาค 2 ตอน ศึกราชาวานรพิชิตมาร",
     "url": "https://lk-hdx.com/the-monkey-king-2-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Monkey-King-2-2016-ไซอิ๋ว-ภาค-2-ตอน-ศึกราชาวานรพิชิตมาร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Monkey-King-2-2016-ไซอิ๋ว-ภาค-2-ตอน-ศึกราชาวานรพิชิตมาร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/04eb3ae6b792b5f4eb72bbd23ef41330"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/04eb3ae6b792b5f4eb72bbd23ef41330/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Monkey King 1 (2013) ไซอิ๋ว ภาค 1 ตอน กำเนิดราชาวานร",
     "url": "https://lk-hdx.com/the-monkey-king-1-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Monkey-King-1-2013-ไซอิ๋ว-ภาค-1-ตอน-กำเนิดราชาวานร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Monkey-King-1-2013-ไซอิ๋ว-ภาค-1-ตอน-กำเนิดราชาวานร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cc957bff84e55531c7a5cdbc434e8701"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cc957bff84e55531c7a5cdbc434e8701/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Abandoned (2023) ร่างที่ถูกทิ้ง",
     "url": "https://lk-hdx.com/the-abandoned-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Abandoned-2023-ร่างที่ถูกทิ้ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Abandoned-2023-ร่างที่ถูกทิ้ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/278d0f548c81f26da51dca97e144ba62"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/278d0f548c81f26da51dca97e144ba62/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Dragon Hunting Well (2020) ล่าปีศาจสยอง",
     "url": "https://lk-hdx.com/the-dragon-hunting-well-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dragon-Hunting-Well-2020-ล่าปีศาจสยอง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Dragon-Hunting-Well-2020-ล่าปีศาจสยอง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/de62efe30b153a8beb990215b918d9f8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/de62efe30b153a8beb990215b918d9f8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Miss Shampoo (2023) สูตรรักผสมแชมพู",
     "url": "https://lk-hdx.com/miss-shampoo-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Miss-Shampoo-2023-สูตรรักผสมแชมพู-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Miss-Shampoo-2023-สูตรรักผสมแชมพู-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9baaaf294c97597894ff24a3801c0324"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9baaaf294c97597894ff24a3801c0324/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Matchless Mulan (2020) เอกจอมทัพหญิง ฮวามู่หลาน",
     "url": "https://lk-hdx.com/matchless-mulan-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Matchless-Mulan-2020-เอกจอมทัพหญิง-ฮวามู่หลาน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Matchless-Mulan-2020-เอกจอมทัพหญิง-ฮวามู่หลาน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fee47fa31475822e04b4c0daea8980bf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fee47fa31475822e04b4c0daea8980bf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ban Drugs (2023) ปฏิบัติการสู้เสี่ยงตาย",
     "url": "https://lk-hdx.com/ban-drugs-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ban-Drugs-2023-ปฏิบัติการสู้เสี่ยงตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ban-Drugs-2023-ปฏิบัติการสู้เสี่ยงตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a0e79a0c46bcb4ee5ce662443a9fcfb7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a0e79a0c46bcb4ee5ce662443a9fcfb7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Brink (2017) ฉะโคตรคน ล่าโคตรทอง",
     "url": "https://lk-hdx.com/the-brink-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Brink-2017-ฉะโคตรคน-ล่าโคตรทอง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Brink-2017-ฉะโคตรคน-ล่าโคตรทอง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bbad8f85f2e63781db8348de1bfaa5c1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bbad8f85f2e63781db8348de1bfaa5c1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Shadow (2018) จอมคนกระบี่เงา",
     "url": "https://lk-hdx.com/shadow-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Shadow-2018-จอมคนกระบี่เงา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Shadow-2018-จอมคนกระบี่เงา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/37553589b8f2d91df916a3426fb385d6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/37553589b8f2d91df916a3426fb385d6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Figth Break Sphere 2 (2023) สัประยุทธ์ทะลุฟ้า ภาค 2",
     "url": "https://lk-hdx.com/figth-break-sphere-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/82156b0923bc5b018e25c8a588a1524b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/82156b0923bc5b018e25c8a588a1524b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Love in the KLove in the Kitchen (2020) รักเกิดที่ก้นครัว",
     "url": "https://lk-hdx.com/love-in-the-klove-in-the-kitchen-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-in-the-KLove-in-the-Kitchen-2020-รักเกิดที่ก้นครัว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-in-the-KLove-in-the-Kitchen-2020-รักเกิดที่ก้นครัว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a7d971e24cecb320ec9d1455ca796578"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a7d971e24cecb320ec9d1455ca796578/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Raging Fire (2021) โคตรเดือดฉะเดือด",
     "url": "https://lk-hdx.com/raging-fire-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Raging-Fire-2021-โคตรเดือดฉะเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Raging-Fire-2021-โคตรเดือดฉะเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/321548966593004fba481a894b563ce4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/321548966593004fba481a894b563ce4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Revival Of The Monkey King (2021) คืนชีพราชาวานรถล่มสวรรค์",
     "url": "https://lk-hdx.com/revival-of-the-monkey-king-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Revival-Of-The-Monkey-King-2021-คืนชีพราชาวานรถล่มสวรรค์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Revival-Of-The-Monkey-King-2021-คืนชีพราชาวานรถล่มสวรรค์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a36d969d173a2d36cede4fdb72cb8acc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a36d969d173a2d36cede4fdb72cb8acc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Nowhere to Hide (2021) กิ้งก่าคลั่งจอมเขมือบ",
     "url": "https://lk-hdx.com/nowhere-to-hide-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Nowhere-to-Hide-2021-กิ้งก่าคลั่งจอมเขมือบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Nowhere-to-Hide-2021-กิ้งก่าคลั่งจอมเขมือบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1582f531f2c3878c1950d96383fe2fbc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1582f531f2c3878c1950d96383fe2fbc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Why Women Cheat (2021) ตำนานรักเจ้าชายจำศีล",
