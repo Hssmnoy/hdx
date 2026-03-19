@@ -10361,153 +10361,449 @@
   },
   {
     "title": "Ted 2 (2015) หมีไม่แอ๊บ แสบได้อีก ภาค 2",
-    "url": "https://lk-hdx.com/ted-2-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ted-2-2015-หมีไม่แอ๊บ-แสบได้อีก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb34a5094180937f2b09bbfd1e1ec3bb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb34a5094180937f2b09bbfd1e1ec3bb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Ted-2-2015-หมีไม่แอ๊บ-แสบได้อีก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ted 1 (2012) หมีไม่แอ๊บ แสบได้อีก ภาค 1",
-    "url": "https://lk-hdx.com/ted-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ted-1-2012-หมีไม่แอ๊บ-แสบได้อีก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/700c0ae8fb3974aa1f38121e91d31591/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/700c0ae8fb3974aa1f38121e91d31591"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Ted-1-2012-หมีไม่แอ๊บ-แสบได้อีก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "SPL 2 Saat po long 2 (2015) โหดซัดโหด",
-    "url": "https://lk-hdx.com/spl-2-saat-po-long-2-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/SPL-2-Saat-po-long-2-2015-โหดซัดโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7b7f38c3134c6e42b529d8664df9b005/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7b7f38c3134c6e42b529d8664df9b005"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/SPL-2-Saat-po-long-2-2015-โหดซัดโหด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "SPL 1 Saat po long (2005) ทีมล่าเฉียดนรก",
-    "url": "https://lk-hdx.com/spl-1-saat-po-long-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/SPL-1-Saat-po-long-2005-ทีมล่าเฉียดนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e39ab635001db6fb3be8f0dc8fa5d774/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e39ab635001db6fb3be8f0dc8fa5d774"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/SPL-1-Saat-po-long-2005-ทีมล่าเฉียดนรก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hunger Games 3 Mockingjay Part 2 (2015) เกมล่าเกม ม็อกกิ้งเจย์ พาร์ท 2",
-    "url": "https://lk-hdx.com/the-hunger-games-3-mockingjay-part-2-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-3-Mockingjay-Part-2-2015-เกมล่าเกม-ม็อกกิ้งเจย์-พาร์ท-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/93e9d5e0938154c799a1d48244d53d1b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/93e9d5e0938154c799a1d48244d53d1b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-3-Mockingjay-Part-2-2015-เกมล่าเกม-ม็อกกิ้งเจย์-พาร์ท-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hunger Games 3 Mockingjay Part 1 (2014) เกมล่าเกม ภาค 3 ม็อกกิ้งเจย์ พาร์ท 1",
-    "url": "https://lk-hdx.com/the-hunger-games-3-mockingjay-part-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-3-Mockingjay-Part-1-2014-เกมล่าเกม-ภาค-3-ม็อกกิ้งเจย์-พาร์ท-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/43b0a64ed302fe4ee92d7dc4492ecab9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/43b0a64ed302fe4ee92d7dc4492ecab9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-3-Mockingjay-Part-1-2014-เกมล่าเกม-ภาค-3-ม็อกกิ้งเจย์-พาร์ท-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hunger Games 2 Catching Fire (2013) เกมล่าเกม ภาค 2 แคชชิ่งไฟเออร์",
-    "url": "https://lk-hdx.com/the-hunger-games-2-catching-fire-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-2-Catching-Fire-2013-เกมล่าเกม-ภาค-2-แคชชิ่งไฟเออร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4730df99254c06953a6f2617647f83b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4730df99254c06953a6f2617647f83b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-2-Catching-Fire-2013-เกมล่าเกม-ภาค-2-แคชชิ่งไฟเออร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hunger Games 1 (2012) เกมล่าเกม ภาค 1",
-    "url": "https://lk-hdx.com/the-hunger-games-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-1-2012-เกมล่าเกม-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/694445ac2cc287a1beef0be964c8191b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/694445ac2cc287a1beef0be964c8191b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Hunger-Games-1-2012-เกมล่าเกม-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "IceMan 2 The Time Traveler (2018) ไอซ์แมน ภาค 2 ดอนนี่ เยน เยิ่นต๊ะหัว",
-    "url": "https://lk-hdx.com/iceman-2-the-time-traveler-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/IceMan-2-The-Time-Traveler-2018-ไอซ์แมน-ภาค-2-ดอนนี่-เยน-เยิ่นต๊ะหัว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/337dedf68d761bb952df219695808188/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/337dedf68d761bb952df219695808188"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/IceMan-2-The-Time-Traveler-2018-ไอซ์แมน-ภาค-2-ดอนนี่-เยน-เยิ่นต๊ะหัว-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Iceman 1 (2014) ไอซ์แมน ภาค 1 ล่าทะลุศตวรรษ",
-    "url": "https://lk-hdx.com/iceman-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Iceman-1-2014-ไอซ์แมน-ภาค-1-ล่าทะลุศตวรรษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d83a3678905d37015102f21164d1e9ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d83a3678905d37015102f21164d1e9ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Iceman-1-2014-ไอซ์แมน-ภาค-1-ล่าทะลุศตวรรษ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Into The Blue 2 The Reef (2009) ดิ่งลึก ฉกมฤตยู ภาค 2",
-    "url": "https://lk-hdx.com/into-the-blue-2-the-reef-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Into-The-Blue-2-The-Reef-2009-ดิ่งลึก-ฉกมฤตยู-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c73aa7dd47a7a36ff2dc63e0ba7516e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c73aa7dd47a7a36ff2dc63e0ba7516e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Into-The-Blue-2-The-Reef-2009-ดิ่งลึก-ฉกมฤตยู-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Into The Blue 1 (2005) ดิ่งลึก ฉกมหาภัย ภาค 1",
-    "url": "https://lk-hdx.com/into-the-blue-1-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Into-The-Blue-1-2005-ดิ่งลึก-ฉกมหาภัย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbf13d0f285337e2ffcfb595660187ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbf13d0f285337e2ffcfb595660187ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Into-The-Blue-1-2005-ดิ่งลึก-ฉกมหาภัย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alien Vs Predator 2 Requiem (2007) เอเลียน ปะทะ พรีเดเตอร์ ภาค 2",
-    "url": "https://lk-hdx.com/alien-vs-predator-2-requiem-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alien-Vs-Predator-2-Requiem-2007-เอเลียน-ปะทะ-พรีเดเตอร์-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/117f6b8760e13447f05fd7b305df9a8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/117f6b8760e13447f05fd7b305df9a8f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Alien-Vs-Predator-2-Requiem-2007-เอเลียน-ปะทะ-พรีเดเตอร์-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alien Vs Predator 1 (2004) เอเลียน ปะทะ พรีเดเตอร์ ภาค 1",
-    "url": "https://lk-hdx.com/alien-vs-predator-1-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alien-Vs-Predator-1-2004-เอเลียน-ปะทะ-พรีเดเตอร์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a35376d28a5e3e557933eacd099c5d6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a35376d28a5e3e557933eacd099c5d6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Alien-Vs-Predator-1-2004-เอเลียน-ปะทะ-พรีเดเตอร์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kill Bill 2 (2004) นางฟ้าซามูไร ภาค 2",
-    "url": "https://lk-hdx.com/kill-bill-2-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Kill-Bill-2-2004-นางฟ้าซามูไร-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7a685b22b84d06e04b98706c65a4c7fa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a685b22b84d06e04b98706c65a4c7fa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Kill-Bill-2-2004-นางฟ้าซามูไร-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kill Bill 1 (2003) นางฟ้าซามูไร ภาค 1",
-    "url": "https://lk-hdx.com/kill-bill-1-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Kill-Bill-1-2003-นางฟ้าซามูไร-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0c0df3c6978a49cf63c5f19da2300ab4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0c0df3c6978a49cf63c5f19da2300ab4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Kill-Bill-1-2003-นางฟ้าซามูไร-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "National Treasure 2 (2007) ปฎิบัติการเดือด ล่าบันทึกลับสุดขอบโลก ภาค 2",
-    "url": "https://lk-hdx.com/national-treasure-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/National-Treasure-2-2007-ปฎิบัติการเดือด-ล่าบันทึกลับสุดขอบโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a3490555fb4a07536b3ae50b7fb3568/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a3490555fb4a07536b3ae50b7fb3568"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/National-Treasure-2-2007-ปฎิบัติการเดือด-ล่าบันทึกลับสุดขอบโลก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "National Treasure 1 (2004) ปฏิบัติการเดือด ล่าขุมทรัพย์สุดขอบโลก ภาค 1",
-    "url": "https://lk-hdx.com/national-treasure-1-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/National-Treasure-1-2004-ปฏิบัติการเดือด-ล่าขุมทรัพย์สุดขอบโลก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b61fa8cc7a52dfe0be381cb00e978150/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b61fa8cc7a52dfe0be381cb00e978150"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/National-Treasure-1-2004-ปฏิบัติการเดือด-ล่าขุมทรัพย์สุดขอบโลก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Teenage Mutant Ninja Turtles 1 (2014) เต่านินจา ภาค 1",
-    "url": "https://lk-hdx.com/teenage-mutant-ninja-turtles-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Teenage-Mutant-Ninja-Turtles-1-2014-เต่านินจา-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a118dc52da075b86d88a019db885b2f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a118dc52da075b86d88a019db885b2f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Teenage-Mutant-Ninja-Turtles-1-2014-เต่านินจา-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Teenage Mutant Ninja Turtles 2 Out of the Shadows (2016) เต่านินจา ภาค 2 จากเงาสู่ฮีโร่",
-    "url": "https://lk-hdx.com/teenage-mutant-ninja-turtles-2-out-of-the-shadows-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Teenage-Mutant-Ninja-Turtles-2-Out-of-the-Shadows-2016-เต่านินจา-ภาค-2-จากเงาสู่ฮีโร่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3145a04d33c4614f117d6c1c1fa8c36f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3145a04d33c4614f117d6c1c1fa8c36f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Teenage-Mutant-Ninja-Turtles-2-Out-of-the-Shadows-2016-เต่านินจา-ภาค-2-จากเงาสู่ฮีโร่-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Angry Birds Movie 2 (2019) แอ็งกรี เบิร์ดส เดอะ มูฟวี่ 2",
-    "url": "https://lk-hdx.com/the-angry-birds-movie-2-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Angry-Birds-Movie-2-2019-แอ็งกรี-เบิร์ดส-เดอะ-มูฟวี่-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de5f6c60257cc99293ecf158cd241aa6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de5f6c60257cc99293ecf158cd241aa6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Angry-Birds-Movie-2-2019-แอ็งกรี-เบิร์ดส-เดอะ-มูฟวี่-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Angry Birds Movie 1 (2016) แอ็งกรี เบิร์ดส เดอะ มูวี่ 1",
-    "url": "https://lk-hdx.com/the-angry-birds-movie-1-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Angry-Birds-Movie-1-2016-แอ็งกรี-เบิร์ดส-เดอะ-มูวี่-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3b96053d2a475f655d3a853e13c05357/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3b96053d2a475f655d3a853e13c05357"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Angry-Birds-Movie-1-2016-แอ็งกรี-เบิร์ดส-เดอะ-มูวี่-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Bodyguard 2 (2007) บอดี้การ์ดหน้าเหลี่ยม ภาค 2",
-    "url": "https://lk-hdx.com/the-bodyguard-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-2-2007-บอดี้การ์ดหน้าเหลี่ยม-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e58dc8f4b557a076485be5e335cfc48b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e58dc8f4b557a076485be5e335cfc48b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-2-2007-บอดี้การ์ดหน้าเหลี่ยม-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Bodyguard 1 (2004) บอดี้การ์ดหน้าเหลี่ยม ภาค 1",
-    "url": "https://lk-hdx.com/the-bodyguard-1-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-1-2004-บอดี้การ์ดหน้าเหลี่ยม-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/609fbae39f6d078195c219e0ae5ed26e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/609fbae39f6d078195c219e0ae5ed26e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-1-2004-บอดี้การ์ดหน้าเหลี่ยม-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Chronicles Of Narnia 3 (2010) อภินิหารตำนานแห่งนาร์เนีย ภาค 3 ตอน ผจญภัยโพ้นทะเล",
-    "url": "https://lk-hdx.com/the-chronicles-of-narnia-3-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Chronicles-Of-Narnia-3-2010-อภินิหารตำนานแห่งนาร์เนีย-ภาค-3-ตอน-ผจญภัยโพ้นทะเล-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fhA_ObrmR4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Chronicles-Of-Narnia-3-2010-อภินิหารตำนานแห่งนาร์เนีย-ภาค-3-ตอน-ผจญภัยโพ้นทะเล-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Chronicles Of Narnia 2 (2008) อภินิหารตำนานแห่งนาร์เนีย ภาค 2 ตอน เจ้าชายแคสเปี้ยน",
-    "url": "https://lk-hdx.com/the-chronicles-of-narnia-2-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Chronicles-Of-Narnia-2-2008-อภินิหารตำนานแห่งนาร์เนีย-ภาค-2-ตอน-เจ้าชายแคสเปี้ยน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1fd78e87fcd976e932ef4c30bb3d9ef1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1fd78e87fcd976e932ef4c30bb3d9ef1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Chronicles-Of-Narnia-2-2008-อภินิหารตำนานแห่งนาร์เนีย-ภาค-2-ตอน-เจ้าชายแคสเปี้ยน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Chronicles of Narnia The Lion the Witch and the Wardrobe (2005) อภินิหารตำนานแห่งนาร์เนีย ภาค 1 ตอน ราชสีห์ แม่มด กับตู้พิศวง",
-    "url": "https://lk-hdx.com/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005-อภินิหารตำนานแห่งนาร์เนีย-ภาค-1-ตอน-ราชสีห์-แม่มด-กับตู้พิศวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73578e04e93f9853b9329a7edd008326/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73578e04e93f9853b9329a7edd008326"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005-อภินิหารตำนานแห่งนาร์เนีย-ภาค-1-ตอน-ราชสีห์-แม่มด-กับตู้พิศวง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Descent Part 2 (2009) หวีดมฤตยูขย้ำโลก ภาค 2",
-    "url": "https://lk-hdx.com/the-descent-part-2-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Descent-Part-2-2009-หวีดมฤตยูขย้ำโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e15756a6e7054b603c434eab8c536f36/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e15756a6e7054b603c434eab8c536f36"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Descent-Part-2-2009-หวีดมฤตยูขย้ำโลก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Descent 1 (2005) หวีดมฤตยูขย้ำโลก ภาค 1",
-    "url": "https://lk-hdx.com/the-descent-1-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Descent-1-2005-หวีดมฤตยูขย้ำโลก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3160755fb67469321fb7f2c03dcde822/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3160755fb67469321fb7f2c03dcde822"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Descent-1-2005-หวีดมฤตยูขย้ำโลก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Four 3 (2014) 4 มหากาฬพญายม ภาค 3 ศึกครั้งสุดท้าย",
-    "url": "https://lk-hdx.com/the-four-3-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Four-3-2014-4-มหากาฬพญายม-ภาค-3-ศึกครั้งสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/42e852c07fc9713459bf7304d551ca51/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/42e852c07fc9713459bf7304d551ca51"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Four-3-2014-4-มหากาฬพญายม-ภาค-3-ศึกครั้งสุดท้าย-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Four 2 (2013) 4 มหากาฬพญายม ภาค 2",
