@@ -6424,152 +6424,428 @@
   {
     "title": "Zombie Fight Club (2014) เชื้อไวรัส ซัดสยองโลก",
     "url": "https://lk-hdx.com/zombie-fight-club-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Zombie-Fight-Club-2014-เชื้อไวรัส-ซัดสยองโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Zombie-Fight-Club-2014-เชื้อไวรัส-ซัดสยองโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/ki_NdzM8AG"
+      }
+    ]
   },
   {
     "title": "The Bullet Vanishes (2012) ดับแผนล่ากระสุนสั่งตาย",
     "url": "https://lk-hdx.com/the-bullet-vanishes-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bullet-Vanishes-2012-ดับแผนล่ากระสุนสั่งตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bullet-Vanishes-2012-ดับแผนล่ากระสุนสั่งตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/HH_REAggBS"
+      }
+    ]
   },
   {
     "title": "Life Without Principle (2011) เกมกล คนเงื่อนเงิน",
     "url": "https://lk-hdx.com/life-without-principle-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Life-Without-Principle-2011-เกมกล-คนเงื่อนเงิน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Life-Without-Principle-2011-เกมกล-คนเงื่อนเงิน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ffbe45ec9585fda23d72fba0395e2907"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ffbe45ec9585fda23d72fba0395e2907/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Special ID (2013) พยัคฆ์ร้ายพันธุ์เก๋า",
     "url": "https://lk-hdx.com/special-id-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Special-ID-2013-พยัคฆ์ร้ายพันธุ์เก๋า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Special-ID-2013-พยัคฆ์ร้ายพันธุ์เก๋า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9dcd40951dd68dc10464abe2ae4c3834"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9dcd40951dd68dc10464abe2ae4c3834/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Legendary Amazons (2011) ศึกทะลุฟ้า ตระกูลหยาง",
     "url": "https://lk-hdx.com/legendary-amazons-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Legendary-Amazons-2011-ศึกทะลุฟ้า-ตระกูลหยาง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Legendary-Amazons-2011-ศึกทะลุฟ้า-ตระกูลหยาง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ea0a5125012e495e405cbf40f009c006"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ea0a5125012e495e405cbf40f009c006/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Star Abyss (2024) ห้วงเหวอวกาศ",
     "url": "https://lk-hdx.com/star-abyss-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Star-Abyss-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Star-Abyss-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c3d45451f2136f785f54f5f49cecac3a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c3d45451f2136f785f54f5f49cecac3a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Invisible Guest (2023) คดีโหดกลลวง",
     "url": "https://lk-hdx.com/the-invisible-guest-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Invisible-Guest-2023-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Invisible-Guest-2023-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ae41d7cd41207a5eada3604a148f2780"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ae41d7cd41207a5eada3604a148f2780/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Choo (2020) ฮัดเช้ย รักแท้ไม่แพ้ทาง",
     "url": "https://lk-hdx.com/a-choo-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Choo-2020-ฮัดเช้ย-รักแท้ไม่แพ้ทาง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Choo-2020-ฮัดเช้ย-รักแท้ไม่แพ้ทาง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_iHw5SrS4c"
+      }
+    ]
   },
   {
     "title": "The Queen of Kung Fu 3 (2022) ราชินีกังฟู ภาค 3",
     "url": "https://lk-hdx.com/the-queen-of-kung-fu-3-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-of-Kung-Fu-3-2022-ราชินีกังฟู-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-of-Kung-Fu-3-2022-ราชินีกังฟู-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ee48e2cb263b4f7bdcba0268a29c0da6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ee48e2cb263b4f7bdcba0268a29c0da6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Queen Of Kung Fu 2 (2021) ราชินีกังฟู ภาค 2",
     "url": "https://lk-hdx.com/the-queen-of-kung-fu-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-Of-Kung-Fu-2-2021-ราชินีกังฟู-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Queen-Of-Kung-Fu-2-2021-ราชินีกังฟู-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/g_WTuU2I16"
+      }
+    ]
   },
   {
     "title": "Flying Swords Of Dragon Gate (2011) พยัคฆ์ตะลุยพยัคฆ์",
     "url": "https://lk-hdx.com/flying-swords-of-dragon-gate-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Flying-Swords-Of-Dragon-Gate-2011-พยัคฆ์ตะลุยพยัคฆ์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Flying-Swords-Of-Dragon-Gate-2011-พยัคฆ์ตะลุยพยัคฆ์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d27057d7ca42f3fea6bfcdac36516bc2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d27057d7ca42f3fea6bfcdac36516bc2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I Am A King (2012) ข้า(น้อย)นี่แหละราชา",
     "url": "https://lk-hdx.com/i-am-a-king-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/I-Am-A-King-2012-ข้าน้อยนี่แหละราชา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/I-Am-A-King-2012-ข้าน้อยนี่แหละราชา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/eeb222b85bc0a57fdcb8d448fb828bf9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/eeb222b85bc0a57fdcb8d448fb828bf9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "White Vengeance (2011) ฌ้อปาอ๋อง ศึกแผ่นดินไม่สิ้นแค้น",
     "url": "https://lk-hdx.com/white-vengeance-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/White-Vengeance-2011-ฌ้อปาอ๋อง-ศึกแผ่นดินไม่สิ้นแค้น-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/White-Vengeance-2011-ฌ้อปาอ๋อง-ศึกแผ่นดินไม่สิ้นแค้น-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/231045b7a39d2fc7800eed155737e593"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/231045b7a39d2fc7800eed155737e593/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Unity of Heroes (2018) หวงเฟยหง",
     "url": "https://lk-hdx.com/the-unity-of-heroes-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Unity-of-Heroes-2018-หวงเฟยหง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Unity-of-Heroes-2018-หวงเฟยหง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/04f67c3aa106415bd7e194bfa7b111b7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/04f67c3aa106415bd7e194bfa7b111b7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Cold Steel (2011) ทีมพิฆาต พันธุ์เหล็ก",
     "url": "https://lk-hdx.com/cold-steel-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Cold-Steel-2011-ทีมพิฆาต-พันธุ์เหล็ก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Cold-Steel-2011-ทีมพิฆาต-พันธุ์เหล็ก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/8g_QxCGNyN"
+      }
+    ]
   },
   {
     "title": "Creation of the Gods I Kingdom of Storms (2023) กําเนิดพระเจ้า อาณาจักรแห่งพายุ",
     "url": "https://lk-hdx.com/creation-of-the-gods-i-kingdom-of-storms-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Creation-of-the-Gods-I-Kingdom-of-Storms-2023-กําเนิดพระเจ้า-อาณาจักรแห่งพายุ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Creation-of-the-Gods-I-Kingdom-of-Storms-2023-กําเนิดพระเจ้า-อาณาจักรแห่งพายุ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_HDHmiu23w"
+      }
+    ]
   },
   {
     "title": "The Garden of Evening Mists (2019) สวนฝันในม่านหมอก",
     "url": "https://lk-hdx.com/the-garden-of-evening-mists-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Garden-of-Evening-Mists-2019-สวนฝันในม่านหมอก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Garden-of-Evening-Mists-2019-สวนฝันในม่านหมอก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c6dd6cbb74d59ecf8c0dc0358b7ca40d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c6dd6cbb74d59ecf8c0dc0358b7ca40d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "1911 Revolution (2011) ใหญ่ผ่าใหญ่",
     "url": "https://lk-hdx.com/1911-revolution-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/1911-Revolution-2011-ใหญ่ผ่าใหญ่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/1911-Revolution-2011-ใหญ่ผ่าใหญ่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cecfbb5100c1ba76dcc329ab26976095"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cecfbb5100c1ba76dcc329ab26976095/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Triad (2012) เกิดทั้งที ขอเป็นเจ้าพ่อ",
     "url": "https://lk-hdx.com/triad-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Triad-2012-เกิดทั้งที-ขอเป็นเจ้าพ่อ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Triad-2012-เกิดทั้งที-ขอเป็นเจ้าพ่อ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/80366c6d14d0a425f3e943e4b23a0759"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/80366c6d14d0a425f3e943e4b23a0759/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Iron Protector (2016) ผู้พิทักษ์กำปั้นเดือด",
     "url": "https://lk-hdx.com/iron-protector-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Iron-Protector-2016-ผู้พิทักษ์กำปั้นเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Iron-Protector-2016-ผู้พิทักษ์กำปั้นเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/32a7c1bca3f1f73840015bdd85e7bef2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/32a7c1bca3f1f73840015bdd85e7bef2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Cook Up a Storm (2017) ศึกพ่อครัวดาวรุ่ง",
     "url": "https://lk-hdx.com/cook-up-a-storm-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Cook-Up-a-Storm-2017-ศึกพ่อครัวดาวรุ่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Cook-Up-a-Storm-2017-ศึกพ่อครัวดาวรุ่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/135781a101d804b0712df895a36a3d33"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/135781a101d804b0712df895a36a3d33/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mermaid (2024) ตำนานรักเงือกมนุษย์",
     "url": "https://lk-hdx.com/mermaid-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mermaid-2024-ตำนานรักเงือกมนุษย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mermaid-2024-ตำนานรักเงือกมนุษย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6297d4ac3f8cf87df31d8f6ded603778"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6297d4ac3f8cf87df31d8f6ded603778/master.m3u8"
+      }
+    ]
   },
   {
     "title": "SnowStorm (2024) วิกฤตพายุหิมะ",
     "url": "https://lk-hdx.com/snowstorm-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/SnowStorm-2024-วิกฤตพายุหิมะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/SnowStorm-2024-วิกฤตพายุหิมะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e8568b9c985b10b3f50ee88cb393589b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e8568b9c985b10b3f50ee88cb393589b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fear Is Coming (2016) โรงหนังสยอง",
     "url": "https://lk-hdx.com/fear-is-coming-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Fear-Is-Coming-2016-โรงหนังสยอง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Fear-Is-Coming-2016-โรงหนังสยอง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7d769a137f6ce8e70b46bd2445f75e61"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7d769a137f6ce8e70b46bd2445f75e61/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The God Lei Zhenzi (2024) เทพเหลยเจิ้นจื่อ",
     "url": "https://lk-hdx.com/the-god-lei-zhenzi-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-God-Lei-Zhenzi-2024-เทพเหลยเจิ้นจื่อ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-God-Lei-Zhenzi-2024-เทพเหลยเจิ้นจื่อ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3ec53feff2533b5ba4de6cd5f6a013a3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3ec53feff2533b5ba4de6cd5f6a013a3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Story of Yuan Tiangang (2024) ยุทธจักรของคนเลว",
     "url": "https://lk-hdx.com/the-story-of-yuan-tiangang/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Story-of-Yuan-Tiangang-2024-ยุทธจักรของคนเลว-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Story-of-Yuan-Tiangang-2024-ยุทธจักรของคนเลว-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f8c4f153b229bdc64faacfecef0dcaae"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f8c4f153b229bdc64faacfecef0dcaae/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Angry Pursuit (2023) ไล่ล่าเพราะข้าโกรธ",
     "url": "https://lk-hdx.com/angry-pursuit-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Angry-Pursuit-2023-ไล่ล่าเพราะข้าโกรธ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Angry-Pursuit-2023-ไล่ล่าเพราะข้าโกรธ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8815cfedde9ba12aed8f43fa0c94cc26"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8815cfedde9ba12aed8f43fa0c94cc26/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Desperado (2024) อาชญากรระห่ำ",
     "url": "https://lk-hdx.com/desperado/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Desperado-2024-อาชญากรระห่ำ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Desperado-2024-อาชญากรระห่ำ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b24d2272d3125481d8822a842c47a4d1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b24d2272d3125481d8822a842c47a4d1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Drug War (2012) เกมล่า ลบเหลี่ยมเลว",
     "url": "https://lk-hdx.com/drug-war-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Drug-War-2012-เกมล่า-ลบเหลี่ยมเลว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Drug-War-2012-เกมล่า-ลบเหลี่ยมเลว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ccb8331c43649b464b4b8766146729af"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ccb8331c43649b464b4b8766146729af/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Rise of the Legend (2014) หวงเฟยหง พยัคฆ์ผงาดวีรบุรุษกังฟู",
     "url": "https://lk-hdx.com/rise-of-the-legend-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Rise-of-the-Legend-2014-หวงเฟยหง-พยัคฆ์ผงาดวีรบุรุษกังฟู-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Rise-of-the-Legend-2014-หวงเฟยหง-พยัคฆ์ผงาดวีรบุรุษกังฟู-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c4f169553d2f540b05fe3c97708ed4af"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c4f169553d2f540b05fe3c97708ed4af/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Captain (2019) เดอะ กัปตัน เหินฟ้าฝ่านรก",
