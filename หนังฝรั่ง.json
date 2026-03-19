@@ -67599,153 +67599,437 @@
   },
   {
     "title": "Summer of the Wolf (2023)",
-    "url": "https://lk-hdx.com/summer-of-the-wolf-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Summer-of-the-Wolf-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7552250fd163de37c510a2a49c3ac63e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7552250fd163de37c510a2a49c3ac63e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Summer-of-the-Wolf-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sayen (2023)",
-    "url": "https://lk-hdx.com/sayen-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Sayen-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://v2.player-xml.com/player/index.php?data=e36258b3c74f08054a974a5fe1703f9c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Sayen-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sharper (2023)",
-    "url": "https://lk-hdx.com/sharper-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Sharper-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3a478f1f4ccca98da74a8a85ea1da258/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a478f1f4ccca98da74a8a85ea1da258"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Sharper-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Snow Falls (2023)",
-    "url": "https://lk-hdx.com/snow-falls-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Snow-Falls-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4a28713e6bdb4cdf891626a7e4ce1edb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4a28713e6bdb4cdf891626a7e4ce1edb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Snow-Falls-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Reality (2023)",
-    "url": "https://lk-hdx.com/reality-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Reality-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e3caa9863e009d4f24b713b70b8d771c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e3caa9863e009d4f24b713b70b8d771c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Reality-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Quicksand (2023)",
-    "url": "https://lk-hdx.com/quicksand-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Quicksand-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/114c2afd8f8ee6764e1618591bb5ff4f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/114c2afd8f8ee6764e1618591bb5ff4f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Quicksand-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Quasi (2023)",
-    "url": "https://lk-hdx.com/quasi-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Quasi-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/OmYDo4_3Bn"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Quasi-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pollen (2023)",
-    "url": "https://lk-hdx.com/pollen-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Pollen-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/abcb882edf443991292217912d8a820d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/abcb882edf443991292217912d8a820d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Pollen-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rye Lane (2023)",
-    "url": "https://lk-hdx.com/rye-lane-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Rye-Lane-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0b8865a9446239df531dcfbc9fbd3437/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b8865a9446239df531dcfbc9fbd3437"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Rye-Lane-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Beanie Bubble (2023)",
-    "url": "https://lk-hdx.com/the-beanie-bubble-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Beanie-Bubble-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a6722579f56eeec80708aaf982cf3e48/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a6722579f56eeec80708aaf982cf3e48"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Beanie-Bubble-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Million Miles Away (2023) ฝันให้ไกล ไปถึงอวกาศ",
-    "url": "https://lk-hdx.com/a-million-miles-away-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Million-Miles-Away-2023-ฝันให้ไกล-ไปถึงอวกาศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cb0ce2aa7a6c52c93b6a66d2e90c9bc7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cb0ce2aa7a6c52c93b6a66d2e90c9bc7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Million-Miles-Away-2023-ฝันให้ไกล-ไปถึงอวกาศ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ehrengard The Art of Seduction (2023) ศิลปะแห่งการยั่วยวน",
-    "url": "https://lk-hdx.com/ehrengard-the-art-of-seduction-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ehrengard-The-Art-of-Seduction-2023-ศิลปะแห่งการยั่วยวน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eba1be285ab9604670f804526f7ffb1d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eba1be285ab9604670f804526f7ffb1d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ehrengard-The-Art-of-Seduction-2023-ศิลปะแห่งการยั่วยวน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Love at First Sight (2023) รักแรกพบ",
-    "url": "https://lk-hdx.com/love-at-first-sight-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-at-First-Sight-2023-รักแรกพบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/19b972a8687fc51b04094464d84f97d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19b972a8687fc51b04094464d84f97d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-at-First-Sight-2023-รักแรกพบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Elesin Oba The King’s Horseman (2022) ทหารม้าของราชา",
-    "url": "https://lk-hdx.com/elesin-oba-the-kings-horseman-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Elesin-Oba-The-Kings-Horseman-2022-ทหารม้าของราชา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0352a40e6facfc8aa8e2e2f570118fcd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0352a40e6facfc8aa8e2e2f570118fcd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Elesin-Oba-The-Kings-Horseman-2022-ทหารม้าของราชา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "End of the Road (2022) สุดปลายถนน",
-    "url": "https://lk-hdx.com/end-of-the-road-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/End-of-the-Road-2022-สุดปลายถนน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/65224d24efeb0c2f611fedc2f708cf16/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/65224d24efeb0c2f611fedc2f708cf16"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/End-of-the-Road-2022-สุดปลายถนน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Falling for Christmas (2022) ตกหลุมรักวันคริสต์มาส",
-    "url": "https://lk-hdx.com/falling-for-christmas-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Falling-for-Christmas-2022-ตกหลุมรักวันคริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/214eda98b61f05cbe89ca3391a7c85fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/214eda98b61f05cbe89ca3391a7c85fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Falling-for-Christmas-2022-ตกหลุมรักวันคริสต์มาส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "F*ck Love Too (2022) รักห่วยแตก อีกแล้ว",
-    "url": "https://lk-hdx.com/fck-love-too-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/F-ck-Love-Too-2022-รักห่วยแตก-อีกแล้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4f739a673e03f3ba4c190c0fa328928/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4f739a673e03f3ba4c190c0fa328928"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/F-ck-Love-Too-2022-รักห่วยแตก-อีกแล้ว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "5000 Blankets (2022)",
-    "url": "https://lk-hdx.com/5000-blankets-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/5000-Blankets-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8917dfa21072e154a8d1e62c0bc00c61/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8917dfa21072e154a8d1e62c0bc00c61"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/5000-Blankets-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Counf (2023) ท่านเคานท์",
-    "url": "https://lk-hdx.com/the-counf-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Counf-2023-ท่านเคานท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7391fd84c7545550491b6c5c7821f978/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7391fd84c7545550491b6c5c7821f978"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Counf-2023-ท่านเคานท์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bigbug (2022) บิ๊กบั๊ก",
-    "url": "https://lk-hdx.com/bigbug-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bigbug-2022-บิ๊กบั๊ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca8f759a3c8915f6ac00384e65337de4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca8f759a3c8915f6ac00384e65337de4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bigbug-2022-บิ๊กบั๊ก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Black Crab (2022) แบล็คแคร็บ",
-    "url": "https://lk-hdx.com/black-crab-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Black-Crab-2022-แบล็คแคร็บ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/54975d36c26e5a0cb44b7919be88c9e0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54975d36c26e5a0cb44b7919be88c9e0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Black-Crab-2022-แบล็คแคร็บ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blonde (2022) บลอนด์",
-    "url": "https://lk-hdx.com/blonde-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Blonde-2022-บลอนด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/zjlTbceb__"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Blonde-2022-บลอนด์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Brazen (2022) ใคร่ฆ่า",
-    "url": "https://lk-hdx.com/brazen-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Brazen-2022-ใคร่ฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/85ccf1ec852de9cdf7f6d505dd6970ea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/85ccf1ec852de9cdf7f6d505dd6970ea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Brazen-2022-ใคร่ฆ่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blackout (2022) แบล็กเอาต์",
-    "url": "https://lk-hdx.com/blackout-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Blackout-2022-แบล็กเอาต์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/43151c1517928f912e7e142622ad83f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/43151c1517928f912e7e142622ad83f2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Blackout-2022-แบล็กเอาต์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Broad Peak (2022) บรอดพีค",
-    "url": "https://lk-hdx.com/broad-peak-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Broad-Peak-2022-บรอดพีค-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/xlj4YQze_Q"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Broad-Peak-2022-บรอดพีค-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bardo (2022) บันทึกผิดๆ ของความจริงแค่หยิบมือ",
-    "url": "https://lk-hdx.com/bardo-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bardo-2022-บันทึกผิดๆ-ของความจริงแค่หยิบมือ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb3449d9e2d4d2b27a3c5fafcf603079/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb3449d9e2d4d2b27a3c5fafcf603079"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Bardo-2022-บันทึกผิดๆ-ของความจริงแค่หยิบมือ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Burning Patience (2022) ไฟฝัน แรงปรารถนา",
-    "url": "https://lk-hdx.com/burning-patience-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Burning-Patience-2022-ไฟฝัน-แรงปรารถนา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb9a1acb293c19d0f2d7e4c39327419d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb9a1acb293c19d0f2d7e4c39327419d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Burning-Patience-2022-ไฟฝัน-แรงปรารถนา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beauty (2022) บิวตี้ เธอผู้งดงาม",
-    "url": "https://lk-hdx.com/beauty-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Beauty-2022-บิ้วตี้-เธอผู้งดงาม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2049d1187a725c5f10819b6132cab0d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2049d1187a725c5f10819b6132cab0d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Beauty-2022-บิ้วตี้-เธอผู้งดงาม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Amsterdam (2022) อัมสเตอร์ดัม",
-    "url": "https://lk-hdx.com/amsterdam-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Amsterdam-2022-อัมสเตอร์ดัม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d302e9c0cdf1ce4d3b49d8637da6f04d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d302e9c0cdf1ce4d3b49d8637da6f04d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Amsterdam-2022-อัมสเตอร์ดัม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Holiday Spectacular (2022)",
-    "url": "https://lk-hdx.com/a-holiday-spectacular-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Holiday-Spectacular-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f939a6687fe60966038fe135216e89d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f939a6687fe60966038fe135216e89d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Holiday-Spectacular-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Broken Idol The Undoing of Diomedes Diaz (2022)",
