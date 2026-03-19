@@ -179,18 +179,193 @@ async function scrapeDetail(url) {
     const $ = cheerio.load(data);
     const embeds = [];
 
+    // 🔥 1. iframe ปกติ
     $(".player-api iframe").each((i, el) => {
-      const src = $(el).attr("src");
-      if (src) embeds.push(src);
+      const src = $(el).attr("src") || $(el).attr("data-src");
+if (src) {
+  const clean = src.replace(/\/1$/, ""); // 🔥 ตัด /1 ทิ้ง
+  embeds.push(clean);
+}
     });
 
-    return embeds;
+    // 🔥 2. fallback: playercheck
+    if (embeds.length === 0) {
+      const scriptMatch = data.match(/playercheck\.php\?vid=([a-zA-Z0-9_]+)/);
+      if (scriptMatch) {
+        const vid = scriptMatch[1];
+        embeds.push(`https://player.enjoy24cdn.com/embed/${vid}/`);
+      }
+    }
+
+    // 🔥 3. fallback: embed ตรง
+    if (embeds.length === 0) {
+      const match = data.match(/embed\/([a-zA-Z0-9]+)/);
+      if (match) {
+        embeds.push(`https://player.enjoy24cdn.com/embed/${match[1]}/`);
+      }
+    }
+
+    // 🔥 ถ้ามี embed → ไป extract m3u8
+    if (embeds.length > 0) {
+      const results = [];
+
+      for (const embedUrl of embeds) {
+        const result = await extractM3U8(embedUrl);
+
+        results.push({
+          embed: result?.playUrl || embedUrl,
+          m3u8: result?.m3u8 || null
+        });
+      }
+
+      return results;
+    }
+
+    // 🔥 หา vid ตรง
+    const vidMatch = data.match(/vid["'\s:=]+([a-zA-Z0-9_]+)/);
+
+    if (vidMatch) {
+      const vid = vidMatch[1];
+
+      try {
+        // STEP 1
+        const { data: dataRes } = await axios.get(
+          `https://player.enjoy24cdn.com/data.php?vid=${vid}&uid=1`,
+          {
+            headers: {
+              "User-Agent": "Mozilla/5.0",
+              "Referer": `https://player.enjoy24cdn.com/embed/${vid}/1`,
+              "x-auth-token": "195610202"
+            }
+          }
+        );
+
+        if (!dataRes?.data?.length) return [];
+
+        const apiUrl = dataRes.data[0].api;
+
+        // STEP 2
+        const { data: jsonRes } = await axios.get(apiUrl, {
+          headers: {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": `https://player.enjoy24cdn.com/embed/${vid}/1`
+          }
+        });
+
+        // STEP 3
+        let realId = JSON.stringify(jsonRes).match(/hlsr2\/([a-z0-9]+)\//i)?.[1];
+        if (!realId) realId = vid;
+
+        return [{
+          embed: `https://original.enjoy24cdn.com/play/${realId}`,
+          m3u8: `https://original.enjoy24cdn.com/hlsr2/${realId}/master.m3u8`
+        }];
+
+      } catch (err) {
+        console.log("❌ vid flow error:", err.message);
+        return [];
+      }
+    }
+
+    return [];
 
   } catch (err) {
     console.log("detail error:", err.message);
     return [];
   }
 }
+
+async function extractM3U8(embedUrl) {
+  try {
+    // 🔹 1. ดึง vid
+    const vidMatch = embedUrl.match(/\/embed\/([a-zA-Z0-9]+)/);
+    if (!vidMatch) return null;
+    const vid = vidMatch[1];
+
+    // 🔹 2. generate token (เหมือนหน้าเว็บ)
+    const token = Buffer.from(Date.now().toString()).toString("base64");
+
+    // 🔹 3. ยิง API จริง
+    const { data } = await axios.post(
+      "https://player.enjoy24cdn.com/ajax/get_video_streams/",
+      {
+        vid: vid,
+        token: token
+      },
+      {
+        headers: {
+          "User-Agent": "Mozilla/5.0",
+          "Content-Type": "application/json",
+          "Referer": embedUrl,
+          "Origin": "https://player.enjoy24cdn.com"
+        }
+      }
+    );
+
+    if (!data || !data.streams) {
+      console.log("❌ no streams");
+      return null;
+    }
+
+    // 🔥 หา stream ที่ใช้ได้
+    const stream = data.streams.find(s => s.status == "1");
+
+    if (stream && stream.link) {
+  const playUrl = stream.link;
+
+  // 🔥 ยิง play page ต่อ
+  const { data: playData } = await axios.get(playUrl, {
+    headers: {
+      "User-Agent": "Mozilla/5.0",
+      "Referer": embedUrl
+    }
+  });
+
+  // 🔥 หา m3u8
+  let match = null;
+
+// 🔥 แบบ 1: const url = "...m3u8"
+match = playData.match(/const\s+url\s*=\s*["']([^"']+\.m3u8[^"']*)/);
+if (match) {
+  console.log("🎯 FOUND m3u8:", match[1]);
+  return {
+    playUrl: playUrl,
+    m3u8: match[1]
+  };
+}
+
+// 🔥 แบบ 2: m3u8 ปกติ
+match = playData.match(/https?:\/\/[^"']+\.m3u8[^"']*/);
+if (match) {
+  console.log("🎯 FOUND m3u8:", match[0]);
+  return {
+  playUrl: playUrl,
+  m3u8: match[0]
+};
+}
+
+// 🔥 แบบ 3: filesr2 (IDM จับได้)
+match = playData.match(/https?:\/\/[^"']+\/filesr2\/[^"']+\/index/);
+if (match) {
+  console.log("🎯 FOUND filesr2:", match[0]);
+  return {
+  playUrl: playUrl,
+  m3u8: match[0]
+};
+}
+console.log("❌ no m3u8 in play page");
+return null;
+}
+
+    console.log("❌ no valid stream");
+    return null;
+
+  } catch (err) {
+    console.log("m3u8 error:", err.message);
+    return null;
+  }
+}
+
 
 // commit
 async function commitChanges(message) {
@@ -274,12 +449,32 @@ async function run() {
       console.log(`🎬 ${i + 1}/${catMovies.length}`);
 
       const embeds = await scrapeDetail(movie.url);
-      await sleep(800);
+await sleep(800);
 
-      movie.servers = embeds.map(e => ({
-        type: "embed",
-        url: e
-      }));
+movie.servers = [];
+
+if (embeds.length === 0) {
+  // 🔹 fallback: server 1 ใช้ url ตัวเล่นตรง ๆ จาก original
+  const vidMatch = movie.url.match(/\/([a-zA-Z0-9-]+)\/$/);
+  if (vidMatch) {
+    const playUrl = `https://original.enjoy24cdn.com/play/${vidMatch[1]}`;
+    movie.servers.push({
+      type: "embed",
+      embed: playUrl,
+      
+    });
+  }
+} else {
+  for (const e of embeds) {
+    const playUrl = e.embed;
+    if (playUrl) {
+  movie.servers.push({ type: "embed", embed: playUrl });
+}
+if (e.m3u8) {
+  movie.servers.push({ type: "m3u8", m3u8: e.m3u8 });
+}
+  }
+}
 
       // 🔥 บันทึกไฟล์ JSON ระหว่างทาง
       await fs.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
