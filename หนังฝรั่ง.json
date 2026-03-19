@@ -28779,153 +28779,445 @@
   },
   {
     "title": "The Hollow Point (2016) นายอำเภอเลือดเดือด",
-    "url": "https://lk-hdx.com/the-hollow-point-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hollow-Point-2016-นายอำเภอเลือดเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eeba68214c564c60d0cf6d3158419646/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eeba68214c564c60d0cf6d3158419646"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hollow-Point-2016-นายอำเภอเลือดเดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Godzilla (2014) ก็อตซิลล่า",
-    "url": "https://lk-hdx.com/godzilla-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2014-ก็อตซิลล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/76956d2a60b7437c7fe4b20c8f48c92b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/76956d2a60b7437c7fe4b20c8f48c92b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2014-ก็อตซิลล่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hercules (2014) เฮอร์คิวลีส",
-    "url": "https://lk-hdx.com/hercules-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Hercules-2014-เฮอร์คิวลีส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/74b0ead3bd7186527315a6c74e39b8f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74b0ead3bd7186527315a6c74e39b8f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Hercules-2014-เฮอร์คิวลีส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Iron Claw (2023)",
-    "url": "https://lk-hdx.com/the-iron-claw-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Iron-Claw-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3a56b51e236df77ad3c75894b658698e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a56b51e236df77ad3c75894b658698e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Iron-Claw-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Extraction Day (2014) วันพิฆาต",
-    "url": "https://lk-hdx.com/extraction-day-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Extraction-Day-2014-วันพิฆาต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9a50a8ee4854068b09488afe62d07a95/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9a50a8ee4854068b09488afe62d07a95"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Extraction-Day-2014-วันพิฆาต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wonder (2017) ชีวิตมหัศจรรย์วันเดอร์",
-    "url": "https://lk-hdx.com/wonder-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Wonder-2017-ชีวิตมหัศจรรย์วันเดอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5e9603be183662422f4135abc463cd91/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e9603be183662422f4135abc463cd91"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Wonder-2017-ชีวิตมหัศจรรย์วันเดอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Stalingrad (2013) สตาลินกราด",
-    "url": "https://lk-hdx.com/stalingrad-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Stalingrad-2013-สตาลินกราด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/edd9180c4c84ebe0b3cd850e83035ed8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/edd9180c4c84ebe0b3cd850e83035ed8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Stalingrad-2013-สตาลินกราด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hybrid (2010) สี่ล้อพันธุ์นรก",
-    "url": "https://lk-hdx.com/hybrid-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Hybrid-2010-สี่ล้อพันธุ์นรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6e5080e7bee85587178912b28b52d65a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6e5080e7bee85587178912b28b52d65a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Hybrid-2010-สี่ล้อพันธุ์นรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "2036 Origin Unknown (2018) เดอะคิวบ์ ลูกบาศก์ที่หายไป",
-    "url": "https://lk-hdx.com/2036-origin-unknown-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/2036-Origin-Unknown-2018-เดอะคิวบ์-ลูกบาศก์ที่หายไป-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/55683ec1c3407c1133d34b31c4214c26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/55683ec1c3407c1133d34b31c4214c26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/2036-Origin-Unknown-2018-เดอะคิวบ์-ลูกบาศก์ที่หายไป-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dune Part Two (2024) ดูน ภาค 2",
-    "url": "https://lk-hdx.com/dune-part-two-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/11e62dd10046f86861218bf6bd596984/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/11e62dd10046f86861218bf6bd596984"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lavalantula (2015) ฝูงแมงมุมลาวากลืนเมือง",
-    "url": "https://lk-hdx.com/lavalantula-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Lavalantula-2015-ฝูงแมงมุมลาวากลืนเมือง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eecd3a9f88d529683f4a8b537b0ef650/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eecd3a9f88d529683f4a8b537b0ef650"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Lavalantula-2015-ฝูงแมงมุมลาวากลืนเมือง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Search and Destroy (2020) ค้นหาและทำลาย",
-    "url": "https://lk-hdx.com/search-and-destroy-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Search-and-Destroy-2020-ค้นหาและทำลาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/00f7077f677f8288de51822a20d3265a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/00f7077f677f8288de51822a20d3265a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Search-and-Destroy-2020-ค้นหาและทำลาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Science Fiction Volume One The Osiris Child (2016)",
-    "url": "https://lk-hdx.com/science-fiction-volume-one-the-osiris-child-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Science-Fiction-Volume-One-The-Osiris-Child-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/26347b0bb02fe3fe05ecad8ddecb641e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/26347b0bb02fe3fe05ecad8ddecb641e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Science-Fiction-Volume-One-The-Osiris-Child-2016-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Out of Darkness (2022)",
-    "url": "https://lk-hdx.com/out-of-darkness-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Out-of-Darkness-2022-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b16c63dc4dd968d322df5cd209f00edd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b16c63dc4dd968d322df5cd209f00edd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Out-of-Darkness-2022-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Poor Things (2023) พัวร์ ธิงส์",
-    "url": "https://lk-hdx.com/poor-things-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Poor-Things-2023-พัวร์-ธิงส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3f5db722f1f981d339b6beb9e7f32740/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3f5db722f1f981d339b6beb9e7f32740"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Poor-Things-2023-พัวร์-ธิงส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Mermaid in Paris (2020) รักเธอ เมอร์เมด",
-    "url": "https://lk-hdx.com/a-mermaid-in-paris-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/A-Mermaid-in-Paris-2020-รักเธอ-เมอร์เมด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/52690be8c66d045c9361d574158c61ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/52690be8c66d045c9361d574158c61ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/A-Mermaid-in-Paris-2020-รักเธอ-เมอร์เมด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pirammida (2011) แผนรวยล้น คนเหนือเมฆ",
-    "url": "https://lk-hdx.com/pirammida-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pirammida-2011-แผนรวยล้น-คนเหนือเมฆ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5a6f7dc16873dce32998c27498070494/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5a6f7dc16873dce32998c27498070494"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Pirammida-2011-แผนรวยล้น-คนเหนือเมฆ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fear (2023)",
-    "url": "https://lk-hdx.com/fear-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fear-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e0806747a143716e9a76b6053704bebb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e0806747a143716e9a76b6053704bebb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Fear-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Warrior Root of Evil (2021)",
-    "url": "https://lk-hdx.com/the-last-warrior-root-of-evil-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Warrior-Root-of-Evil-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/984123e7d8f129318605c30ce70b119e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/984123e7d8f129318605c30ce70b119e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Warrior-Root-of-Evil-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Timmy Failure Mistakes Were Made (2020) ความผิดพลาดที่ทำให้ ทิมมีเกิดขึ้น",
-    "url": "https://lk-hdx.com/timmy-failure-mistakes-were-made-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Timmy-Failure-Mistakes-Were-Made-2020-ความผิดพลาดที่ทำให้-ทิมมีเกิดขึ้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/69f6a318f6a5ee96dea140f42f80dfb0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/69f6a318f6a5ee96dea140f42f80dfb0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Timmy-Failure-Mistakes-Were-Made-2020-ความผิดพลาดที่ทำให้-ทิมมีเกิดขึ้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Godmothered (2020) ตำนานนางฟ้าแม่ทูลหัว",
-    "url": "https://lk-hdx.com/godmothered-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Godmothered-2020-ตำนานนางฟ้าแม่ทูลหัว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/08f0410a7c535b1b817d4fa2f0106628/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/08f0410a7c535b1b817d4fa2f0106628"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Godmothered-2020-ตำนานนางฟ้าแม่ทูลหัว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Manson Brothers Midnight Zombie Massacre (2021)",
-    "url": "https://lk-hdx.com/the-manson-brothers-midnight-zombie-massacre-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Manson-Brothers-Midnight-Zombie-Massacre-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/esUC_BsSWi"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Manson-Brothers-Midnight-Zombie-Massacre-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Undefiled (2024)",
-    "url": "https://lk-hdx.com/undefiled-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Undefiled-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v5RS_LYxrB"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Undefiled-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Planetquake (2024)",
-    "url": "https://lk-hdx.com/planetquake-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Planetquake-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/38bd3037a6fb47dcf9d83a5866b1ac10/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/38bd3037a6fb47dcf9d83a5866b1ac10"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Planetquake-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Revenant (2015) เดอะ เรเวแนนท์ ต้องรอด",
-    "url": "https://lk-hdx.com/the-revenant-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Revenant-2015-เดอะ-เรเวแนนท์-ต้องรอด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2e636d29703b931f1de4215ca260d275/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e636d29703b931f1de4215ca260d275"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Revenant-2015-เดอะ-เรเวแนนท์-ต้องรอด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bitter Harvest (2017) รักในวันรบ",
-    "url": "https://lk-hdx.com/bitter-harvest-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Bitter-Harvest-2017-รักในวันรบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fc7508b2616f3569b5b7306a7d72e353/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fc7508b2616f3569b5b7306a7d72e353"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Bitter-Harvest-2017-รักในวันรบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Made (2017) อเมริกัน เมด",
-    "url": "https://lk-hdx.com/american-made-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/American-Made-2017-อเมริกัน-เมด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e972976641ebfdfa29c92d99662c8335/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e972976641ebfdfa29c92d99662c8335"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/American-Made-2017-อเมริกัน-เมด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Burning Kentucky (2019) เบิร์นนิ่ง เคนทักกี้",
-    "url": "https://lk-hdx.com/burning-kentucky-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Burning-Kentucky-2019-เบิร์นนิ่ง-เคนทักกี้-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9c20886c5104d5cc0e9e9eb9833d53ff/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c20886c5104d5cc0e9e9eb9833d53ff"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Burning-Kentucky-2019-เบิร์นนิ่ง-เคนทักกี้-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Clover (2020)",
-    "url": "https://lk-hdx.com/clover-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Clover-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ed26ed6e6c59462213fdc0045d20ccda/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ed26ed6e6c59462213fdc0045d20ccda"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Clover-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I Carry You with Me (2020)",
-    "url": "https://lk-hdx.com/i-carry-you-with-me-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Carry-You-with-Me-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/12c44391ea7f0acfe94f5c3469485456/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/12c44391ea7f0acfe94f5c3469485456"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Carry-You-with-Me-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dead in a Week (Or Your Money Back) (2018) มือปืนสายบ๊อง",
