@@ -28362,152 +28362,420 @@
   {
     "title": "Skylines 3 (2020) สงครามสกายไลน์ดูดโลก ภาค 3",
     "url": "https://lk-hdx.com/skylines-3-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Skylines-3-2020-สงครามสกายไลน์ดูดโลก-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Skylines-3-2020-สงครามสกายไลน์ดูดโลก-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d30292cb295fbc0257a4ae2f971e8206"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d30292cb295fbc0257a4ae2f971e8206/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Beyond Skyline 2 (2017) อสูรท้านรก",
     "url": "https://lk-hdx.com/beyond-skyline-2-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Beyond-Skyline-2-2017-อสูรท้านรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Beyond-Skyline-2-2017-อสูรท้านรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/60ac039a602e5194496cbb154d619f98"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/60ac039a602e5194496cbb154d619f98/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Skyline 1 (2010) สงครามสกายไลน์ดูดโลก ภาค 1",
     "url": "https://lk-hdx.com/skyline-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Skyline-1-2010-สงครามสกายไลน์ดูดโลก-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Skyline-1-2010-สงครามสกายไลน์ดูดโลก-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/77388567799b1a26ed6cba9e97109b75"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/77388567799b1a26ed6cba9e97109b75/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sicario 2 Day Of The Soldado (2018) ทีมพิฆาตทะลุแดนเดือด ภาค 2",
     "url": "https://lk-hdx.com/sicario-2-day-of-the-soldado-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-2-Day-Of-The-Soldado-2018-ทีมพิฆาตทะลุแดนเดือด-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-2-Day-Of-The-Soldado-2018-ทีมพิฆาตทะลุแดนเดือด-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/859a526f03b5694bde54a005c6d857df"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/859a526f03b5694bde54a005c6d857df/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sicario 1 (2015) ทีมพิฆาตทะลุแดนเดือด ภาค 1",
     "url": "https://lk-hdx.com/sicario-1-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-1-2015-ทีมพิฆาตทะลุแดนเดือด-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-1-2015-ทีมพิฆาตทะลุแดนเดือด-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b684c9030520d64816cb29374b2a8ac3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b684c9030520d64816cb29374b2a8ac3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Boyka Undisputed 4 (2016) นักชกจ้าวสังเวียน ภาค 4",
     "url": "https://lk-hdx.com/boyka-undisputed-4-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Boyka-Undisputed-4-2016-นักชกจ้าวสังเวียน-ภาค-4-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Boyka-Undisputed-4-2016-นักชกจ้าวสังเวียน-ภาค-4-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/50ef05838228d63d927dad961d98c4d9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/50ef05838228d63d927dad961d98c4d9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mean Girls (2024) ก๊วนสาวซ่าส์ วีนซะไม่มี",
     "url": "https://lk-hdx.com/mean-girls-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Mean-Girls-2024-ก๊วนสาวซ่าส์-วีนซะไม่มี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Mean-Girls-2024-ก๊วนสาวซ่าส์-วีนซะไม่มี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9832586a432fde80b0b5412e037808b0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9832586a432fde80b0b5412e037808b0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pride and Prejudice and Zombies (2016) เลดี้ ซอมบี้",
     "url": "https://lk-hdx.com/pride-and-prejudice-and-zombies-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pride-and-Prejudice-and-Zombies-2016-เลดี้-ซอมบี้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pride-and-Prejudice-and-Zombies-2016-เลดี้-ซอมบี้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8829e08ff8eb85b9b347ff9f6a58a466"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8829e08ff8eb85b9b347ff9f6a58a466/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Great Ghost Rescue (2011) ครอบครัวบ้านผีเพี้ยน",
     "url": "https://lk-hdx.com/the-great-ghost-rescue-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Great-Ghost-Rescue-2011-ครอบครัวบ้านผีเพี้ยน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Great-Ghost-Rescue-2011-ครอบครัวบ้านผีเพี้ยน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b75a6d73ef1ba3eaed71354629848452"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b75a6d73ef1ba3eaed71354629848452/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Darkest Hour (2011) มหันตภัยมืดถล่มโลก",
     "url": "https://lk-hdx.com/the-darkest-hour-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Darkest-Hour-2011-มหันตภัยมืดถล่มโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Darkest-Hour-2011-มหันตภัยมืดถล่มโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1cd3ef53f7b5f511add8286383d6d2c2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1cd3ef53f7b5f511add8286383d6d2c2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Safe House (2012) ภารกิจเดือดฝ่าด่านตาย",
     "url": "https://lk-hdx.com/safe-house-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Safe-House-2012-ภารกิจเดือดฝ่าด่านตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Safe-House-2012-ภารกิจเดือดฝ่าด่านตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/rzI_sfZFXd"
+      }
+    ]
   },
   {
     "title": "Lawless (2012) คนเถื่อนเมืองมหากาฬ",
     "url": "https://lk-hdx.com/lawless-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lawless-2012-คนเถื่อนเมืองมหากาฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lawless-2012-คนเถื่อนเมืองมหากาฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/af957ee98e7e37c4ef3597614058badb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/af957ee98e7e37c4ef3597614058badb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "1917 (2020)",
     "url": "https://lk-hdx.com/1917-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/1917-2020-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/1917-2020-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e3467430046d6613ca8a147d97d8ac47"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e3467430046d6613ca8a147d97d8ac47/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Foreigner (2017) 2 โคตรพยัคฆ์ผู้ยิ่งใหญ่",
     "url": "https://lk-hdx.com/the-foreigner-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Foreigner-2017-2-โคตรพยัคฆ์ผู้ยิ่งใหญ่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Foreigner-2017-2-โคตรพยัคฆ์ผู้ยิ่งใหญ่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/73a2c2d75db3683a8eb8f11656141353"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/73a2c2d75db3683a8eb8f11656141353/master.m3u8"
+      }
+    ]
   },
   {
     "title": "It Boy (2013) ว้าวุ่นใจตามหารัก",
     "url": "https://lk-hdx.com/it-boy-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/It-Boy-2013-ว้าวุ่นใจตามหารัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/It-Boy-2013-ว้าวุ่นใจตามหารัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d6864b16b840762fd58fc0c28f505026"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d6864b16b840762fd58fc0c28f505026/master.m3u8"
+      }
+    ]
   },
   {
     "title": "From Paris with Love (2010) คู่ระห่ำ ฝรั่งแสบ",
     "url": "https://lk-hdx.com/from-paris-with-love-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/From-Paris-with-Love-2010-คู่ระห่ำ-ฝรั่งแสบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/From-Paris-with-Love-2010-คู่ระห่ำ-ฝรั่งแสบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_1EH3JhWex"
+      }
+    ]
   },
   {
     "title": "The Rite (2011) คนไล่ผี",
     "url": "https://lk-hdx.com/the-rite-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Rite-2011-คนไล่ผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Rite-2011-คนไล่ผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1d507cd7284b9dcdd0558a374bb13852"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1d507cd7284b9dcdd0558a374bb13852/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Total Recall 2 (2012) คนทะลุโลก ภาค 2",
     "url": "https://lk-hdx.com/total-recall-2-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Total-Recall-2-2012-คนทะลุโลก-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Total-Recall-2-2012-คนทะลุโลก-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/lAhw_Ju3E7"
+      }
+    ]
   },
   {
     "title": "Mechanic 2 Resurrection (2016) โคตรเพชฌฆาต แค้นข้ามโลก",
     "url": "https://lk-hdx.com/mechanic-2-resurrection-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Mechanic-2-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Mechanic-2-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/746a81aebce5fb55855b7d13bab3bb92"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/746a81aebce5fb55855b7d13bab3bb92/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Mechanic 1 (2011) โคตรเพชฌฆาตแค้นมหากาฬ",
     "url": "https://lk-hdx.com/the-mechanic-1-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Mechanic-1-2011-โคตรเพชฌฆาตแค้นมหากาฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Mechanic-1-2011-โคตรเพชฌฆาตแค้นมหากาฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ff4dae12bca3d0a5bd280e2f242572d7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ff4dae12bca3d0a5bd280e2f242572d7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Alita Battle Angel (2019) อลิตา แบทเทิล แองเจิ้ล",
     "url": "https://lk-hdx.com/alita-battle-angel-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Alita-Battle-Angel-2019-อลิตา-แบทเทิล-แองเจิ้ล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Alita-Battle-Angel-2019-อลิตา-แบทเทิล-แองเจิ้ล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/c4fIHwbEr_"
+      }
+    ]
   },
   {
     "title": "Kindergarten Cop 2 (2016) ตำรวจเหล็ก ปราบเด็กแสบ ภาค 2",
     "url": "https://lk-hdx.com/kindergarten-cop-2-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-2-2016-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-2-2016-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/1A31rEl__A"
+      }
+    ]
   },
   {
     "title": "Kindergarten Cop 1 (1990) ตำรวจเหล็ก ปราบเด็กแสบ ภาค 1",
     "url": "https://lk-hdx.com/kindergarten-cop-1-1990/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-1-1990-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-1-1990-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/17c118c510126ceaf9a1b65073ec4d0a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/17c118c510126ceaf9a1b65073ec4d0a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Jack Reacher Never Go Back 2 (2016) ยอดคนสืบระห่ำ ภาค 2",
     "url": "https://lk-hdx.com/jack-reacher-never-go-back-2-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-Never-Go-Back-2-2016-ยอดคนสืบระห่ำ-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-Never-Go-Back-2-2016-ยอดคนสืบระห่ำ-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/55a7e293a8aacd5516b4455170092013"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/55a7e293a8aacd5516b4455170092013/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Jack Reacher 1 (2012) ยอดคนสืบระห่ำ ภาค 1",
     "url": "https://lk-hdx.com/jack-reacher-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-1-2012-ยอดคนสืบระห่ำ-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-1-2012-ยอดคนสืบระห่ำ-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Y7ytv8s1n_"
+      }
+    ]
   },
   {
     "title": "Jonah Hex (2010) โจนาห์ เฮ็กซ์ ฮีโร่หน้าบากมหากาฬ",
     "url": "https://lk-hdx.com/jonah-hex-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Jonah-Hex-2010-โจนาห์-เฮ็กซ์-ฮีโร่หน้าบากมหากาฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Jonah-Hex-2010-โจนาห์-เฮ็กซ์-ฮีโร่หน้าบากมหากาฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/50b6ecc5e8d571d9b478500c2fd2a0ff"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/50b6ecc5e8d571d9b478500c2fd2a0ff/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Impossible (2012) สึนามิภูเก็ต",
     "url": "https://lk-hdx.com/the-impossible-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Impossible-2012-สึนามิภูเก็ต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Impossible-2012-สึนามิภูเก็ต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/x_VLUkBQsA"
+      }
+    ]
   },
   {
     "title": "Clash of the Titans (2010) สงครามมหาเทพประจัญบาน",
     "url": "https://lk-hdx.com/clash-of-the-titans-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Clash-of-the-Titans-2010-สงครามมหาเทพประจัญบาน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Clash-of-the-Titans-2010-สงครามมหาเทพประจัญบาน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Ga1_mLqPvR"
+      }
+    ]
   },
   {
     "title": "The Hollow Point (2016) นายอำเภอเลือดเดือด",
     "url": "https://lk-hdx.com/the-hollow-point-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hollow-Point-2016-นายอำเภอเลือดเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hollow-Point-2016-นายอำเภอเลือดเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/eeba68214c564c60d0cf6d3158419646"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/eeba68214c564c60d0cf6d3158419646/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Godzilla (2014) ก็อตซิลล่า",
     "url": "https://lk-hdx.com/godzilla-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2014-ก็อตซิลล่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2014-ก็อตซิลล่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/76956d2a60b7437c7fe4b20c8f48c92b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/76956d2a60b7437c7fe4b20c8f48c92b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hercules (2014) เฮอร์คิวลีส",
