@@ -60297,153 +60297,445 @@
   },
   {
     "title": "Noise (2022) เสียงนี้ ไม่มีวันแผ่ว",
-    "url": "https://lk-hdx.com/noise-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Noise-2022-เสียงนี้-ไม่มีวันแผ่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef6a780a5bc7a8381c89f14d2f12e2bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef6a780a5bc7a8381c89f14d2f12e2bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Noise-2022-เสียงนี้-ไม่มีวันแผ่ว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "4×4 (2019) รถขังโจร",
-    "url": "https://lk-hdx.com/4x4-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/4×4-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/95f6b101e25e7b45f8198b4ab6721ec8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/95f6b101e25e7b45f8198b4ab6721ec8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/4×4-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Wolf and the Lion (2021) หมาป่าและสิงโต",
-    "url": "https://lk-hdx.com/the-wolf-and-the-lion-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Wolf-and-the-Lion-2021-หมาป่าและสิงโต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a8c718918a37147023b25661d4d41671/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a8c718918a37147023b25661d4d41671"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Wolf-and-the-Lion-2021-หมาป่าและสิงโต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Electrical Life of Louis Wain (2021) ชีวิตสุดโลดแล่นของหลุยส์ เวน",
-    "url": "https://lk-hdx.com/the-electrical-life-of-louis-wain-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Electrical-Life-of-Louis-Wain-2021-ชีวิตสุดโลดแล่นของหลุยส์-เวน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdc2929c744855eaf1e4e84c4bc31dad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdc2929c744855eaf1e4e84c4bc31dad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Electrical-Life-of-Louis-Wain-2021-ชีวิตสุดโลดแล่นของหลุยส์-เวน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pleasure (2021) เพลิงเพลิน",
-    "url": "https://lk-hdx.com/pleasure-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Pleasure-2021-เพลิงเพลิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e4968a88596cb156ae97100155d213e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e4968a88596cb156ae97100155d213e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Pleasure-2021-เพลิงเพลิน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Outside the Wire (2021) สมรภูมินอกลวดหนาม",
-    "url": "https://lk-hdx.com/outside-the-wire-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Outside-the-Wire-2021-สมรภูมินอกลวดหนาม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2313144648fe8be4ee98556a4e0c63da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2313144648fe8be4ee98556a4e0c63da"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Outside-the-Wire-2021-สมรภูมินอกลวดหนาม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Copshop (2021) ปิดสน โจรดวลโจร",
-    "url": "https://lk-hdx.com/copshop-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Copshop-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f44c5cfeabd46e18981e8f03bcaab983/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f44c5cfeabd46e18981e8f03bcaab983"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Copshop-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dune (2021) ดูน",
-    "url": "https://lk-hdx.com/dune-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dune-2021-ดูน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/8AKobUO04_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dune-2021-ดูน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Conference (2023) สัมมานาเลือด",
-    "url": "https://lk-hdx.com/the-conference-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Conference-2023-สัมมานาเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/329d92cd7503ae30a2d2da4292e1a0c4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/329d92cd7503ae30a2d2da4292e1a0c4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Conference-2023-สัมมานาเลือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "IJOGBON (2023) เพชรเถื่อน",
-    "url": "https://lk-hdx.com/ijogbon-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/IJOGBON-2023-เพชรเถื่อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/721b1e48d752c39fb7002fdf8c6ed6fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/721b1e48d752c39fb7002fdf8c6ed6fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/IJOGBON-2023-เพชรเถื่อน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-    "url": "https://lk-hdx.com/the-exorcist-believer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023-หมอผีเอ็กซอร์ซิสต์-ผู้ศรัทธา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0e7f4a96d7f208637f80babcb176341d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e7f4a96d7f208637f80babcb176341d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023-หมอผีเอ็กซอร์ซิสต์-ผู้ศรัทธา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Monster Hunter (2020) มอนสเตอร์ ฮันเตอร์",
-    "url": "https://lk-hdx.com/monster-hunter-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Monster-Hunter-2020-มอนสเตอร์-ฮันเตอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/59871908d7e4e51872dec47ae6c657db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/59871908d7e4e51872dec47ae6c657db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Monster-Hunter-2020-มอนสเตอร์-ฮันเตอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The New Mutants (2020) มิวแทนท์รุ่นใหม่",
-    "url": "https://lk-hdx.com/the-new-mutants-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-New-Mutants-2020-มิวแทนท์รุ่นใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/477b1227213a616968dd84db86b2efeb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/477b1227213a616968dd84db86b2efeb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-New-Mutants-2020-มิวแทนท์รุ่นใหม่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Books of Blood (2020) จารึกโลหิต",
-    "url": "https://lk-hdx.com/books-of-blood-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Books-of-Blood-2020-จารึกโลหิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb9214e1ef59136bd4d12cecbe9e33e1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb9214e1ef59136bd4d12cecbe9e33e1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Books-of-Blood-2020-จารึกโลหิต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harley Quinn Birds of Prey (2020) ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด",
-    "url": "https://lk-hdx.com/harley-quinn-birds-of-prey-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Harley-Quinn-Birds-of-Prey-2020-ทีมนกผู้ล่า-กับฮาร์ลีย์-ควินน์-ผู้เริดเชิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/580aaa19cfd45abba6adfe002cce450c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/580aaa19cfd45abba6adfe002cce450c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Harley-Quinn-Birds-of-Prey-2020-ทีมนกผู้ล่า-กับฮาร์ลีย์-ควินน์-ผู้เริดเชิด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Owners (2020) บ้านนี้มีไว้เชือด",
-    "url": "https://lk-hdx.com/the-owners-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Owners-2020-บ้านนี้มีไว้เชือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f84695e21ebe5038ee9afe9f21fecc63/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f84695e21ebe5038ee9afe9f21fecc63"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Owners-2020-บ้านนี้มีไว้เชือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "2012 (2009) วันสิ้นโลก",
-    "url": "https://lk-hdx.com/2012-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/2012-2009-วันสิ้นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d323baab7357a0a25ccf3c9cb711ad24/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d323baab7357a0a25ccf3c9cb711ad24"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/2012-2009-วันสิ้นโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nymphomaniac Vol. II (2013) ผู้หญิงร้อนสวาท ปัจฉิมบท",
-    "url": "https://lk-hdx.com/nymphomaniac-vol-ii-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-II-2013-ผู้หญิงร้อนสวาท-ปัจฉิมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/975e21d5a22b43dcac31103f2b606868/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/975e21d5a22b43dcac31103f2b606868"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-II-2013-ผู้หญิงร้อนสวาท-ปัจฉิมบท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nymphomaniac Vol. I (2013) ผู้หญิงร้อนสวาท ปฐมบท",
-    "url": "https://lk-hdx.com/nymphomaniac-vol-i-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-I-2013-ผู้หญิงร้อนสวาท-ปฐมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/46dcdde8f7796a1cb8995a5cafd5128c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/46dcdde8f7796a1cb8995a5cafd5128c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-I-2013-ผู้หญิงร้อนสวาท-ปฐมบท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Turning (2020) ปีศาจเลี้ยงลูกคน",
-    "url": "https://lk-hdx.com/the-turning-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Turning-2020-ปีศาจเลี้ยงลูกคน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1f6e98617fd458ad95989f385153edec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1f6e98617fd458ad95989f385153edec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Turning-2020-ปีศาจเลี้ยงลูกคน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kalashnikov (2020) คาลาชนิคอฟ กำเนิดเอเค 47",
-    "url": "https://lk-hdx.com/kalashnikov-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kalashnikov-2020-คาลาชนิคอฟ-กำเนิดเอเค-47-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8d561c4fab285ae50e330dfc94b3bb0d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8d561c4fab285ae50e330dfc94b3bb0d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kalashnikov-2020-คาลาชนิคอฟ-กำเนิดเอเค-47-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deep Blue Sea 3 (2020) ฝูงมฤตยูใต้มหาสมุทร ภาค 3",
-    "url": "https://lk-hdx.com/deep-blue-sea-3-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-Blue-Sea-3-2020-ฝูงมฤตยูใต้มหาสมุทร-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ba79a40aed88c9bc6751c0a974038c73/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ba79a40aed88c9bc6751c0a974038c73"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-Blue-Sea-3-2020-ฝูงมฤตยูใต้มหาสมุทร-ภาค-3-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deep Blue Sea 2 (2018) ฝูงมฤตยูใต้มหาสมุทร ภาค 2",
-    "url": "https://lk-hdx.com/deep-blue-sea-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-Blue-Sea-2-2018-ฝูงมฤตยูใต้มหาสมุทร-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/DYHqN6TJN_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-Blue-Sea-2-2018-ฝูงมฤตยูใต้มหาสมุทร-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deep Blue Sea 1 (1999) ฝูงมฤตยูใต้มหาสมุทร ภาค 1",
-    "url": "https://lk-hdx.com/deep-blue-sea-1-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-Blue-Sea-1-1999-ฝูงมฤตยูใต้มหาสมุทร-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9fbbfe0d35821eefdec76b3253f285d7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9fbbfe0d35821eefdec76b3253f285d7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-Blue-Sea-1-1999-ฝูงมฤตยูใต้มหาสมุทร-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nowhere Special (2020)",
-    "url": "https://lk-hdx.com/nowhere-special-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nowhere-Special-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/479f83ce79b8c5987f6ae81c85d0d62a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/479f83ce79b8c5987f6ae81c85d0d62a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nowhere-Special-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Adventures of Jurassic Pet (2019) ผจญภัย! เพื่อนซี้ ไดโนเสาร์",
-    "url": "https://lk-hdx.com/the-adventures-of-jurassic-pet-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Adventures-of-Jurassic-Pet-2019-ผจญภัย-เพื่อนซี้-ไดโนเสาร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e4b6adedb50972a46d2e8ab321b53332/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e4b6adedb50972a46d2e8ab321b53332"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Adventures-of-Jurassic-Pet-2019-ผจญภัย-เพื่อนซี้-ไดโนเสาร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Inside Man Most Wanted (2019) ปล้นข้ามโลก",
-    "url": "https://lk-hdx.com/inside-man-most-wanted-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Inside-Man-Most-Wanted-2019-ปล้นข้ามโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/56dbbbdc85366abaff89a4a825a05b8b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/56dbbbdc85366abaff89a4a825a05b8b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Inside-Man-Most-Wanted-2019-ปล้นข้ามโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Infection (2019) เชื้อนรก คนคลั่งสยองโลก",
-    "url": "https://lk-hdx.com/infection-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Infection-2019-เชื้อนรก-คนคลั่งสยองโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7c7dd2f2dc93415a9cd9daf265f8e0f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7c7dd2f2dc93415a9cd9daf265f8e0f2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Infection-2019-เชื้อนรก-คนคลั่งสยองโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "In the Shadow of the Moon (2019) ย้อนรอยจันทรฆาต",
-    "url": "https://lk-hdx.com/in-the-shadow-of-the-moon-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/In-the-Shadow-of-the-Moon-2019-ย้อนรอยจันทรฆาต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/354c0d061d85fa9d4205f607c1090d35/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/354c0d061d85fa9d4205f607c1090d35"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/In-the-Shadow-of-the-Moon-2019-ย้อนรอยจันทรฆาต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Countdown (2019) เคาท์ดาวน์ตาย",
-    "url": "https://lk-hdx.com/countdown-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Countdown-2019-เคาท์ดาวน์ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d88a1a3fa13fe4758681318cac48bec7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d88a1a3fa13fe4758681318cac48bec7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Countdown-2019-เคาท์ดาวน์ตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Silence (2019) เงียบให้รอด",
