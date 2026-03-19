@@ -19347,153 +19347,449 @@
   },
   {
     "title": "Behind Enemy Lines (2001) แหกมฤตยูแดนข้าศึก",
-    "url": "https://lk-hdx.com/behind-enemy-lines-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Behind-Enemy-Lines-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8bd13b65c92922a22fda1cdb8073aecf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8bd13b65c92922a22fda1cdb8073aecf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Behind-Enemy-Lines-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Skywalkers A Love Story (2024) คู่รักนักไต่ฟ้า",
-    "url": "https://lk-hdx.com/skywalkers-a-love-story-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Skywalkers-A-Love-Story-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ce3bfd225cdf0cab5a0268ed8450c9a7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ce3bfd225cdf0cab5a0268ed8450c9a7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Skywalkers-A-Love-Story-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Find Me Falling (2024) ล้มลุกแล้วเจอรัก",
-    "url": "https://lk-hdx.com/find-me-falling-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Find-Me-Falling-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6abd43ddedc4374976f70c16e109f71a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6abd43ddedc4374976f70c16e109f71a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Find-Me-Falling-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Gangster (2007) โคตรคนตัดคมมาเฟีย",
-    "url": "https://lk-hdx.com/american-gangster-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Gangster-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/59e772cb1bce959b7b96967e2d560cdb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/59e772cb1bce959b7b96967e2d560cdb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/American-Gangster-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Son of the Mask (2005) หน้ากากเทวดา ภาค 2",
-    "url": "https://lk-hdx.com/son-of-the-mask-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Son-of-the-Mask-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2be22e0efe9e74281d10ef42f8552815/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2be22e0efe9e74281d10ef42f8552815"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Son-of-the-Mask-2005-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Mask (1994) หน้ากากเทวดา ภาค 1",
-    "url": "https://lk-hdx.com/the-mask-1994/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Mask-1994-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0014ad1b35ab5a576ccb6ef5f52f6efe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0014ad1b35ab5a576ccb6ef5f52f6efe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Mask-1994-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Riddick (2013) ริดดิค ภาค 3",
-    "url": "https://lk-hdx.com/riddick-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Riddick-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e2a13cc60f3a2032ea7c0604334af91e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e2a13cc60f3a2032ea7c0604334af91e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Riddick-2013-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Chronicles Of Riddick (2004) ริดดิค ภาค 2",
-    "url": "https://lk-hdx.com/the-chronicles-of-riddick-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Chronicles-Of-Riddick-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9676833473ef412d7ddd2f5d07da0ec0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9676833473ef412d7ddd2f5d07da0ec0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Chronicles-Of-Riddick-2004-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Riddick 1 Pitch Black (2000) ริดดิค ภาค 1 ฝูงค้างคาวฉลาม สยองจักรวาล",
-    "url": "https://lk-hdx.com/riddick-1-pitch-black-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Riddick-1-Pitch-Black-2000-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/39babd2c1d8e257542b3c9b568e6df89/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/39babd2c1d8e257542b3c9b568e6df89"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Riddick-1-Pitch-Black-2000-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ninja Assassin (2009) นินจา แอซแซสซิน แค้นสังหาร เทพบุตรนินจามหากาฬ",
-    "url": "https://lk-hdx.com/ninja-assassin-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Ninja-Assassin-2009-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca4172bc0b1c925b772271458f259cc1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca4172bc0b1c925b772271458f259cc1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Ninja-Assassin-2009-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Meet The Spartans (2008) ขุนศึกพิศดารสะท้านโลก",
-    "url": "https://lk-hdx.com/meet-the-spartans-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Meet-The-Spartans-2008-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aaca407602c2a36b5adda3e6b17d3cf8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aaca407602c2a36b5adda3e6b17d3cf8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Meet-The-Spartans-2008-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Inheritance (2024)",
-    "url": "https://lk-hdx.com/the-inheritance-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Inheritance-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/099e374f84392dfa78bbcd5a893c0394/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/099e374f84392dfa78bbcd5a893c0394"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Inheritance-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Anyone But You (2023) เกลียดนัก รักซะเลย",
-    "url": "https://lk-hdx.com/anyone-but-you-2023-%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b8%b1%e0%b8%81-%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%8b%e0%b8%b0%e0%b9%80%e0%b8%a5%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Anyone-But-You-2023-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6b15fda20b9b4f91c31b5d769dd5978f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b15fda20b9b4f91c31b5d769dd5978f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Anyone-But-You-2023-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Van Helsing (2004) นักล่าล้างเผ่าพันธุ์ปีศาจ",
-    "url": "https://lk-hdx.com/van-helsing-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Van-Helsing-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e57c19b5503b974fb8209c6c7657c5d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e57c19b5503b974fb8209c6c7657c5d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Van-Helsing-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Match Point (2005) แมทช์พ้อยท์ เกมรัก เสน่ห์มรณะ",
-    "url": "https://lk-hdx.com/match-point-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Match-Point-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d0aab29a2a3efeb8db8e549d8b9b6483/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d0aab29a2a3efeb8db8e549d8b9b6483"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Match-Point-2005-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Day After Tomorrow (2004) วิกฤติวันสิ้นโลก",
-    "url": "https://lk-hdx.com/the-day-after-tomorrow-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Day-After-Tomorrow-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5db576539b7ac03e5d9bc953ba7ddb78/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5db576539b7ac03e5d9bc953ba7ddb78"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Day-After-Tomorrow-2004-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Proposal (2009) ลุ้นรักวิวาห์ฟ้าแลบ",
-    "url": "https://lk-hdx.com/the-proposal-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Proposal-2009-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/63fd3b19c6692d8a6d4bbd87d530d5e2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63fd3b19c6692d8a6d4bbd87d530d5e2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Proposal-2009-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Armageddon (1998) อาร์มาเก็ดดอน วันโลกาวินาศ",
-    "url": "https://lk-hdx.com/armageddon-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Armageddon-1998-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5597b5b513d7131b2fe4226a9f2764c2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5597b5b513d7131b2fe4226a9f2764c2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Armageddon-1998-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Twister (1996) ทวิสเตอร์ ทอร์นาโดมฤตยูถล่มโลก",
-    "url": "https://lk-hdx.com/twister-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Twister-1996-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8e5e1ba51be8bcfaf14660fdc7a9c9b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8e5e1ba51be8bcfaf14660fdc7a9c9b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Twister-1996-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fire Twister (2015) ทอร์นาโดเพลิงถล่มเมือง",
-    "url": "https://lk-hdx.com/fire-twister-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fire-Twister-2015-ทอร์นาโดเพลิงถล่มเมือง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cd5e68b1531a57ef3ab59d13d6d47b20/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cd5e68b1531a57ef3ab59d13d6d47b20"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fire-Twister-2015-ทอร์นาโดเพลิงถล่มเมือง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry brown (2009) อย่าแหย่ให้โก๋โหด",
-    "url": "https://lk-hdx.com/harry-brown-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Harry-brown-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d88175beaf7526f15700caf7685d4f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d88175beaf7526f15700caf7685d4f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Harry-brown-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Colossal (2016) คอลอสซาน ทั้งจักรวาลเป็นของเธอ",
-    "url": "https://lk-hdx.com/colossal-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Colossal-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6169963b159ce382fdc89112e4e994c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6169963b159ce382fdc89112e4e994c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Colossal-2016-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Descendants The Rise of Red (2024)",
-    "url": "https://lk-hdx.com/descendants-the-rise-of-red-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Descendants-The-Rise-of-Red-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eedfd3d7e2385dc9b11f8b560498c495/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eedfd3d7e2385dc9b11f8b560498c495"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Descendants-The-Rise-of-Red-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tyler Perry’s Divorce in the Black (2024) รัก ร้าง ร้าว เรื่องราวของไทเลอร์ เพอร์รี่",
-    "url": "https://lk-hdx.com/tyler-perrys-divorce-in-the-black-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/70f5fd30673c552ab999f04fe9bd0cbd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/70f5fd30673c552ab999f04fe9bd0cbd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blame the Game (2024) รักลุ้น วุ่นเพราะเกม",
-    "url": "https://lk-hdx.com/blame-the-game-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Blame-the-Game-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2a6d7dc098ed3970a3846a93e5183ab6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a6d7dc098ed3970a3846a93e5183ab6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Blame-the-Game-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Champion (2024) เดอะ แชมเปี้ยน",
-    "url": "https://lk-hdx.com/the-champion-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Champion-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff2697dc6dfe5570c1c4cdeb8289b3ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff2697dc6dfe5570c1c4cdeb8289b3ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Champion-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lobola Man (2024) โลโบลา แมน",
-    "url": "https://lk-hdx.com/lobola-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lobola-Man-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4bcf80630ef1de1c6ffd1da80ee3a034/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4bcf80630ef1de1c6ffd1da80ee3a034"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Lobola-Man-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Handling the Undead (2024)",
-    "url": "https://lk-hdx.com/handling-the-undead-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Handling-the-Undead-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_0nNH7xDq8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Handling-the-Undead-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "We Bought a Zoo (2011) สวนสัตว์อัศจรรย์ ของขวัญให้ลูก",
-    "url": "https://lk-hdx.com/we-bought-a-zoo-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/We-Bought-a-Zoo-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eeef508926e055b953802288e39f7991/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eeef508926e055b953802288e39f7991"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/We-Bought-a-Zoo-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Nanny Diaries (2007) พี่เลี้ยงชิดซ้ายหัวใจยุ่งชะมัด",
-    "url": "https://lk-hdx.com/the-nanny-diaries-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Nanny-Diaries-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/89f1ff9b97566743d4a6af14f99476ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89f1ff9b97566743d4a6af14f99476ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Nanny-Diaries-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
