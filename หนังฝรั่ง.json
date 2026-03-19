@@ -54269,153 +54269,421 @@
   },
   {
     "title": "I Am Jonas (2018) โจนาส",
-    "url": "https://lk-hdx.com/i-am-jonas-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/I-Am-Jonas-2018-โจนาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b0a40899c2cf614e4f4d134646a37b77/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b0a40899c2cf614e4f4d134646a37b77"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/I-Am-Jonas-2018-โจนาส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Break (2018) เบรก แรงตามจังหวะ",
-    "url": "https://lk-hdx.com/break-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Break-2018-เบรก-แรงตามจังหวะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44d990b2052c1ec475ba8f880c1ba55e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44d990b2052c1ec475ba8f880c1ba55e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Break-2018-เบรก-แรงตามจังหวะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Apollo 11 (2019) อพอลโล 11",
-    "url": "https://lk-hdx.com/apollo-11-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Apollo-11-2019-อพอลโล-11-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb7a86af4d050b89d663a6586654d07a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb7a86af4d050b89d663a6586654d07a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Apollo-11-2019-อพอลโล-11-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Hangman (2019) อเมริกัน แฮงแมน",
-    "url": "https://lk-hdx.com/american-hangman-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Hangman-2019-อเมริกัน-แฮงแมน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6f6fb276d629521464c7032026e6139a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6f6fb276d629521464c7032026e6139a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Hangman-2019-อเมริกัน-แฮงแมน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Hidden Life (2019) ชีวิตที่ซ่อนเร้น",
-    "url": "https://lk-hdx.com/a-hidden-life-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Hidden-Life-2019-ชีวิตที่ซ่อนเร้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5685193b7ae77cf90bca5f5023db529f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5685193b7ae77cf90bca5f5023db529f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Hidden-Life-2019-ชีวิตที่ซ่อนเร้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Son (2019) อเมริกันซัน",
-    "url": "https://lk-hdx.com/american-son-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Son-2019-อเมริกันซัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/M1DE3ic_EM"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/American-Son-2019-อเมริกันซัน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Christmas Crossfire (2020) คริสต์มาสระห่ำ",
-    "url": "https://lk-hdx.com/christmas-crossfire-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Christmas-Crossfire-2020-คริสต์มาสระห่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/028704236aff6310448d507cdca05a47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/028704236aff6310448d507cdca05a47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Christmas-Crossfire-2020-คริสต์มาสระห่ำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Concrete Cowboy (2020) คอนกรีต คาวบอย",
-    "url": "https://lk-hdx.com/concrete-cowboy-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Concrete-Cowboy-2020-คอนกรีต-คาวบอย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b90dffbc762f3751c44e4fa833219c42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b90dffbc762f3751c44e4fa833219c42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Concrete-Cowboy-2020-คอนกรีต-คาวบอย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blood Brothers Malcolm X & Muhammad Ali (2021) พี่น้องร่วมเลือด มัลคอล์ม เอ็กซ์ และมูฮัมหมัด อาลี",
-    "url": "https://lk-hdx.com/blood-brothers-malcolm-x-muhammad-ali-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Blood-Brothers-Malcolm-X-Muhammad-Ali-2021-พี่น้องร่วมเลือด-มัลคอล์ม-เอ็กซ์-และมูฮัมหมัด-อาลี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e42eb86e82175ed890e6be29895b19b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e42eb86e82175ed890e6be29895b19b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Blood-Brothers-Malcolm-X-Muhammad-Ali-2021-พี่น้องร่วมเลือด-มัลคอล์ม-เอ็กซ์-และมูฮัมหมัด-อาลี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Convergence Courage in a Crisis (2021) ร่วมกล้าฝ่าวิกฤติ",
-    "url": "https://lk-hdx.com/convergence-courage-in-a-crisis-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Convergence-Courage-in-a-Crisis-2021-ร่วมกล้าฝ่าวิกฤติ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/iWjXaYAA_m"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Convergence-Courage-in-a-Crisis-2021-ร่วมกล้าฝ่าวิกฤติ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Cop Movie (2021) ตำรวจเม็กซิโก",
-    "url": "https://lk-hdx.com/a-cop-movie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Cop-Movie-2021-ตำรวจเม็กซิโก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/46ae9dd4501221d47e8c8fa455c19450/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/46ae9dd4501221d47e8c8fa455c19450"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Cop-Movie-2021-ตำรวจเม็กซิโก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deadlock (2021) คนอึดทะลวงแค้น",
-    "url": "https://lk-hdx.com/deadlock-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadlock-2021-คนอึดทะลวงแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53100d06255dea1322449eecfb32218f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53100d06255dea1322449eecfb32218f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadlock-2021-คนอึดทะลวงแค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Why Did You Kill Me (2021) ล่า ฆ่า ออนไลน์",
-    "url": "https://lk-hdx.com/why-did-you-kill-me-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Why-Did-You-Kill-Me-2021-ล่า-ฆ่า-ออนไลน์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb9e539def7d84a77f9107da9b5678e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb9e539def7d84a77f9107da9b5678e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Why-Did-You-Kill-Me-2021-ล่า-ฆ่า-ออนไลน์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Formula 1 (2019) รถแรงแซงชีวิต",
-    "url": "https://lk-hdx.com/formula-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Formula-1-2019-รถแรงแซงชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player-xml.com/embed/548uf12/"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Formula-1-2019-รถแรงแซงชีวิต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Cinderella Story Christmas Wish (2019) สาวน้อยซินเดอเรลล่า คริสต์มาสปาฏิหาริย์",
-    "url": "https://lk-hdx.com/a-cinderella-story-christmas-wish-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Cinderella-Story-Christmas-Wish-2019-สาวน้อยซินเดอเรลล่า-คริสต์มาสปาฏิหาริย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66f7a71a134c1619d947b62dd4e55dc0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66f7a71a134c1619d947b62dd4e55dc0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Cinderella-Story-Christmas-Wish-2019-สาวน้อยซินเดอเรลล่า-คริสต์มาสปาฏิหาริย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Burn (2019) เอามันไปเผา",
-    "url": "https://lk-hdx.com/burn-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Burn-2019-เอามันไปเผา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/51366963a3914c057af48b95c2abefe8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/51366963a3914c057af48b95c2abefe8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Burn-2019-เอามันไปเผา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cold Blood Legacy (2019) นักฆ่าเลือดเย็น",
-    "url": "https://lk-hdx.com/cold-blood-legacy-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Cold-Blood-Legacy-2019-นักฆ่าเลือดเย็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d8f08e2eaffd25dc6aa579f13c88caf7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d8f08e2eaffd25dc6aa579f13c88caf7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Cold-Blood-Legacy-2019-นักฆ่าเลือดเย็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Breaking In (2018) แม่จอมอึดบุกบ้านฆ่าโจร",
-    "url": "https://lk-hdx.com/breaking-in-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Breaking-In-2018-แม่จอมอึดบุกบ้านฆ่าโจร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/10e1d504ad9443f3faf91ce2204a6beb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/10e1d504ad9443f3faf91ce2204a6beb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Breaking-In-2018-แม่จอมอึดบุกบ้านฆ่าโจร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Breaking & Exiting (2018) คู่เพี้ยน สุดพัง",
-    "url": "https://lk-hdx.com/breaking-exiting-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Breaking-Exiting-2018-คู่เพี้ยน-สุดพัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/daa8428ef9b400a4499128677f88cd11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/daa8428ef9b400a4499128677f88cd11"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Breaking-Exiting-2018-คู่เพี้ยน-สุดพัง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Between Worlds (2018) วิญญาณ คลั่ง รัก",
-    "url": "https://lk-hdx.com/between-worlds-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Between-Worlds-2018-วิญญาณ-คลั่ง-รัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eea35b6fa073279e8c8907db4c524579/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eea35b6fa073279e8c8907db4c524579"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Between-Worlds-2018-วิญญาณ-คลั่ง-รัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Corbin Nash (2018) เพชฌฆาตรัตติกาล",
-    "url": "https://lk-hdx.com/corbin-nash-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Corbin-Nash-2018-เพชฌฆาตรัตติกาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f9f0d8e374afe536ea207efeb1aebf20/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f9f0d8e374afe536ea207efeb1aebf20"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Corbin-Nash-2018-เพชฌฆาตรัตติกาล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Antebellum (2020) หลอน ย้อน โลก",
-    "url": "https://lk-hdx.com/antebellum-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Antebellum-2020-หลอน-ย้อน-โลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/mR_kIM0S9W"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Antebellum-2020-หลอน-ย้อน-โลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Da 5 Bloods (2020) 5 เลือดอหังการ",
-    "url": "https://lk-hdx.com/da-5-bloods-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Da-5-Bloods-2020-5-เลือดอหังการ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/HdPbOTG_SZ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Da-5-Bloods-2020-5-เลือดอหังการ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Edge of the World (2021) นักรบสุดขอบโลก",
-    "url": "https://lk-hdx.com/edge-of-the-world-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Edge-of-the-World-2021-นักรบสุดขอบโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cffc7b7ee300d2661d0f06211e69aa2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cffc7b7ee300d2661d0f06211e69aa2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Edge-of-the-World-2021-นักรบสุดขอบโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Butchers (2021) ล่อ ลวง สับ",
-    "url": "https://lk-hdx.com/butchers-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Butchers-2021-ล่อ-ลวง-สับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/be3fcaf32de2e7f671583e9fa2f438d8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/be3fcaf32de2e7f671583e9fa2f438d8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Butchers-2021-ล่อ-ลวง-สับ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Caught by a Wave (2021) คลื่นรักฤดูร้อน",
-    "url": "https://lk-hdx.com/caught-by-a-wave-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Caught-by-a-Wave-2021-คลื่นรักฤดูร้อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/dLGSZK_xri"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Caught-by-a-Wave-2021-คลื่นรักฤดูร้อน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Carnaval (2021) คาร์นิวัล ลืมรักให้โลกจำ",
-    "url": "https://lk-hdx.com/carnaval-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Carnaval-2021-คาร์นิวัล-ลืมรักให้โลกจำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/iFGGc_dqOj"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Carnaval-2021-คาร์นิวัล-ลืมรักให้โลกจำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
-    "url": "https://lk-hdx.com/nuovo-olimpo-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Nuovo-Olimpo-2023-รักรีเทิร์น-ณ-นิวโอลิมปัส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/595933b43fc7113c021e76843f8959fb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/595933b43fc7113c021e76843f8959fb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Nuovo-Olimpo-2023-รักรีเทิร์น-ณ-นิวโอลิมปัส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Locked In (2023) ต้องขัง",
-    "url": "https://lk-hdx.com/locked-in-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Locked-In-2023-ต้องขัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ycdncNQK_L"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Locked-In-2023-ต้องขัง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wingwomen (2023) ร่วมด้วยช่วยกัน ปล้น",
-    "url": "https://lk-hdx.com/wingwomen-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Wingwomen-2023-ร่วมด้วยช่วยกัน-ปล้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bbad28bab3beae0add73e9b93a61780a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bbad28bab3beae0add73e9b93a61780a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Wingwomen-2023-ร่วมด้วยช่วยกัน-ปล้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Operation Finale (2018) ปฏิบัติการปิดฉากปีศาจนาซี",
