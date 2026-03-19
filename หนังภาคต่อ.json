@@ -15139,153 +15139,437 @@
   },
   {
     "title": "Star Wars Episode 9 The Rise of Skywalker (2019) สตาร์วอร์ส เอพพิโซด 9 กำเนิดใหม่สกายวอล์คเกอร์",
-    "url": "https://lk-hdx.com/star-wars-episode-9-the-rise-of-skywalker-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-9-The-Rise-of-Skywalker-2019-สตาร์วอร์ส-เอพพิโซด-9-กำเนิดใหม่สกายวอล์คเกอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/4_N78HS84g"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-9-The-Rise-of-Skywalker-2019-สตาร์วอร์ส-เอพพิโซด-9-กำเนิดใหม่สกายวอล์คเกอร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 8 The Last Jedi (2017) สตาร์ วอร์ส เอพพิโซด 8 ปัจฉิมบทแห่งเจได",
-    "url": "https://lk-hdx.com/star-wars-episode-8-the-last-jedi-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-8-The-Last-Jedi-2017-สตาร์-วอร์ส-เอพพิโซด-8-ปัจฉิมบทแห่งเจได-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fecbccb25934c57a8d7dc6d531d1cee9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fecbccb25934c57a8d7dc6d531d1cee9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-8-The-Last-Jedi-2017-สตาร์-วอร์ส-เอพพิโซด-8-ปัจฉิมบทแห่งเจได-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 7 The Force Awakens (2015) สตาร์ วอร์ส เอพพิโซด 7 อุบัติการณ์แห่งพลัง",
-    "url": "https://lk-hdx.com/star-wars-episode-7-the-force-awakens-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-7-The-Force-Awakens-2015-สตาร์-วอร์ส-เอพพิโซด-7-อุบัติการณ์แห่งพลัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/8Bd_3qsByk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-7-The-Force-Awakens-2015-สตาร์-วอร์ส-เอพพิโซด-7-อุบัติการณ์แห่งพลัง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 6 Return of the Jedi (1983) สตาร์ วอร์ส เอพพิโซด 6 การกลับมาของเจได",
-    "url": "https://lk-hdx.com/star-wars-episode-6-return-of-the-jedi-1983/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-6-Return-of-the-Jedi-1983-สตาร์-วอร์ส-เอพพิโซด-6-การกลับมาของเจได-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/LFKNl_Pp25"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-6-Return-of-the-Jedi-1983-สตาร์-วอร์ส-เอพพิโซด-6-การกลับมาของเจได-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 5 The Empire Strikes Back (1980) สตาร์ วอร์ส เอพพิโซด 5 จักรวรรดิเอมไพร์โต้กลับ",
-    "url": "https://lk-hdx.com/star-wars-episode-5-the-empire-strikes-back-1980/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Star-Wars-Episode-5-The-Empire-Strikes-Back-1980-สตาร์-วอร์ส-เอพพิโซด-5-จักรวรรดิเอมไพร์โต้กลับ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41d9774ec87f95a9b0eb97ed805011eb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41d9774ec87f95a9b0eb97ed805011eb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Star-Wars-Episode-5-The-Empire-Strikes-Back-1980-สตาร์-วอร์ส-เอพพิโซด-5-จักรวรรดิเอมไพร์โต้กลับ-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 4 A New Hope (1977) สตาร์ วอร์ส เอพพิโซด 4 ความหวังใหม่",
-    "url": "https://lk-hdx.com/star-wars-episode-4-a-new-hope-1977/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-4-A-New-Hope-1977-สตาร์-วอร์ส-เอพพิโซด-4-ความหวังใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f39081337febc42adda34e4be770893f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f39081337febc42adda34e4be770893f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-4-A-New-Hope-1977-สตาร์-วอร์ส-เอพพิโซด-4-ความหวังใหม่-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 3 Revenge of the Sith (2005) สตาร์ วอร์ส เอพพิโซด 3 ซิธชำระแค้น",
-    "url": "https://lk-hdx.com/star-wars-episode-3-revenge-of-the-sith-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-3-Revenge-of-the-Sith-2005-สตาร์-วอร์ส-เอพพิโซด-3-ซิธชำระแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5d9b631066ea961a32c08cabfb4fc88c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5d9b631066ea961a32c08cabfb4fc88c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-3-Revenge-of-the-Sith-2005-สตาร์-วอร์ส-เอพพิโซด-3-ซิธชำระแค้น-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 2 Attack of the Clones (2002) สตาร์ วอร์ส เอพพิโซด 2 กองทัพโคลนส์จู่โจม",
-    "url": "https://lk-hdx.com/star-wars-episode-2-attack-of-the-clones-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-2-Attack-of-the-Clones-2002-สตาร์-วอร์ส-เอพพิโซด-2-กองทัพโคลนส์จู่โจม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/866711234ddea42cc4678d9879272346/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/866711234ddea42cc4678d9879272346"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-2-Attack-of-the-Clones-2002-สตาร์-วอร์ส-เอพพิโซด-2-กองทัพโคลนส์จู่โจม-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 1 The Phantom Menace (1999) สตาร์วอร์ส เอพพิโซด 1 ภัยซ่อนเร้น",
-    "url": "https://lk-hdx.com/star-wars-episode-1-the-phantom-menace-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-1-The-Phantom-Menace-1999-สตาร์วอร์ส-เอพพิโซด-1-ภัยซ่อนเร้น-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/079ebdf7a4ccff384e84f798f71a838c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/079ebdf7a4ccff384e84f798f71a838c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Star-Wars-Episode-1-The-Phantom-Menace-1999-สตาร์วอร์ส-เอพพิโซด-1-ภัยซ่อนเร้น-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Johnny English 3 Strikes Again (2018) พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก รีเทิร์น ภาค 3",
-    "url": "https://lk-hdx.com/johnny-english-3-strikes-again-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-3-Strikes-Again-2018-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-รีเทิร์น-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/af40f3779314ab2b2acb83248ab6c874/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/af40f3779314ab2b2acb83248ab6c874"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-3-Strikes-Again-2018-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-รีเทิร์น-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Johnny English 2 Reborn (2011) พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก ภาค 2 สายลับกลับมาป่วน",
-    "url": "https://lk-hdx.com/johnny-english-2-reborn-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-2-Reborn-2011-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-2-สายลับกลับมาป่วน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3bd5e4a9d3a8f760721cab4d04e1f231/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3bd5e4a9d3a8f760721cab4d04e1f231"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-2-Reborn-2011-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-2-สายลับกลับมาป่วน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Johnny English 1 (2003) พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก ภาค 1",
-    "url": "https://lk-hdx.com/johnny-english-1-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-1-2003-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aab280b884454ec84272f4b9ea18afa6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aab280b884454ec84272f4b9ea18afa6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-English-1-2003-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Taxi 5 (2018) โคตรแท็กซี่ขับระเบิด",
-    "url": "https://lk-hdx.com/taxi-5-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-5-2018-โคตรแท็กซี่ขับระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0191f54e69c84946688a9697230f7ee8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0191f54e69c84946688a9697230f7ee8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-5-2018-โคตรแท็กซี่ขับระเบิด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Taxi 4 (2007) แท็กซี่ซิ่งระเบิด บ้าระห่ำ",
-    "url": "https://lk-hdx.com/taxi-4-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-4-2007-แท็กซี่ซิ่งระเบิด-บ้าระห่ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/317d837fb60207837cf8288a573909ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/317d837fb60207837cf8288a573909ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-4-2007-แท็กซี่ซิ่งระเบิด-บ้าระห่ำ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Taxi 3 (2003) แท็กซี่ขับระเบิด",
-    "url": "https://lk-hdx.com/taxi-3-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-3-2003-แท็กซี่ขับระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/faf9671aca8ada1f32fd52f26ea743fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/faf9671aca8ada1f32fd52f26ea743fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-3-2003-แท็กซี่ขับระเบิด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Taxi 2 (2000) แท็กซี่ขับระเบิด",
-    "url": "https://lk-hdx.com/taxi-2-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-2-2000-แท็กซี่ขับระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c1c8eb5aa9f34d02932d2139e0647a2b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c1c8eb5aa9f34d02932d2139e0647a2b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-2-2000-แท็กซี่ขับระเบิด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Taxi 1 (1998) แท็กซี่ระห่ำระเบิด",
-    "url": "https://lk-hdx.com/taxi-1-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-1-1998-แท็กซี่ระห่ำระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e97984cbd05c1b2eb0ceec978224724a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e97984cbd05c1b2eb0ceec978224724a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Taxi-1-1998-แท็กซี่ระห่ำระเบิด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด",
-    "url": "https://lk-hdx.com/batman-the-dark-knight-rises-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4936eb75965074e6d526e88c42066f6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4936eb75965074e6d526e88c42066f6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล",
-    "url": "https://lk-hdx.com/batman-the-dark-knight-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73846d78752798e2de8ba37dbb889362/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73846d78752798e2de8ba37dbb889362"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Batman Begins (2005) แบทแมน บีกินส์",
-    "url": "https://lk-hdx.com/batman-begins-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-Begins-2005-แบทแมน-บีกินส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b58839cbedb57e2fc7cf40e83e5f07de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b58839cbedb57e2fc7cf40e83e5f07de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Batman-Begins-2005-แบทแมน-บีกินส์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Escape Plan 3 The Extractors (2019) แหกคุกมหาประลัย ภาค 3",
-    "url": "https://lk-hdx.com/escape-plan-3-the-extractors-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-3-The-Extractors-2019-แหกคุกมหาประลัย-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_TJavIP5Wq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-3-The-Extractors-2019-แหกคุกมหาประลัย-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Escape Plan 2 (2018) แหกคุกมหาประลัย ภาค 2",
-    "url": "https://lk-hdx.com/escape-plan-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-2-2018-แหกคุกมหาประลัย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/49ffb8fe38ec3425eca15e2cd5397af8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/49ffb8fe38ec3425eca15e2cd5397af8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-2-2018-แหกคุกมหาประลัย-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Escape Plan 1 (2013) แหกคุกมหาประลัย ภาค 1",
-    "url": "https://lk-hdx.com/escape-plan-1-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-1-2013-แหกคุกมหาประลัย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0df682ec5397f3898a0df154c586fcb7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0df682ec5397f3898a0df154c586fcb7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-Plan-1-2013-แหกคุกมหาประลัย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Terminator 6 Dark Fate (2019) คนเหล็ก ภาค 6 วิกฤตชะตาโลก",
-    "url": "https://lk-hdx.com/terminator-6-dark-fate-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-6-Dark-Fate-2019-คนเหล็ก-ภาค-6-วิกฤตชะตาโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9cfd753b18e03a248dd571bb43dc0916/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9cfd753b18e03a248dd571bb43dc0916"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-6-Dark-Fate-2019-คนเหล็ก-ภาค-6-วิกฤตชะตาโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Terminator 5 Genisys (2015) คนเหล็ก ภาค 5 มหาวิบัติจักรกลยึดโลก",
-    "url": "https://lk-hdx.com/terminator-5-genisys-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-5-Genisys-2015-คนเหล็ก-ภาค-5-มหาวิบัติจักรกลยึดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/76b912e2ad079f054fb21672b4bdd45f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/76b912e2ad079f054fb21672b4bdd45f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-5-Genisys-2015-คนเหล็ก-ภาค-5-มหาวิบัติจักรกลยึดโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Terminator 4 Salvation (2009) คนเหล็ก ภาค 4 มหาสงครามจักรกลล้างโลก",
-    "url": "https://lk-hdx.com/terminator-4-salvation-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-4-Salvation-2009-คนเหล็ก-ภาค-4-มหาสงครามจักรกลล้างโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8931d1a72dffaff020b6010d626eb07c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8931d1a72dffaff020b6010d626eb07c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-4-Salvation-2009-คนเหล็ก-ภาค-4-มหาสงครามจักรกลล้างโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Terminator 3 Rise of the Machines (2003) คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร",
-    "url": "https://lk-hdx.com/terminator-3-rise-of-the-machines-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-3-Rise-of-the-Machines-2003-คนเหล็ก-ภาค-3-กำเนิดใหม่เครื่องจักรสังหาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1add21b50acf569dea91e068c8f3a140/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1add21b50acf569dea91e068c8f3a140"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-3-Rise-of-the-Machines-2003-คนเหล็ก-ภาค-3-กำเนิดใหม่เครื่องจักรสังหาร-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Terminator 2 Judgment Day (1991) คนเหล็ก ภาค 2 วันพิพากษา",
-    "url": "https://lk-hdx.com/terminator-2-judgment-day-1991/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-2-Judgment-Day-1991-คนเหล็ก-ภาค-2-วันพิพากษา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea0682c6b7af9e39b059e74d8412f754/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea0682c6b7af9e39b059e74d8412f754"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Terminator-2-Judgment-Day-1991-คนเหล็ก-ภาค-2-วันพิพากษา-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Terminator 1 (1984) คนเหล็ก ภาค 1",
-    "url": "https://lk-hdx.com/the-terminator-1-1984/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Terminator-1-1984-คนเหล็ก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dd032ecc473e3c9fbf954a716ac9f462/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dd032ecc473e3c9fbf954a716ac9f462"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Terminator-1-1984-คนเหล็ก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Believer (2018) โจรล่าโจร",
-    "url": "https://lk-hdx.com/believer-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Believer-2018-โจรล่าโจร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/679977eb97a9cfed8f3397c45a70c6a4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/679977eb97a9cfed8f3397c45a70c6a4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Believer-2018-โจรล่าโจร-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Batman The Dark Knight Returns Part 2 (2013) แบทแมน ศึกอัศวินคืนรัง ภาค 2",
