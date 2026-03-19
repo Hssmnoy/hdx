@@ -63741,153 +63741,429 @@
   },
   {
     "title": "Scream 6 (2023) หวีดสุดขีด ภาค 6",
-    "url": "https://lk-hdx.com/scream-6-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-6-2023-หวีดสุดขีด-ภาค-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/p_Y7Z1H8wY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-6-2023-หวีดสุดขีด-ภาค-6-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Scream 5 (2022) หวีดสุดขีด ภาค 5",
-    "url": "https://lk-hdx.com/scream-5-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-5-2022-หวีดสุดขีด-ภาค-5-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbe6317cdbc4ba3f9653a682ac897b24/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbe6317cdbc4ba3f9653a682ac897b24"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-5-2022-หวีดสุดขีด-ภาค-5-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Scream 4 (2011) หวีด แหกกฏ ภาค 4",
-    "url": "https://lk-hdx.com/scream-4-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-4-2011-หวีด-แหกกฏ-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8bc8994b82fdf2cf3bce6af85924dd7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8bc8994b82fdf2cf3bce6af85924dd7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-4-2011-หวีด-แหกกฏ-ภาค-4-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Scream 3 (2000) หวีดสุดท้าย นรกยังได้ยิน ภาค 3",
-    "url": "https://lk-hdx.com/scream-3-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Scream-3-2000-หวีดสุดท้าย-นรกยังได้ยิน-ภาค-3-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ba94e7e00caac089dd292e6f97c903c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ba94e7e00caac089dd292e6f97c903c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Scream-3-2000-หวีดสุดท้าย-นรกยังได้ยิน-ภาค-3-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Scream 2 (1997) หวีดสุดขีด ภาค 2",
-    "url": "https://lk-hdx.com/scream-2-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-2-1997-หวีดสุดขีด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tM2g3Q4_mP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-2-1997-หวีดสุดขีด-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Scream 1 (1996) หวีดสุดขีด ภาค 1",
-    "url": "https://lk-hdx.com/scream-1-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-1-1996-หวีดสุดขีด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de4d96d1046f27a29e0fd7ebab8048ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de4d96d1046f27a29e0fd7ebab8048ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Scream-1-1996-หวีดสุดขีด-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Nun 2 (2023) เดอะ นัน ภาค 2",
-    "url": "https://lk-hdx.com/the-nun-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-2-2023-เดอะ-นัน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/24c16f5dc2d87a6e53dadc49a5a5916d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/24c16f5dc2d87a6e53dadc49a5a5916d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-2-2023-เดอะ-นัน-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Nun 1 (2018) เดอะนัน ภาค 1",
-    "url": "https://lk-hdx.com/the-nun-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-1-2018-เดอะนัน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/12c935cc1ffa6b8b1346546fb0a31ecd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/12c935cc1ffa6b8b1346546fb0a31ecd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Nun-1-2018-เดอะนัน-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Street Flow 2 (2023) ทางแยก ภาค 2",
-    "url": "https://lk-hdx.com/street-flow-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-2-2023-ทางแยก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d1c5ba2661e4e82d3e44c0e6a9390980/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d1c5ba2661e4e82d3e44c0e6a9390980"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-2-2023-ทางแยก-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Street Flow 1 (2019) ทางแยก ภาค 1",
-    "url": "https://lk-hdx.com/street-flow-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-1-2019-ทางแยก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c147d19abe8560e014876d381e1cd1ef/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c147d19abe8560e014876d381e1cd1ef"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Street-Flow-1-2019-ทางแยก-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ice Cold Murder Coffee and Jessica Wongso (2023) กาแฟ ฆาตกรรม และเจสสิก้า วองโซ",
-    "url": "https://lk-hdx.com/ice-cold-murder-coffee-and-jessica-wongso-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Ice-Cold-Murder-Coffee-and-Jessica-Wongso-2023-กาแฟ-ฆาตกรรม-และเจสสิก้า-วองโซ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e81c42f7603f6b32e3da5adc2a2d48f8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e81c42f7603f6b32e3da5adc2a2d48f8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Ice-Cold-Murder-Coffee-and-Jessica-Wongso-2023-กาแฟ-ฆาตกรรม-และเจสสิก้า-วองโซ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Love Is in the Air (2023) รักลอยลำ",
-    "url": "https://lk-hdx.com/love-is-in-the-air-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-Is-in-the-Air-2023-รักลอยลำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/lYVnORPG_W"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-Is-in-the-Air-2023-รักลอยลำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Doom Of Love (2022) ชะตาหัวใจ",
-    "url": "https://lk-hdx.com/doom-of-love-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Doom-Of-Love-2022-ชะตาหัวใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25151567ebd717d58f3198d9f14e3ea3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25151567ebd717d58f3198d9f14e3ea3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Doom-Of-Love-2022-ชะตาหัวใจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The in Between (2022)",
-    "url": "https://lk-hdx.com/the-in-between-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-in-Between-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a1d3614ab4c6397684430e1d4495edec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a1d3614ab4c6397684430e1d4495edec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-in-Between-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Evill Eye (2022)",
-    "url": "https://lk-hdx.com/evill-eye-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Evill-Eye-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d0c6d2e2c25f069ed5847d7a0fada098/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d0c6d2e2c25f069ed5847d7a0fada098"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Evill-Eye-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Easter Sunday (2022) วันอาทิตย์อีสเตอร์",
-    "url": "https://lk-hdx.com/easter-sunday-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Easter-Sunday-2022-วันอาทิตย์อีสเตอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbfffc507750cf4cfc8d972201dd3c3d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbfffc507750cf4cfc8d972201dd3c3d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Easter-Sunday-2022-วันอาทิตย์อีสเตอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "EO (2022)",
-    "url": "https://lk-hdx.com/eo-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/EO-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Oo1AouHWM_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/EO-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Eraser Reborn (2022) อีเรเซอร์ รีบอร์น",
-    "url": "https://lk-hdx.com/eraser-reborn-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Eraser-Reborn-2022-อีเรเซอร์-รีบอร์น-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/sGn_Rh2QVR"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Eraser-Reborn-2022-อีเรเซอร์-รีบอร์น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Explorer The Last Tepui (2022) เอกซ์โพเลอร์ เดอะ ลาส เทพลูย์",
-    "url": "https://lk-hdx.com/explorer-the-last-tepui-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Explorer-The-Last-Tepui-2022-เอกซ์โพเลอร์-เดอะ-ลาส-เทพลูย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f114e614bf410da2093f35c874d2755e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f114e614bf410da2093f35c874d2755e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Explorer-The-Last-Tepui-2022-เอกซ์โพเลอร์-เดอะ-ลาส-เทพลูย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Royal Treatment (2022) เดอะ รอยัล ทรีทเมนต์",
-    "url": "https://lk-hdx.com/the-royal-treatment-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Royal-Treatment-2022-เดอะ-รอยัล-ทรีทเมนต์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fcd4ade8c18670359b3721774f9a8121/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fcd4ade8c18670359b3721774f9a8121"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Royal-Treatment-2022-เดอะ-รอยัล-ทรีทเมนต์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Through My Window (2022) รักผ่านหน้าต่าง",
-    "url": "https://lk-hdx.com/through-my-window-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Through-My-Window-2022-รักผ่านหน้าต่าง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdbd14c380079f459dcce559548cee3e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdbd14c380079f459dcce559548cee3e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Through-My-Window-2022-รักผ่านหน้าต่าง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Privilege (2022) เดอะ พรีวิเลจ",
-    "url": "https://lk-hdx.com/the-privilege-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Privilege-2022-เดอะ-พรีวิเลจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8df53f89bead37986ac36e0656ebe024/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8df53f89bead37986ac36e0656ebe024"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Privilege-2022-เดอะ-พรีวิเลจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Catholic School (2022) โรงเรียนคาทอลิก",
-    "url": "https://lk-hdx.com/the-catholic-school-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Catholic-School-2022-โรงเรียนคาทอลิก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3701bfcfbb53d2831b5a6aa5699b72af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3701bfcfbb53d2831b5a6aa5699b72af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Catholic-School-2022-โรงเรียนคาทอลิก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Wrath of God (2022) สวรรค์แค้น",
-    "url": "https://lk-hdx.com/the-wrath-of-god-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Wrath-of-God-2022-สวรรค์แค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/19696d865d0abc301a2ca02a02d38086/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19696d865d0abc301a2ca02a02d38086"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Wrath-of-God-2022-สวรรค์แค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trees of Peace (2022) ต้นไม้สันติภาพ",
-    "url": "https://lk-hdx.com/trees-of-peace-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Trees-of-Peace-2022-ต้นไม้สันติภาพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/107d514946517b71fedbebe43d80575e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/107d514946517b71fedbebe43d80575e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Trees-of-Peace-2022-ต้นไม้สันติภาพ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Dreamlife of Georgie Stone (2022) ชีวิตในฝันของจอร์จี้ สโตน",
-    "url": "https://lk-hdx.com/the-dreamlife-of-georgie-stone-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Dreamlife-of-Georgie-Stone-2022-ชีวิตในฝันของจอร์จี้-สโตน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df107a988df0bea5423c6e91d9d76446/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df107a988df0bea5423c6e91d9d76446"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Dreamlife-of-Georgie-Stone-2022-ชีวิตในฝันของจอร์จี้-สโตน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Weekend Away (2022)",
-    "url": "https://lk-hdx.com/the-weekend-away-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Weekend-Away-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a9134d41b88fe9aefb4e1cc031ae863/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a9134d41b88fe9aefb4e1cc031ae863"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Weekend-Away-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Invisible Thread (2022) สายใยที่มองไม่เห็น",
-    "url": "https://lk-hdx.com/the-invisible-thread-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Invisible-Thread-2022-สายใยที่มองไม่เห็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/abe1f09d11d38e603bdd213f60b3c1e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/abe1f09d11d38e603bdd213f60b3c1e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Invisible-Thread-2022-สายใยที่มองไม่เห็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Texas Chainsaw Massacre (2022) สิงหาสับ",
-    "url": "https://lk-hdx.com/texas-chainsaw-massacre-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Texas-Chainsaw-Massacre-2022-สิงหาสับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_I47b9omRq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Texas-Chainsaw-Massacre-2022-สิงหาสับ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The House (2022) เดอะ เฮาส์",
-    "url": "https://lk-hdx.com/the-house-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-House-2022-เดอะ-เฮาส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/91adae0c3da134f351cbfd9580322f58/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/91adae0c3da134f351cbfd9580322f58"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-House-2022-เดอะ-เฮาส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Joys and Sorrows of Young Yuguo (2022) ความสุขและความเศร้าของอวี่กัวในวัยหนุ่ม",
