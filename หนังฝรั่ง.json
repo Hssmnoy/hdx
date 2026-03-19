@@ -50363,153 +50363,437 @@
   },
   {
     "title": "You Hurt My Feelings (2023)",
-    "url": "https://lk-hdx.com/you-hurt-my-feelings-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/You-Hurt-My-Feelings-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1fa16bc56104b6365b6b4b11967a0d18/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1fa16bc56104b6365b6b4b11967a0d18"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/You-Hurt-My-Feelings-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sayen Desert Road (2023) ซาเยน สู้สุดทาง",
-    "url": "https://lk-hdx.com/sayen-desert-road-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Sayen-Desert-Road-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/43f7057c4bf84ac0e8d12274f275b99b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/43f7057c4bf84ac0e8d12274f275b99b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Sayen-Desert-Road-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Down Low (2023) กิ๊กไม่กั๊ก ทางรักสีรุ้ง",
-    "url": "https://lk-hdx.com/down-low-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Down-Low-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/L2CBlN7_el"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Down-Low-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sanctuary (2023) ที่หลบภัย",
-    "url": "https://lk-hdx.com/sanctuary-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Sanctuary-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/07ce11d888cc28529e1b47fb996dd6d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/07ce11d888cc28529e1b47fb996dd6d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Sanctuary-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Killer (2023) นักฆ่า",
-    "url": "https://lk-hdx.com/the-killer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Killer-2023-นักฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ZyGb_4OXMu"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Killer-2023-นักฆ่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Sleep Experiment (2022) 30 วัน ทดลองนรก",
-    "url": "https://lk-hdx.com/the-sleep-experiment-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Sleep-Experiment-2022-30-วัน-ทดลองนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/4K_BTvH72S"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Sleep-Experiment-2022-30-วัน-ทดลองนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fifty Shades 3 Freed (2018) ฟิฟตี้เชดส์ฟรีด",
-    "url": "https://lk-hdx.com/fifty-shades-3-freed-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-3-Freed-2018-ฟิฟตี้เชดส์ฟรีด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d3b112e2ecb075714ff2223a9e26a187/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d3b112e2ecb075714ff2223a9e26a187"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-3-Freed-2018-ฟิฟตี้เชดส์ฟรีด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fifty Shades 2 Darker (2017) ฟิฟตี้ เชดส์ ดาร์กเกอร์",
-    "url": "https://lk-hdx.com/fifty-shades-2-darker-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-2-Darker-2017-ฟิฟตี้-เชดส์-ดาร์กเกอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe252e27e668a6c95981d278fb65c52c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe252e27e668a6c95981d278fb65c52c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-2-Darker-2017-ฟิฟตี้-เชดส์-ดาร์กเกอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fifty Shades 1 Of Grey (2015) ฟิฟตี้ เชดส์ ออฟ เกรย์",
-    "url": "https://lk-hdx.com/fifty-shades-1-of-grey-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-1-Of-Grey-2015-ฟิฟตี้-เชดส์-ออฟ-เกรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2e0e8a3601e8fe211527eb2ca358eb70/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e0e8a3601e8fe211527eb2ca358eb70"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-1-Of-Grey-2015-ฟิฟตี้-เชดส์-ออฟ-เกรย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Live Free or Die Hard (2007) ดาย ฮาร์ด ภาค 4.0 ปลุกอึด ตายยาก",
-    "url": "https://lk-hdx.com/live-free-or-die-hard-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Live-Free-or-Die-Hard-2007-ดาย-ฮาร์ด-ภาค-4.0-ปลุกอึด-ตายยาก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/98c6b4fff685cf9d40a49d03c4258e23/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/98c6b4fff685cf9d40a49d03c4258e23"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Live-Free-or-Die-Hard-2007-ดาย-ฮาร์ด-ภาค-4.0-ปลุกอึด-ตายยาก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Die Hard With a Vengeance (1995) ดาย ฮาร์ด 3 แค้นได้ก็ตายยาก",
-    "url": "https://lk-hdx.com/die-hard-with-a-vengeance-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Die-Hard-With-a-Vengeance-1995-ดาย-ฮาร์ด-3-แค้นได้ก็ตายยาก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eb6b6b50e6449b8d7ee966a72b35e2be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eb6b6b50e6449b8d7ee966a72b35e2be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Die-Hard-With-a-Vengeance-1995-ดาย-ฮาร์ด-3-แค้นได้ก็ตายยาก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Die Hard 2 (1990) ดาย ฮาร์ด ภาค 2 อึดเต็มพิกัด",
-    "url": "https://lk-hdx.com/die-hard-2-1990/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Die-Hard-2-1990-ดาย-ฮาร์ด-ภาค-2-อึดเต็มพิกัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/64ec3855533dbd2b9b94d92f41ba2011/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/64ec3855533dbd2b9b94d92f41ba2011"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Die-Hard-2-1990-ดาย-ฮาร์ด-ภาค-2-อึดเต็มพิกัด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Die Hard 1 (1988) นรกระฟ้า ภาค 1",
-    "url": "https://lk-hdx.com/die-hard-1-1988/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Die-Hard-1-1988-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7a72e5661f2fdca2f056d66502009ae0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a72e5661f2fdca2f056d66502009ae0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Die-Hard-1-1988-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Superman 4 The Quest For Peace (1987) ซูเปอร์แมน ภาค 4",
-    "url": "https://lk-hdx.com/superman-4-the-quest-for-peace-1987/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-4-The-Quest-For-Peace-1987-ซูเปอร์แมน-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e09c164b9a5c5aa6601fb356ed30462f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e09c164b9a5c5aa6601fb356ed30462f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-4-The-Quest-For-Peace-1987-ซูเปอร์แมน-ภาค-4-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Superman 3 (1983) ซูเปอร์แมน ภาค 3",
-    "url": "https://lk-hdx.com/superman-3-1983/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-3-1983-ซูเปอร์แมน-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6555711014afe80d735a1eb8d20dfea2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6555711014afe80d735a1eb8d20dfea2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-3-1983-ซูเปอร์แมน-ภาค-3-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Superman 2 (1980) ซูเปอร์แมน ภาค 2",
-    "url": "https://lk-hdx.com/superman-2-1980/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-2-1980-ซูเปอร์แมน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2a95072f0668c8fb3a957196194a0eab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a95072f0668c8fb3a957196194a0eab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-2-1980-ซูเปอร์แมน-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Superman 1 (1978) ซูเปอร์แมน ภาค 1",
-    "url": "https://lk-hdx.com/superman-1-1978/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-1-1978-ซูเปอร์แมน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1dcee59a79d27f06980ab06a7c7db360/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1dcee59a79d27f06980ab06a7c7db360"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Superman-1-1978-ซูเปอร์แมน-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Amazing Spider Man 2 (2014) ดิ อะเมซิ่ง สไปเดอร์แมน ภาค 2 ผงาดอสูรกายสายฟ้า",
-    "url": "https://lk-hdx.com/the-amazing-spider-man-2-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Amazing-Spider-Man-2-2014-ดิ-อะเมซิ่ง-สไปเดอร์แมน-ภาค-2-ผงาดอสูรกายสายฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/52e9e2fd12a316add0cc8ce03a7919ff/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/52e9e2fd12a316add0cc8ce03a7919ff"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Amazing-Spider-Man-2-2014-ดิ-อะเมซิ่ง-สไปเดอร์แมน-ภาค-2-ผงาดอสูรกายสายฟ้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Amazing Spider Man 1 (2012) ดิ อะเมซิ่ง สไปเดอร์แมน ภาค 1",
-    "url": "https://lk-hdx.com/the-amazing-spider-man-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Amazing-Spider-Man-1-2012-ดิ-อะเมซิ่ง-สไปเดอร์แมน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/36fe818e60fb34cba0992086ac970fd6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/36fe818e60fb34cba0992086ac970fd6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Amazing-Spider-Man-1-2012-ดิ-อะเมซิ่ง-สไปเดอร์แมน-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw X (2023) ชำแหละแค้น เกมตัดตาย",
-    "url": "https://lk-hdx.com/saw-x-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-X-2023-ชำแหละแค้น-เกมตัดตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/537c23d53c34e964358641262ef72ef1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/537c23d53c34e964358641262ef72ef1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-X-2023-ชำแหละแค้น-เกมตัดตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 8 Jigsaw (2017) ซอว์ ภาค 8 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-8-jigsaw-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-8-Jigsaw-2017-ซอว์-ภาค-8-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/16925bc57dc734eda0fb13a318ca39da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/16925bc57dc734eda0fb13a318ca39da"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-8-Jigsaw-2017-ซอว์-ภาค-8-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 7 3D (2010) ซอว์ ภาค 7 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-7-3d-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-7-3D-2010-ซอว์-ภาค-7-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a2d3d263979d434052ac38a849d5578/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a2d3d263979d434052ac38a849d5578"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-7-3D-2010-ซอว์-ภาค-7-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 6 (2009) ซอว์ ภาค 6 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-6-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-6-2009-ซอว์-ภาค-6-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5447d21ce84cec8b40b9b37806f3a18e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5447d21ce84cec8b40b9b37806f3a18e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-6-2009-ซอว์-ภาค-6-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 5 (2008) ซอว์ ภาค 5 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-5-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-5-2008-ซอว์-ภาค-5-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7c218848372436044b2203861bf9d949/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7c218848372436044b2203861bf9d949"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-5-2008-ซอว์-ภาค-5-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 4 (2007) ซอว์ ภาค 4 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-4-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-4-2007-ซอว์-ภาค-4-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf6d3c446d52b54a32042fc4488f3a6f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf6d3c446d52b54a32042fc4488f3a6f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-4-2007-ซอว์-ภาค-4-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 3 (2006) ซอว์ ภาค 3 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-3-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-3-2006-ซอว์-ภาค-3-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8290422e313dccaa5d31a5932fb460a9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8290422e313dccaa5d31a5932fb460a9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-3-2006-ซอว์-ภาค-3-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 2 (2005) ซอว์ ภาค 2 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-2-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-2-2005-ซอว์-ภาค-2-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1818c4606dea90cff6df582617accc68/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1818c4606dea90cff6df582617accc68"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-2-2005-ซอว์-ภาค-2-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saw 1 (2004) ซอว์ ภาค 1 เกมตัดต่อตาย ตัดเป็น",
-    "url": "https://lk-hdx.com/saw-1-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-1-2004-ซอว์-ภาค-1-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PUyPbvL8_k"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Saw-1-2004-ซอว์-ภาค-1-เกมตัดต่อตาย-ตัดเป็น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Into the Deep (2022) สามซั่มหวีด",
-    "url": "https://lk-hdx.com/into-the-deep-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Into-the-Deep-2022-สามซั่มหวีด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0b6d1f78c6559f72b5149e65e5539a97/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b6d1f78c6559f72b5149e65e5539a97"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Into-the-Deep-2022-สามซั่มหวีด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "See No Evil 2 (2014) เกี่ยว ลาก กระชากนรก ภาค 2",
-    "url": "https://lk-hdx.com/see-no-evil-2-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/See-No-Evil-2-2014-เกี่ยว-ลาก-กระชากนรก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ce8ba063957ed526bfe3c23c9d02c882/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ce8ba063957ed526bfe3c23c9d02c882"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/See-No-Evil-2-2014-เกี่ยว-ลาก-กระชากนรก-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "See No Evil 1 (2006) เกี่ยว ลาก กระชากนรก ภาค 1",
