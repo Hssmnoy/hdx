@@ -3851,153 +3851,433 @@
   },
   {
     "title": "A True Gentleman (2024) สุภาพบุรุษตัวจริง",
-    "url": "https://lk-hdx.com/a-true-gentleman-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/A-True-Gentleman-2024-สุภาพบุรุษตัวจริง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/60786d0d009747d6559a54b91ace480a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/60786d0d009747d6559a54b91ace480a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/A-True-Gentleman-2024-สุภาพบุรุษตัวจริง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Divorce (2024) หย่า",
-    "url": "https://lk-hdx.com/divorce-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Divorce-2024-หย่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9d9a9c8b9a5babbeee5609f49661d697/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9d9a9c8b9a5babbeee5609f49661d697"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Divorce-2024-หย่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "An Invisible Victim The Eliza Samudio Case (2024) เหยื่อที่มองไม่เห็น คดีอีลิซ่า ซามูดิโอ",
-    "url": "https://lk-hdx.com/an-invisible-victim-the-eliza-samudio-case-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/An-Invisible-Victim-The-Eliza-Samudio-Case-2024-เหยื่อที่มองไม่เห็น-คดีอีลิซ่า-ซามูดิโอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ae9bf780816d55ebbb2c20c0497370f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ae9bf780816d55ebbb2c20c0497370f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/An-Invisible-Victim-The-Eliza-Samudio-Case-2024-เหยื่อที่มองไม่เห็น-คดีอีลิซ่า-ซามูดิโอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jailbreak Love on the Run (2024) รักระหว่างหนี",
-    "url": "https://lk-hdx.com/jailbreak-love-on-the-run-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Jailbreak-Love-on-the-Run-2024-รักระหว่างหนี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/276a3143e7e68f68cf3279a6cc63cc75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/276a3143e7e68f68cf3279a6cc63cc75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Jailbreak-Love-on-the-Run-2024-รักระหว่างหนี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ฝ่านรกเมืองเทวดา (2024) Bangkok Breaking Heaven and Hell",
-    "url": "https://lk-hdx.com/bangkok-breaking-heaven-and-hell-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/ฝ่านรกเมืองเทวดา-2024-Bangkok-Breaking-Heaven-and-Hell-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PnlY5a5P_w"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/ฝ่านรกเมืองเทวดา-2024-Bangkok-Breaking-Heaven-and-Hell-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "His Three Daughters (2024) สามสาว ลูกสาวพ่อ",
-    "url": "https://lk-hdx.com/his-three-daughters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/His-Three-Daughters-2024-สามสาว-ลูกสาวพ่อ-ซับไทย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ead7f6eb7df139232564dbce6ca2c92/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ead7f6eb7df139232564dbce6ca2c92"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/His-Three-Daughters-2024-สามสาว-ลูกสาวพ่อ-ซับไทย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Officer Black Belt (2024) เจ้าหน้าที่สายดำ",
-    "url": "https://lk-hdx.com/officer-black-belt-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024-เจ้าหน้าที่สายดำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5c2ba81f7819a0d1e51f5ea52450968e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5c2ba81f7819a0d1e51f5ea52450968e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024-เจ้าหน้าที่สายดำ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sector 36 (2024) เซกเตอร์ 36",
-    "url": "https://lk-hdx.com/sector-36-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Sector-36-2024-เซกเตอร์-36-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8bd1717e415e14ba5f249b2abc253e23/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8bd1717e415e14ba5f249b2abc253e23"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Sector-36-2024-เซกเตอร์-36-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Uglies (2024) อั๊กลี่",
-    "url": "https://lk-hdx.com/uglies-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Uglies-2024-อั๊กลี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5c674312f1ce77a78e2881421044700b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5c674312f1ce77a78e2881421044700b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Uglies-2024-อั๊กลี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Boxer (2024) นักชกสังเวียนดิบ",
-    "url": "https://lk-hdx.com/boxer-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Boxer-2024-นักชกสังเวียนดิบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Vth_RBDtll"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Boxer-2024-นักชกสังเวียนดิบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Apollo 13 Survival (2024) อะพอลโล 13 ภารกิจต้องรอด",
-    "url": "https://lk-hdx.com/apollo-13-survival-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Apollo-13-Survival-2024-อะพอลโล-13-ภารกิจต้องรอด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea0a61c9d776796cf77c7aba8a5c89ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea0a61c9d776796cf77c7aba8a5c89ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Apollo-13-Survival-2024-อะพอลโล-13-ภารกิจต้องรอด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rebel Ridge (2024) เรเบลริดจ์ ผ่าเมืองอยุติธรรม",
-    "url": "https://lk-hdx.com/rebel-ridge-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Rebel-Ridge-2024-เรเบลริดจ์-ผ่าเมืองอยุติธรรม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/54a8e739ab3c2365359e338e495e2cb7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54a8e739ab3c2365359e338e495e2cb7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Rebel-Ridge-2024-เรเบลริดจ์-ผ่าเมืองอยุติธรรม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jigarthanda Double X (2023) นักเลงจอเงิน ภาค 2",
-    "url": "https://lk-hdx.com/jigarthanda-double-x-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Jigarthanda-Double-X-2023-นักเลงจอเงิน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/59a35c65475bc0e3489455704c15ad91/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/59a35c65475bc0e3489455704c15ad91"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Jigarthanda-Double-X-2023-นักเลงจอเงิน-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "(Un)lucky Sisters (2024) โชค(ไม่)ดี พี่กับน้อง",
-    "url": "https://lk-hdx.com/unlucky-sisters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Unlucky-Sisters-2024-โชคไม่ดี-พี่กับน้อง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/14d87295917a6fa764fa67b1866b4b5f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/14d87295917a6fa764fa67b1866b4b5f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Unlucky-Sisters-2024-โชคไม่ดี-พี่กับน้อง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Untamed Royals (2024) แสบชั้นสูง",
-    "url": "https://lk-hdx.com/untamed-royals-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Untamed-Royals-2024-แสบชั้นสูง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/xu_0RYGrsN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Untamed-Royals-2024-แสบชั้นสูง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Man on the Run (2023) คนหนีคุก",
-    "url": "https://lk-hdx.com/man-on-the-run-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Man-on-the-Run-2023-คนหนีคุก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/52d45789344796e2f13384f93b07dc3b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/52d45789344796e2f13384f93b07dc3b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Man-on-the-Run-2023-คนหนีคุก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Incoming (2024) มือใหม่ไฮสกูล",
-    "url": "https://lk-hdx.com/incoming-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Incoming-2024-มือใหม่ไฮสกูล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f52d77efd22914beee0f6d86e198fa7b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f52d77efd22914beee0f6d86e198fa7b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Incoming-2024-มือใหม่ไฮสกูล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Pretty Guardian Sailor Moon Cosmos the Movie Part 2 (2023) พริตตี้ การ์เดี้ยน เซเลอร์ มูน คอสมอส เดอะ มูฟวี่ ภาค 2",
-    "url": "https://lk-hdx.com/pretty-guardian-sailor-moon-cosmos-the-movie-part-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-the-Movie-Part-2-2023-พริตตี้-การ์เดี้ยน-เซเลอร์-มูน-คอสมอส-เดอะ-มูฟวี่-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/815c45bbdba6506efbcdcdce68a5dcc9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/815c45bbdba6506efbcdcdce68a5dcc9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-the-Movie-Part-2-2023-พริตตี้-การ์เดี้ยน-เซเลอร์-มูน-คอสมอส-เดอะ-มูฟวี่-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Pretty Guardian Sailor Moon Cosmos the Movie (2023) พริตตี้ การ์เดี้ยน เซเลอร์ มูน คอสมอส เดอะ มูฟวี่ ภาค 1",
-    "url": "https://lk-hdx.com/pretty-guardian-sailor-moon-cosmos-the-movie-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-the-Movie-2023-พริตตี้-การ์เดี้ยน-เซเลอร์-มูน-คอสมอส-เดอะ-มูฟวี่-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d706e25425abf6c31a7b1e592e90035d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d706e25425abf6c31a7b1e592e90035d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Pretty-Guardian-Sailor-Moon-Cosmos-the-Movie-2023-พริตตี้-การ์เดี้ยน-เซเลอร์-มูน-คอสมอส-เดอะ-มูฟวี่-ภาค-1-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Untold The Murder of Air McNair (2024) ฆาตกรรมแอร์ แมคแนร์",
-    "url": "https://lk-hdx.com/untold-the-murder-of-air-mcnair-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Untold-The-Murder-of-Air-McNair-2024-ฆาตกรรมแอร์-แมคแนร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fc40e6ca5bb0031482d3a05b86e8798a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fc40e6ca5bb0031482d3a05b86e8798a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Untold-The-Murder-of-Air-McNair-2024-ฆาตกรรมแอร์-แมคแนร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Secret Lives of Orangutans (2024) ชีวิตลับอุรังอุตัง",
-    "url": "https://lk-hdx.com/secret-lives-of-orangutans-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Secret-Lives-of-Orangutans-2024-ชีวิตลับอุรังอุตัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/726e7449ac591df75366748fb63b81b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/726e7449ac591df75366748fb63b81b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Secret-Lives-of-Orangutans-2024-ชีวิตลับอุรังอุตัง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Tokunbo (2024) โทคุนโบ",
-    "url": "https://lk-hdx.com/tokunbo-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Tokunbo-2024-โทคุนโบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c17bec44e518c44b9c74cfe1c9788110/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c17bec44e518c44b9c74cfe1c9788110"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Tokunbo-2024-โทคุนโบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nice Girls (2024)",
-    "url": "https://lk-hdx.com/nice-girls-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Nice-Girls-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Z9iWSFck_3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Nice-Girls-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Union (2024) เดอะ ยูเนี่ยน",
-    "url": "https://lk-hdx.com/the-union-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Union-2024-เดอะ-ยูเนี่ยน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6e3ffe8401894b7a6de24abd18058da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6e3ffe8401894b7a6de24abd18058da"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/The-Union-2024-เดอะ-ยูเนี่ยน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Daughters (2024)",
-    "url": "https://lk-hdx.com/daughters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Daughters-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7702f747d3888db71aeee8d116b9727b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7702f747d3888db71aeee8d116b9727b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Daughters-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Inside the Mind of a Dog (2024) อ่านใจสุนัข",
-    "url": "https://lk-hdx.com/inside-the-mind-of-a-dog-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/055059a2e83fb865c4069a61ad5ee0ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/055059a2e83fb865c4069a61ad5ee0ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "May December (2023) รัก ร่าน ร้าย",
-    "url": "https://lk-hdx.com/may-december-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/May-December-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ef_ADCpazO"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/May-December-2023-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Phir Aayi Hasseen Dillruba (2024) กุหลาบมรณะ ภาค 2",
-    "url": "https://lk-hdx.com/phir-aayi-hasseen-dillruba-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Phir-Aayi-Hasseen-Dillruba-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2def1d83b9c574f821b59e1a8298061c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2def1d83b9c574f821b59e1a8298061c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Phir-Aayi-Hasseen-Dillruba-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lolo and the Kid (2024) โลโล่ แอนด์ เดอะ คิด",
-    "url": "https://lk-hdx.com/lolo-and-the-kid-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Lolo-and-the-Kid-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eedc5c1653fca33fc20c070064ef19b2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eedc5c1653fca33fc20c070064ef19b2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Lolo-and-the-Kid-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Maharaja (2024) มหาราชา",
-    "url": "https://lk-hdx.com/maharaja-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Maharaja-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/39991a84bc1d5d0869a9d0855c0a3fc0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/39991a84bc1d5d0869a9d0855c0a3fc0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Maharaja-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Saving Bikini Bottom: The Sandy Cheeks Movie (2024) เราต้องปกป้องบิกินี่บอททอม: แซนดี้ ชีคส์ออกโรง",
