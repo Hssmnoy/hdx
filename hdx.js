@@ -481,11 +481,16 @@ if (e.m3u8) {
 
       // 🔥 commit ระหว่างทาง
       if (COMMIT_EVERY > 0 && (i + 1) % COMMIT_EVERY === 0) {
-        await commitChanges(`auto update ${cat.name} - ${i + 1}/${catMovies.length}`);
-      }
+  console.log("💾 COMMIT EVERY:", i + 1);
+  await commitChanges(`auto update ${cat.name} - ${i + 1}/${catMovies.length}`);
+}
     }
 
-    allMovies.push(...catMovies);
+    // 🔥 commit ตอนจบหมวด
+console.log("📦 COMMIT END CATEGORY:", cat.name);
+await commitChanges(`finish ${cat.name}`);
+
+allMovies.push(...catMovies);
   }
 
   await fs.writeFile("movies.json", JSON.stringify(allMovies, null, 2));
