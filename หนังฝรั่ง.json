@@ -37412,152 +37412,436 @@
   {
     "title": "The Amityville Murders (2018) เสียงสยอง บ้านมรณะ",
     "url": "https://lk-hdx.com/the-amityville-murders-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Amityville-Murders-2018-เสียงสยอง-บ้านมรณะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Amityville-Murders-2018-เสียงสยอง-บ้านมรณะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c46c687266a1821b1c55158457948e59"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c46c687266a1821b1c55158457948e59/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Big Fat Greek Wedding 3 (2023) รวมญาติงานแต่งตระกูลจี้วายป่วง",
     "url": "https://lk-hdx.com/my-big-fat-greek-wedding-3-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Big-Fat-Greek-Wedding-3-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Big-Fat-Greek-Wedding-3-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2196ad2c7d3bb611cf6df067b6652cbe"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2196ad2c7d3bb611cf6df067b6652cbe/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Beekeeper (2024) นรกเรียกพ่อ",
     "url": "https://lk-hdx.com/the-beekeeper-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/66c4e17bb095f3c1170f8ce2905e9bfe"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/66c4e17bb095f3c1170f8ce2905e9bfe/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Bricklayer (2023) จารชนคนพันธุ์เดือด",
     "url": "https://lk-hdx.com/the-bricklayer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Bricklayer-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Bricklayer-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/07885425446b1f1c5d96d37887c25410"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/07885425446b1f1c5d96d37887c25410/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dangerous Waters (2023)",
     "url": "https://lk-hdx.com/dangerous-waters-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Dangerous-Waters-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Dangerous-Waters-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c24f830fa0ef432e75c70c1ecc21968c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c24f830fa0ef432e75c70c1ecc21968c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Where Hope Grows (2014) พลังแห่งมิตรภาพ",
     "url": "https://lk-hdx.com/where-hope-grows-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Where-Hope-Grows-2014-พลังแห่งมิตรภาพ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Where-Hope-Grows-2014-พลังแห่งมิตรภาพ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8643ef85420f60cae19c0104339d776a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8643ef85420f60cae19c0104339d776a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "John Dies at the End (2012) นายจอห์นตายตอนจบ",
     "url": "https://lk-hdx.com/john-dies-at-the-end-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/John-Dies-at-the-End-2012-นายจอห์นตายตอนจบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/John-Dies-at-the-End-2012-นายจอห์นตายตอนจบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8bfa80900c4512b4e92e7f67c135f210"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8bfa80900c4512b4e92e7f67c135f210/master.m3u8"
+      }
+    ]
   },
   {
     "title": "How to Succeed at Losing (2023) ครั้งนี้ขอกลับมาปัง",
     "url": "https://lk-hdx.com/how-to-succeed-at-losing-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/How-to-Succeed-at-Losing-2023-ครั้งนี้ขอกลับมาปัง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/How-to-Succeed-at-Losing-2023-ครั้งนี้ขอกลับมาปัง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3ab229d6b8515104b72f14ef430549d2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3ab229d6b8515104b72f14ef430549d2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "One More Shot (2024)",
     "url": "https://lk-hdx.com/one-more-shot-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/One-More-Shot-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/One-More-Shot-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/181138dde65c7fa8ff58c78419705272"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/181138dde65c7fa8ff58c78419705272/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bedspacer (2024)",
     "url": "https://lk-hdx.com/bedspacer-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Bedspacer-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Bedspacer-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1a415c19f6d5bbd181afec753cdac7a6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1a415c19f6d5bbd181afec753cdac7a6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Survivor (2015) เกมล่าระเบิดเมือง",
     "url": "https://lk-hdx.com/survivor-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Survivor-2015-เกมล่าระเบิดเมือง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Survivor-2015-เกมล่าระเบิดเมือง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3f7cdde3a7d8c574c83c9ba14f65f6e4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3f7cdde3a7d8c574c83c9ba14f65f6e4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Spotlight (2015) คนข่าวคลั่ง",
     "url": "https://lk-hdx.com/spotlight-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Spotlight-2015-คนข่าวคลั่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Spotlight-2015-คนข่าวคลั่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/96650977e38ed2546a6823e79d2148a1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/96650977e38ed2546a6823e79d2148a1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Skin Traffik (2015) โคตรนักฆ่ามหากาฬ",
     "url": "https://lk-hdx.com/skin-traffik-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Skin-Traffik-2015-โคตรนักฆ่ามหากาฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Skin-Traffik-2015-โคตรนักฆ่ามหากาฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/57a31dc1607296499acb5e432af5084d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/57a31dc1607296499acb5e432af5084d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Riot (2015) อัดแค้นถล่มคุก",
     "url": "https://lk-hdx.com/riot-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Riot-2015-อัดแค้นถล่มคุก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Riot-2015-อัดแค้นถล่มคุก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/19872535d26c9103f38678695e89bf4d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/19872535d26c9103f38678695e89bf4d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ricki and the Flash (2015) คุณแม่ขาร็อค",
     "url": "https://lk-hdx.com/ricki-and-the-flash-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Ricki-and-the-Flash-2015-คุณแม่ขาร็อค-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Ricki-and-the-Flash-2015-คุณแม่ขาร็อค-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c0c03380515478149a446a30009465f3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c0c03380515478149a446a30009465f3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Miss Sloane (2016) มิสสโลน เธอโลกทึ่ง",
     "url": "https://lk-hdx.com/miss-sloane-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Miss-Sloane-2016-มิสสโลน-เธอโลกทึ่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Miss-Sloane-2016-มิสสโลน-เธอโลกทึ่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ddbcdc727cb7aa69c76806c45a8adbef"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ddbcdc727cb7aa69c76806c45a8adbef/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Midnight Special (2016) เด็กชายพลังเหนือโลก",
     "url": "https://lk-hdx.com/midnight-special-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Midnight-Special-2016-เด็กชายพลังเหนือโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Midnight-Special-2016-เด็กชายพลังเหนือโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bafe312a3a1206fd7bc2eeb69e042684"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bafe312a3a1206fd7bc2eeb69e042684/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Money Monster (2016) เกมการเงิน นรกออนแอร์",
     "url": "https://lk-hdx.com/money-monster-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Money-Monster-2016-เกมการเงิน-นรกออนแอร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Money-Monster-2016-เกมการเงิน-นรกออนแอร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_kchAXiTEA"
+      }
+    ]
   },
   {
     "title": "Miss Peregrine (2016) บ้านเพริกริน เด็กสุดมหัศจรรย์",
     "url": "https://lk-hdx.com/miss-peregrine-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Miss-Peregrine-2016-บ้านเพริกริน-เด็กสุดมหัศจรรย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Miss-Peregrine-2016-บ้านเพริกริน-เด็กสุดมหัศจรรย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e619b4ff7d114b929c4e10a7d981c335"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e619b4ff7d114b929c4e10a7d981c335/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Renegades (2017) เรเนเกดส์ ทีมยุทธการล่าโคตรทองใต้สมุทร",
     "url": "https://lk-hdx.com/renegades-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Renegades-2017-เรเนเกดส์-ทีมยุทธการล่าโคตรทองใต้สมุทร-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Renegades-2017-เรเนเกดส์-ทีมยุทธการล่าโคตรทองใต้สมุทร-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2689208a0b504cbebb3ec2bc99ef918d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2689208a0b504cbebb3ec2bc99ef918d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Robo Dog Airborne (2017) โรโบ หมาบินได้",
     "url": "https://lk-hdx.com/robo-dog-airborne-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Robo-Dog-Airborne-2017-โรโบ-หมาบินได้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Robo-Dog-Airborne-2017-โรโบ-หมาบินได้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5021c8c4a2990d05297478c66658cf63"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5021c8c4a2990d05297478c66658cf63/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Papillon (2017) ปาปิยอง หนีตายเเดนดิบ",
     "url": "https://lk-hdx.com/papillon-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Papillon-2017-ปาปิยอง-หนีตายเเดนดิบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Papillon-2017-ปาปิยอง-หนีตายเเดนดิบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/bCfQh_XP3d"
+      }
+    ]
   },
   {
     "title": "Kin (2018) โคตรปืนเอเลี่ยน",
     "url": "https://lk-hdx.com/kin-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Kin-2018-โคตรปืนเอเลี่ยน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Kin-2018-โคตรปืนเอเลี่ยน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/07a2a8b39f0b281ad3360da49d03fef7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/07a2a8b39f0b281ad3360da49d03fef7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Just a Breath Away (2018) หมอกมฤตยู",
     "url": "https://lk-hdx.com/just-a-breath-away-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Just-a-Breath-Away-2018-หมอกมฤตยู-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Just-a-Breath-Away-2018-หมอกมฤตยู-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/67f399efa68a7b387139d99f5c31f69d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/67f399efa68a7b387139d99f5c31f69d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Incident in a Ghostland (2018) บ้านตุ๊กตาดุ",
     "url": "https://lk-hdx.com/incident-in-a-ghostland-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Incident-in-a-Ghostland-2018-บ้านตุ๊กตาดุ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Incident-in-a-Ghostland-2018-บ้านตุ๊กตาดุ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/21cc2bc9c65007e4e37f0d57ed777630"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/21cc2bc9c65007e4e37f0d57ed777630/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Focus (2015) เกมกล เสน่ห์คนเหนือเมฆ",
     "url": "https://lk-hdx.com/focus-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Focus-2015-เกมกล-เสน่ห์คนเหนือเมฆ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Focus-2015-เกมกล-เสน่ห์คนเหนือเมฆ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/5t_LYLYrVd"
+      }
+    ]
   },
   {
     "title": "Forsaken (2015) โครตคนปราบโจรเถื่อน",
     "url": "https://lk-hdx.com/forsaken-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Forsaken-2015-โครตคนปราบโจรเถื่อน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Forsaken-2015-โครตคนปราบโจรเถื่อน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f176c222abcdd2f2d95886a6d1adae92"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f176c222abcdd2f2d95886a6d1adae92/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Our Kind of Traitor (2016) แผนซ้อนอาชญากรเหนือโลก",
     "url": "https://lk-hdx.com/our-kind-of-traitor-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Our-Kind-of-Traitor-2016-แผนซ้อนอาชญากรเหนือโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Our-Kind-of-Traitor-2016-แผนซ้อนอาชญากรเหนือโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a4f20323d183d3e40b10405e0effa617"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a4f20323d183d3e40b10405e0effa617/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Nerve (2016) เล่นเกม เล่นตาย",
     "url": "https://lk-hdx.com/nerve-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Nerve-2016-เล่นเกม-เล่นตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Nerve-2016-เล่นเกม-เล่นตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/hSOKxt_msa"
+      }
+    ]
   },
   {
     "title": "The Neon Demon (2016) สวย อันตราย",
     "url": "https://lk-hdx.com/the-neon-demon-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Neon-Demon-2016-สวย-อันตราย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Neon-Demon-2016-สวย-อันตราย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bab50ac432e9a2bc31ab6698b1ce8964"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bab50ac432e9a2bc31ab6698b1ce8964/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Security (2017) โคตรยามอันตราย",
