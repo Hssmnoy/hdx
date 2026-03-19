@@ -3438,152 +3438,428 @@
   {
     "title": "The Incredible Monk (2018) จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค 1",
     "url": "https://lk-hdx.com/the-incredible-monk-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Incredible-Monk-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0672711fb762732965c72a3eab5cc26d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0672711fb762732965c72a3eab5cc26d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ก๊วนสุดจัด วัดอลเวง (2022) Messy temple",
     "url": "https://lk-hdx.com/messy-temple/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Messy-temple-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Messy-temple-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d05d1a1431c2d8c5b9e90788bd3861ab"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d05d1a1431c2d8c5b9e90788bd3861ab/master.m3u8"
+      }
+    ]
   },
   {
     "title": "สงครามพินาศ Break War (2024)",
     "url": "https://lk-hdx.com/break-war/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Break-War-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Break-War-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/927653f25fc010de3cba80017526b898"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/927653f25fc010de3cba80017526b898/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Moscow Mission (2023) ภารกิจท้านรก",
     "url": "https://lk-hdx.com/moscow-mission-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Moscow-Mission-2023-ภารกิจท้านรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Moscow-Mission-2023-ภารกิจท้านรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/689459f849779b03d5d310837243cdf2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/689459f849779b03d5d310837243cdf2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Nezha Demon Child is Back (2024) นาจา การกลับมาของเด็กปีศาจ",
     "url": "https://lk-hdx.com/nezha-demon-child-is-back-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/oYBH3Sg_eS"
+      }
+    ]
   },
   {
     "title": "Upstream (2024) ต้นน้ำ",
     "url": "https://lk-hdx.com/upstream-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Upstream-2024-ต้นน้ำ-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Upstream-2024-ต้นน้ำ-165x248.webp",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/iqhcNDSO_n"
+      }
+    ]
   },
   {
     "title": "The Zombies (2024) ซอมบี้ผีวัดเก่า",
     "url": "https://lk-hdx.com/the-zombies/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Zombies-2024-ซอมบี้ผีวัดเก่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Zombies-2024-ซอมบี้ผีวัดเก่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f36e69f7b627d26873e2bd239ad56bc6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f36e69f7b627d26873e2bd239ad56bc6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "VR Fighter (2021) นักสู้ วีอาร์ ล่าเดนคน",
     "url": "https://lk-hdx.com/vr-fighter-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/VR-Fighter-2021-นักสู้-วีอาร์-ล่าเดนคน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/VR-Fighter-2021-นักสู้-วีอาร์-ล่าเดนคน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9a11697d13d61735c06e678e4ecd78a2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9a11697d13d61735c06e678e4ecd78a2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Last Supper (2012) ฌ้อป๋าอ๋อง มหากาพย์ลำน้ำเลือด",
     "url": "https://lk-hdx.com/the-last-supper-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Last-Supper-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Last-Supper-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/21a82ba35ac466de46a0828cff5810dc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/21a82ba35ac466de46a0828cff5810dc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Lost in Beijing (2007) เกมรักหักหลัง",
     "url": "https://lk-hdx.com/lost-in-beijing-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Lost-in-Beijing-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Lost-in-Beijing-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c88e99572d79ae0671de4e24b805eb1f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c88e99572d79ae0671de4e24b805eb1f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Special Raid Awaken (2024) การโจมตีครั้งพิเศษ",
     "url": "https://lk-hdx.com/special-raid-awaken-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Special-Raid-Awaken-2024-การโจมตีครั้งพิเศษ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Special-Raid-Awaken-2024-การโจมตีครั้งพิเศษ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ec4064e9f2e0d5bfc683b049cb1da60a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ec4064e9f2e0d5bfc683b049cb1da60a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Super Heroine (2024) เธอคนเก่งของผม",
     "url": "https://lk-hdx.com/my-super-heroine-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/My-Super-Heroine-2024-เธอคนเก่งของผม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/My-Super-Heroine-2024-เธอคนเก่งของผม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4317aa01f2568f04bf76409fd47162eb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4317aa01f2568f04bf76409fd47162eb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Detective Chinatown 2 (2018) แก๊งม่วนป่วนนิวยอร์ก ภาค 2",
     "url": "https://lk-hdx.com/detective-chinatown-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Detective-Chinatown-2-2018-แก๊งม่วนป่วนนิวยอร์ก-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Detective-Chinatown-2-2018-แก๊งม่วนป่วนนิวยอร์ก-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/54d0a92f955664dd71022f7393a7d08f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/54d0a92f955664dd71022f7393a7d08f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Detective Dee Scent of a Killer (2022) ตี๋เหรินเจี๋ยกับเครื่องหอมมรณะ",
     "url": "https://lk-hdx.com/detective-dee-scent-of-a-killer/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Detective-Dee-Scent-of-a-Killer-2022-ตี๋เหรินเจี๋ยกับเครื่องหอมมรณะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Detective-Dee-Scent-of-a-Killer-2022-ตี๋เหรินเจี๋ยกับเครื่องหอมมรณะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2a99fdbcd3b822d868841643da138b55"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2a99fdbcd3b822d868841643da138b55/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Misty Creed (2023) ลุยสุสานพระราชวัง",
     "url": "https://lk-hdx.com/misty-creed/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Misty-Creed-2023-ลุยสุสานพระราชวัง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Misty-Creed-2023-ลุยสุสานพระราชวัง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Q_yI2JsB5x"
+      }
+    ]
   },
   {
     "title": "Detective Dee And The Phantom Of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์",
     "url": "https://lk-hdx.com/detective-dee-and-the-phantom-of-waning-moon/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Detective-Dee-And-The-Phantom-Of-Waning-Moon-2024-ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Detective-Dee-And-The-Phantom-Of-Waning-Moon-2024-ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b73b69b51f51b1fcaf19e7a710787d36"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b73b69b51f51b1fcaf19e7a710787d36/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The River (2023) สามผู้กล้าท้าแม่น้ำลับ",
     "url": "https://lk-hdx.com/the-river/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-River-2023-สามผู้กล้าท้าแม่น้ำลับ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-River-2023-สามผู้กล้าท้าแม่น้ำลับ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e12c64ab4f7dfb663e33e8461519909d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e12c64ab4f7dfb663e33e8461519909d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Digital Hunter (2021) นักฆ่าดิจิทัล",
     "url": "https://lk-hdx.com/the-digital-hunter-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Digital-Hunter-2021-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Digital-Hunter-2021-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/449e8ceb46f20a0d21a9e9b84a6b6ae7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/449e8ceb46f20a0d21a9e9b84a6b6ae7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Weeds on Fire (2016) รวมใจสู้เพื่อฝัน",
     "url": "https://lk-hdx.com/weeds-on-fire-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Weeds-on-Fire-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Weeds-on-Fire-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/810a0fbd7d92b640ec35d6940049e580"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/810a0fbd7d92b640ec35d6940049e580/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Balloon’s Landing (2024) ฉันจะรอเธอตรงนี้",
     "url": "https://lk-hdx.com/a-balloons-landing-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/A-Balloons-Landing-2024-ฉันจะรอเธอตรงนี้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/A-Balloons-Landing-2024-ฉันจะรอเธอตรงนี้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/KFRuEh2f_S"
+      }
+    ]
   },
   {
     "title": "A Writer’s Odyssey (2021) จอมยุทธ์ทะลุภพ",
     "url": "https://lk-hdx.com/a-writers-odyssey-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Writers-Odyssey-2021-จอมยุทธ์ทะลุภพ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Writers-Odyssey-2021-จอมยุทธ์ทะลุภพ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Ktqo78Xk_P"
+      }
+    ]
   },
   {
     "title": "Aftershock (2010) 1976 มหาภิบัติสิ้นแผ่นดิน",
     "url": "https://lk-hdx.com/aftershock-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Aftershock-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Aftershock-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/db305ed44bd57f8d5d6e6740af2bf935"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/db305ed44bd57f8d5d6e6740af2bf935/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Place Called Silence (2024)",
     "url": "https://lk-hdx.com/a-place-called-silence-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/A-Place-Called-Silence-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/A-Place-Called-Silence-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a38302dd85d46db584786fbb50b88764"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a38302dd85d46db584786fbb50b88764/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Legend of Speed (1999) เร็วทะลุนรก",
     "url": "https://lk-hdx.com/the-legend-of-speed-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Legend-of-Speed-1999-เร็วทะลุนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Legend-of-Speed-1999-เร็วทะลุนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/653e52541025a5c22869d681f7fa0ded"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/653e52541025a5c22869d681f7fa0ded/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Simple Life แค่เธอยิ้ม หัวใจก็อิ่มรัก (2011)",
     "url": "https://lk-hdx.com/a-simple-life-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Simple-Life-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-Simple-Life-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/PNPQ2V_hX3"
+      }
+    ]
   },
   {
     "title": "The Treasure Hunter (2009) โคตรคน ค้นโคตรสมบัติ",
     "url": "https://lk-hdx.com/the-treasure-hunter-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Treasure-Hunter-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Treasure-Hunter-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f95dd12acf518ea97e4a566f150b6070"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f95dd12acf518ea97e4a566f150b6070/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Vanished Murderer (2015)",
     "url": "https://lk-hdx.com/the-vanished-murderer-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Vanished-Murderer-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Vanished-Murderer-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e4f4cdc8413566ac36683311c3d15a28"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e4f4cdc8413566ac36683311c3d15a28/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A World Without Thieves (2004) จอมโจรหัวใจไม่ลวงรัก",
     "url": "https://lk-hdx.com/a-world-without-thieves-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-World-Without-Thieves-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/A-World-Without-Thieves-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f916c6af8b72f6f632c9c89fe9a3b7a5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f916c6af8b72f6f632c9c89fe9a3b7a5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Storm Riders (1998) ฟงอวิ๋น ขี่พายุทะลุฟ้า",
     "url": "https://lk-hdx.com/the-storm-riders-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Storm-Riders-1998-ฟงอวิ๋น-ขี่พายุทะลุฟ้า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Storm-Riders-1998-ฟงอวิ๋น-ขี่พายุทะลุฟ้า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4ba08fee48edb307e9629561d9997c41"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4ba08fee48edb307e9629561d9997c41/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Wheels on Meals (1984) ขาตั้งสู้",
     "url": "https://lk-hdx.com/wheels-on-meals-1984/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Wheels-on-Meals-1984-ขาตั้งสู้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Wheels-on-Meals-1984-ขาตั้งสู้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f2dae2e72c0962cb255bfe1e430800ea"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f2dae2e72c0962cb255bfe1e430800ea/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I Not Stupid 3 (2024)",
