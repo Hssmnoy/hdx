@@ -16867,153 +16867,425 @@
   },
   {
     "title": "Alice in Wonderland (2010) อลิซ ในแดนมหัศจรรย์",
-    "url": "https://lk-hdx.com/alice-in-wonderland-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Alice-in-Wonderland-2010-อลิซ-ในแดนมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/55d03fd1ebea6138dfdf7126c90d9f3e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/55d03fd1ebea6138dfdf7126c90d9f3e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Alice-in-Wonderland-2010-อลิซ-ในแดนมหัศจรรย์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Taming of the Sharewd (2022) ปราบร้ายด้วยรัก",
-    "url": "https://lk-hdx.com/the-taming-of-the-sharewd-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Taming-of-the-Sharewd-2022-ปราบร้ายด้วยรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/66f49579c64876bcde5f1cb45ec37f40/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66f49579c64876bcde5f1cb45ec37f40"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Taming-of-the-Sharewd-2022-ปราบร้ายด้วยรัก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Insidious The Red Door (2023) วิญญาณตามติด ภาค 5 ประตูผีผ่าน",
-    "url": "https://lk-hdx.com/insidious-the-red-door-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Red-Door-2023-วิญญาณตามติด-ภาค-5-ประตูผีผ่าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a96b4cf8c30daa3d8964b40256e9d67b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a96b4cf8c30daa3d8964b40256e9d67b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Red-Door-2023-วิญญาณตามติด-ภาค-5-ประตูผีผ่าน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Insidious The Last Key (2018) วิญญาณตามติด ภาค 4 กุญแจผีบอก",
-    "url": "https://lk-hdx.com/insidious-the-last-key-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Last-Key-2018-วิญญาณตามติด-ภาค-4-กุญแจผีบอก-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MkJxo_ThvV"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Last-Key-2018-วิญญาณตามติด-ภาค-4-กุญแจผีบอก-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Insidious Chapter 3 (2015) วิญญาณตามติด ภาค 3",
-    "url": "https://lk-hdx.com/insidious-chapter-3-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-3-2015-วิญญาณตามติด-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e4aaea094390f2522f5e115d040fe4f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e4aaea094390f2522f5e115d040fe4f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-3-2015-วิญญาณตามติด-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Insidious Chapter 2 (2013) วิญญาณตามติด ภาค 2",
-    "url": "https://lk-hdx.com/insidious-chapter-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-2-2013-วิญญาณตามติด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/y55dpe_aYz"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-2-2013-วิญญาณตามติด-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Insidious 1 (2010) วิญญาณตามติด ภาค 1",
-    "url": "https://lk-hdx.com/insidious-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-1-2010-วิญญาณตามติด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/352d8c4fd2107645dc6919409fa42111/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/352d8c4fd2107645dc6919409fa42111"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-1-2010-วิญญาณตามติด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อ",
-    "url": "https://lk-hdx.com/indiana-jones-and-the-dial-of-destiny-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-and-the-Dial-of-Destiny-2023-อินเดียน่า-โจนส์-กับกงล้อ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/8_4hViemT7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-and-the-Dial-of-Destiny-2023-อินเดียน่า-โจนส์-กับกงล้อ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Indiana Jones 4 And The Kingdom Of The Crystal Skull (2008) ขุมทรัพย์สุดขอบฟ้า ภาค 4 ตอน อาณาจักรกะโหลกแก้ว",
-    "url": "https://lk-hdx.com/indiana-jones-4-and-the-kingdom-of-the-crystal-skull-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-4-And-The-Kingdom-Of-The-Crystal-Skull-2008-ขุมทรัพย์สุดขอบฟ้า-ภาค-4-ตอน-อาณาจักรกะโหลกแก้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/9Kvs_kPvmT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-4-And-The-Kingdom-Of-The-Crystal-Skull-2008-ขุมทรัพย์สุดขอบฟ้า-ภาค-4-ตอน-อาณาจักรกะโหลกแก้ว-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Indiana Jones 3 And The Last Crusade (1989) ขุมทรัพย์สุดขอบฟ้า ภาค 3 ตอน ศึกอภินิหารครูเสด",
-    "url": "https://lk-hdx.com/indiana-jones-3-and-the-last-crusade-1989/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-3-And-The-Last-Crusade-1989-ขุมทรัพย์สุดขอบฟ้า-ภาค-3-ตอน-ศึกอภินิหารครูเสด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dfc6a1faab4dd19bedbf1ae3b443776a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dfc6a1faab4dd19bedbf1ae3b443776a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-3-And-The-Last-Crusade-1989-ขุมทรัพย์สุดขอบฟ้า-ภาค-3-ตอน-ศึกอภินิหารครูเสด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Indiana Jones 2 And The Temple Of Doom (1984) ขุมทรัพย์สุดขอบฟ้า ภาค 2 ตอน ถล่มวิหารเจ้าแม่กาลี",
-    "url": "https://lk-hdx.com/indiana-jones-2-and-the-temple-of-doom-1984/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-2-And-The-Temple-Of-Doom-1984-ขุมทรัพย์สุดขอบฟ้า-ภาค-2-ตอน-ถล่มวิหารเจ้าแม่กาลี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d72d70530a68531da227686811de2b7f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d72d70530a68531da227686811de2b7f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-2-And-The-Temple-Of-Doom-1984-ขุมทรัพย์สุดขอบฟ้า-ภาค-2-ตอน-ถล่มวิหารเจ้าแม่กาลี-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Indiana Jones 1 and the Raiders of the Lost Ark (1981) ขุมทรัพย์สุดขอบฟ้า ภาค 1",
-    "url": "https://lk-hdx.com/indiana-jones-1-and-the-raiders-of-the-lost-ark-1981/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-1-and-the-Raiders-of-the-Lost-Ark-1981-ขุมทรัพย์สุดขอบฟ้า-ภาค-1-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e8d70436d711d86980ebdcac26d74a78/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e8d70436d711d86980ebdcac26d74a78"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-1-and-the-Raiders-of-the-Lost-Ark-1981-ขุมทรัพย์สุดขอบฟ้า-ภาค-1-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Catcher Demon (2022) อาจารย์เต๋า ภาค 2",
-    "url": "https://lk-hdx.com/catcher-demon-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Catcher-Demon-2022-อาจารย์เต๋า-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cfd3c5a3c0ef7b811a28b05bb63a4dbe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cfd3c5a3c0ef7b811a28b05bb63a4dbe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Catcher-Demon-2022-อาจารย์เต๋า-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Clerks 3 (2022) เซอร์ แสบ ป่วน ภาค 3",
-    "url": "https://lk-hdx.com/clerks-3-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Clerks-3-2022-เซอร์-แสบ-ป่วน-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4141823c535996c5d2b2c4cab750aca3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4141823c535996c5d2b2c4cab750aca3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Clerks-3-2022-เซอร์-แสบ-ป่วน-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic World Camp Cretaceous (2022) การผจญภัยซ่อนเร้น",
-    "url": "https://lk-hdx.com/jurassic-world-camp-cretaceous-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jurassic-World-Camp-Cretaceous-2022-การผจญภัยซ่อนเร้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/694593b222b46eecfd662961ec7bd27e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/694593b222b46eecfd662961ec7bd27e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jurassic-World-Camp-Cretaceous-2022-การผจญภัยซ่อนเร้น-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-    "url": "https://lk-hdx.com/a-haunting-in-venice/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/qyl_P0SApW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Death on the Nile (2022) ฆาตกรรมบนลำน้ำไนล์",
-    "url": "https://lk-hdx.com/death-on-the-nile-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Death-on-the-Nile-2022-ฆาตกรรมบนลำน้ำไนล์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a1e574330fae6f28286cd744d2f9b75d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a1e574330fae6f28286cd744d2f9b75d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Death-on-the-Nile-2022-ฆาตกรรมบนลำน้ำไนล์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Murder on the Orient Express (2017) ฆาตกรรมบนรถด่วนโอเรียนท์เอกซ์เพรส",
-    "url": "https://lk-hdx.com/murder-on-the-orient-express-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Murder-on-the-Orient-Express-2017-ฆาตกรรมบนรถด่วนโอเรียนท์เอกซ์เพรส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6dbe772e20889695311ef76ddfa30d71/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6dbe772e20889695311ef76ddfa30d71"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Murder-on-the-Orient-Express-2017-ฆาตกรรมบนรถด่วนโอเรียนท์เอกซ์เพรส-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Expendables 3 (2014) โคตรมหากาฬ ทีมเอ็กซ์เพนเดเบิ้ล ภาค 3",
-    "url": "https://lk-hdx.com/the-expendables-3-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Expendables-3-2014-โคตรมหากาฬ-ทีมเอ็กซ์เพนเดเบิ้ล-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/P_KbOAI0Yp"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Expendables-3-2014-โคตรมหากาฬ-ทีมเอ็กซ์เพนเดเบิ้ล-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Expendables 2 (2012) โคตรคน ทีมเอ็กซ์เพนเดเบิ้ล ภาค 2",
-    "url": "https://lk-hdx.com/the-expendables-2-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Expendables-2-2012-โคตรคน-ทีมเอ็กซ์เพนเดเบิ้ล-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/35716b2014955639c9b70854534a5796/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/35716b2014955639c9b70854534a5796"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Expendables-2-2012-โคตรคน-ทีมเอ็กซ์เพนเดเบิ้ล-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Expendables 1 (2010) โครตคนทีมมหากาฬ ภาค 1",
-    "url": "https://lk-hdx.com/the-expendables-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Expendables-1-2010-โครตคนทีมมหากาฬ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0dcdc99e2c88a48906e89b8903785aac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0dcdc99e2c88a48906e89b8903785aac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Expendables-1-2010-โครตคนทีมมหากาฬ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Equalizer 3 (2023) มัจจุราชไร้เงา ภาค3พากย์ไทย",
-    "url": "https://lk-hdx.com/the-equalizer-3-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-มัจจุราชไร้เงา-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/94776d06a02a12f222b6b3b8b51a0c27/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/94776d06a02a12f222b6b3b8b51a0c27"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-มัจจุราชไร้เงา-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Equalizer 2 (2018) มัจจุราชไร้เงา ภาค 2",
-    "url": "https://lk-hdx.com/the-equalizer-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Equalizer-2-2018-มัจจุราชไร้เงา-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_lJRPyT8P4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Equalizer-2-2018-มัจจุราชไร้เงา-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Equalizer 1 (2014) มัจจุราชไร้เงา ภาค 1",
-    "url": "https://lk-hdx.com/the-equalizer-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Equalizer-1-2014-มัจจุราชไร้เงา-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ccf727b4a5cc92f20cb2b334f5a216a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ccf727b4a5cc92f20cb2b334f5a216a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Equalizer-1-2014-มัจจุราชไร้เงา-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "An Unforgettable Year Spring (2023) ปีที่ไม่อาจลืมเลือน ฤดูใบไม้ผลิ",
-    "url": "https://lk-hdx.com/an-unforgettable-year-spring-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Spring-2023-ปีที่ไม่อาจลืมเลือน-ฤดูใบไม้ผลิ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5cb3919d3eaa619d2708bf87ee33cd2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5cb3919d3eaa619d2708bf87ee33cd2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Spring-2023-ปีที่ไม่อาจลืมเลือน-ฤดูใบไม้ผลิ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "An Unforgettable Year Winter (2023) ปีที่ไม่อาจลืมเลือน ฤดูหนาว",
-    "url": "https://lk-hdx.com/an-unforgettable-year-winter-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Winter-2023-ปีที่ไม่อาจลืมเลือน-ฤดูหนาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73780397aef6755fa7f46e5a89e58163/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73780397aef6755fa7f46e5a89e58163"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Winter-2023-ปีที่ไม่อาจลืมเลือน-ฤดูหนาว-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "An Unforgettable Year Autumn (2023) ปีที่ไม่อาจลืมเลือน ฤดูใบไม้ร่วง",
-    "url": "https://lk-hdx.com/an-unforgettable-year-autumn-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Autumn-2023-ปีที่ไม่อาจลืมเลือน-ฤดูใบไม้ร่วง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9ad342bdd32c395763a0bab533efa848/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9ad342bdd32c395763a0bab533efa848"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Autumn-2023-ปีที่ไม่อาจลืมเลือน-ฤดูใบไม้ร่วง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Harry Potter 20th Anniversary Return to Hogwarts (2022) ครบรอบ 20 ปี แฮร์รี่ พอตเตอร์ คืนสู่เหย้าฮอกวอตส์",
-    "url": "https://lk-hdx.com/harry-potter-20th-anniversary-return-to-hogwarts-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-20th-Anniversary-Return-to-Hogwarts-2022-ครบรอบ-20-ปี-แฮร์รี่-พอตเตอร์-คืนสู่เหย้าฮอกวอตส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e12fcb43c61ebbab857cb7ea3937d84/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e12fcb43c61ebbab857cb7ea3937d84"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-20th-Anniversary-Return-to-Hogwarts-2022-ครบรอบ-20-ปี-แฮร์รี่-พอตเตอร์-คืนสู่เหย้าฮอกวอตส์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Harry Potter and the Deathly Hallows Part 2 (2011) แฮร์รี่ พอตเตอร์ กับเครื่องรางยมทูต ภาค 7.2",
-    "url": "https://lk-hdx.com/harry-potter-and-the-deathly-hallows-part-2-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Deathly-Hallows-Part-2-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/96a2514efc002308a1f011827209bf3f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/96a2514efc002308a1f011827209bf3f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Deathly-Hallows-Part-2-2011-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Tall Girl 2 (2022) รักยุ่งของสาวโย่ง ภาค 2",
-    "url": "https://lk-hdx.com/tall-girl-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Tall-Girl-2-2022-รักยุ่งของสาวโย่ง-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a30f7a0598b4fb3bb275d5d070e9bc99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a30f7a0598b4fb3bb275d5d070e9bc99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Tall-Girl-2-2022-รักยุ่งของสาวโย่ง-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Tall Girl 1 (2019) รักยุ่งของสาวโย่ง ภาค 1",
