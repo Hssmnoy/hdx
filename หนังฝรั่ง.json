@@ -51223,153 +51223,433 @@
   },
   {
     "title": "Hostiles (2017) แดนเถื่อน คนทมิฬ",
-    "url": "https://lk-hdx.com/hostiles-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Hostiles-2017-แดนเถื่อน-คนทมิฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a168ee13b3f6736d6da9a5c22ad2d7fa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a168ee13b3f6736d6da9a5c22ad2d7fa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Hostiles-2017-แดนเถื่อน-คนทมิฬ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ghost House (2017) มันอยู่ในศาล",
-    "url": "https://lk-hdx.com/ghost-house-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-House-2017-มันอยู่ในศาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f1ee9e0cf983483d1831b7818fdde3d7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f1ee9e0cf983483d1831b7818fdde3d7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Ghost-House-2017-มันอยู่ในศาล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Get Out (2017) ลวงร่างจิตหลอน",
-    "url": "https://lk-hdx.com/get-out-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-Out-2017-ลวงร่างจิตหลอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a3583b7f2bae253e9df50dc7fc09d03b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a3583b7f2bae253e9df50dc7fc09d03b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Get-Out-2017-ลวงร่างจิตหลอน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Girls Trip (2017) ทริปเพื่อนซี้สาวซ่าส์",
-    "url": "https://lk-hdx.com/girls-trip-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Girls-Trip-2017-ทริปเพื่อนซี้สาวซ่าส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/D9veMR_cpj"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Girls-Trip-2017-ทริปเพื่อนซี้สาวซ่าส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Devil’s Due (2014) ผีทวงร่าง",
-    "url": "https://lk-hdx.com/devils-due-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Devils-Due-2014-ผีทวงร่าง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8cf278afac978534d4c2276ba0c65930/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8cf278afac978534d4c2276ba0c65930"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Devils-Due-2014-ผีทวงร่าง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dying of the Light (2014) ปฏิบัติการล่า เด็ดหัวคู่อาฆาต",
-    "url": "https://lk-hdx.com/dying-of-the-light-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dying-of-the-Light-2014-ปฏิบัติการล่า-เด็ดหัวคู่อาฆาต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53c870e2ed09f60856ea97a0f0e2f574/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53c870e2ed09f60856ea97a0f0e2f574"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Dying-of-the-Light-2014-ปฏิบัติการล่า-เด็ดหัวคู่อาฆาต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Drive Hard (2014) ปล้น ซิ่ง ชิ่ง หนี",
-    "url": "https://lk-hdx.com/drive-hard-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Drive-Hard-2014-ปล้น-ซิ่ง-ชิ่ง-หนี-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fPzcdZyS_N"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Drive-Hard-2014-ปล้น-ซิ่ง-ชิ่ง-หนี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cooties (2014) คุณครูฮะ พวกผมเป็นซอมบี้",
-    "url": "https://lk-hdx.com/cooties-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Cooties-2014-คุณครูฮะ-พวกผมเป็นซอมบี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1fd99bc5d62ca3a6fef3db9cbc791968/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1fd99bc5d62ca3a6fef3db9cbc791968"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Cooties-2014-คุณครูฮะ-พวกผมเป็นซอมบี้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Desierto (2015) ฝ่าเส้นตายพรมแดนทมิฬ",
-    "url": "https://lk-hdx.com/desierto-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Desierto-2015-ฝ่าเส้นตายพรมแดนทมิฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7b814680b386053ccafa66e6b621e377/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7b814680b386053ccafa66e6b621e377"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Desierto-2015-ฝ่าเส้นตายพรมแดนทมิฬ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "400 days (2015) ภารกิจลับมฤตยูใต้โลก",
-    "url": "https://lk-hdx.com/400-days-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/400-days-2015-ภารกิจลับมฤตยูใต้โลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8b77645dba7bbf3877fb35daafc9cc7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8b77645dba7bbf3877fb35daafc9cc7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/400-days-2015-ภารกิจลับมฤตยูใต้โลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Demonic (2015) บ้านกระตุกผี",
-    "url": "https://lk-hdx.com/demonic-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Demonic-2015-บ้านกระตุกผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e62a576332446837582e4d18236933a0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e62a576332446837582e4d18236933a0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Demonic-2015-บ้านกระตุกผี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Child 44 (2015) อำมหิตซ่อนโลก",
-    "url": "https://lk-hdx.com/child-44-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Child-44-2015-อำมหิตซ่อนโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/57f462c50b4a869c2f2f02297a0ab553/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/57f462c50b4a869c2f2f02297a0ab553"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Child-44-2015-อำมหิตซ่อนโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Barely Lethal (2015) สายลับรหัสเริ่ด",
-    "url": "https://lk-hdx.com/barely-lethal-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Barely-Lethal-2015-สายลับรหัสเริ่ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d784c8ba8e411bd49c710f07bc26f6e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d784c8ba8e411bd49c710f07bc26f6e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Barely-Lethal-2015-สายลับรหัสเริ่ด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Imperium (2016) สายลับขวางนรก",
-    "url": "https://lk-hdx.com/imperium-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Imperium-2016-สายลับขวางนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/98c8eb105fc5f08ea1208b625a5dfdbf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/98c8eb105fc5f08ea1208b625a5dfdbf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Imperium-2016-สายลับขวางนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hacker (2016) อัจฉริยะแฮกข้ามโลก",
-    "url": "https://lk-hdx.com/hacker-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Hacker-2016-อัจฉริยะแฮกข้ามโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3c7ca6ac96a953d1115ac27749c7f2ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c7ca6ac96a953d1115ac27749c7f2ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Hacker-2016-อัจฉริยะแฮกข้ามโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hacksaw Ridge (2016) วีรบุรุษสมรภูมิปาฏิหาริย์",
-    "url": "https://lk-hdx.com/hacksaw-ridge-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Hacksaw-Ridge-2016-วีรบุรุษสมรภูมิปาฏิหาริย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/23636feb02befccc4b381a72383c60ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/23636feb02befccc4b381a72383c60ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Hacksaw-Ridge-2016-วีรบุรุษสมรภูมิปาฏิหาริย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Guardians Of The Night (2016) โคตรคนการ์เดี้ยน",
-    "url": "https://lk-hdx.com/guardians-of-the-night-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Guardians-Of-The-Night-2016-โคตรคนการ์เดี้ยน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bca61201c07780818169b657373c19d9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bca61201c07780818169b657373c19d9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Guardians-Of-The-Night-2016-โคตรคนการ์เดี้ยน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "City of Ghosts (2017) เหยี่ยวข่าวสมรภูมิเลือด",
-    "url": "https://lk-hdx.com/city-of-ghosts-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/City-of-Ghosts-2017-เหยี่ยวข่าวสมรภูมิเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b8ac7b9bc2158ec0426c5a2c357ece3e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b8ac7b9bc2158ec0426c5a2c357ece3e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/City-of-Ghosts-2017-เหยี่ยวข่าวสมรภูมิเลือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cold Skin (2017) พรายนรก ป้อมทมิฬ",
-    "url": "https://lk-hdx.com/cold-skin-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Cold-Skin-2017-พรายนรก-ป้อมทมิฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e1a565ea3355344170433313d95f0f41/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e1a565ea3355344170433313d95f0f41"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Cold-Skin-2017-พรายนรก-ป้อมทมิฬ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Camp Cool Kids (2017) ค่าย เด็กสุดคูล",
-    "url": "https://lk-hdx.com/camp-cool-kids-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Camp-Cool-Kids-2017-ค่าย-เด็กสุดคูล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cf262b054336757cf91bbd096107e7e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cf262b054336757cf91bbd096107e7e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Camp-Cool-Kids-2017-ค่าย-เด็กสุดคูล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Brick Mansions (2014) พันธุ์โดด พันธุ์เดือด",
-    "url": "https://lk-hdx.com/brick-mansions-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Brick-Mansions-2014-พันธุ์โดด-พันธุ์เดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/5__YO9_jSC"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Brick-Mansions-2014-พันธุ์โดด-พันธุ์เดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blood Lake Attack Of The Killer Lampreys (2014) พันธุ์ประหลาดดูดเลือด",
-    "url": "https://lk-hdx.com/blood-lake-attack-of-the-killer-lampreys-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Blood-Lake-Attack-Of-The-Killer-Lampreys-2014-พันธุ์ประหลาดดูดเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/411e046e662d0177b0748c426c3ebfe6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/411e046e662d0177b0748c426c3ebfe6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Blood-Lake-Attack-Of-The-Killer-Lampreys-2014-พันธุ์ประหลาดดูดเลือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bigfoot Wars (2014) สงครามถล่มพันธุ์ไอ้ตีนโต",
-    "url": "https://lk-hdx.com/bigfoot-wars-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bigfoot-Wars-2014-สงครามถล่มพันธุ์ไอ้ตีนโต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53a686ea8cf10e864aac6e9d2f0a6f99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53a686ea8cf10e864aac6e9d2f0a6f99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Bigfoot-Wars-2014-สงครามถล่มพันธุ์ไอ้ตีนโต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Before I Go To Sleep (2014) หลับ ลืม ตื่น ตาย",
-    "url": "https://lk-hdx.com/before-i-go-to-sleep-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Before-I-Go-To-Sleep-2014-หลับ-ลืม-ตื่น-ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7cfc92b301f6d1e15983404adf6a2a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7cfc92b301f6d1e15983404adf6a2a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Before-I-Go-To-Sleep-2014-หลับ-ลืม-ตื่น-ตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Annie (2014) หนูน้อยแอนนี่",
-    "url": "https://lk-hdx.com/annie-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Annie-2014-หนูน้อยแอนนี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/569c89e13c05e0b709e4b7d1d3f6d765/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/569c89e13c05e0b709e4b7d1d3f6d765"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Annie-2014-หนูน้อยแอนนี่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Chappie (2015) จักรกลเปลี่ยนโลก",
-    "url": "https://lk-hdx.com/chappie-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Chappie-2015-จักรกลเปลี่ยนโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/775703530442e422449dfd9ae9699a2f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/775703530442e422449dfd9ae9699a2f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Chappie-2015-จักรกลเปลี่ยนโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bound (2015) ร้อนรักพันธนาการ",
-    "url": "https://lk-hdx.com/bound-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bound-2015-ร้อนรักพันธนาการ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/KL2hP_RT__"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Bound-2015-ร้อนรักพันธนาการ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Battle for Skyark (2015) สมรภูมิเมืองลอยฟ้า",
-    "url": "https://lk-hdx.com/battle-for-skyark-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Battle-for-Skyark-2015-สมรภูมิเมืองลอยฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/501bb59a00eec301bd6e9b30ffb43a28/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/501bb59a00eec301bd6e9b30ffb43a28"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Battle-for-Skyark-2015-สมรภูมิเมืองลอยฟ้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Bigger Splash (2015) ซัมเมอร์ร้อนรัก",
-    "url": "https://lk-hdx.com/a-bigger-splash-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Bigger-Splash-2015-ซัมเมอร์ร้อนรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a6e63b69773f71c1e61722bd9635c62c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a6e63b69773f71c1e61722bd9635c62c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Bigger-Splash-2015-ซัมเมอร์ร้อนรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Area 51 (2015) แอเรีย 51 บุกฐานลับ ล่าเอเลี่ยน",
-    "url": "https://lk-hdx.com/area-51-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Area-51-2015-แอเรีย-51-บุกฐานลับ-ล่าเอเลี่ยน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ciWIipuj6_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Area-51-2015-แอเรีย-51-บุกฐานลับ-ล่าเอเลี่ยน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Free State of Jones (2016) จอมคนล้างแผ่นดิน",
