@@ -14630,152 +14630,444 @@
   {
     "title": "School of Rock (2003) ครูซ่าเปิดตำราร็อค",
     "url": "https://lk-hdx.com/school-of-rock-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/School-of-Rock-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/School-of-Rock-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9c4ba7d07399b1413b59b205e3ae7c25"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9c4ba7d07399b1413b59b205e3ae7c25/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Secret Window (2004) หน้าต่างหลอน อำมหิต",
     "url": "https://lk-hdx.com/secret-window-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Secret-Window-2004-หน้าต่างหลอน-อำมหิต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Secret-Window-2004-หน้าต่างหลอน-อำมหิต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3e8d721da6815b1f8ea8df0f47ba1293"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3e8d721da6815b1f8ea8df0f47ba1293/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Shrooms (2007) มัน ผุดจากนรก",
     "url": "https://lk-hdx.com/shrooms-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Shrooms-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Shrooms-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c9823acdab6edd44c7f1dbe137a5fcd6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c9823acdab6edd44c7f1dbe137a5fcd6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sunshine (2007) ซันไชน์ ยุทธการสยบพระอาทิตย์",
     "url": "https://lk-hdx.com/sunshine-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Sunshine-2007-ซันไชน์-ยุทธการสยบพระอาทิตย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Sunshine-2007-ซันไชน์-ยุทธการสยบพระอาทิตย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/355a9612d6ce0c706c7f2d03c15fa868"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/355a9612d6ce0c706c7f2d03c15fa868/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Scooby Doo The Movie (2002) บริษัทป่วนผีไม่จำกัด",
     "url": "https://lk-hdx.com/scooby-doo-the-movie-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Scooby-Doo-The-Movie-2002-บริษัทป่วนผีไม่จำกัด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Scooby-Doo-The-Movie-2002-บริษัทป่วนผีไม่จำกัด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6cb07cc28fbb61b54cbd778137fcf4d1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6cb07cc28fbb61b54cbd778137fcf4d1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hot Frosty (2024) ฟรอสตี้สุดฮอต",
     "url": "https://lk-hdx.com/hot-frosty-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Hot-Frosty-2024-ฟรอสตี้สุดฮอต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Hot-Frosty-2024-ฟรอสตี้สุดฮอต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/521ab705457e4fc5203fef343806db64"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/521ab705457e4fc5203fef343806db64/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Peter Pan (2003) ปีเตอร์ แพน",
     "url": "https://lk-hdx.com/peter-pan-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Peter-Pan-2003-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Peter-Pan-2003-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1213ce2ae746dcfc5a92075c745282da"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1213ce2ae746dcfc5a92075c745282da/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Demolition (2015) ขอเทใจให้อีกครั้ง",
     "url": "https://lk-hdx.com/demolition-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Demolition-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Demolition-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ea1a10525d27f8a40757016f4ce10684"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ea1a10525d27f8a40757016f4ce10684/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The World’s End (2013) ก๊วนรั่วกู้โลก",
     "url": "https://lk-hdx.com/the-worlds-end-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Worlds-End-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Worlds-End-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4ab4fe6ed058619d10c81f3412f493ca"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4ab4fe6ed058619d10c81f3412f493ca/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dragonslayer (1981) พ่อมดพิชิตมังกร",
     "url": "https://lk-hdx.com/dragonslayer-1981/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Dragonslayer-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Dragonslayer-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9953e813ec8c0964aef6d1135bdf1c73"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9953e813ec8c0964aef6d1135bdf1c73/master.m3u8"
+      }
+    ]
   },
   {
     "title": "SuperMan The Christopher Reeve Story (2024) ซุปเปอร์ แมน เดอะ คริสโตเฟอร์ รีฟ สตอรี่",
     "url": "https://lk-hdx.com/superman-the-christopher-reeve-story-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/SuperMan-The-Christopher-Reeve-Story-2024-ซุปเปอร์-แมน-เดอะ-คริสโตเฟอร์-รีฟ-สตอรี่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/SuperMan-The-Christopher-Reeve-Story-2024-ซุปเปอร์-แมน-เดอะ-คริสโตเฟอร์-รีฟ-สตอรี่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/045601917e2dd4b79491dcbd67110a93"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/045601917e2dd4b79491dcbd67110a93/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Giannis The Marvelous Journey (2024)",
     "url": "https://lk-hdx.com/giannis-the-marvelous-journey-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Giannis-The-Marvelous-Journey-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Giannis-The-Marvelous-Journey-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fac966d69450e5bf395c82478429de76"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fac966d69450e5bf395c82478429de76/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Terrifier 3 (2024) เทอร์ริไฟเออร์ ภาค 3",
     "url": "https://lk-hdx.com/terrifier-3-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Terrifier-3-2024-เทอร์ริไฟเออร์-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Terrifier-3-2024-เทอร์ริไฟเออร์-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7fc2e8c7f993c71101bb2f8203ee4c6f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7fc2e8c7f993c71101bb2f8203ee4c6f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Umjolo The Gone Girl (2024) สาวคลั่งรัก",
     "url": "https://lk-hdx.com/umjolo-the-gone-girl-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Umjolo-The-Gone-Girl-2024-สาวคลั่งรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Umjolo-The-Gone-Girl-2024-สาวคลั่งรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cbd1933a4407295176520c81d89e2039"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cbd1933a4407295176520c81d89e2039/master.m3u8"
+      }
+    ]
   },
   {
     "title": "10 Days of a Curious Man (2024) 10 วันของคนอยากรู้อยากเห็น",
     "url": "https://lk-hdx.com/10-days-of-a-curious-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/10-Days-of-a-Curious-Man-2024-10-วันของคนอยากรู้อยากเห็น-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/10-Days-of-a-Curious-Man-2024-10-วันของคนอยากรู้อยากเห็น-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7786be3cd161bbf9ede79836ae98560c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7786be3cd161bbf9ede79836ae98560c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "When Evil Lurks (2023) ปีศาจ ลวง ตาย",
     "url": "https://lk-hdx.com/when-evil-lurks/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/When-Evil-Lurks-2023-ปีศาจ-ลวง-ตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/When-Evil-Lurks-2023-ปีศาจ-ลวง-ตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/76a1ce4d6ab4d6333742b9a09c9047d3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/76a1ce4d6ab4d6333742b9a09c9047d3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Lady and the Tramp (2019) ทรามวัยกับไอ้ตูบ",
     "url": "https://lk-hdx.com/lady-and-the-tramp-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Lady-and-the-Tramp-2019-ทรามวัยกับไอ้ตูบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Lady-and-the-Tramp-2019-ทรามวัยกับไอ้ตูบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5b5acd32ec181e90b91cdf67c00d8fd4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5b5acd32ec181e90b91cdf67c00d8fd4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Survive the Night (2020) คืนล่า ทวงแค้น",
     "url": "https://lk-hdx.com/survive-the-night-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Survive-the-Night-2020-คืนล่า-ทวงแค้น-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Survive-the-Night-2020-คืนล่า-ทวงแค้น-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6a4f104f173fe8264adc4d88a3186faf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6a4f104f173fe8264adc4d88a3186faf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Black Water (2018) คู่มหาวินาศ ดิ่งเด็ดขั่วนรก",
     "url": "https://lk-hdx.com/black-water-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Black-Water-2018-คู่มหาวินาศ-ดิ่งเด็ดขั่วนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Black-Water-2018-คู่มหาวินาศ-ดิ่งเด็ดขั่วนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/89484823a4f3fa6bfe06776eb6b4586a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/89484823a4f3fa6bfe06776eb6b4586a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Apprentice (2024) กว่าจะเป็นลุง",
     "url": "https://lk-hdx.com/the-apprentice-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Apprentice-2024-กว่าจะเป็นลุง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Apprentice-2024-กว่าจะเป็นลุง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ac2035284179dbaa8a9699b5842ecb0b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ac2035284179dbaa8a9699b5842ecb0b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dìdi (2024) น้องชาย",
     "url": "https://lk-hdx.com/didi-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Didi-2024-น้องชาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Didi-2024-น้องชาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5ed2598536241bc11108b0b77a225265"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5ed2598536241bc11108b0b77a225265/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Penguin Friend (2024) เจ้าเพนกวินเพื่อนรัก",
     "url": "https://lk-hdx.com/my-penguin-friend-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/My-Penguin-Friend-2024-เจ้าเพนกวินเพื่อนรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/My-Penguin-Friend-2024-เจ้าเพนกวินเพื่อนรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/WvRLA2f_G7"
+      }
+    ]
   },
   {
     "title": "Meet Me Next Christmas (2024) เจอกันคริสต์มาสหน้า",
     "url": "https://lk-hdx.com/meet-me-next-christmas-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Meet-Me-Next-Christmas-2024-เจอกันคริสต์มาสหน้า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Meet-Me-Next-Christmas-2024-เจอกันคริสต์มาสหน้า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8bf80256c7c37c79c1e78a01da35c459"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8bf80256c7c37c79c1e78a01da35c459/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pedro Páramo (2024)",
     "url": "https://lk-hdx.com/pedro-paramo-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Pedro-Paramo-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Pedro-Paramo-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fed336d2c6d7d61f4a7fb4c6999e9cc6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fed336d2c6d7d61f4a7fb4c6999e9cc6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Ledge (2011) เล่ห์กลลวงพิศวาส",
     "url": "https://lk-hdx.com/the-ledge-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/The-Ledge-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/The-Ledge-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6bd938a7b2890a67797c59b4a1f966b7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6bd938a7b2890a67797c59b4a1f966b7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The French Dispatch (2021) ก๊วนข่าวหัวเห็ด",
     "url": "https://lk-hdx.com/the-french-dispatch-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-French-Dispatch-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-French-Dispatch-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ff55a670871678426c20c6e916a46f84"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ff55a670871678426c20c6e916a46f84/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Malignant (2021) มาลิกแนนท์ ชั่วโคตรร้าย",
     "url": "https://lk-hdx.com/malignant-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Malignant-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Malignant-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/AKwD0_5qlZ"
+      }
+    ]
   },
   {
     "title": "We Live in Time (2024) เวลานั้นฉันและเธอ",
     "url": "https://lk-hdx.com/we-live-in-time-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/We-Live-in-Time-2024-เวลานั้นฉันและเธอ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/We-Live-in-Time-2024-เวลานั้นฉันและเธอ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/39a136c3de085e6e4b985a9a8951ceb3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/39a136c3de085e6e4b985a9a8951ceb3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Absolution (2024) คนสันดานเดือด",
     "url": "https://lk-hdx.com/absolution-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Absolution-2024-คนสันดานเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Absolution-2024-คนสันดานเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/98feca6316c958ce5ab749ea8e63006c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/98feca6316c958ce5ab749ea8e63006c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Little Bites (2024)",
     "url": "https://lk-hdx.com/little-bites-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Little-Bites-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Little-Bites-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dc544226e7dd5a887d425cad5f4286fd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dc544226e7dd5a887d425cad5f4286fd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Beezel (2024)",
