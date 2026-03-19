@@ -1213,153 +1213,411 @@
   },
   {
     "title": "Hi Five (2025)",
-    "url": "https://lk-hdx.com/hi-five-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Hi-Five-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Hi-Five-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/5f56ff573537a3083000a1725614dc1d/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/5f56ff573537a3083000a1725614dc1d"
+      }
+    ]
   },
   {
     "title": "ฒ ผู้เฒ่า (2025) Last Light",
-    "url": "https://lk-hdx.com/last-light-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Last-Light-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Last-Light-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/7bac4a2127f3a8f5172246e94ae30e3f/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/7bac4a2127f3a8f5172246e94ae30e3f"
+      }
+    ]
   },
   {
     "title": "Kalakal (2025) 18+ ซับไทย",
-    "url": "https://lk-hdx.com/kalakal-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Kalakal-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Kalakal-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/cqwi__KPNJ"
+      }
+    ]
   },
   {
     "title": "Bangkera (2025) 18+ ซับไทย ",
-    "url": "https://lk-hdx.com/bangkera-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Bangkera-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Bangkera-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/3fa5b3b662b71fafbe2c1746bb7b235c/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/3fa5b3b662b71fafbe2c1746bb7b235c"
+      }
+    ]
   },
   {
     "title": "Las ilusyunadas (2025)",
-    "url": "https://lk-hdx.com/las-ilusyunadas-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Las-ilusyunadas-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Las-ilusyunadas-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/4522303c12a5954a7c5d82152f73bfb9/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/4522303c12a5954a7c5d82152f73bfb9"
+      }
+    ]
   },
   {
     "title": "A Useful Ghost (2025) ผีใช้ได้ค่ะ",
-    "url": "https://lk-hdx.com/a-useful-ghost-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/A-Useful-Ghost-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/A-Useful-Ghost-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/e033ccdf096038a51bc7e84bde934298/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/e033ccdf096038a51bc7e84bde934298"
+      }
+    ]
   },
   {
     "title": "The Running Man (2025) เดอะ รันนิ่ง แมน",
-    "url": "https://lk-hdx.com/the-running-man-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Running-Man-2025-เดอะ-รันนิ่ง-แมน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Running-Man-2025-เดอะ-รันนิ่ง-แมน-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/b3a81a7f2e23ba2616f31eb223b82224/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/b3a81a7f2e23ba2616f31eb223b82224"
+      }
+    ]
   },
   {
     "title": "Obsesyon (2025)",
-    "url": "https://lk-hdx.com/obsesyon-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Obsesyon-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Obsesyon-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/781dfd6f1eece17d03f375c5f278ec00/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/781dfd6f1eece17d03f375c5f278ec00"
+      }
+    ]
   },
   {
     "title": "L2 Lakad (2025)",
-    "url": "https://lk-hdx.com/l2-lakad-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/L2-Lakad-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/L2-Lakad-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/b50abfe323a1d9bc2cd11686c9b5830b/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/b50abfe323a1d9bc2cd11686c9b5830b"
+      }
+    ]
   },
   {
     "title": "Materialists (2025) รักแบบไหนที่ใจตามหา",
-    "url": "https://lk-hdx.com/materialists-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Materialists-2025-รักแบบไหนที่ใจตามหา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Materialists-2025-รักแบบไหนที่ใจตามหา-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/bc8ca74e2e23777fb388c7ae05394ba6/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/bc8ca74e2e23777fb388c7ae05394ba6"
+      }
+    ]
   },
   {
     "title": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่",
-    "url": "https://lk-hdx.com/chainsaw-man-the-movie-reze-arc/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_0eVd4iTL2"
+      }
+    ]
   },
   {
     "title": "28 Years Later (2025) ดู 28 ปีให้หลัง เชื้อเขมือบคน ภาค 3",
-    "url": "https://lk-hdx.com/28-years-later-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/983f6261e23934f4748d02b1aab8fb14/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/983f6261e23934f4748d02b1aab8fb14"
+      }
+    ]
   },
   {
     "title": "Eden (2025) อีเดน สวรรค์คนบาป",
-    "url": "https://lk-hdx.com/eden-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Eden-2025-อีเดน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Eden-2025-อีเดน-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/79487c0e84cef7c0bc48aaf852cde0d5/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/79487c0e84cef7c0bc48aaf852cde0d5"
+      }
+    ]
   },
   {
     "title": "Hipak (2025)",
-    "url": "https://lk-hdx.com/hipak-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Hipak-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Hipak-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/8740d4ebe33d596fb4eaab5d7639fc0f/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/8740d4ebe33d596fb4eaab5d7639fc0f"
+      }
+    ]
   },
   {
     "title": "Sex on Phone (2025)",
-    "url": "https://lk-hdx.com/sex-on-phone-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Sex-on-Phone-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Sex-on-Phone-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/adf7d6a2846ada3add31b30605edf27c/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/adf7d6a2846ada3add31b30605edf27c"
+      }
+    ]
   },
   {
     "title": "เทย ไทบ้านเดอะซีรีส์ (2025) Nancy Boy",
-    "url": "https://lk-hdx.com/nancy-boy-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Nancy-Boy-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Nancy-Boy-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/d1e363cb3719ce5cdb98f0200ce85d3f/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/d1e363cb3719ce5cdb98f0200ce85d3f"
+      }
+    ]
   },
   {
     "title": "มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ (2025) Jujutsu Kaisen Hidden Inventory Premature Death The Movie",
-    "url": "https://lk-hdx.com/jujutsu-kaisen-hidden-inventory-premature-death-the-movie/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/65f628e381d80eb58f300b46570a4201/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/65f628e381d80eb58f300b46570a4201"
+      }
+    ]
   },
   {
     "title": "มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง (2025) Jujutsu Kaisen Execution",
-    "url": "https://lk-hdx.com/jujutsu-kaisen-execution-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/4c74a5153c5b7bec8d836dd96e913098/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/4c74a5153c5b7bec8d836dd96e913098"
+      }
+    ]
   },
   {
     "title": "Scurry (2024) ฝ่าระทึก ลึกใต้โลก",
-    "url": "https://lk-hdx.com/scurry-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Scurry-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Scurry-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/35ae936397d9971d55af0a0324443066/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/35ae936397d9971d55af0a0324443066"
+      }
+    ]
   },
   {
     "title": "The Ride (2025) ซิ่งฝ่านรก",
-    "url": "https://lk-hdx.com/the-ride-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Ride-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Ride-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/50e2456b4a91693462a332142c26c3c2/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/50e2456b4a91693462a332142c26c3c2"
+      }
+    ]
   },
   {
     "title": "Raat Akeli Hai The Bansal Murders (2025) คืนฆ่าล้างตระกูล",
-    "url": "https://lk-hdx.com/raat-akeli-hai-the-bansal-murders-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Raat-Akeli-Hai-The-Bansal-Murders-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Raat-Akeli-Hai-The-Bansal-Murders-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/0773fba498235c6d753313bf543047d9/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/0773fba498235c6d753313bf543047d9"
+      }
+    ]
   },
   {
     "title": "Wake Up Dead Man A Knives Out Mystery : ฆาตกรรมหรรษา ใครฆ่าคนบาป (2025)",
-    "url": "https://lk-hdx.com/wake-up-dead-man-a-knives-out-mystery-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Wake-Up-Dead-Man-A-Knives-Out-Mystery-2025--165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Wake-Up-Dead-Man-A-Knives-Out-Mystery-2025--165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/1192ef60b181ae8cb0c817553fcb2cdf/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/1192ef60b181ae8cb0c817553fcb2cdf"
+      }
+    ]
   },
   {
     "title": "The Great Flood (2025)",
-    "url": "https://lk-hdx.com/the-great-flood-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Great-Flood-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Great-Flood-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/1dcdb08ea9b16fdd6a9b4dc6e9dc087f/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/1dcdb08ea9b16fdd6a9b4dc6e9dc087f"
+      }
+    ]
   },
   {
     "title": "The Last Gunfight (2025) ดวลเดือด สังเวียนระห่ำ",
-    "url": "https://lk-hdx.com/the-last-gunfight-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Last-Gunfight-2025-ดวลเดือด-สังเวียนระห่ำ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Last-Gunfight-2025-ดวลเดือด-สังเวียนระห่ำ-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/85f731e53c8210f1493807ccbd5f31d9/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/85f731e53c8210f1493807ccbd5f31d9"
+      }
+    ]
   },
   {
     "title": "Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน",
-    "url": "https://lk-hdx.com/predator-badlands/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Predator-Badlands-2025-พรีเดเตอร์-แดนเถื่อน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Predator-Badlands-2025-พรีเดเตอร์-แดนเถื่อน-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/90f3da635b38b06d573c2e1007165d73/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/90f3da635b38b06d573c2e1007165d73"
+      }
+    ]
   },
   {
     "title": "Ekis (2025)",
-    "url": "https://lk-hdx.com/ekis-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Ekis-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Ekis-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/cJLBUl24_5"
+      }
+    ]
   },
   {
     "title": "Maria Azama Da Best Prn Star (2025)",
-    "url": "https://lk-hdx.com/maria-azama-da-best-prn-star-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Maria-Azama-Da-Best-Prn-Star-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Maria-Azama-Da-Best-Prn-Star-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/380ad3de69086bf8b5a95ee86ca37eb4/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/380ad3de69086bf8b5a95ee86ca37eb4"
+      }
+    ]
   },
   {
     "title": "Unli Pop (2025)",
-    "url": "https://lk-hdx.com/unli-pop-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Unli-Pop-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Unli-Pop-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/9422ceb860b91a0f8618cc088f5c7ceb/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/9422ceb860b91a0f8618cc088f5c7ceb"
+      }
+    ]
   },
   {
     "title": "Tell Me Softly (2025) อดีตรักไม่เคยเลือน",
-    "url": "https://lk-hdx.com/tell-me-softly-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Tell-Me-Softly-2025-อดีตรักไม่เคยเลือน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Tell-Me-Softly-2025-อดีตรักไม่เคยเลือน-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/47b857da5b0344e60187ee8bb5095661/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/47b857da5b0344e60187ee8bb5095661"
+      }
+    ]
   },
   {
     "title": "VMX Kama Sutra ปี 2025",
-    "url": "https://lk-hdx.com/vmx-kama-sutra-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/VMX-Kama-Sutra-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/VMX-Kama-Sutra-165x248.jpg",
+    "servers": [
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/b11effd619a8b60273abdae9491f4444/master.m3u8"
+      },
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/b11effd619a8b60273abdae9491f4444"
+      }
+    ]
   },
   {
     "title": "Sorority (2025)",
