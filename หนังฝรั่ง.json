@@ -26240,152 +26240,428 @@
   {
     "title": "Autopsy (2008) จับคนมาชำแหละ",
     "url": "https://lk-hdx.com/autopsy-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Autopsy-2008-จับคนมาชำแหละ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Autopsy-2008-จับคนมาชำแหละ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b439f0eb54ea6f80615849f5e63e2c94"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b439f0eb54ea6f80615849f5e63e2c94/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Robin Hood (2010) โรบินฮู้ด จอมโจรกู้แผ่นดินเดือด",
     "url": "https://lk-hdx.com/robin-hood-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Robin-Hood-2010-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Robin-Hood-2010-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6cbbc98e21de0c6951659609b9d45b25"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6cbbc98e21de0c6951659609b9d45b25/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Odd Thomas (2013) อ๊อดโธมัส เห็นความตาย",
     "url": "https://lk-hdx.com/odd-thomas-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Odd-Thomas-2013-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Odd-Thomas-2013-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8ddcbdee45b31817f58efdca3f543f2d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8ddcbdee45b31817f58efdca3f543f2d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dark Tide (2012) ล่านรกใต้สมุทร",
     "url": "https://lk-hdx.com/dark-tide-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dark-Tide-2012-ล่านรกใต้สมุทร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dark-Tide-2012-ล่านรกใต้สมุทร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/SO_d8Zh_TC"
+      }
+    ]
   },
   {
     "title": "The Secret Life of Walter Mitty (2013) ชีวิตพิศวงของวอลเตอร์ มิตตี้",
     "url": "https://lk-hdx.com/the-secret-life-of-walter-mitty-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Secret-Life-of-Walter-Mitty-2013-ชีวิตพิศวงของวอลเตอร์-มิตตี้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Secret-Life-of-Walter-Mitty-2013-ชีวิตพิศวงของวอลเตอร์-มิตตี้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/192af158fffb6b1d2d74321c8f596438"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/192af158fffb6b1d2d74321c8f596438/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Setup (2011) แผนทวงแค้น หักหลังปล้น",
     "url": "https://lk-hdx.com/setup-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Setup-2011-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Setup-2011-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fea1416c4571a8343a3807da87fe4937"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fea1416c4571a8343a3807da87fe4937/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Crown and the Dragon (2013) ล้างคำสาปแดนมังกร",
     "url": "https://lk-hdx.com/the-crown-and-the-dragon-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Crown-and-the-Dragon-2013-ล้างคำสาปแดนมังกร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Crown-and-the-Dragon-2013-ล้างคำสาปแดนมังกร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ab2ad56857fae9b9416df4354abb388c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ab2ad56857fae9b9416df4354abb388c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mirror Mirror (2012) จอมโจรสโนไวท์กับราชินีบานฉ่ำ",
     "url": "https://lk-hdx.com/mirror-mirror-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mirror-Mirror-2012-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mirror-Mirror-2012-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/06506569242f812acdab4da509eaaf47"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/06506569242f812acdab4da509eaaf47/master.m3u8"
+      }
+    ]
   },
   {
     "title": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ",
     "url": "https://lk-hdx.com/to-kill-a-tiger-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024-เมื่อต้องฆ่าเสือ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024-เมื่อต้องฆ่าเสือ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2873f7efcbbb891d0da2781c7104142a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2873f7efcbbb891d0da2781c7104142a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Robin Hood (2018) พยัคฆ์ร้ายโรบินฮู้ด",
     "url": "https://lk-hdx.com/robin-hood-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Robin-Hood-2018-พยัคฆ์ร้ายโรบินฮู้ด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Robin-Hood-2018-พยัคฆ์ร้ายโรบินฮู้ด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dd18f5bf80b4509c4f8fac021b9928c1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dd18f5bf80b4509c4f8fac021b9928c1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Madu (2024)",
     "url": "https://lk-hdx.com/madu-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Madu-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Madu-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/16db202b60415124fb278e22e63ae3f7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/16db202b60415124fb278e22e63ae3f7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Birth Rebirth (2023)",
     "url": "https://lk-hdx.com/birth-rebirth-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Birth-Rebirth-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Birth-Rebirth-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7e6fa75b01872ec1cbfaa9465cd87efa"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7e6fa75b01872ec1cbfaa9465cd87efa/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Last Manhunt (2022) การล่าครั้งสุดท้าย",
     "url": "https://lk-hdx.com/the-last-manhunt-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Manhunt-2022-การล่าครั้งสุดท้าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Manhunt-2022-การล่าครั้งสุดท้าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/03c7a24273d70fa925f47096e3754d24"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/03c7a24273d70fa925f47096e3754d24/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Beautiful Game (2024) เดอะบิ้วตี้ฟูล เกม",
     "url": "https://lk-hdx.com/the-beautiful-game-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Beautiful-Game-2024-เดอะบิ้วตี้ฟูล-เกม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Beautiful-Game-2024-เดอะบิ้วตี้ฟูล-เกม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/82f1619a8c9958e9c08a25f1ced6d7c2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/82f1619a8c9958e9c08a25f1ced6d7c2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Wages of Fear (2024)",
     "url": "https://lk-hdx.com/the-wages-of-fear-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Wages-of-Fear-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Wages-of-Fear-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/E2oXb_Fvtq"
+      }
+    ]
   },
   {
     "title": "Faster (2010) ฝังแค้นแรงระห่ำนรก",
     "url": "https://lk-hdx.com/faster-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Faster-2010-ฝังแค้นแรงระห่ำนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Faster-2010-ฝังแค้นแรงระห่ำนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Xv15sz_kjE"
+      }
+    ]
   },
   {
     "title": "Red Riding Hood (2011) สาวหมวกแดง",
     "url": "https://lk-hdx.com/red-riding-hood-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Red-Riding-Hood-2011-สาวหมวกแดง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Red-Riding-Hood-2011-สาวหมวกแดง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9a94a89231f3293ba9e35a507d17d50e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9a94a89231f3293ba9e35a507d17d50e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Priest (2011) นักบุญปีศาจ",
     "url": "https://lk-hdx.com/priest-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Priest-2011-นักบุญปีศาจ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Priest-2011-นักบุญปีศาจ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/26b6bd7b44e18fa01fd6195aeb5956d2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/26b6bd7b44e18fa01fd6195aeb5956d2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I Am Number Four (2011) ปฏิบัติการล่าเหนือโลกจอมพลังหมายเลข 4",
     "url": "https://lk-hdx.com/i-am-number-four-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/I-Am-Number-Four-2011-ปฏิบัติการล่าเหนือโลกจอมพลังหมายเลข-4-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/I-Am-Number-Four-2011-ปฏิบัติการล่าเหนือโลกจอมพลังหมายเลข-4-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/MUkp7kc_04"
+      }
+    ]
   },
   {
     "title": "Bunraku (2010) บันราคุ สู้ลุยดะ",
     "url": "https://lk-hdx.com/bunraku-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Bunraku-2010-บันราคุ-สู้ลุยดะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Bunraku-2010-บันราคุ-สู้ลุยดะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/908a2ad6a7842abceba4d4f962376982"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/908a2ad6a7842abceba4d4f962376982/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Heart of the Hunter (2024) หัวใจนักล่า",
     "url": "https://lk-hdx.com/heart-of-the-hunter-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Heart-of-the-Hunter-2024-หัวใจนักล่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Heart-of-the-Hunter-2024-หัวใจนักล่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/H_Ue3PO8Qo"
+      }
+    ]
   },
   {
     "title": "Max Steel (2016) คนเหล็กคนใหม่",
     "url": "https://lk-hdx.com/max-steel-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Max-Steel-2016-คนเหล็กคนใหม่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Max-Steel-2016-คนเหล็กคนใหม่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8ddcd671f4233148fc16428ef415a865"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8ddcd671f4233148fc16428ef415a865/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ma (2019) แม่ ร้าย",
     "url": "https://lk-hdx.com/ma-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ma-2019-แม่-ร้าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ma-2019-แม่-ร้าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0c7e211f91f05acab581cd68cfbb6df4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0c7e211f91f05acab581cd68cfbb6df4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Snatchers (2019)",
     "url": "https://lk-hdx.com/snatchers-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Snatchers-2019-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Snatchers-2019-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3aa47ac5108f523160a86009c306fbf0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3aa47ac5108f523160a86009c306fbf0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Our Son (2023)",
     "url": "https://lk-hdx.com/our-son-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Our-Son-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Our-Son-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2bd93cc6c1052cbecaac039c861c6910"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2bd93cc6c1052cbecaac039c861c6910/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Killerman (2019) คิลเลอร์แมน",
     "url": "https://lk-hdx.com/killerman-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Killerman-2019-คิลเลอร์แมน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Killerman-2019-คิลเลอร์แมน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e7a6491aea2f0a3dd7f93380281be3b8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e7a6491aea2f0a3dd7f93380281be3b8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Benny Loves You (2019) เบนนี่เพื่อนรัก",
     "url": "https://lk-hdx.com/benny-loves-you-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Benny-Loves-You-2019-เบนนี่เพื่อนรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Benny-Loves-You-2019-เบนนี่เพื่อนรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/0d5Ja_GHad"
+      }
+    ]
   },
   {
     "title": "As Above So Below (2014) แดนหลอนสยองใต้โลก",
     "url": "https://lk-hdx.com/as-above-so-below-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/As-Above-So-Below-2014-แดนหลอนสยองใต้โลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/21e11cfd15e4fee8906aa789d9ef033b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/21e11cfd15e4fee8906aa789d9ef033b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Vow (2012) รักครั้งใหม่ หัวใจเดิม",
     "url": "https://lk-hdx.com/the-vow-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Vow-2012-รักครั้งใหม่-หัวใจเดิม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Vow-2012-รักครั้งใหม่-หัวใจเดิม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b3a2b3f0a09644d1f2ffcf2c8a0639b0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b3a2b3f0a09644d1f2ffcf2c8a0639b0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Street Cat Named Bob (2016) บ๊อบ แมว เพื่อน คน",
     "url": "https://lk-hdx.com/a-street-cat-named-bob-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/A-Street-Cat-Named-Bob-2016-บ๊อบ-แมว-เพื่อน-คน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/A-Street-Cat-Named-Bob-2016-บ๊อบ-แมว-เพื่อน-คน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1c12c3987e45a5a4ef8b1d31368bd981"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1c12c3987e45a5a4ef8b1d31368bd981/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Rest In Peace (2024) สู่สุคติ",
