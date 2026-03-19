@@ -3027,153 +3027,433 @@
   },
   {
     "title": "คำขอโทษ 2 (2024) Your Fault",
-    "url": "https://lk-hdx.com/your-fault-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/คำขอโทษ-2-2024-Your-Fault-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/R_P09LMIC6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/คำขอโทษ-2-2024-Your-Fault-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "My Fault (2023) คำขอโทษ",
-    "url": "https://lk-hdx.com/my-fault-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Fault-2023-คำขอโทษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/32da4b11042ced1639495c2f32d4baca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/32da4b11042ced1639495c2f32d4baca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Fault-2023-คำขอโทษ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Drop (2025) รับคำสั่งตายไวโอเล็ต",
-    "url": "https://lk-hdx.com/drop-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตายไวโอเล็ต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/276cd5be89391cde5d845f292f15dfce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/276cd5be89391cde5d845f292f15dfce"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตายไวโอเล็ต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "27 Nights 27 คืน (Netflix 2025)",
-    "url": "https://lk-hdx.com/27-nights-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/27-Nights-2025-27-คืน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/5pdGHE5_vp"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/27-Nights-2025-27-คืน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "She Walks in Darkness (2025) เธอเดินไปในเงามืด",
-    "url": "https://lk-hdx.com/she-walks-in-darkness-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/She-Walks-in-Darkness-2025-เธอเดินไปในเงามืด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/18b35f881771b5c7f4a334a42a7ce6ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/18b35f881771b5c7f4a334a42a7ce6ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/She-Walks-in-Darkness-2025-เธอเดินไปในเงามืด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shang Chi and the Legend of the Ten Rings (2021) ชาง ชี กับตำนานลับเท็นริงส์",
-    "url": "https://lk-hdx.com/shang-chi-and-the-legend-of-the-ten-rings-2021-%e0%b8%8a%e0%b8%b2%e0%b8%87-%e0%b8%8a%e0%b8%b5-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%95%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b9%87%e0%b8%99%e0%b8%a3%e0%b8%b4%e0%b8%87%e0%b8%aa%e0%b9%8c/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Shang-Chi-and-the-Legend-of-the-Ten-Rings-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3a9dd4fbc1705e619226781945758617/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a9dd4fbc1705e619226781945758617"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Shang-Chi-and-the-Legend-of-the-Ten-Rings-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Heads of State (2025) ผู้นำสายบู๊กู้วิกฤต",
-    "url": "https://lk-hdx.com/heads-of-state-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/Heads-of-State-2025-ผู้นำสายบู๊กู้วิกฤต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/faa2ac165178c5050a3cd46d3ae96405/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/faa2ac165178c5050a3cd46d3ae96405"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/Heads-of-State-2025-ผู้นำสายบู๊กู้วิกฤต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Swim To Me (2025) พี่เลี้ยงแสนรัก",
-    "url": "https://lk-hdx.com/swim-to-me-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Swim-To-Me-2025-พี่เลี้ยงแสนรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/475b4d85e0f5dd4db2570bc15157da80/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/475b4d85e0f5dd4db2570bc15157da80"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Swim-To-Me-2025-พี่เลี้ยงแสนรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tron Legacy (2010) ทรอน ล่าข้ามโลกอนาคต",
-    "url": "https://lk-hdx.com/tron-legacy-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Tron-Legacy-2010-ทรอน-ล่าข้ามโลกอนาคต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0b1df038361c7ff22b2f448bc94d6e5f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b1df038361c7ff22b2f448bc94d6e5f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Tron-Legacy-2010-ทรอน-ล่าข้ามโลกอนาคต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Venom The Last Dance (2024) เวน่อม มหาศึกอสูรอหังการ",
-    "url": "https://lk-hdx.com/venom-the-last-dance/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-2024-เวน่อม-มหาศึกอสูรอหังการ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/503caa7da803114af65d74bb27c8111f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/503caa7da803114af65d74bb27c8111f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-2024-เวน่อม-มหาศึกอสูรอหังการ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Woman in Cabin 10 (2025) ฝันร้ายในห้องหมายเลข 10",
-    "url": "https://lk-hdx.com/the-woman-in-cabin-10-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Woman-in-Cabin-10-2025-ฝันร้ายในห้องหมายเลข-10-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/0b037cfb252948ca84cc1411f5eeefca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0b037cfb252948ca84cc1411f5eeefca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Woman-in-Cabin-10-2025-ฝันร้ายในห้องหมายเลข-10-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Man in My Basement (2025)",
-    "url": "https://lk-hdx.com/the-man-in-my-basement-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Man-in-My-Basement-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f110aa54f47fdd61ae4bfd7c5f316c4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f110aa54f47fdd61ae4bfd7c5f316c4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Man-in-My-Basement-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Maintenance Required (2025) ซ่อมรถ ซ้อมรัก",
-    "url": "https://lk-hdx.com/maintenance-required-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Maintenance-Required-2025-ซ่อมรถ-ซ้อมรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9f6c31f72e72980e470d156a9cebbeb3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9f6c31f72e72980e470d156a9cebbeb3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Maintenance-Required-2025-ซ่อมรถ-ซ้อมรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Caramelo (2025) คาราเมโล",
-    "url": "https://lk-hdx.com/caramelo-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Caramelo-2025-คาราเมโล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b09a38ac3350fad1d6a77ef3fca93dd4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b09a38ac3350fad1d6a77ef3fca93dd4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Caramelo-2025-คาราเมโล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
-    "url": "https://lk-hdx.com/play-dirty-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7c1cf835bfe67decdcf23bcad3dd15cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7c1cf835bfe67decdcf23bcad3dd15cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Steve (2025) สตีฟ",
-    "url": "https://lk-hdx.com/steve-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3a61e32a44eab81e74a381fed9f4a323/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3a61e32a44eab81e74a381fed9f4a323"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Home Sweet Home Rebirth (2025) โฮมสวีทโฮม กำเนิดใหม่",
-    "url": "https://lk-hdx.com/home-sweet-home-rebirth-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Home-Sweet-Home-Rebirth-2025-โฮมสวีทโฮม-กำเนิดใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/53cd749db626cf903c5099d25a86c760/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/53cd749db626cf903c5099d25a86c760"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Home-Sweet-Home-Rebirth-2025-โฮมสวีทโฮม-กำเนิดใหม่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Never Let Go (2024) ผูกเป็น หลุดตาย",
-    "url": "https://lk-hdx.com/never-let-go-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/Never-Let-Go-2024-ผูกเป็น-หลุดตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/414edbe32baa242a85fd924931589183/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/414edbe32baa242a85fd924931589183"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/09/Never-Let-Go-2024-ผูกเป็น-หลุดตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Old Guy โอลด์กาย แก่ เก๋า เกม (2025)",
-    "url": "https://lk-hdx.com/old-guy-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Old-Guy-2025-โอลด์กาย-แก่-เก๋า-เกม-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/e9OONPS_YR"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Old-Guy-2025-โอลด์กาย-แก่-เก๋า-เกม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "French Lover (2025) พบรักซูเปอร์สตาร์",
-    "url": "https://lk-hdx.com/french-lover-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/French-Lover-2025-พบรักซูเปอร์สตาร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a777e680d68083d3064565d7652f8d3f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a777e680d68083d3064565d7652f8d3f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/French-Lover-2025-พบรักซูเปอร์สตาร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Arrival (2016) ผู้มาเยือน",
-    "url": "https://lk-hdx.com/arrival-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Arrival-2016-ผู้มาเยือน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/h5__mhh8Xy"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Arrival-2016-ผู้มาเยือน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Afterburn (2025) ล่าขุมทรัพย์แดนแดดเดือด",
-    "url": "https://lk-hdx.com/afterburn-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Afterburn-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f1223f3d8640bd63e6db1daed1902f4b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f1223f3d8640bd63e6db1daed1902f4b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Afterburn-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Man On Fire (2004) คนจริงเผาแค้น",
-    "url": "https://lk-hdx.com/man-on-fire-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Man-On-Fire-2004-คนจริงเผาแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2fd3ee08d29a4107aa35aee23fe048aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2fd3ee08d29a4107aa35aee23fe048aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Man-On-Fire-2004-คนจริงเผาแค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Caught Stealing (2025) คนเดือดขวางทางโจร",
-    "url": "https://lk-hdx.com/caught-stealing-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Caught-Stealing-2025-คนเดือดขวางทางโจร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/0c1a1024df016021d816068d8de15d41/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0c1a1024df016021d816068d8de15d41"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Caught-Stealing-2025-คนเดือดขวางทางโจร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ปฏิบัติการลับสองหน้า (2025) Black Bag",
-    "url": "https://lk-hdx.com/black-bag-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ปฏิบัติการลับสองหน้า-2025-Black-Bag-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d5ce9edba6de13a8d0ccb5f0b41d5292/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d5ce9edba6de13a8d0ccb5f0b41d5292"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ปฏิบัติการลับสองหน้า-2025-Black-Bag-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "She Said Maybe (2025) เมื่อเธอตอบว่า…ไม่แน่",
-    "url": "https://lk-hdx.com/she-said-maybe-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/She-Said-Maybe-2025-เมื่อเธอตอบว่า…ไม่แน่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/282a3b8bd7aa230a596481f12af86b58/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/282a3b8bd7aa230a596481f12af86b58"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/She-Said-Maybe-2025-เมื่อเธอตอบว่า…ไม่แน่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Swiped (2025)",
-    "url": "https://lk-hdx.com/swiped-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Swiped-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7LVF1L_qbt"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Swiped-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rebel Royals An Unlikely Love Story (2025) รักเหลือเชื่อของเชื้อพระวงศ์หัวขบถ",
-    "url": "https://lk-hdx.com/rebel-royals-an-unlikely-love-story-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Rebel-Royals-An-Unlikely-Love-Story-2025-รักเหลือเชื่อของเชื้อพระวงศ์หัวขบถ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/af864032569a863e86384e5b4f349c7c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/af864032569a863e86384e5b4f349c7c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Rebel-Royals-An-Unlikely-Love-Story-2025-รักเหลือเชื่อของเชื้อพระวงศ์หัวขบถ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Remember the Titans (2000) ไททันส์ สู้หมดใจ เกียรติศักดิ์ก้องโลก",
-    "url": "https://lk-hdx.com/remember-the-titans-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Remember-the-Titans-2000-ไททันส์-สู้หมดใจ-เกียรติศักดิ์ก้องโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6059eea8753a19053af7a439883924a9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6059eea8753a19053af7a439883924a9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Remember-the-Titans-2000-ไททันส์-สู้หมดใจ-เกียรติศักดิ์ก้องโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gran Torino (2008) คนกร้าวทะนงโลก",
-    "url": "https://lk-hdx.com/gran-torino-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Gran-Torino-2008-คนกร้าวทะนงโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a2f7921e49ecb091c7ae2390ba98a6c2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a2f7921e49ecb091c7ae2390ba98a6c2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Gran-Torino-2008-คนกร้าวทะนงโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Million Dollar Baby (2004) เวทีแห่งฝัน วันแห่งศักดิ์ศรี",
