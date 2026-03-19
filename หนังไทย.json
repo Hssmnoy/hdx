@@ -3023,153 +3023,429 @@
   },
   {
     "title": "สมมติ (2023) Supposed",
-    "url": "https://lk-hdx.com/supposed-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/สมมติ-2023-Supposed-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/76344d7791730982ab4b314ebb591640/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/76344d7791730982ab4b314ebb591640"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/สมมติ-2023-Supposed-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สิ่งเล็กๆที่เรียกว่ารัก (2010) A Little Thing Called Love",
-    "url": "https://lk-hdx.com/a-little-thing-called-love-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/สิ่งเล็กๆที่เรียกว่ารัก-2010-A-Little-Thing-Called-Love-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MqsPOcm2_c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/สิ่งเล็กๆที่เรียกว่ารัก-2010-A-Little-Thing-Called-Love-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "ใหม่กะหม่ำ โดนกะโดน (2011) Mai Ga Mom",
-    "url": "https://lk-hdx.com/mai-ga-mom-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ใหม่กะหม่ำ-โดนกะโดน-2011-Mai-Ga-Mom-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8c1b37fe5eb763cb82459f89c149f1b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8c1b37fe5eb763cb82459f89c149f1b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ใหม่กะหม่ำ-โดนกะโดน-2011-Mai-Ga-Mom-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ตุ๊ดซี่ส์ แอนด์ เดอะเฟค (2019) Tootsies And The Fake",
-    "url": "https://lk-hdx.com/tootsies-and-the-fake-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ตุ๊ดซี่ส์-แอนด์-เดอะเฟค-2019-Tootsies-And-The-Fake-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6aca223c046ce50f4f371aeb7115e942/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6aca223c046ce50f4f371aeb7115e942"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ตุ๊ดซี่ส์-แอนด์-เดอะเฟค-2019-Tootsies-And-The-Fake-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สลัมบอย ซอยตื๊ด (2017) Slumboy Soi Teeed",
-    "url": "https://lk-hdx.com/slumboy-soi-teeed-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/สลัมบอย-ซอยตื๊ด-2017-Slumboy-Soi-Teeed-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/84cc54ddf6017c5fcc52500864bd0b5c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/84cc54ddf6017c5fcc52500864bd0b5c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/สลัมบอย-ซอยตื๊ด-2017-Slumboy-Soi-Teeed-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "บังเอิญรัก ข่อยฮักเจ้า (2023) Loser Lover",
-    "url": "https://lk-hdx.com/loser-lover-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/บังเอิญรัก-ข่อยฮักเจ้า-2023-Loser-Lover-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ba4cd1aec018a2daa02663e481bab61/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ba4cd1aec018a2daa02663e481bab61"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/บังเอิญรัก-ข่อยฮักเจ้า-2023-Loser-Lover-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
-    "url": "https://lk-hdx.com/2475-dawn-of-revolution-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution-2024-2475-รุ่งอรุณแห่งการปฏิวัติ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/B_ki4uE9TE"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution-2024-2475-รุ่งอรุณแห่งการปฏิวัติ-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "30+ โสด On Sale (2011) On Sale",
-    "url": "https://lk-hdx.com/on-sale-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/30-โสด-On-Sale-2011-On-Sale-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/9vTBQR1Q_2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/30-โสด-On-Sale-2011-On-Sale-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "7 ประจัญบาน ภาค 2 (2005) Heavens Seven 2",
-    "url": "https://lk-hdx.com/heavens-seven-2-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/McQJ9_ZQdf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-2-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "7 ประจัญบาน ภาค 1 (2002) Heavens Seven",
-    "url": "https://lk-hdx.com/heavens-seven-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15a51fde32ef45fd4e1e07d1951f145e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15a51fde32ef45fd4e1e07d1951f145e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Heavens-Seven-1-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "แม่เบี้ย (2001) Mae Bia Snake Lady",
-    "url": "https://lk-hdx.com/mae-bia-snake-lady-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/แม่เบี้ย-2001-Mae-Bia-Snake-Lady-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bd6ee35bf492d3b6bfd31a462b2aaba6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bd6ee35bf492d3b6bfd31a462b2aaba6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/แม่เบี้ย-2001-Mae-Bia-Snake-Lady-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ออนซอนเด (2019) On Zon De",
-    "url": "https://lk-hdx.com/on-zon-de-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ออนซอนเด-2019-On-Zon-De-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb33c6975fdcc0d297c524e37b46328d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb33c6975fdcc0d297c524e37b46328d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ออนซอนเด-2019-On-Zon-De-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "เพื่อน(ไม่)สนิท (2023) Not Friends",
-    "url": "https://lk-hdx.com/not-friends-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/เพื่อนไม่สนิท-2023-Not-Friends-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1c4afa759ed46c81a0d0f5d1eb698d5b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1c4afa759ed46c81a0d0f5d1eb698d5b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/เพื่อนไม่สนิท-2023-Not-Friends-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "มือปราบสัมภเวสี (2017) The Lost Case",
-    "url": "https://lk-hdx.com/the-lost-case-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/มือปราบสัมภเวสี-2017-The-Lost-Case-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9ce34ddf828351585083a490598d55e2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9ce34ddf828351585083a490598d55e2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/มือปราบสัมภเวสี-2017-The-Lost-Case-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ หมอปลาวาฬ (2022) Thi Baan The Series Mo Plawan",
-    "url": "https://lk-hdx.com/thi-baan-the-series-mo-plawan-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-หมอปลาวาฬ-2022-Thi-Baan-The-Series-Mo-Plawan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d62d7af06fae6a65d69f0b8570991176/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d62d7af06fae6a65d69f0b8570991176"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-หมอปลาวาฬ-2022-Thi-Baan-The-Series-Mo-Plawan-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ ภาค 2.2 (2018) Thi Baan The Series 2.2",
-    "url": "https://lk-hdx.com/thi-baan-the-series-2-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.2-2018-Thi-Baan-The-Series-2.2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MFlt_EYrRT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.2-2018-Thi-Baan-The-Series-2.2-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ ภาค 2.1 (2018) Thi Baan The Series 2.1",
-    "url": "https://lk-hdx.com/thi-baan-the-series-2-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.1-2018-Thi-Baan-The-Series-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d91ece0b7dcd7e370ba1a5cb318adac1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d91ece0b7dcd7e370ba1a5cb318adac1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.1-2018-Thi-Baan-The-Series-2-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ ภาค 1 (2017) Thi Baan The Series 1",
-    "url": "https://lk-hdx.com/thi-baan-the-series-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-1-2017-Thi-Baan-The-Series-1-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3f846cceb1d37d6584a40cddbdc30988/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3f846cceb1d37d6584a40cddbdc30988"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-1-2017-Thi-Baan-The-Series-1-165x248.jpeg",
+    "group": "หนังไทย"
   },
   {
     "title": "สยามยุทธ (2015) iam Yuth The Dawn of the Kingdom",
-    "url": "https://lk-hdx.com/am-yuth-the-dawn-of-the-kingdom-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/สยามยุทธ-2015-Siam-Yuth-The-Dawn-of-the-Kingdom-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25a4ab4373a131260bfd79b57b3494ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25a4ab4373a131260bfd79b57b3494ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/สยามยุทธ-2015-Siam-Yuth-The-Dawn-of-the-Kingdom-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไม่มีสมุยสำหรับเธอ (2017) Samui Song",
-    "url": "https://lk-hdx.com/samui-song-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไม่มีสมุยสำหรับเธอ-2017-Samui-Song-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aec991de09fab07b2ad12efb4ffd5563/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aec991de09fab07b2ad12efb4ffd5563"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไม่มีสมุยสำหรับเธอ-2017-Samui-Song-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "อยากตาย อย่าตาย มรณาคาเฟ่ (2023) Death Is All Around",
-    "url": "https://lk-hdx.com/death-is-all-around-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/อยากตาย-อย่าตาย-มรณาคาเฟ่-2023-Death-Is-All-Around-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/hsU_lDhjSS"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/อยากตาย-อย่าตาย-มรณาคาเฟ่-2023-Death-Is-All-Around-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "นักบิดราคะ กลางวันนอน กลางคืนซอย (2015) Lokee Rider",
-    "url": "https://lk-hdx.com/lokee-rider-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/นักบิดราคะ-กลางวันนอน-กลางคืนซอย-2015-Lokee-Rider-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bc77394f2c45243cb9273858254a6e16/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bc77394f2c45243cb9273858254a6e16"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/นักบิดราคะ-กลางวันนอน-กลางคืนซอย-2015-Lokee-Rider-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "กวน มึน โฮ (2010) Hello Stranger (Kuan meun ho)",
-    "url": "https://lk-hdx.com/hello-stranger-kuan-meun-ho-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/กวน-มึน-โฮ-2010-Hello-Stranger-Kuan-meun-ho-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ec1df0b6b614f901e7e08b98faac2f9d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec1df0b6b614f901e7e08b98faac2f9d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/กวน-มึน-โฮ-2010-Hello-Stranger-Kuan-meun-ho-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "แมนสรวง (2023) ManSuang",
-    "url": "https://lk-hdx.com/mansuang-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/แมนสรวง-2023-ManSuang-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/531e4a6a69293a5740a30bca75932261/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/531e4a6a69293a5740a30bca75932261"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/แมนสรวง-2023-ManSuang-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "คุณตูบสายดาร์ก ปิดเมืองกัด (2023) Darkdog Lockdown",
-    "url": "https://lk-hdx.com/darkdog-lockdown-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/คุณตูบสายดาร์ก-ปิดเมืองกัด-2023-Darkdog-Lockdown-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9347557ca4348fabac77883fc39d8806/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9347557ca4348fabac77883fc39d8806"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/คุณตูบสายดาร์ก-ปิดเมืองกัด-2023-Darkdog-Lockdown-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ปราณี (2023) Love in an Old Album",
-    "url": "https://lk-hdx.com/love-in-an-old-album-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/ปราณี-2023-Love-in-an-Old-Album-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/59edbe7ee52548dcf4c68c15477fff94/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/59edbe7ee52548dcf4c68c15477fff94"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/ปราณี-2023-Love-in-an-Old-Album-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "นักรบมนตรา ตำนานแปดดวงจันทร์ (2023) Mantra Warrior The Legend of the Eight Moons",
-    "url": "https://lk-hdx.com/mantra-warrior-the-legend-of-the-eight-moons-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/นักรบมนตรา-ตำนานแปดดวงจันทร์-2023-Mantra-Warrior-The-Legend-of-the-Eight-Moons-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/50e4d366c4956271992f162c2655d3e2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/50e4d366c4956271992f162c2655d3e2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/นักรบมนตรา-ตำนานแปดดวงจันทร์-2023-Mantra-Warrior-The-Legend-of-the-Eight-Moons-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "เฟื่อน (2022) More Than Friend",
-    "url": "https://lk-hdx.com/more-than-friend-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/เฟื่อน-2022-More-Than-Friend-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/28fd5c36a7302f3dcbd3162a5ba1ea73/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/28fd5c36a7302f3dcbd3162a5ba1ea73"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/เฟื่อน-2022-More-Than-Friend-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "มายริทึ่ม (2020) My Rhythm",
-    "url": "https://lk-hdx.com/my-rhythm-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/มายริทึ่ม-2020-My-Rhythm-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/57c41c9e269abaf9ca4bb9429e38d225/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/57c41c9e269abaf9ca4bb9429e38d225"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/มายริทึ่ม-2020-My-Rhythm-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "The Last Breath of Sam Yan (2023)",
-    "url": "https://lk-hdx.com/the-last-breath-of-sam-yan-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Breath-of-Sam-Yan-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad8d5bd19552e8fa97568d9257b75e4e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad8d5bd19552e8fa97568d9257b75e4e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Breath-of-Sam-Yan-2023-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ดิว ไปด้วยกันนะ (2019) Dew",
