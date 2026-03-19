@@ -3023,153 +3023,437 @@
   },
   {
     "title": "Our Season (2023) สามวันลาอาลัย สานใจก่อนลาจาก",
-    "url": "https://lk-hdx.com/our-season-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Our-Season-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3a297eabca7ea6e57def8d4676111bc6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a297eabca7ea6e57def8d4676111bc6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Our-Season-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Pawn (2020) แปะโป้งไว้ที่ดวงใจอาจอชิ",
-    "url": "https://lk-hdx.com/pawn-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Pawn-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa9e016a043d86677cda6d4c88001618/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa9e016a043d86677cda6d4c88001618"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Pawn-2020-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Innocent Thing (2014)",
-    "url": "https://lk-hdx.com/innocent-thing-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Innocent-Thing-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5fc6587d60613f6b7bfdc6cd35a851db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5fc6587d60613f6b7bfdc6cd35a851db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Innocent-Thing-2014-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Intimate (2005) ลึกกว่ารัก",
-    "url": "https://lk-hdx.com/the-intimate-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Intimate-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/309e4a85bb9dc46747b08a0651db8944/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/309e4a85bb9dc46747b08a0651db8944"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Intimate-2005-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "La Belle (2000) เธอ เขา และรักเรา",
-    "url": "https://lk-hdx.com/la-belle-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/La-Belle-2000-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/28cf397bd09a73a3e3bf6f130ddd14bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/28cf397bd09a73a3e3bf6f130ddd14bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/La-Belle-2000-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "A Muse (2012) เสน่ห์หาในวังวน",
-    "url": "https://lk-hdx.com/a-muse-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/A-Muse-2012-เสน่ห์หาในวังวน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ba36b868c83aa2d632080282ae7bdee4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ba36b868c83aa2d632080282ae7bdee4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/A-Muse-2012-เสน่ห์หาในวังวน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Wife Is a Gangster 3 (2006) ขอโทษอีกที แฟนผมเป็นยากูซ่า ภาค 3",
-    "url": "https://lk-hdx.com/my-wife-is-a-gangster-3-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Wife-Is-a-Gangster-3-2006-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9cd4854583a15562c97ad77d80e537ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9cd4854583a15562c97ad77d80e537ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Wife-Is-a-Gangster-3-2006-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Wife Is A Gangster 2 (2003) ขอโทษครับ เมียผมเป็นยากูซ่า ภาค 2",
-    "url": "https://lk-hdx.com/my-wife-is-a-gangster-2-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Wife-Is-A-Gangster-2-2003-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a72c6f99b69cfae1552f18677181c4ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a72c6f99b69cfae1552f18677181c4ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Wife-Is-A-Gangster-2-2003-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Wife Is a Gangster 1 (2001) ขอโทษครับ เมียผมเป็นยากูซ่า ภาค 1",
-    "url": "https://lk-hdx.com/my-wife-is-a-gangster-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Wife-Is-a-Gangster-1-2001-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c82ce6d5fc04ccad3a692ec30b0c1f56/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c82ce6d5fc04ccad3a692ec30b0c1f56"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Wife-Is-a-Gangster-1-2001-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Mafia the Salesman (2007) สั่งเจ้าพ่อไปเป็นเซลล์แมน",
-    "url": "https://lk-hdx.com/the-mafia-the-salesman-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Mafia-the-Salesman-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/938b4184ad6f559ef90a9cdaf4c80a6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/938b4184ad6f559ef90a9cdaf4c80a6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Mafia-the-Salesman-2007-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Behind The Shadows (2023)",
-    "url": "https://lk-hdx.com/behind-the-shadows-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Behind-The-Shadows-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fcf39ed35ba5e0db99fd227d9f520eb6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fcf39ed35ba5e0db99fd227d9f520eb6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Behind-The-Shadows-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Joseon Chefs (2023)",
-    "url": "https://lk-hdx.com/joseon-chefs-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joseon-Chefs-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_HAzl365AW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Joseon-Chefs-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Divine Move 2 The Wrathful (2019) เซียนหมาก โค่นโคตรเซียน ภาค 2",
-    "url": "https://lk-hdx.com/the-divine-move-2-the-wrathful-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Divine-Move-2-The-Wrathful-2019-เซียนหมาก-โค่นโคตรเซียน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/wbWacz_CHv"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Divine-Move-2-The-Wrathful-2019-เซียนหมาก-โค่นโคตรเซียน-ภาค-2-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Divine Move 1 (2014) เซียนหมาก โค่นโคตรเซียน ภาค 1",
-    "url": "https://lk-hdx.com/the-divine-move-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Divine-Move-1-2014-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a4b243d12ecdf3e196a4dd0af8d651af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a4b243d12ecdf3e196a4dd0af8d651af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Divine-Move-1-2014-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hopeless (2023) คน/จน/ตรอก",
-    "url": "https://lk-hdx.com/hopeless-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hopeless-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5ef2fa27fb22300fc5b1f7178ad6666c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5ef2fa27fb22300fc5b1f7178ad6666c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Hopeless-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Sex Is Zero 2 (2007) ขบวนการปิ๊ดปี้ปิ๊ด ภาค 2 แผนแอ้มน้องใหม่หัวใจสะเทิ้น",
-    "url": "https://lk-hdx.com/sex-is-zero-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-2-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d22b9355201668344965449762400cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d22b9355201668344965449762400cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-2-2007-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Sex Is Zero 1 (2002) ขบวนการปิ๊ด ปี้ ปิ๊ด ภาค 1",
-    "url": "https://lk-hdx.com/sex-is-zero-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-1-2002-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e3df63eab4aefa1ac0bc487e5cfcf10b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e3df63eab4aefa1ac0bc487e5cfcf10b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-1-2002-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Han Gong ju (2013)",
-    "url": "https://lk-hdx.com/han-gong-ju-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Han-Gong-ju-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/99ed6efa740ff0243326a8e0b651f210/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/99ed6efa740ff0243326a8e0b651f210"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Han-Gong-ju-2013-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hope (2013) ความรัก ความหวัง และคราบน้ำตา",
-    "url": "https://lk-hdx.com/hope-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hope-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2301676d7be804b72efb20aa37a17846/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2301676d7be804b72efb20aa37a17846"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Hope-2013-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Servant (2010) พลีรัก ลิขิตหัวใจ",
-    "url": "https://lk-hdx.com/the-servant-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Servant-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/383e78835f9830d924fb443023170d7a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/383e78835f9830d924fb443023170d7a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Servant-2010-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Underground Rendezvous (2007) เปิ่น ปั่น ป่วน",
-    "url": "https://lk-hdx.com/underground-rendezvous-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Underground-Rendezvous-2007-เปิ่น-ปั่น-ป่วน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e33efa24c2ebefffa247eb9ee57040c1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e33efa24c2ebefffa247eb9ee57040c1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Underground-Rendezvous-2007-เปิ่น-ปั่น-ป่วน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Art of Seduction (2005) เกมรักคาสโนว่า",
-    "url": "https://lk-hdx.com/the-art-of-seduction-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Art-of-Seduction-2005-เกมรักคาสโนว่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90a6b049038dddd655de130f7776a07a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90a6b049038dddd655de130f7776a07a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Art-of-Seduction-2005-เกมรักคาสโนว่า-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Shark The Beginning (2021)",
-    "url": "https://lk-hdx.com/shark-the-beginning-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Shark-The-Beginning-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bd6a8bda55a5952f78ff717d380cbf42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bd6a8bda55a5952f78ff717d380cbf42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Shark-The-Beginning-2021-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Little Forest (2018) อาบเหงื่อต่างฤดู",
-    "url": "https://lk-hdx.com/little-forest-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Little-Forest-2018-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d10aa2baf5e6c6335f10c9357cd84744/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d10aa2baf5e6c6335f10c9357cd84744"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Little-Forest-2018-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
-    "url": "https://lk-hdx.com/the-roundup-punishment-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/JBWcX_dZjJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Roundup No Way Out (2023) บู๊ระห่ำล่าล้างนรก ทุบนรกแตก",
-    "url": "https://lk-hdx.com/the-roundup-no-way-out-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tW7_R1LwoN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Roundup (2022) บู๊ระห่ำ ล่าล้างนรก",
-    "url": "https://lk-hdx.com/the-roundup-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d41ab3952e860b73f1740cfb46afee3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d41ab3952e860b73f1740cfb46afee3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Miss Fortune (Hwasahan Geunyeo) (2023)",
-    "url": "https://lk-hdx.com/miss-fortune-hwasahan-geunyeo-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Miss-Fortune-Hwasahan-Geunyeo-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdea12280f18ff86aff9a316a09c22ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdea12280f18ff86aff9a316a09c22ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Miss-Fortune-Hwasahan-Geunyeo-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Chronicles of Evil (Ak-ui yeon-dae-gi) (2015) โหด ฆาตกรรม",
-    "url": "https://lk-hdx.com/the-chronicles-of-evil-ak-ui-yeon-dae-gi-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Chronicles-of-Evil-Ak-ui-yeon-dae-gi-2015-โหด-ฆาตกรรม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3decb7ff8fa45afe86744c8d769d12ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3decb7ff8fa45afe86744c8d769d12ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Chronicles-of-Evil-Ak-ui-yeon-dae-gi-2015-โหด-ฆาตกรรม-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Brave Citizen (2023)",
-    "url": "https://lk-hdx.com/brave-citizen-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/brave-bitizen-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe2b7d5a462ac075343ade73e54c2d5b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe2b7d5a462ac075343ade73e54c2d5b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/brave-bitizen-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Admiral Roaring Currents (2014) ยีซุนชิน ขุนพลคลื่นคำราม",
