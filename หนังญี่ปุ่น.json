@@ -2163,153 +2163,425 @@
   },
   {
     "title": "After the Rain (2018) หลังฝนตก คุณคิดถึงใคร",
-    "url": "https://lk-hdx.com/after-the-rain-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/After-the-Rain-2018-หลังฝนตก-คุณคิดถึงใคร-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/GpV_DbHCGq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/After-the-Rain-2018-หลังฝนตก-คุณคิดถึงใคร-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Cafe Funiculi Funicula (2018) เพียงชั่วเวลากาแฟยังอุ่น",
-    "url": "https://lk-hdx.com/cafe-funiculi-funicula-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Cafe-Funiculi-Funicula-2018-เพียงชั่วเวลากาแฟยังอุ่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/651785b8fad7268e96f6f27daeba2996/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/651785b8fad7268e96f6f27daeba2996"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Cafe-Funiculi-Funicula-2018-เพียงชั่วเวลากาแฟยังอุ่น-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Eriko Pretended (2016) เอริโกะ รับจ้างร้อง",
-    "url": "https://lk-hdx.com/eriko-pretended-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Eriko-Pretended-2016-เอริโกะ-รับจ้างร้อง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/daq_AzZ8L3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Eriko-Pretended-2016-เอริโกะ-รับจ้างร้อง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Bad Lands (2023) แดนสามานย์",
-    "url": "https://lk-hdx.com/bad-lands-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Bad-Lands-2023-แดนสามานย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/393893c7e7e631abc305277564ff4735/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/393893c7e7e631abc305277564ff4735"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Bad-Lands-2023-แดนสามานย์-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The 8 Year Engagement (2017) บันทึกน้ำตารัก 8 ปี",
-    "url": "https://lk-hdx.com/the-8-year-engagement-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-8-Year-Engagement-2017-บันทึกน้ำตารัก-8-ปี-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/C_v5sp8Oel"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-8-Year-Engagement-2017-บันทึกน้ำตารัก-8-ปี-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Gantz O (2016) กันสึ โอ",
-    "url": "https://lk-hdx.com/gantz-o-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Gantz-O-2016-กันสึ-โอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_JccCk88Qd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Gantz-O-2016-กันสึ-โอ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Gantz Perfect Answer (2011) สาวกกันสึ พิฆาต เต็มแสบ",
-    "url": "https://lk-hdx.com/gantz-perfect-answer-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Gantz-Perfect-Answer-2011-สาวกกันสึ-พิฆาต-เต็มแสบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1cb3d63cfc83953be695e165f06bfb6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1cb3d63cfc83953be695e165f06bfb6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Gantz-Perfect-Answer-2011-สาวกกันสึ-พิฆาต-เต็มแสบ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Gantz (2010) สาวกกันสึ พันธ์แสบสังหาร",
-    "url": "https://lk-hdx.com/gantz-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Gantz-2010-สาวกกันสึ-พันธ์แสบสังหาร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f182f63a2d6323c8185cb393a6095107/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f182f63a2d6323c8185cb393a6095107"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Gantz-2010-สาวกกันสึ-พันธ์แสบสังหาร-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Death Note Light Up The New World (2016) เดธโน้ต สมุดมรณะ",
-    "url": "https://lk-hdx.com/death-note-light-up-the-new-world-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-Light-Up-The-New-World-2016-เดธโน้ต-สมุดมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/872428d5f8506d5d8d363ad2e0b0f248/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/872428d5f8506d5d8d363ad2e0b0f248"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-Light-Up-The-New-World-2016-เดธโน้ต-สมุดมรณะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Death Note New Generation (2016) ปฐมบท สมุดมรณะ",
-    "url": "https://lk-hdx.com/death-note-new-generation-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-New-Generation-2016-ปฐมบท-สมุดมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3fa1fcbbaabee36d17e5c2bd271d5e4b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3fa1fcbbaabee36d17e5c2bd271d5e4b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-New-Generation-2016-ปฐมบท-สมุดมรณะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Death Note 3 L Change the World (2008) สมุดโน้ตสิ้นโลก",
-    "url": "https://lk-hdx.com/death-note-3-l-change-the-world-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-3-L-Change-the-World-2008-สมุดโน้ตสิ้นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/89bc181352f95e818b6701684f8e7a44/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89bc181352f95e818b6701684f8e7a44"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-3-L-Change-the-World-2008-สมุดโน้ตสิ้นโลก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Death Note 2 The Last Name (2006) อวสานสมุดมรณะ",
-    "url": "https://lk-hdx.com/death-note-2-the-last-name-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-2-The-Last-Name-2006-อวสานสมุดมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d449ea06f0d4a2ad35227418762d8c6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d449ea06f0d4a2ad35227418762d8c6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-2-The-Last-Name-2006-อวสานสมุดมรณะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Death Note 1 (2006) สมุดโน้ตกระชากวิญญาณ",
-    "url": "https://lk-hdx.com/death-note-1-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-1-2006-สมุดโน้ตกระชากวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a72f7e5c875a5843f37b4e817b34326a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a72f7e5c875a5843f37b4e817b34326a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Death-Note-1-2006-สมุดโน้ตกระชากวิญญาณ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "High & Low The Worst X (2022)",
-    "url": "https://lk-hdx.com/high-low-the-worst-x-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/High-Low-The-Worst-X-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/61d7d13b475d47dcb32c2d5ff836b73c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/61d7d13b475d47dcb32c2d5ff836b73c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/High-Low-The-Worst-X-2022-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "High & Low The Worst (2019)",
-    "url": "https://lk-hdx.com/high-low-the-worst-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/High-Low-The-Worst-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4fb052ce519d719148c493d1dc2295d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4fb052ce519d719148c493d1dc2295d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/High-Low-The-Worst-2019-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Lion Girl (2023) สิงโตสาว",
-    "url": "https://lk-hdx.com/lion-girl-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Lion-Girl-2023-สิงโตสาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0edf07604842e8283ee0aa993b497a8e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0edf07604842e8283ee0aa993b497a8e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Lion-Girl-2023-สิงโตสาว-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Little Nights Little Love (2019) รักเล็กๆในค่ำคืนของเรา",
-    "url": "https://lk-hdx.com/little-nights-little-love-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Little-Nights-Little-Love-2019-รักเล็กๆในค่ำคืนของเรา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d3a387455ee6c7b9cf67223873c186dc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d3a387455ee6c7b9cf67223873c186dc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Little-Nights-Little-Love-2019-รักเล็กๆในค่ำคืนของเรา-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Only The Cat Knows (2019) จ้าเหมียวจิบิ หายไปไหนนะ",
-    "url": "https://lk-hdx.com/only-the-cat-knows-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Only-The-Cat-Knows-2019-จ้าเหมียวจิบิ-หายไปไหนนะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2bb56cd88fcc3fdf27d193c4ea09bc58/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2bb56cd88fcc3fdf27d193c4ea09bc58"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Only-The-Cat-Knows-2019-จ้าเหมียวจิบิ-หายไปไหนนะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Catch (1983) คุณชอบทะเลไหม",
-    "url": "https://lk-hdx.com/the-catch-1983/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Catch-1983-คุณชอบทะเลไหม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/073622b0206e2ef486d4aaf36e569faf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/073622b0206e2ef486d4aaf36e569faf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Catch-1983-คุณชอบทะเลไหม-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "My Happy Marriage (2023) ขอให้รักเรานี้ได้มีความสุข",
-    "url": "https://lk-hdx.com/my-happy-marriage-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/My-Happy-Marriage-2023-ขอให้รักเรานี้ได้มีความสุข-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ea6c5fe26a28666ff3fbadd219d7cc2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ea6c5fe26a28666ff3fbadd219d7cc2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/My-Happy-Marriage-2023-ขอให้รักเรานี้ได้มีความสุข-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Recently My Sister is Unusual (2014) น้องสาวผมไม่ปกติ",
-    "url": "https://lk-hdx.com/recently-my-sister-is-unusual-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Recently-My-Sister-is-Unusual-2014-น้องสาวผมไม่ปกติ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c896a6ddac6d3de853afc9f26e1e32e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c896a6ddac6d3de853afc9f26e1e32e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Recently-My-Sister-is-Unusual-2014-น้องสาวผมไม่ปกติ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Limit of Sleeping Beauty (2017)",
-    "url": "https://lk-hdx.com/the-limit-of-sleeping-beauty-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Limit-of-Sleeping-Beauty-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nXkT6F_SHu"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Limit-of-Sleeping-Beauty-2017-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kabukicho Love Hotel (2014)",
-    "url": "https://lk-hdx.com/kabukicho-love-hotel-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Kabukicho-Love-Hotel-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df4a662b14d23a1e049c15e29152fb51/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df4a662b14d23a1e049c15e29152fb51"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Kabukicho-Love-Hotel-2014-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "What Did You Eat Yesterday (2021) เมื่อวานคุณทานอะไร",
-    "url": "https://lk-hdx.com/what-did-you-eat-yesterday-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/What-Did-You-Eat-Yesterday-2021-เมื่อวานคุณทานอะไร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1092a28c3340a5562e3608bc55719b1e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1092a28c3340a5562e3608bc55719b1e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/What-Did-You-Eat-Yesterday-2021-เมื่อวานคุณทานอะไร-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Island of Cats (2019) แมวเหมียวกับคุณลุง",
-    "url": "https://lk-hdx.com/the-island-of-cats-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Island-of-Cats-2019-แมวเหมียวกับคุณลุง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jKVMVN_jJC"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Island-of-Cats-2019-แมวเหมียวกับคุณลุง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "White Lily (2016) ไวท์ลิลลี่",
-    "url": "https://lk-hdx.com/white-lily-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/White-Lily-2016-ไวท์ลิลลี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2bb52d47e3ba54a3bec36fe268c84312/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2bb52d47e3ba54a3bec36fe268c84312"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/White-Lily-2016-ไวท์ลิลลี่-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Cowards Who Looked to the Sky (2012) คนขลาดเขลาที่กล้ามองฟ้า",
-    "url": "https://lk-hdx.com/the-cowards-who-looked-to-the-sky-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Cowards-Who-Looked-to-the-Sky-2012-คนขลาดเขลาที่กล้ามองฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/YdqED_n8iW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Cowards-Who-Looked-to-the-Sky-2012-คนขลาดเขลาที่กล้ามองฟ้า-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Cherry Boys (2018) เชอร์รี่บอย ลุยไม่คอยรัก",
-    "url": "https://lk-hdx.com/cherry-boys-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Cherry-Boys-2018-เชอร์รี่บอย-ลุยไม่คอยรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e5bda84389bb25d3eff4fad719fb189a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e5bda84389bb25d3eff4fad719fb189a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Cherry-Boys-2018-เชอร์รี่บอย-ลุยไม่คอยรัก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Love Exposure (2009) Ai no Mukidashi ลิขิตรัก นักส่อง กกน",
-    "url": "https://lk-hdx.com/love-exposure-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-Exposure-2009-Ai-no-Mukidashi-ลิขิตรัก-นักส่อง-กกน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/65a891f52e39235c2fe10d8972459baf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/65a891f52e39235c2fe10d8972459baf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-Exposure-2009-Ai-no-Mukidashi-ลิขิตรัก-นักส่อง-กกน-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Erotibot (2011) พิศวาสโรบอทยอดรัก",
-    "url": "https://lk-hdx.com/erotibot-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Erotibot-2011-พิศวาสโรบอทยอดรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3942fa7a1cfff103f32fe7e3dd73ab54/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3942fa7a1cfff103f32fe7e3dd73ab54"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Erotibot-2011-พิศวาสโรบอทยอดรัก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Sundome 4 The Final (2009) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 4",
