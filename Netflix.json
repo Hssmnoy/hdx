@@ -9437,153 +9437,425 @@
   },
   {
     "title": "All-Time High (2023) รวยทะลุ",
-    "url": "https://lk-hdx.com/all-time-high-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/All-Time-High-2023-รวยทะลุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d4db6703afd744c8731bc64176ec50be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d4db6703afd744c8731bc64176ec50be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/All-Time-High-2023-รวยทะลุ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Dads (2023) พ่อ",
-    "url": "https://lk-hdx.com/the-dads-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Dads-2023-พ่อ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/s_trLioBJh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Dads-2023-พ่อ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rustin (2023) รัสติน",
-    "url": "https://lk-hdx.com/rustin-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Rustin-2023-รัสติน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/116ca2f36086d3cf4c53162fd09322e0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/116ca2f36086d3cf4c53162fd09322e0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Rustin-2023-รัสติน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Free Rein Valentine’s Day (2021) ฟรี เรน สุขสันต์วันวาเลนไทน์",
-    "url": "https://lk-hdx.com/free-rein-valentines-day-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Free-Rein-Valentines-Day-2021-ฟรี-เรน-สุขสันต์วันวาเลนไทน์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6eae778751af1905f04d08509984ec96/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6eae778751af1905f04d08509984ec96"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Free-Rein-Valentines-Day-2021-ฟรี-เรน-สุขสันต์วันวาเลนไทน์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nail Bomber Manhunt (2021) ล่ามือระเบิดตะปู",
-    "url": "https://lk-hdx.com/nail-bomber-manhunt-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Nail-Bomber-Manhunt-2021-ล่ามือระเบิดตะปู-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/614054db0a61d2e32f06fddda76e6fa3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/614054db0a61d2e32f06fddda76e6fa3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Nail-Bomber-Manhunt-2021-ล่ามือระเบิดตะปู-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Spoiled Brats (2021) เด็กรวยเละ",
-    "url": "https://lk-hdx.com/spoiled-brats-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Spoiled-Brats-2021-เด็กรวยเละ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b68132f093f7861d5ec9361783f76afb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b68132f093f7861d5ec9361783f76afb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Spoiled-Brats-2021-เด็กรวยเละ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "StarBeam Beaming in the New Year (2021) สตาร์บีม สาวน้อยมหัศจรรย์ เปล่งประกายสู่ปีใหม่",
-    "url": "https://lk-hdx.com/starbeam-beaming-in-the-new-year-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/StarBeam-Beaming-in-the-New-Year-2021-สตาร์บีม-สาวน้อยมหัศจรรย์-เปล่งประกายสู่ปีใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/L_3qNso1mn"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/StarBeam-Beaming-in-the-New-Year-2021-สตาร์บีม-สาวน้อยมหัศจรรย์-เปล่งประกายสู่ปีใหม่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Stuck Together (2021) ล็อกดาวน์ป่วนบนตึกเลขที่ 8",
-    "url": "https://lk-hdx.com/stuck-together-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Stuck-Together-2021-ล็อกดาวน์ป่วนบนตึกเลขที่-8-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/bA_CZQklb4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Stuck-Together-2021-ล็อกดาวน์ป่วนบนตึกเลขที่-8-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sentinelle (2021) ปฏิบัติการเซนติเนล",
-    "url": "https://lk-hdx.com/sentinelle-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Sentinelle-2021-ปฏิบัติการเซนติเนล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0625964defdbbb49c023ae2245b9aa60/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0625964defdbbb49c023ae2245b9aa60"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Sentinelle-2021-ปฏิบัติการเซนติเนล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Space Sweeper (2021) ชนชั้นขยะปฏิวัติจักรวาล",
-    "url": "https://lk-hdx.com/space-sweeper-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Space-Sweeper-2021-ชนชั้นขยะปฏิวัติจักรวาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9a069b2dabe5beb99508a2b0ee295e67/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9a069b2dabe5beb99508a2b0ee295e67"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Space-Sweeper-2021-ชนชั้นขยะปฏิวัติจักรวาล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Temple of Film (2023) 100 ปีโรงละครอียิปต์",
-    "url": "https://lk-hdx.com/temple-of-film-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Temple-of-Film-2023-100-ปีโรงละครอียิปต์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e1f9436530a70ea52a9f3fbe641a4c2d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e1f9436530a70ea52a9f3fbe641a4c2d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Temple-of-Film-2023-100-ปีโรงละครอียิปต์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Killer (2023) นักฆ่า",
-    "url": "https://lk-hdx.com/the-killer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Killer-2023-นักฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ZyGb_4OXMu"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Killer-2023-นักฆ่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Cyberbunker The Criminal Underworld (2023) ไซเบอร์บังเกอร์ โลกอาชญากรรมใต้ดิน",
-    "url": "https://lk-hdx.com/cyberbunker-the-criminal-underworld-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Cyberbunker-The-Criminal-Underworld-2023-ไซเบอร์บังเกอร์-โลกอาชญากรรมใต้ดิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/OdWsHXLJq_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Cyberbunker-The-Criminal-Underworld-2023-ไซเบอร์บังเกอร์-โลกอาชญากรรมใต้ดิน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Claus Family 3 (2023) คริสต์มาสตระกูลคลอส ภาค 3",
-    "url": "https://lk-hdx.com/the-claus-family-3-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Claus-Family-3-2023-คริสต์มาสตระกูลคลอส-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f2ada7bb2e5b1412f3c9e6a8f43868bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f2ada7bb2e5b1412f3c9e6a8f43868bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Claus-Family-3-2023-คริสต์มาสตระกูลคลอส-ภาค-3-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Christmas Chronicles 2 (2020) ผจญภัยพิทักษ์คริสต์มาส ภาค 2",
-    "url": "https://lk-hdx.com/the-christmas-chronicles-2-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Christmas-Chronicles-2-2020-ผจญภัยพิทักษ์คริสต์มาส-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ec3a3177c6e113874fb0b4e389f54a27/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec3a3177c6e113874fb0b4e389f54a27"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Christmas-Chronicles-2-2020-ผจญภัยพิทักษ์คริสต์มาส-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Kissing Booth 3 (2021) เดอะ คิสซิ่ง บูธ ภาค 3",
-    "url": "https://lk-hdx.com/the-kissing-booth-3-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Kissing-Booth-3-2021-เดอะ-คิสซิ่ง-บูธ-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1a3270ef4df7cff36319889baa8233ce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1a3270ef4df7cff36319889baa8233ce"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Kissing-Booth-3-2021-เดอะ-คิสซิ่ง-บูธ-ภาค-3-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Kissing Booth 2 (2020) เดอะ คิสซิ่ง บูธ ภาค 2",
-    "url": "https://lk-hdx.com/the-kissing-booth-2-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Kissing-Booth-2-2020-เดอะ-คิสซิ่ง-บูธ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d4acc21f7ffef2a60c022d9489622514/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d4acc21f7ffef2a60c022d9489622514"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Kissing-Booth-2-2020-เดอะ-คิสซิ่ง-บูธ-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Kissing Booth 1 (2018) เดอะ คิสซิ่ง บูธ ภาค 1",
-    "url": "https://lk-hdx.com/the-kissing-booth-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Kissing-Booth-1-2018-เดอะ-คิสซิ่ง-บูธ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/uUtM7eo_mO"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Kissing-Booth-1-2018-เดอะ-คิสซิ่ง-บูธ-ภาค-1-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Surviving Paradise (2022) ชีวิตป่าแดนสวรรค์",
-    "url": "https://lk-hdx.com/surviving-paradise-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Surviving-Paradise-2022-ชีวิตป่าแดนสวรรค์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3981f12437141b1749264a7b4482fd9d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3981f12437141b1749264a7b4482fd9d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Surviving-Paradise-2022-ชีวิตป่าแดนสวรรค์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Our Father (2022) พ่อของเรา",
-    "url": "https://lk-hdx.com/our-father-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Our-Father-2022-พ่อของเรา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e22d9f61bae75c15d847f857c6b179bb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e22d9f61bae75c15d847f857c6b179bb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Our-Father-2022-พ่อของเรา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "My Next Guest with David Letterman and Volodymyr Zelenskyy (2022) เสวนาฮาเฮกับเดวิด เลตเทอร์แมนและโวโลดิเมียร์ เซเลนสกี",
-    "url": "https://lk-hdx.com/my-next-guest-with-david-letterman-and-volodymyr-zelenskyy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Next-Guest-with-David-Letterman-and-Volodymyr-Zelenskyy-2022-เสวนาฮาเฮกับเดวิด-เลตเทอร์แมนและโวโลดิเมียร์-เซเลนสกี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1217adec3304b2a946b2a0ce129bc495/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1217adec3304b2a946b2a0ce129bc495"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/My-Next-Guest-with-David-Letterman-and-Volodymyr-Zelenskyy-2022-เสวนาฮาเฮกับเดวิด-เลตเทอร์แมนและโวโลดิเมียร์-เซเลนสกี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Tinder Swindler (2022) สิบแปดมงกุฎทินเดอร์",
-    "url": "https://lk-hdx.com/the-tinder-swindler-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Tinder-Swindler-2022-สิบแปดมงกุฎทินเดอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25a43eaf7c37a12b007229714fbceca3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25a43eaf7c37a12b007229714fbceca3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Tinder-Swindler-2022-สิบแปดมงกุฎทินเดอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Trust No One The Hunt for the Crypto King (2022) ล่าราชาคริปโต",
-    "url": "https://lk-hdx.com/trust-no-one-the-hunt-for-the-crypto-king-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Trust-No-One-The-Hunt-for-the-Crypto-King-2022-ล่าราชาคริปโต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0b92040f35918dbaefca09475c7dff47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b92040f35918dbaefca09475c7dff47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Trust-No-One-The-Hunt-for-the-Crypto-King-2022-ล่าราชาคริปโต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sr. (2022)",
-    "url": "https://lk-hdx.com/sr-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sr.-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3db0dbcb93fc3b44e8576f2a0e80b19e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3db0dbcb93fc3b44e8576f2a0e80b19e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sr.-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Stay on Board (2022) สเก็ตสไตล์ลีโอ เบเกอร์",
-    "url": "https://lk-hdx.com/stay-on-board-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Stay-on-Board-2022-สเก็ตสไตล์ลีโอ-เบเกอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4ab75e49ae74b8714dbd4da3478648d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4ab75e49ae74b8714dbd4da3478648d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Stay-on-Board-2022-สเก็ตสไตล์ลีโอ-เบเกอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Take Your Pills Xanax (2022) เทค ยัวร์ พิลส์ ซาแน็กซ์",
-    "url": "https://lk-hdx.com/take-your-pills-xanax-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Take-Your-Pills-Xanax-2022-เทค-ยัวร์-พิลส์-ซาแน็กซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b7f223ffed88de3b1e2e87fadc4bee8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b7f223ffed88de3b1e2e87fadc4bee8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Take-Your-Pills-Xanax-2022-เทค-ยัวร์-พิลส์-ซาแน็กซ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sing Dance Act Kabuki featuring Toma Ikuta (2022) ร้อง เต้น แสดง คาบูกิโดยโทมะ อิคุตะ",
-    "url": "https://lk-hdx.com/sing-dance-act-kabuki-featuring-toma-ikuta-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-Dance-Act-Kabuki-featuring-Toma-Ikuta-2022-ร้อง-เต้น-แสดง-คาบูกิโดยโทมะ-อิคุตะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e5a7e0166a4e0c25b5d9d4ee776815e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e5a7e0166a4e0c25b5d9d4ee776815e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-Dance-Act-Kabuki-featuring-Toma-Ikuta-2022-ร้อง-เต้น-แสดง-คาบูกิโดยโทมะ-อิคุตะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The House of Flowers The Movie (2021) บ้านดอกไม้ เดอะ มูฟวี่",
-    "url": "https://lk-hdx.com/the-house-of-flowers-the-movie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-House-of-Flowers-The-Movie-2021-บ้านดอกไม้-เดอะ-มูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/13e717ea754ab1b24428fa99435daa4b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/13e717ea754ab1b24428fa99435daa4b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-House-of-Flowers-The-Movie-2021-บ้านดอกไม้-เดอะ-มูฟวี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Pray Away (2021) สวดแก้เกย์",
-    "url": "https://lk-hdx.com/pray-away-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Pray-Away-2021-สวดแก้เกย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c526fc0472e448830641a26cab28a022/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c526fc0472e448830641a26cab28a022"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Pray-Away-2021-สวดแก้เกย์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Irul (2021) ฆาตกร",
-    "url": "https://lk-hdx.com/irul-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Irul-2021-ฆาตกร-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/XC7_ARzc9B"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Irul-2021-ฆาตกร-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "In for a Murder (2021) ฆาตกรรม จำต้องสืบ",
