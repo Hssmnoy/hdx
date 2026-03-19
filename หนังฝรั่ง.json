@@ -5616,152 +5616,432 @@
   {
     "title": "Friday the 13th ศุกร์ 13 ฝันหวาน (2009)",
     "url": "https://lk-hdx.com/friday-the-13th-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Friday-the-13th-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Friday-the-13th-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/K8_Na4vs3J"
+      }
+    ]
   },
   {
     "title": "Summer of 69 (2025)",
     "url": "https://lk-hdx.com/summer-of-69-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Summer-of-69-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Summer-of-69-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/76547764e0c8e9afff209fd291bf8432"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/76547764e0c8e9afff209fd291bf8432/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Widow’s Game (2025) กลเกมแม่ม่าย | Netflix",
     "url": "https://lk-hdx.com/a-widows-game-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/KVaemOoUb_"
+      }
+    ]
   },
   {
     "title": "แม่นักตุ๋น (2025) Con Mum",
     "url": "https://lk-hdx.com/con-mum-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/แม่นักตุ๋น-2025-Con-Mum-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/แม่นักตุ๋น-2025-Con-Mum-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/0d3a9d367b4b948485041a2550b16d5b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/0d3a9d367b4b948485041a2550b16d5b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Trainwreck Poop Cruise (2025) อภิมหาวายป่วง เรือสำราญอุนจิ",
     "url": "https://lk-hdx.com/trainwreck-poop-cruise-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Trainwreck-Poop-Cruise-2025-อภิมหาวายป่วง-เรือสำราญอุนจิ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Trainwreck-Poop-Cruise-2025-อภิมหาวายป่วง-เรือสำราญอุนจิ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/87caba84881531914dbb95555a7a782b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/87caba84881531914dbb95555a7a782b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I’m Your Venus (2024) ฉันคือวีนัส",
     "url": "https://lk-hdx.com/im-your-venus-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Im-Your-Venus-2024-ฉันคือวีนัส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Im-Your-Venus-2024-ฉันคือวีนัส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/dfe05de222800746dccfce973cb63f44"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/dfe05de222800746dccfce973cb63f44/master.m3u8"
+      }
+    ]
   },
   {
     "title": "เดอะ บรูทัลลิสต์ (2024) The Brutalist",
     "url": "https://lk-hdx.com/the-brutalist-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เดอะ-บรูทัลลิสต์-2024-The-Brutalist-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เดอะ-บรูทัลลิสต์-2024-The-Brutalist-165x248.webp",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/89aaaafe80b29c6e2e21a0057bc8a7fd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/89aaaafe80b29c6e2e21a0057bc8a7fd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Twenty One 21 (2008) เกมเดิมพันอัจฉริยะ | พากย์ไทย",
     "url": "https://lk-hdx.com/twenty-one-21-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Twenty-One-21-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Twenty-One-21-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4d65bcecb5050e2c811f11f8a88741f9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4d65bcecb5050e2c811f11f8a88741f9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bloodshot (2020) จักรกลเลือดดุ",
     "url": "https://lk-hdx.com/bloodshot-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bloodshot-2020-จักรกลเลือดดุ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bloodshot-2020-จักรกลเลือดดุ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/711477f48a8ee86c606f70c5d02d6d8e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/711477f48a8ee86c606f70c5d02d6d8e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Warfare (2025)",
     "url": "https://lk-hdx.com/warfare-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Warfare-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Warfare-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/39a8d5d48ca910fe390fe5b10f7c647e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/39a8d5d48ca910fe390fe5b10f7c647e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
     "url": "https://lk-hdx.com/late-night-with-the-devil-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/e75abf53902ce74da679a2560be9e9cf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/e75abf53902ce74da679a2560be9e9cf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "อัจฉริยะคนบัญชีเพชฌฆาต ภาค 2 The Accountant 2 (2025)",
     "url": "https://lk-hdx.com/the-accountant-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/The-Accountant-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/The-Accountant-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a30b8805d37647e3986f168d8995c47a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a30b8805d37647e3986f168d8995c47a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "28 Weeks Later (2007) มหันตภัยเชื้อนรกถล่มเมือง",
     "url": "https://lk-hdx.com/28-weeks-later-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/28-Weeks-Later-2007-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/28-Weeks-Later-2007-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8403496c14d5f08809df3357ab044b51"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8403496c14d5f08809df3357ab044b51/master.m3u8"
+      }
+    ]
   },
   {
     "title": "28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",
     "url": "https://lk-hdx.com/28-days-later-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/28-Days-Later-2002-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/28-Days-Later-2002-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/63525f7e0e327de873eaaa836d87f80d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/63525f7e0e327de873eaaa836d87f80d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Kraken (2025) คราเคน เลื้อยสยอง 20,000 โยชน์",
     "url": "https://lk-hdx.com/kraken-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Kraken-2025-คราเคน-เลื้อยสยอง-20000-โยชน์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Kraken-2025-คราเคน-เลื้อยสยอง-20000-โยชน์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/9d4eaccbb05effe074538dad0298145f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/9d4eaccbb05effe074538dad0298145f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Frozen The Hit Broadway Musical (2025)",
     "url": "https://lk-hdx.com/frozen-the-hit-broadway-musical-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Frozen-The-Hit-Broadway-Musical-2025-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Frozen-The-Hit-Broadway-Musical-2025-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/own_TyUOwh"
+      }
+    ]
   },
   {
     "title": "Semi Soeter (2025) เรื่องรักกึ่งหวาน งานนี้บานปลาย",
     "url": "https://lk-hdx.com/semi-soeter-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Semi-Soeter-2025-เรื่องรักกึ่งหวาน-งานนี้บานปลาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Semi-Soeter-2025-เรื่องรักกึ่งหวาน-งานนี้บานปลาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/97OHx_ba9y"
+      }
+    ]
   },
   {
     "title": "GrenFell Uncovered (2025) ค้นความจริงเหตุเพลิงไหม้เกรมเฟลล์",
     "url": "https://lk-hdx.com/grenfell-uncovered-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/GrenFell-Uncovered-2025-ค้นความจริงเหตุเพลิงไหม้เกรมเฟลล์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/GrenFell-Uncovered-2025-ค้นความจริงเหตุเพลิงไหม้เกรมเฟลล์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/fa992b28346a16b9aad8c5ba312184cb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/fa992b28346a16b9aad8c5ba312184cb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A King Like Me (2024) ราชาอย่างฉัน",
     "url": "https://lk-hdx.com/a-king-like-me-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/A-King-Like-Me-2024-ราชาอย่างฉัน-165x248.png"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/A-King-Like-Me-2024-ราชาอย่างฉัน-165x248.png",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/44503cbc7c91a0e763ba657ca8bea323"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/44503cbc7c91a0e763ba657ca8bea323/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Final Destination Bloodlines (2025) ไฟนอล เดสติเนชั่น ทายาทโกงตาย",
     "url": "https://lk-hdx.com/final-destination-bloodlines-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/fbf1e9bf25ba3d9ec4e8538a1acefe9f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/fbf1e9bf25ba3d9ec4e8538a1acefe9f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Love & Other Drugs (2010) ยาวิเศษที่ไม่อาจรักษารัก",
     "url": "https://lk-hdx.com/love-other-drugs-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Love-Other-Drugs-2010-ยาวิเศษที่ไม่อาจรักษารัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Love-Other-Drugs-2010-ยาวิเศษที่ไม่อาจรักษารัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/74053cf35b6631da9b158dbbde2e286d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/74053cf35b6631da9b158dbbde2e286d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Original Sin (2001) ล่าฝันพิศวาส บาปปรารถนา กับดักมรณะ",
     "url": "https://lk-hdx.com/original-sin-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Original-Sin-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Original-Sin-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b18c74ff351437507de8b4eb9bcb5d45"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b18c74ff351437507de8b4eb9bcb5d45/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Trainwreck Mayor of Mayhem (2025) อภิมหาวายป่วง นายกเทศมนตรีแห่งความโกลาหล",
     "url": "https://lk-hdx.com/trainwreck-mayor-of-mayhem-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Trainwreck-Mayor-of-Mayhem-2025-อภิมหาวายป่วง-นายกเทศมนตรีแห่งความโกลาหล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Trainwreck-Mayor-of-Mayhem-2025-อภิมหาวายป่วง-นายกเทศมนตรีแห่งความโกลาหล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/a81dfaa889b15a7453d5a4d7ed54d1d7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/a81dfaa889b15a7453d5a4d7ed54d1d7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Homem com H (2025) เพลงชีวิตเนย์ มาโตกรอสโซ",
     "url": "https://lk-hdx.com/homem-com-h-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Homem-com-H-2025-เพลงชีวิตเนย์-มาโตกรอสโซ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Homem-com-H-2025-เพลงชีวิตเนย์-มาโตกรอสโซ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/16e0489244d2d0b7fcee477f619f057a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/16e0489244d2d0b7fcee477f619f057a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "45 Years (2015)",
     "url": "https://lk-hdx.com/45-years-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/45-Years-2015-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/45-Years-2015-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/87172424b81808b8ab6c7d2bffefc399"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/87172424b81808b8ab6c7d2bffefc399/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Exorcism (2024) ดิ เอ็กซอร์ซิสม์ นรก สิง สาป",
     "url": "https://lk-hdx.com/the-exorcism-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/The-Exorcism-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/The-Exorcism-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7dfbcfcb97075ed5f1f5b3a1c59aca36"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7dfbcfcb97075ed5f1f5b3a1c59aca36/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Good Man (2014) โคตรคนดีเดือด",
     "url": "https://lk-hdx.com/a-good-man-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/A-Good-Man-2014-โคตรคนดีเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/A-Good-Man-2014-โคตรคนดีเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a436b96ee2f8570fa58ea3e60ffb8fa9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a436b96ee2f8570fa58ea3e60ffb8fa9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Legend of Zorro (2005) ศึกตำนานหน้ากากโซโร",
     "url": "https://lk-hdx.com/the-legend-of-zorro-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/The-Legend-of-Zorro-2005-ศึกตำนานหน้ากากโซโร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/The-Legend-of-Zorro-2005-ศึกตำนานหน้ากากโซโร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/72ee3851eeea21e88eb1d7f8454978b2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/72ee3851eeea21e88eb1d7f8454978b2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Studio 666 (2022) สตูดิโอ 666 ปลุกวิญญาณร็อก",
     "url": "https://lk-hdx.com/studio-666-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Studio-666-2022-สตูดิโอ-666-ปลุกวิญญาณร็อก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Studio-666-2022-สตูดิโอ-666-ปลุกวิญญาณร็อก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/pmg0Jyol_Z"
+      }
+    ]
   },
   {
     "title": "The Surfer (2024) กูจะเซิร์ฟ",
     "url": "https://lk-hdx.com/the-surfer-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/The-Surfer-2024-กูจะเซิร์ฟ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/The-Surfer-2024-กูจะเซิร์ฟ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/219e9931c207f4eeb9fd8a34c1135c1f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/219e9931c207f4eeb9fd8a34c1135c1f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Echo Valley (2025)",
