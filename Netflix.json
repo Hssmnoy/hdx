@@ -12439,153 +12439,445 @@
   },
   {
     "title": "Xico’s Journey (2021) ฮีโกผจญภัย",
-    "url": "https://lk-hdx.com/xicos-journey-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Xicos-Journey-2021-ฮีโกผจญภัย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8c27939d2bd898537cb202809d4686af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8c27939d2bd898537cb202809d4686af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Xicos-Journey-2021-ฮีโกผจญภัย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Vivo (2021) วีโว่",
-    "url": "https://lk-hdx.com/vivo-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Vivo-2021-วีโว่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/643b769f66ee1583de1c818a86881004/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/643b769f66ee1583de1c818a86881004"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Vivo-2021-วีโว่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Robin Robin (2021) โรบิน หนูน้อยติดปีก",
-    "url": "https://lk-hdx.com/robin-robin-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Robin-Robin-2021-โรบิน-หนูน้อยติดปีก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f6724e899c2c857c3db8b4301531541c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f6724e899c2c857c3db8b4301531541c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Robin-Robin-2021-โรบิน-หนูน้อยติดปีก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส",
-    "url": "https://lk-hdx.com/the-action-pack-saves-christmas-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Action-Pack-Saves-Christmas-2022-แอ็คชั่นแพ็คพิทักษ์คริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1c14babe595612288249970f19d3d85f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1c14babe595612288249970f19d3d85f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Action-Pack-Saves-Christmas-2022-แอ็คชั่นแพ็คพิทักษ์คริสต์มาส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bright Samurai Soul (2021) ไบรท์ จิตวิญญาณซามูไร",
-    "url": "https://lk-hdx.com/bright-samurai-soul-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bright-Samurai-Soul-2021-ไบรท์-จิตวิญญาณซามูไร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb33bdd889ed33aebbe9b49bd45ccd24/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb33bdd889ed33aebbe9b49bd45ccd24"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Bright-Samurai-Soul-2021-ไบรท์-จิตวิญญาณซามูไร-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A World Without (2021) โลกไร้รัก",
-    "url": "https://lk-hdx.com/a-world-without-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-World-Without-2021-โลกไร้รัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/61e073a7c2349e62f8cef61c1a3a4d71/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/61e073a7c2349e62f8cef61c1a3a4d71"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/A-World-Without-2021-โลกไร้รัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Animals on the Loose A You vs. Wild Movie (2021) ผจญภัยสุดขั้วกับแบร์ กริลส์ เดอะ มูฟวี่",
-    "url": "https://lk-hdx.com/animals-on-the-loose-a-you-vs-wild-movie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Animals-on-the-Loose-A-You-vs.-Wild-Movie-2021-ผจญภัยสุดขั้วกับแบร์-กริลส์-เดอะ-มูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7c7feaa8c3da621425fa824996af7280/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7c7feaa8c3da621425fa824996af7280"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Animals-on-the-Loose-A-You-vs.-Wild-Movie-2021-ผจญภัยสุดขั้วกับแบร์-กริลส์-เดอะ-มูฟวี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Week Away (2021) อีก 7 วัน ฉันจะรักเธอ",
-    "url": "https://lk-hdx.com/a-week-away-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Week-Away-2021-อีก-7-วัน-ฉันจะรักเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5da1c205daa7fcb15f550de2f9af78bc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5da1c205daa7fcb15f550de2f9af78bc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Week-Away-2021-อีก-7-วัน-ฉันจะรักเธอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Awake (2021) ดับฝันวันสิ้นโลก",
-    "url": "https://lk-hdx.com/awake-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Awake-2021-ดับฝันวันสิ้นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6bd9324fb4998974d7a13b92302a7c88/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6bd9324fb4998974d7a13b92302a7c88"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Awake-2021-ดับฝันวันสิ้นโลก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "America The Motion Picture (2021) อเมริกา เดอะ โมชั่น พิคเจอร์",
-    "url": "https://lk-hdx.com/america-the-motion-picture-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/America-The-Motion-Picture-2021-อเมริกา-เดอะ-โมชั่น-พิคเจอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cfcecd457fd0b5fd92799c275c6ecd81/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cfcecd457fd0b5fd92799c275c6ecd81"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/America-The-Motion-Picture-2021-อเมริกา-เดอะ-โมชั่น-พิคเจอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Perfect Fit (2021) รองเท้ากับความรัก",
-    "url": "https://lk-hdx.com/a-perfect-fit-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Perfect-Fit-2021-รองเท้ากับความรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c33a6bb63ad5b36a29376991af7cc244/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c33a6bb63ad5b36a29376991af7cc244"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Perfect-Fit-2021-รองเท้ากับความรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Aftermath (2021)",
-    "url": "https://lk-hdx.com/aftermath-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Aftermath-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5a6598c46e7cf37cb4f4f6ea67f0cfa1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5a6598c46e7cf37cb4f4f6ea67f0cfa1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Aftermath-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Back to the Outback (2021) รวมพลังกลับเอาท์แบ็ค",
-    "url": "https://lk-hdx.com/back-to-the-outback-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Back-to-the-Outback-2021-รวมพลังกลับเอาท์แบ็ค-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/f__brGPnlI"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Back-to-the-Outback-2021-รวมพลังกลับเอาท์แบ็ค-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Blood Red Sky (2021) ฟ้าสีเลือด",
-    "url": "https://lk-hdx.com/blood-red-sky-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Blood-Red-Sky-2021-ฟ้าสีเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff41e66e97086ce022e4bee0b733be3c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff41e66e97086ce022e4bee0b733be3c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Blood-Red-Sky-2021-ฟ้าสีเลือด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Blue Miracle (2021) ปาฏิหาริย์สีน้ำเงิน",
-    "url": "https://lk-hdx.com/blue-miracle-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Blue-Miracle-2021-ปาฏิหาริย์สีน้ำเงิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d97860ba355be333463bf9a1ecb51e28/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d97860ba355be333463bf9a1ecb51e28"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Blue-Miracle-2021-ปาฏิหาริย์สีน้ำเงิน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Deep (2021) โปรเจกต์ลับ หลับ เป็น ตาย",
-    "url": "https://lk-hdx.com/deep-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-2021-โปรเจกต์ลับ-หลับ-เป็น-ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8ed4a0c34df502cf6d532c1e60dfaf8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8ed4a0c34df502cf6d532c1e60dfaf8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Deep-2021-โปรเจกต์ลับ-หลับ-เป็น-ตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fatherhood (2021) คุณพ่อเลี้ยงเดี่ยว",
-    "url": "https://lk-hdx.com/fatherhood-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fatherhood-2021-คุณพ่อเลี้ยงเดี่ยว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a7e7aa6c1662c6c64064ed214115b9bb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a7e7aa6c1662c6c64064ed214115b9bb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fatherhood-2021-คุณพ่อเลี้ยงเดี่ยว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ghost Lab (2021) ฉีกกฎทดลองผี",
-    "url": "https://lk-hdx.com/ghost-lab-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Ghost-Lab-2021-ฉีกกฎทดลองผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e465507e02b8be098714cce973b53eb1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e465507e02b8be098714cce973b53eb1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Ghost-Lab-2021-ฉีกกฎทดลองผี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "My Little Pony A New Generation (2021) มายลิตเติ้ลโพนี่ เจนใหม่ไฟแรง",
-    "url": "https://lk-hdx.com/my-little-pony-a-new-generation-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Little-Pony-A-New-Generation-2021-มายลิตเติ้ลโพนี่-เจนใหม่ไฟแรง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/274e4d9951a4cf4d1a5842ff4a41ddfd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/274e4d9951a4cf4d1a5842ff4a41ddfd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Little-Pony-A-New-Generation-2021-มายลิตเติ้ลโพนี่-เจนใหม่ไฟแรง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "No One Gets Out Alive (2021) ห้องเช่าขังตาย",
-    "url": "https://lk-hdx.com/no-one-gets-out-alive-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/No-One-Gets-Out-Alive-2021-ห้องเช่าขังตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5573266da07c5923ffb91f93d414f533/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5573266da07c5923ffb91f93d414f533"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/No-One-Gets-Out-Alive-2021-ห้องเช่าขังตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Night in Paradise (2021) คืนดับแดนสวรรค์",
-    "url": "https://lk-hdx.com/night-in-paradise-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-in-Paradise-2021-คืนดับแดนสวรรค์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/390b23671e02ec28fb6b07c2c71a804e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/390b23671e02ec28fb6b07c2c71a804e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-in-Paradise-2021-คืนดับแดนสวรรค์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Prey (2021) เหยื่อ",
-    "url": "https://lk-hdx.com/prey-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-2021-เหยื่อ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/062b00d956b80b1cbd872a2e0e9e42cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/062b00d956b80b1cbd872a2e0e9e42cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-2021-เหยื่อ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "13 The Musical (2022)",
-    "url": "https://lk-hdx.com/13-the-musical-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/13-The-Musical-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d93a8fa2c39fe55a21016ca57022fd93/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d93a8fa2c39fe55a21016ca57022fd93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/13-The-Musical-2022-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Old Dads (2023) แก่แต่เก๋า",
-    "url": "https://lk-hdx.com/old-dads-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Old-Dads-2023-แก่แต่เก๋า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb5706c6f43d0c628aac6f56be0161a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb5706c6f43d0c628aac6f56be0161a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Old-Dads-2023-แก่แต่เก๋า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Flashback (2023) แฟลชแบ็ค",
-    "url": "https://lk-hdx.com/flashback-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Flashback-2023-แฟลชแบ็ค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/723c8be9c3e66fa56239a93ec835b0d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/723c8be9c3e66fa56239a93ec835b0d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Flashback-2023-แฟลชแบ็ค-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Vjeran Tomic The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมน แห่งปารีส",
-    "url": "https://lk-hdx.com/vjeran-tomic-the-spider-man-of-paris-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Vjeran-Tomic-The-Spider-Man-of-Paris-2023-เวรัน-โทมิช-สไปเดอร์แมน-แห่งปารีส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/021f909762971afbb8aa8a3d0afa1bcd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/021f909762971afbb8aa8a3d0afa1bcd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Vjeran-Tomic-The-Spider-Man-of-Paris-2023-เวรัน-โทมิช-สไปเดอร์แมน-แห่งปารีส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Disco Inferno (2023) ดิสโก้ อินเฟอร์โน",
-    "url": "https://lk-hdx.com/disco-inferno-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Disco-Inferno-2023-ดิสโก้-อินเฟอร์โน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/623c186465a0d80a43a1a5e0e6ff4c5a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/623c186465a0d80a43a1a5e0e6ff4c5a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Disco-Inferno-2023-ดิสโก้-อินเฟอร์โน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Kandasamys The Baby (2023) หลานพาป่วนกับบ้านดาสามิส",
-    "url": "https://lk-hdx.com/kandasamys-the-baby-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kandasamys-The-Baby-2023-หลานพาป่วนกับบ้านดาสามิส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6496b7c26880c8ada66272669f5e4c18/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6496b7c26880c8ada66272669f5e4c18"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kandasamys-The-Baby-2023-หลานพาป่วนกับบ้านดาสามิส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Crypto Boy (2023) คริปโตบอย",
-    "url": "https://lk-hdx.com/crypto-boy-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Crypto-Boy-2023-คริปโตบอย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/YZm6_sVOdb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Crypto-Boy-2023-คริปโตบอย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Camp Courage (2023) ค่ายคนกล้า",
-    "url": "https://lk-hdx.com/camp-courage-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Camp-Courage-2023-ค่ายคนกล้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6f6605bcc9ba2a0d4be7a4ee192b1217/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6f6605bcc9ba2a0d4be7a4ee192b1217"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Camp-Courage-2023-ค่ายคนกล้า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Devil on Trial (2023) พิพากษาปีศาจ",
