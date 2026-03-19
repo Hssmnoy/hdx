@@ -12013,153 +12013,429 @@
   },
   {
     "title": "SAS Rise of the Black Swan (2021) หงส์ดำผงาด",
-    "url": "https://lk-hdx.com/sas-rise-of-the-black-swan-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/SAS-Rise-of-the-Black-Swan-2021-หงส์ดำผงาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/458b0cb8d6a6872aa1f8b778884be723/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/458b0cb8d6a6872aa1f8b778884be723"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/SAS-Rise-of-the-Black-Swan-2021-หงส์ดำผงาด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sharkdog’s Fintastic Halloween (2021) ชาร์คด็อกกับฮาโลวีนมหัศจรรย์",
-    "url": "https://lk-hdx.com/sharkdogs-fintastic-halloween-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sharkdogs-Fintastic-Halloween-2021-ชาร์คด็อกกับฮาโลวีนมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7e3d6f6976e07ed2cce424fbe0fd849/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7e3d6f6976e07ed2cce424fbe0fd849"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sharkdogs-Fintastic-Halloween-2021-ชาร์คด็อกกับฮาโลวีนมหัศจรรย์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Shiny Flakes The Teenage Drug Lord (2021) ชายนี่ เฟลคส์ เจ้าพ่อยาวัยรุ่น",
-    "url": "https://lk-hdx.com/shiny-flakes-the-teenage-drug-lord-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Shiny-Flakes-The-Teenage-Drug-Lord-2021-ชายนี่-เฟลคส์-เจ้าพ่อยาวัยรุ่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df6ce97545fcdada4a66ea88d17bba28/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df6ce97545fcdada4a66ea88d17bba28"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Shiny-Flakes-The-Teenage-Drug-Lord-2021-ชายนี่-เฟลคส์-เจ้าพ่อยาวัยรุ่น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Single All the Way (2021) ซิงเกิ้ล ออล เดอะ เวย์",
-    "url": "https://lk-hdx.com/single-all-the-way-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Single-All-the-Way-2021-ซิงเกิ้ล-ออล-เดอะ-เวย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e54dc67c5f195d103bdcd6d0cffe3b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e54dc67c5f195d103bdcd6d0cffe3b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Single-All-the-Way-2021-ซิงเกิ้ล-ออล-เดอะ-เวย์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ride or Die (2021) อยู่เป็น ยอมตาย เพื่อเธอ",
-    "url": "https://lk-hdx.com/ride-or-die-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Ride-or-Die-2021-อยู่เป็น-ยอมตาย-เพื่อเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/FDBWkT_1OQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Ride-or-Die-2021-อยู่เป็น-ยอมตาย-เพื่อเธอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nobody Sleeps in the Woods Tonight 2 (2021) คืนผวาป่าไร้เงา 2",
-    "url": "https://lk-hdx.com/nobody-sleeps-in-the-woods-tonight-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-in-the-Woods-Tonight-2-2021-คืนผวาป่าไร้เงา-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c2b18e2e626417352381494602b6559d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2b18e2e626417352381494602b6559d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-in-the-Woods-Tonight-2-2021-คืนผวาป่าไร้เงา-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nobody Sleeps In The Woods Tonight 1 (2020) คืนผวาป่าไร้เงา ภาค 1",
-    "url": "https://lk-hdx.com/nobody-sleeps-in-the-woods-tonight-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-In-The-Woods-Tonight-1-2020-คืนผวาป่าไร้เงา-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d61fea6d4f641dfcdc5adffd0434aa8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d61fea6d4f641dfcdc5adffd0434aa8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-In-The-Woods-Tonight-1-2020-คืนผวาป่าไร้เงา-ภาค-1-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Malevolent (2018) หลอกจับผี หลอนจับตาย",
-    "url": "https://lk-hdx.com/malevolent-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Malevolent-2018-หลอกจับผี-หลอนจับตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/vsF52f_WMi"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Malevolent-2018-หลอกจับผี-หลอนจับตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "May the Devil Take You (2018) บ้านเฮี้ยน วิญญาณโหด",
-    "url": "https://lk-hdx.com/may-the-devil-take-you-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/May-the-Devil-Take-You-2018-บ้านเฮี้ยน-วิญญาณโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/64d34615fab44356955232d35824cd9e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/64d34615fab44356955232d35824cd9e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/May-the-Devil-Take-You-2018-บ้านเฮี้ยน-วิญญาณโหด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Angela’s Christmas (2018) คริสต์มาสของแอนเจลล่า",
-    "url": "https://lk-hdx.com/angelas-christmas-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Angelas-Christmas-2018-คริสต์มาสของแอนเจลล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2e4a8634b464b8800862fb2870259e0d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e4a8634b464b8800862fb2870259e0d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Angelas-Christmas-2018-คริสต์มาสของแอนเจลล่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I Am Mother (2019) หุ่นเหล็กโลกเรียกแม่",
-    "url": "https://lk-hdx.com/i-am-mother-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Am-Mother-2019-หุ่นเหล็กโลกเรียกแม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e2f64de78e1c67f63b7513b199d448e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e2f64de78e1c67f63b7513b199d448e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Am-Mother-2019-หุ่นเหล็กโลกเรียกแม่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Earthquake Bird (2019) รอยปริศนาในลางร้าย",
-    "url": "https://lk-hdx.com/earthquake-bird-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Earthquake-Bird-2019-รอยปริศนาในลางร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eb1483635d893195e9169825f1b668f1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eb1483635d893195e9169825f1b668f1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Earthquake-Bird-2019-รอยปริศนาในลางร้าย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Crawl (2019) คลานขย้ำ",
-    "url": "https://lk-hdx.com/crawl-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Crawl-2019-คลานขย้ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/06af757333738cdad6957242029c0a65/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/06af757333738cdad6957242029c0a65"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Crawl-2019-คลานขย้ำ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Time to Hunt (2020) ถึงเวลาล่า",
-    "url": "https://lk-hdx.com/time-to-hunt-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Time-to-Hunt-2020-ถึงเวลาล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/91279b57318536b09125eb33e13582db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/91279b57318536b09125eb33e13582db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Time-to-Hunt-2020-ถึงเวลาล่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The SpongeBob Movie Sponge on the Run (2020) สพันจ์บ็อบ ผจญภัยช่วยเพื่อนแท้",
-    "url": "https://lk-hdx.com/the-spongebob-movie-sponge-on-the-run-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-SpongeBob-Movie-Sponge-on-the-Run-2020-สพันจ์บ็อบ-ผจญภัยช่วยเพื่อนแท้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c6b2bb56d9da3caa5268e2df1dc8cded/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c6b2bb56d9da3caa5268e2df1dc8cded"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-SpongeBob-Movie-Sponge-on-the-Run-2020-สพันจ์บ็อบ-ผจญภัยช่วยเพื่อนแท้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "We Can Be Heroes (2020) รวมพลังเด็กพันธุ์แกร่ง",
-    "url": "https://lk-hdx.com/we-can-be-heroes-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/We-Can-Be-Heroes-2020-รวมพลังเด็กพันธุ์แกร่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/KczOEYnI_m"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/We-Can-Be-Heroes-2020-รวมพลังเด็กพันธุ์แกร่ง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "There’s Someone Inside Your House (2021) ใครอยู่ในบ้าน",
-    "url": "https://lk-hdx.com/theres-someone-inside-your-house-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/01f0ebdeca34cf192590f80dc0a6e681/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01f0ebdeca34cf192590f80dc0a6e681"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Troll hunters Rise of the Titans (2021) โทรลล์ฮันเตอร์ส ไรส์ ออฟ เดอะ ไททันส์",
-    "url": "https://lk-hdx.com/troll-hunters-rise-of-the-titans-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Troll-hunters-Rise-of-the-Titans-2021-โทรลล์ฮันเตอร์ส-ไรส์-ออฟ-เดอะ-ไททันส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e712c8a79222755f762a95e5deaca6d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e712c8a79222755f762a95e5deaca6d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Troll-hunters-Rise-of-the-Titans-2021-โทรลล์ฮันเตอร์ส-ไรส์-ออฟ-เดอะ-ไททันส์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Mystery of Marilyn Monroe (2022) ปริศนามาริลิน มอนโร",
-    "url": "https://lk-hdx.com/the-mystery-of-marilyn-monroe-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Mystery-of-Marilyn-Monroe-2022-ปริศนามาริลิน-มอนโร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b7a0a82d4597b7b3e5918819b92db9fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b7a0a82d4597b7b3e5918819b92db9fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Mystery-of-Marilyn-Monroe-2022-ปริศนามาริลิน-มอนโร-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Afterlife of the Party (2021) อาฟเตอร์ไลฟ์ ออฟ เดอะ ปาร์ตี้",
-    "url": "https://lk-hdx.com/afterlife-of-the-party-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Afterlife-of-the-Party-2021-อาฟเตอร์ไลฟ์-ออฟ-เดอะ-ปาร์ตี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a117ed664b22232627265488f943396d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a117ed664b22232627265488f943396d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Afterlife-of-the-Party-2021-อาฟเตอร์ไลฟ์-ออฟ-เดอะ-ปาร์ตี้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Boy Called Christmas (2021) เด็กชายที่ชื่อคริสต์มาส",
-    "url": "https://lk-hdx.com/a-boy-called-christmas-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Boy-Called-Christmas-2021-เด็กชายที่ชื่อคริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6f0f916b66c7e9db98b60f4c53f1a4fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6f0f916b66c7e9db98b60f4c53f1a4fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Boy-Called-Christmas-2021-เด็กชายที่ชื่อคริสต์มาส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Castle for Christmas (2021) ปราสาทคริสต์มาส",
-    "url": "https://lk-hdx.com/a-castle-for-christmas-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Castle-for-Christmas-2021-ปราสาทคริสต์มาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/12bf111c0b8deb6a63aed18b9a5e0919/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/12bf111c0b8deb6a63aed18b9a5e0919"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Castle-for-Christmas-2021-ปราสาทคริสต์มาส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Asakusa Kid (2021) เด็กอาซากุสะ",
-    "url": "https://lk-hdx.com/asakusa-kid-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Asakusa-Kid-2021-เด็กอาซากุสะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7195617c42b681b8a3ee5f1d2d7e7e95/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7195617c42b681b8a3ee5f1d2d7e7e95"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Asakusa-Kid-2021-เด็กอาซากุสะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Finding ‘Ohana (2021) ผจญภัยใจอะโลฮา",
-    "url": "https://lk-hdx.com/finding-ohana-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Finding-‘Ohana-2021-ผจญภัยใจอะโลฮา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tsRQF_YGlI"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Finding-‘Ohana-2021-ผจญภัยใจอะโลฮา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Extinct (2021) ผจญภัยสัตว์สูญพันธุ์",
-    "url": "https://lk-hdx.com/extinct-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Extinct-2021-ผจญภัยสัตว์สูญพันธุ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/05ce9c1347bbae4e85b6a5dd636b87b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/05ce9c1347bbae4e85b6a5dd636b87b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Extinct-2021-ผจญภัยสัตว์สูญพันธุ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Last Kids on Earth Happy Apocalypse to You (2021) สี่ซ่าท้าซอมบี้ สุขสันต์วันหลังโลกแตก",
-    "url": "https://lk-hdx.com/the-last-kids-on-earth-happy-apocalypse-to-you-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Last-Kids-on-Earth-Happy-Apocalypse-to-You-2021-สี่ซ่าท้าซอมบี้-สุขสันต์วันหลังโลกแตก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bae4ad03dbf7b2d5ede7e4e6c7993d98/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bae4ad03dbf7b2d5ede7e4e6c7993d98"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Last-Kids-on-Earth-Happy-Apocalypse-to-You-2021-สี่ซ่าท้าซอมบี้-สุขสันต์วันหลังโลกแตก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sweet & Sour (2021) รักหวานอมเปรี้ยว",
-    "url": "https://lk-hdx.com/sweet-sour-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sweet-Sour-2021-รักหวานอมเปรี้ยว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5f72eb08d4bef925c84e33dc9166d2d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5f72eb08d4bef925c84e33dc9166d2d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sweet-Sour-2021-รักหวานอมเปรี้ยว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Good on Paper (2021) หนุ่มเพอร์เฟค",
-    "url": "https://lk-hdx.com/good-on-paper-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-on-Paper-2021-หนุ่มเพอร์เฟค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1424d6e4ce7d8e31f7be5a75cab03b9e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1424d6e4ce7d8e31f7be5a75cab03b9e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-on-Paper-2021-หนุ่มเพอร์เฟค-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "New Gods Nezha Reborn (2021) นาจา เกิดอีกครั้งก็ยังเทพ",
-    "url": "https://lk-hdx.com/new-gods-nezha-reborn-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/New-Gods-Nezha-Reborn-2021-นาจา-เกิดอีกครั้งก็ยังเทพ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/8axaAD4L_D"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/New-Gods-Nezha-Reborn-2021-นาจา-เกิดอีกครั้งก็ยังเทพ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Yara (2021) หนูน้อยยารา",
-    "url": "https://lk-hdx.com/yara-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Yara-2021-หนูน้อยยารา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_fAllN4D7O"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Yara-2021-หนูน้อยยารา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Xico’s Journey (2021) ฮีโกผจญภัย",
