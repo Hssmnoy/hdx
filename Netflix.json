@@ -5993,153 +5993,437 @@
   },
   {
     "title": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
-    "url": "https://lk-hdx.com/my-name-is-loh-kiwan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-ผมชื่อโรกีวาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/121bf21744b3f7b558f8b35a3f1e6dc3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/121bf21744b3f7b558f8b35a3f1e6dc3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-ผมชื่อโรกีวาน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Oxygen (2021) ออกซิเจน",
-    "url": "https://lk-hdx.com/oxygen-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Oxygen-2021-ออกซิเจน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a90d198ab3572018bae43458c57481e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a90d198ab3572018bae43458c57481e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Oxygen-2021-ออกซิเจน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Minnal Murali (2021) มุราลีฟ้าฟาด",
-    "url": "https://lk-hdx.com/minnal-murali-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Minnal-Murali-2021-มุราลีฟ้าฟาด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/31e3284633a0b63aa08c0737ede9da4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/31e3284633a0b63aa08c0737ede9da4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Minnal-Murali-2021-มุราลีฟ้าฟาด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Pokémon Mewtwo Strikes Back Evolution (2019)",
-    "url": "https://lk-hdx.com/pokemon-mewtwo-strikes-back-evolution-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pokemon-Mewtwo-Strikes-Back-Evolution-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/HM1J_h1te7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Pokemon-Mewtwo-Strikes-Back-Evolution-2019-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Through My Window 3 Looking at You (2024) รักผ่านหน้าต่าง ดวงตาจ้องมองเธอ",
-    "url": "https://lk-hdx.com/through-my-window-3-looking-at-you-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qwi_mYlnVk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mea Culpa (2024) ทนายคดีฆ่า",
-    "url": "https://lk-hdx.com/mea-culpa-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mea-Culpa-2024-ทนายคดีฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e037a73a7532dedca5d0c24f443d2a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e037a73a7532dedca5d0c24f443d2a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Mea-Culpa-2024-ทนายคดีฆ่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Godzilla City on the Edge of Battle (2018)",
-    "url": "https://lk-hdx.com/godzilla-city-on-the-edge-of-battle-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Godzilla-City-on-the-Edge-of-Battle-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8043a6deb0ffcd5d6cf7db4ecf1d9c5a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8043a6deb0ffcd5d6cf7db4ecf1d9c5a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Godzilla-City-on-the-Edge-of-Battle-2018-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "What Happened to Mr Cha (2021) ชาอินพโย สุภาพบุรุษสุดขั้ว",
-    "url": "https://lk-hdx.com/what-happened-to-mr-cha-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/What-Happened-to-Mr-Cha-2021-ชาอินพโย-สุภาพบุรุษสุดขั้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d216599706bc2e3b958b67289f73ee8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d216599706bc2e3b958b67289f73ee8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/What-Happened-to-Mr-Cha-2021-ชาอินพโย-สุภาพบุรุษสุดขั้ว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Forgotten Battle (2020) สงครามที่ถูกลืม",
-    "url": "https://lk-hdx.com/the-forgotten-battle-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Forgotten-Battle-2020-สงครามที่ถูกลืม-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/a_GTxXwoPh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Forgotten-Battle-2020-สงครามที่ถูกลืม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Last Mercenary (2021) ทหารรับจ้างคนสุดท้าย",
-    "url": "https://lk-hdx.com/the-last-mercenary-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Mercenary-2021-ทหารรับจ้างคนสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ed9db5d9b208d737507b01464fa9c8e4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ed9db5d9b208d737507b01464fa9c8e4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Last-Mercenary-2021-ทหารรับจ้างคนสุดท้าย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Colony (2021)",
-    "url": "https://lk-hdx.com/the-colony-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Colony-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e57931f3cf58340b38f077274ea39aa2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e57931f3cf58340b38f077274ea39aa2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Colony-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "7 Prisoners (2021) 7 นักโทษ",
-    "url": "https://lk-hdx.com/7-prisoners-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/7-Prisoners-2021-7-นักโทษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ae7ab1166de0fa2967ee2f930668d86/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ae7ab1166de0fa2967ee2f930668d86"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/7-Prisoners-2021-7-นักโทษ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Sleepover (2020) เดอะ สลีปโอเวอร์",
-    "url": "https://lk-hdx.com/the-sleepover-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Sleepover-2020-เดอะ-สลีปโอเวอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/06e358e52fd57856c617c38997102101/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/06e358e52fd57856c617c38997102101"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Sleepover-2020-เดอะ-สลีปโอเวอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Water Man (2020) เดอะ วอเตอร์ แมน",
-    "url": "https://lk-hdx.com/the-water-man-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Water-Man-2020-เดอะ-วอเตอร์-แมน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/978d971212ecde1a0e2ba96e765d4260/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/978d971212ecde1a0e2ba96e765d4260"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Water-Man-2020-เดอะ-วอเตอร์-แมน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Call (2020) สายตรงต่ออดีต",
-    "url": "https://lk-hdx.com/the-call-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Call-2020-สายตรงต่ออดีต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ba24e8a1c0f0c05cb4ac543b5c80df2c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ba24e8a1c0f0c05cb4ac543b5c80df2c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Call-2020-สายตรงต่ออดีต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Einstein and the Bomb (2024) ไอน์สไตน์และระเบิด",
-    "url": "https://lk-hdx.com/einstein-and-the-bomb-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Einstein-and-the-Bomb-2024-ไอน์สไตน์และระเบิด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/804da3d61f0e1d2844055e19b1109aba/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/804da3d61f0e1d2844055e19b1109aba"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Einstein-and-the-Bomb-2024-ไอน์สไตน์และระเบิด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mank (2020) แมงค์",
-    "url": "https://lk-hdx.com/mank-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mank-2020-แมงค์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa559c7d2332a7c56850c89216373288/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa559c7d2332a7c56850c89216373288"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Mank-2020-แมงค์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Monster Hunter Legends of the Guild (2021) มอนสเตอร์ ฮันเตอร์ ตำนานสมาคมนักล่า",
-    "url": "https://lk-hdx.com/monster-hunter-legends-of-the-guild-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Monster-Hunter-Legends-of-the-Guild-2021-มอนสเตอร์-ฮันเตอร์-ตำนานสมาคมนักล่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4bdaf7751dc084636ea33ba8c88de755/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4bdaf7751dc084636ea33ba8c88de755"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Monster-Hunter-Legends-of-the-Guild-2021-มอนสเตอร์-ฮันเตอร์-ตำนานสมาคมนักล่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Players (2024) เลิกเล่นมาเริ่มรัก",
-    "url": "https://lk-hdx.com/players-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90ee0b727637675a103cbcb9e585d393/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90ee0b727637675a103cbcb9e585d393"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ",
-    "url": "https://lk-hdx.com/the-heartbreak-agency-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5a1dd64ca6abfdda8731f475ad3ce896/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5a1dd64ca6abfdda8731f475ad3ce896"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Wine Country (2019) ไวน์ คันทรี่",
-    "url": "https://lk-hdx.com/wine-country-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Wine-Country-2019-ไวน์-คันทรี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/60630ab16ccb76d092b730aa7a722fe1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/60630ab16ccb76d092b730aa7a722fe1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Wine-Country-2019-ไวน์-คันทรี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I’m Thinking of Ending Things (2020) อยากให้เธออยู่ดูตอนจบด้วยกัน",
-    "url": "https://lk-hdx.com/im-thinking-of-ending-things-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Im-Thinking-of-Ending-Things-2020-อยากให้เธออยู่ดูตอนจบด้วยกัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/77d2ab4270d606b64960f051810b4a83/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/77d2ab4270d606b64960f051810b4a83"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Im-Thinking-of-Ending-Things-2020-อยากให้เธออยู่ดูตอนจบด้วยกัน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love Like the Falling Rain (2020) รักดั่งสายฝน",
-    "url": "https://lk-hdx.com/love-like-the-falling-rain-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Love-Like-the-Falling-Rain-2020-รักดั่งสายฝน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de624533ab108354272302cb7b82af29/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de624533ab108354272302cb7b82af29"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Love-Like-the-Falling-Rain-2020-รักดั่งสายฝน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "His House (2020) บ้านของใคร",
-    "url": "https://lk-hdx.com/his-house-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/His-House-2020-บ้านของใคร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e3d193404ca27a653848df6a9b1d169/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e3d193404ca27a653848df6a9b1d169"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/His-House-2020-บ้านของใคร-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Horse Girl (2020) ฮอร์ส เกิร์ล",
-    "url": "https://lk-hdx.com/horse-girl-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Horse-Girl-2020-ฮอร์ส-เกิร์ล-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ua_dKwStf9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Horse-Girl-2020-ฮอร์ส-เกิร์ล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "GIMS On the Record (2020) กิมส์ บันทึกดนตรี",
-    "url": "https://lk-hdx.com/gims-on-the-record-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/GIMS-On-the-Record-2020-กิมส์-บันทึกดนตรี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5f18615fee063276014c3c63a2c7607/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5f18615fee063276014c3c63a2c7607"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/GIMS-On-the-Record-2020-กิมส์-บันทึกดนตรี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ginny Weds Sunny (2020) จับหัวใจคลุมถุงชน",
-    "url": "https://lk-hdx.com/ginny-weds-sunny-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Ginny-Weds-Sunny-2020-จับหัวใจคลุมถุงชน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/808a871e3191c417f1f2f06a9ee022b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/808a871e3191c417f1f2f06a9ee022b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Ginny-Weds-Sunny-2020-จับหัวใจคลุมถุงชน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lulli (2021) ลัลลี่ เสียงสะท้อนใจ",
-    "url": "https://lk-hdx.com/lulli-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lulli-2021-ลัลลี่-เสียงสะท้อนใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a6bcc8f9cb91ad3d5218cb79cca30d22/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a6bcc8f9cb91ad3d5218cb79cca30d22"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Lulli-2021-ลัลลี่-เสียงสะท้อนใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lead Me Home (2021) กลับบ้าน",
-    "url": "https://lk-hdx.com/lead-me-home-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lead-Me-Home-2021-กลับบ้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b1d89c5704fdd52101c9317c95c1b4c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b1d89c5704fdd52101c9317c95c1b4c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Lead-Me-Home-2021-กลับบ้าน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love Me Instead (2021) แทนคำรัก",
-    "url": "https://lk-hdx.com/love-me-instead-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Love-Me-Instead-2021-แทนคำรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7cef0e2f3f9f9b057abf8d0bcd9d2c6b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7cef0e2f3f9f9b057abf8d0bcd9d2c6b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Love-Me-Instead-2021-แทนคำรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Little Big Mouth (2021) ลิตเติ้ล บิ๊ก เมาท์",
