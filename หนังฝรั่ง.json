@@ -26666,152 +26666,416 @@
   {
     "title": "Rest In Peace (2024) สู่สุคติ",
     "url": "https://lk-hdx.com/rest-in-peace-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Rest-In-Peace-2024-สู่สุคติ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Rest-In-Peace-2024-สู่สุคติ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/C4uR_BclZR"
+      }
+    ]
   },
   {
     "title": "No Pressure (2024) รักไม่กดดัน",
     "url": "https://lk-hdx.com/no-pressure-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/No-Pressure-2024-รักไม่กดดัน-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/No-Pressure-2024-รักไม่กดดัน-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/82011490a834e36b34620c04fcce0a1f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/82011490a834e36b34620c04fcce0a1f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Vernost (2019) เลน่า มโนนัก รักติดหล่ม",
     "url": "https://lk-hdx.com/vernost-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Vernost-2019-เลน่า-มโนนัก-รักติดหล่ม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Vernost-2019-เลน่า-มโนนัก-รักติดหล่ม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b3d4c0578afd7de8e101d468a85c6813"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b3d4c0578afd7de8e101d468a85c6813/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Last Black Man in San Francisco (2019)",
     "url": "https://lk-hdx.com/the-last-black-man-in-san-francisco-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Last-Black-Man-in-San-Francisco-2019-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Last-Black-Man-in-San-Francisco-2019-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/N_wpqmKhXl"
+      }
+    ]
   },
   {
     "title": "The Lodge (2019) เดอะลอดจ์",
     "url": "https://lk-hdx.com/the-lodge-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Lodge-2019-เดอะลอดจ์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Lodge-2019-เดอะลอดจ์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/y0H_QtQXsw"
+      }
+    ]
   },
   {
     "title": "Lucy (2014) สวยพิฆาต",
     "url": "https://lk-hdx.com/lucy-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Lucy-2014-สวยพิฆาต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Lucy-2014-สวยพิฆาต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ce8606cdb3cb70cc2dcd89d1e26a76d3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ce8606cdb3cb70cc2dcd89d1e26a76d3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pan (2015) ปีเตอร์ แพน",
     "url": "https://lk-hdx.com/pan-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Pan-2015-ปีเตอร์-แพน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Pan-2015-ปีเตอร์-แพน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/JxIOE_IagR"
+      }
+    ]
   },
   {
     "title": "Spider in the Web (2019) สไปเดอร์ อิน เดอะเว็บ",
     "url": "https://lk-hdx.com/spider-in-the-web-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Spider-in-the-Web-2019-สไปเดอร์-อิน-เดอะเว็บ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Spider-in-the-Web-2019-สไปเดอร์-อิน-เดอะเว็บ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e1980a68566ad8aa781ec05ed745f8d6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e1980a68566ad8aa781ec05ed745f8d6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Parts You Lose (2019) ชิ้นส่วนที่คุณแพ้",
     "url": "https://lk-hdx.com/the-parts-you-lose-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Parts-You-Lose-2019-ชิ้นส่วนที่คุณแพ้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Parts-You-Lose-2019-ชิ้นส่วนที่คุณแพ้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/55713a957d27391dab9f78f78fe636a2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/55713a957d27391dab9f78f78fe636a2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Kill Team (2019) หน่วยจัดตั้งพิเศษ ทีมสังหาร",
     "url": "https://lk-hdx.com/the-kill-team-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Kill-Team-2019-หน่วยจัดตั้งพิเศษ-ทีมสังหาร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Kill-Team-2019-หน่วยจัดตั้งพิเศษ-ทีมสังหาร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/M76i5gZ8y_"
+      }
+    ]
   },
   {
     "title": "Trading Paint (2019) เทรดดิ้ง เพ้นท์",
     "url": "https://lk-hdx.com/trading-paint-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Trading-Paint-2019-เทรดดิ้ง-เพ้นท์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Trading-Paint-2019-เทรดดิ้ง-เพ้นท์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0d8822cbfe0b3176feda81739fc90748"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0d8822cbfe0b3176feda81739fc90748/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Aftermath (2019) อาฟเตอร์แมท",
     "url": "https://lk-hdx.com/the-aftermath-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Aftermath-2019-อาฟเตอร์แมท-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Aftermath-2019-อาฟเตอร์แมท-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4ed9fa881fb7c767672bd24bb9a1e9b6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4ed9fa881fb7c767672bd24bb9a1e9b6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
     "url": "https://lk-hdx.com/love-lies-bleeding-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Love-Lies-Bleeding-2024-รัก-ร้าย-ร้าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Love-Lies-Bleeding-2024-รัก-ร้าย-ร้าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/be5dc8923e6b09e7ee0991588d2ce9af"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/be5dc8923e6b09e7ee0991588d2ce9af/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ghosted (2023)",
     "url": "https://lk-hdx.com/ghosted-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghosted-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghosted-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/aae961f2742fb9ad1e27f99129c22956"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/aae961f2742fb9ad1e27f99129c22956/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Transcendence (2014) คอมพ์สมองคนพิฆาตโลก",
     "url": "https://lk-hdx.com/transcendence-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Transcendence-2014-คอมพ์สมองคนพิฆาตโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Transcendence-2014-คอมพ์สมองคนพิฆาตโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0625f9d5489043f217bfaca23dc4baad"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0625f9d5489043f217bfaca23dc4baad/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Monster (2016) อะไรซ่อน",
     "url": "https://lk-hdx.com/the-monster-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Monster-2016-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Monster-2016-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4a58c88926e752805eb23bc963704cfc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4a58c88926e752805eb23bc963704cfc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Legend of Hercules (2014) โคตรคน พลังเทพ",
     "url": "https://lk-hdx.com/the-legend-of-hercules-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Legend-of-Hercules-2014-โคตรคน-พลังเทพ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Legend-of-Hercules-2014-โคตรคน-พลังเทพ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7ee586a157e7416331455d82d8f83f71"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7ee586a157e7416331455d82d8f83f71/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Alvin And The Chipmunks 3 Chipwrecked (2011) แอลวินกับสหายชิพมังค์จอมซน ภาค 3",
     "url": "https://lk-hdx.com/alvin-and-the-chipmunks-3-chipwrecked-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-3-Chipwrecked-2011-แอลวินกับสหายชิพมังค์จอมซน-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-3-Chipwrecked-2011-แอลวินกับสหายชิพมังค์จอมซน-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/thW0Xgq_H9"
+      }
+    ]
   },
   {
     "title": "Alvin And The Chipmunks 2 The Squeakquel (2009) แอลวินกับสหายชิพมังค์จอมซน ภาค 2",
     "url": "https://lk-hdx.com/alvin-and-the-chipmunks-2-the-squeakquel-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-2-The-Squeakquel-2009-แอลวินกับสหายชิพมังค์จอมซน-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-2-The-Squeakquel-2009-แอลวินกับสหายชิพมังค์จอมซน-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/s_auScrQOO"
+      }
+    ]
   },
   {
     "title": "Alvin And The Chipmunks 1 (2007) แอลวินกับสหายชิพมังค์จอมซน ภาค 1",
     "url": "https://lk-hdx.com/alvin-and-the-chipmunks-1-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-1-2007-แอลวินกับสหายชิพมังค์จอมซน-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Alvin-And-The-Chipmunks-1-2007-แอลวินกับสหายชิพมังค์จอมซน-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6eecf174db2cbb161c696bc3fe1b248a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6eecf174db2cbb161c696bc3fe1b248a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Exodus Gods and Kings (2014) เอ็กโซดัส ก็อดส์ แอนด์ คิงส์",
     "url": "https://lk-hdx.com/exodus-gods-and-kings-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Exodus-Gods-and-Kings-2014-เอ็กโซดัส-ก็อดส์-แอนด์-คิงส์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Exodus-Gods-and-Kings-2014-เอ็กโซดัส-ก็อดส์-แอนด์-คิงส์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8df39fb1036a5e304e50933934f28ccd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8df39fb1036a5e304e50933934f28ccd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Welcome to the Punch (2013) ย้อนสูตรล่า ผ่าสองขั้ว",
     "url": "https://lk-hdx.com/welcome-to-the-punch-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Welcome-to-the-Punch-2013-ย้อนสูตรล่า-ผ่าสองขั้ว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Welcome-to-the-Punch-2013-ย้อนสูตรล่า-ผ่าสองขั้ว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/886a7232ca05a1dddda6d18724850225"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/886a7232ca05a1dddda6d18724850225/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Under the Skin (2013) สวย สูบ มนุษย์",
     "url": "https://lk-hdx.com/under-the-skin-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Under-the-Skin-2013-สวย-สูบ-มนุษย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Under-the-Skin-2013-สวย-สูบ-มนุษย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/84662c9bebdd02a383781087220d50b4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/84662c9bebdd02a383781087220d50b4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Shirley (2024) เชอร์ลีย์ หญิงแกร่งสภาเหล็ก",
     "url": "https://lk-hdx.com/shirley-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Shirley-2024-เชอร์ลีย์-หญิงแกร่งสภาเหล็ก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Shirley-2024-เชอร์ลีย์-หญิงแกร่งสภาเหล็ก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0b4d028a6efb105173adfe0aa2fc3b50"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0b4d028a6efb105173adfe0aa2fc3b50/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Sitter (2011) ผจญภัยพี่เลี้ยงจอมป่วน",
     "url": "https://lk-hdx.com/the-sitter-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Sitter-2011-ผจญภัยพี่เลี้ยงจอมป่วน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Sitter-2011-ผจญภัยพี่เลี้ยงจอมป่วน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/txmNIDqZ_0"
+      }
+    ]
   },
   {
     "title": "The Lincoln Lawyer (2011) พลิกเล่ห์ ซ่อนระทึก",
     "url": "https://lk-hdx.com/the-lincoln-lawyer-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Lincoln-Lawyer-2011-พลิกเล่ห์-ซ่อนระทึก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Lincoln-Lawyer-2011-พลิกเล่ห์-ซ่อนระทึก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d82ddf376b468aa7d46b9e50cc93b518"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d82ddf376b468aa7d46b9e50cc93b518/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Savages (2012) คนเดือดท้าชนคนเถื่อน",
     "url": "https://lk-hdx.com/savages-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Savages-2012-คนเดือดท้าชนคนเถื่อน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Savages-2012-คนเดือดท้าชนคนเถื่อน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7f3d21cd1e2aa1b742d02b0422da3bdf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7f3d21cd1e2aa1b742d02b0422da3bdf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dawn Rider (2012) สิงห์แค้นปืนโหด",
     "url": "https://lk-hdx.com/dawn-rider-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dawn-Rider-2012-สิงห์แค้นปืนโหด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dawn-Rider-2012-สิงห์แค้นปืนโหด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/FkkVKo_aHf"
+      }
+    ]
   },
   {
     "title": "Little (2019) ตัวจ้อย สลับแสบ",
     "url": "https://lk-hdx.com/little-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Little-2019-ตัวจ้อย-สลับแสบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Little-2019-ตัวจ้อย-สลับแสบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4056d1c73fe3fc8ad8c0d2e16dbfd914"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4056d1c73fe3fc8ad8c0d2e16dbfd914/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Don’t Look at the Demon (2022) ฝรั่งเซ่นผี",
     "url": "https://lk-hdx.com/dont-look-at-the-demon-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7c0f86e5ed3590ddacc2aff41423fac2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7c0f86e5ed3590ddacc2aff41423fac2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Which Brings Me to You (2023) สิ่งที่พาฉันมาพบคุณ",
