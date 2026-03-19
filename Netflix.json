@@ -11583,153 +11583,433 @@
   },
   {
     "title": "Johnny Test’s Ultimate Meatloaf Quest (2021) จอห์นนี่ เทสต์ ตะลุยมีตโลฟสุดขอบฟ้า",
-    "url": "https://lk-hdx.com/johnny-tests-ultimate-meatloaf-quest-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-Tests-Ultimate-Meatloaf-Quest-2021-จอห์นนี่-เทสต์-ตะลุยมีตโลฟสุดขอบฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/WIV4pf0_JI"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Johnny-Tests-Ultimate-Meatloaf-Quest-2021-จอห์นนี่-เทสต์-ตะลุยมีตโลฟสุดขอบฟ้า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I Care a Lot (2021) ห่วง แต่หวังฮุบ",
-    "url": "https://lk-hdx.com/i-care-a-lot-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Care-a-Lot-2021-ห่วง-แต่หวังฮุบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nBwXDqzwr_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Care-a-Lot-2021-ห่วง-แต่หวังฮุบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hypnotic (2021) สะกดตาย",
-    "url": "https://lk-hdx.com/hypnotic-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hypnotic-2021-สะกดตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/834401ba263c052af8f02d141e59d641/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/834401ba263c052af8f02d141e59d641"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hypnotic-2021-สะกดตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Escape the Undertaker (2021) หนีดิอันเดอร์เทเกอร์",
-    "url": "https://lk-hdx.com/escape-the-undertaker-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-the-Undertaker-2021-หนีดิอันเดอร์เทเกอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9d35074ed7598ada43a54eb319a0ee77/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9d35074ed7598ada43a54eb319a0ee77"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Escape-the-Undertaker-2021-หนีดิอันเดอร์เทเกอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Double Dad (2021) ดับเบิลแด้ด",
-    "url": "https://lk-hdx.com/double-dad-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Double-Dad-2021-ดับเบิลแด้ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2757c80ed13d3a3953a6bc4fa9721a22/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2757c80ed13d3a3953a6bc4fa9721a22"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Double-Dad-2021-ดับเบิลแด้ด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Dynasty Warriors (2021) ไดนาสตี้วอริเออร์ มหาสงครามขุนศึกสามก๊ก",
-    "url": "https://lk-hdx.com/dynasty-warriors-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dynasty-Warriors-2021-ไดนาสตี้วอริเออร์-มหาสงครามขุนศึกสามก๊ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ar_RycvCvn"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dynasty-Warriors-2021-ไดนาสตี้วอริเออร์-มหาสงครามขุนศึกสามก๊ก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Don’t Look Up (2021)",
-    "url": "https://lk-hdx.com/dont-look-up-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dont-Look-Up-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d35a1a86ca1664337997a21135defd02/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d35a1a86ca1664337997a21135defd02"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Dont-Look-Up-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Child of Kamiari Month (2021) เด็ก เดือน ตุลา",
-    "url": "https://lk-hdx.com/child-of-kamiari-month-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Child-of-Kamiari-Month-2021-เด็ก-เดือน-ตุลา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/vG1kIBAZ5_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Child-of-Kamiari-Month-2021-เด็ก-เดือน-ตุลา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bartkowiak (2021) บาร์ตโคเวียก แค้นนักสู้",
-    "url": "https://lk-hdx.com/bartkowiak-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bartkowiak-2021-บาร์ตโคเวียก-แค้นนักสู้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/92486ce4a65ea6f6e3cd2200467c81f1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/92486ce4a65ea6f6e3cd2200467c81f1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Bartkowiak-2021-บาร์ตโคเวียก-แค้นนักสู้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Beckett (2021) ปลายทางมรณะ",
-    "url": "https://lk-hdx.com/beckett-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Beckett-2021-ปลายทางมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f6ab299b5236744ea1218edac5e4b07d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f6ab299b5236744ea1218edac5e4b07d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Beckett-2021-ปลายทางมรณะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Misha and the Wolves (2021) มิชาและหมาป่า",
-    "url": "https://lk-hdx.com/misha-and-the-wolves-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Misha-and-the-Wolves-2021-มิชาและหมาป่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b9cb4ea89a70ab9938d7bf04f152a884/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b9cb4ea89a70ab9938d7bf04f152a884"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Misha-and-the-Wolves-2021-มิชาและหมาป่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Munich The Edge of War (2021) มิวนิค ปากเหวสงคราม",
-    "url": "https://lk-hdx.com/munich-the-edge-of-war-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Munich-The-Edge-of-War-2021-มิวนิค-ปากเหวสงคราม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a3dad814adac48c17565bbcf6fb80bfc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a3dad814adac48c17565bbcf6fb80bfc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Munich-The-Edge-of-War-2021-มิวนิค-ปากเหวสงคราม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mother Android (2021) กองทัพแอนดรอยด์กบฏโลก",
-    "url": "https://lk-hdx.com/mother-android-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Mother-Android-2021-กองทัพแอนดรอยด์กบฏโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/989904170316dfc5c17d07d0c776442e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/989904170316dfc5c17d07d0c776442e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Mother-Android-2021-กองทัพแอนดรอยด์กบฏโลก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love Hard (2021) หลอกรักไว้ดักเลิฟ",
-    "url": "https://lk-hdx.com/love-hard-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-Hard-2021-หลอกรักไว้ดักเลิฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4c097cd1d35ae0bdeb96c766006f7df/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4c097cd1d35ae0bdeb96c766006f7df"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Love-Hard-2021-หลอกรักไว้ดักเลิฟ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Kate (2021) เคท",
-    "url": "https://lk-hdx.com/kate-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kate-2021-เคท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9407b15c9171c4b54e5413f9ce1d2b98/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9407b15c9171c4b54e5413f9ce1d2b98"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kate-2021-เคท-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
-    "url": "https://lk-hdx.com/jagame-thandhiram-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jagame-Thandhiram-2021-โลกนี้สีขาวดำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/10865499ada0f519d9debaaf124c5d2f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/10865499ada0f519d9debaaf124c5d2f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jagame-Thandhiram-2021-โลกนี้สีขาวดำ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Intrusion (2021) ผู้บุกรุก",
-    "url": "https://lk-hdx.com/intrusion-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Intrusion-2021-ผู้บุกรุก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/af27fcade46441e7c88de868af8c5b3b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/af27fcade46441e7c88de868af8c5b3b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Intrusion-2021-ผู้บุกรุก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The After (2023) ดิ อาฟเตอร์",
-    "url": "https://lk-hdx.com/the-after-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-After-2023-ดิ-อาฟเตอร์-ซับไทย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d85fa52d75e57c03205d762b9d1fd5c2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d85fa52d75e57c03205d762b9d1fd5c2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-After-2023-ดิ-อาฟเตอร์-ซับไทย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Burning Betrayal (2023) ไฟทรยศ",
-    "url": "https://lk-hdx.com/burning-betrayal-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d398003b6f14d170808e53080f9cb805/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d398003b6f14d170808e53080f9cb805"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Moxie (2021) ม็อกซี่",
-    "url": "https://lk-hdx.com/moxie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Moxie-2021-ม็อกซี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/443bac7637fd0b3e4e5c53d94d63bd6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/443bac7637fd0b3e4e5c53d94d63bd6a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Moxie-2021-ม็อกซี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nightbooks (2021) ไนต์บุ๊คส์",
-    "url": "https://lk-hdx.com/nightbooks-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nightbooks-2021-ไนต์บุ๊คส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4c5a1bba39f77eebff426b13c508d89/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4c5a1bba39f77eebff426b13c508d89"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nightbooks-2021-ไนต์บุ๊คส์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Night Teeth (2021) เขี้ยวราตรี",
-    "url": "https://lk-hdx.com/night-teeth-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-Teeth-2021-เขี้ยวราตรี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cee949093034a77c71d993c3f2e928e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cee949093034a77c71d993c3f2e928e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Night-Teeth-2021-เขี้ยวราตรี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Puff Wonders of the Reef (2021) พัฟฟ์ มหัศจรรย์แห่งปะการัง",
-    "url": "https://lk-hdx.com/puff-wonders-of-the-reef-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Puff-Wonders-of-the-Reef-2021-พัฟฟ์-มหัศจรรย์แห่งปะการัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/93dea6db909e9ccb33275dcb5d8399f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/93dea6db909e9ccb33275dcb5d8399f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Puff-Wonders-of-the-Reef-2021-พัฟฟ์-มหัศจรรย์แห่งปะการัง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Resort to Love (2021) รีสอร์ตรัก",
-    "url": "https://lk-hdx.com/resort-to-love-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Resort-to-Love-2021-รีสอร์ตรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d03b2120401a2a80839166f93a20abe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d03b2120401a2a80839166f93a20abe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Resort-to-Love-2021-รีสอร์ตรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rurouni Kenshin The Final (2021) รูโรนิ เคนชิน ซามูไรพเนจร ปัจฉิมบท",
-    "url": "https://lk-hdx.com/rurouni-kenshin-the-final-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-The-Final-2021-รูโรนิ-เคนชิน-ซามูไรพเนจร-ปัจฉิมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dc81b27da9b11a0e73005fef74e45164/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dc81b27da9b11a0e73005fef74e45164"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Rurouni-Kenshin-The-Final-2021-รูโรนิ-เคนชิน-ซามูไรพเนจร-ปัจฉิมบท-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Power of the Dog (2021)",
-    "url": "https://lk-hdx.com/the-power-of-the-dog-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Power-of-the-Dog-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ejcSt_dWsX"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Power-of-the-Dog-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Whole Truth (2021) ปริศนารูหลอน",
-    "url": "https://lk-hdx.com/the-whole-truth-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Whole-Truth-2021-ปริศนารูหลอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9e4694ae2fb29f8e4f655bb39c988f38/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9e4694ae2fb29f8e4f655bb39c988f38"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Whole-Truth-2021-ปริศนารูหลอน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Seal Team (2021) หน่วยแมวน้ำท้าทะเลลึก",
-    "url": "https://lk-hdx.com/seal-team-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Seal-Team-2021-หน่วยแมวน้ำท้าทะเลลึก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/665bb5a8b9ef639bce5285dcafd7aaf1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/665bb5a8b9ef639bce5285dcafd7aaf1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Seal-Team-2021-หน่วยแมวน้ำท้าทะเลลึก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Skater Girl (2021) สเก็ตติดฝันสู่วันใหม่",
-    "url": "https://lk-hdx.com/skater-girl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Skater-Girl-2021-สเก็ตติดฝันสู่วันใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/074d033a952431ead3ad70ab6bb6b54a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/074d033a952431ead3ad70ab6bb6b54a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Skater-Girl-2021-สเก็ตติดฝันสู่วันใหม่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sweet Girl (2021) สวีทเกิร์ล",
-    "url": "https://lk-hdx.com/sweet-girl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sweet-Girl-2021-สวีทเกิร์ล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0f38f6183b4062ae47356b390f0a8a8a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f38f6183b4062ae47356b390f0a8a8a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sweet-Girl-2021-สวีทเกิร์ล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "SAS Rise of the Black Swan (2021) หงส์ดำผงาด",
