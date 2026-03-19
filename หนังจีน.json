@@ -862,152 +862,420 @@
   {
     "title": "Sword Sovereign Heavenbreaker (2025) ยอดกระบี่ ทลายสวรรค์",
     "url": "https://lk-hdx.com/sword-sovereign-heavenbreaker-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Sword-Sovereign-Heavenbreaker-2025-ยอดกระบี่-ทลายสวรรค์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Sword-Sovereign-Heavenbreaker-2025-ยอดกระบี่-ทลายสวรรค์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/44137ca2a9e28287914ffd8c2cc0013c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/44137ca2a9e28287914ffd8c2cc0013c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Desert Legend (2020) ตำนานทะเลทราย",
     "url": "https://lk-hdx.com/desert-legend-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Desert-Legend-2020-ตำนานทะเลทราย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Desert-Legend-2020-ตำนานทะเลทราย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/19e6fa5f5b73abaf66fad34619a1d4ff"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/19e6fa5f5b73abaf66fad34619a1d4ff/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mao Mountain Uncle (2023) คุณลุงเหมาซาน",
     "url": "https://lk-hdx.com/mao-mountain-uncle-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Mao-Mountain-Uncle-2023-คุณลุงเหมาซาน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Mao-Mountain-Uncle-2023-คุณลุงเหมาซาน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/374ae52bfe5c3ac0da2a3f644f46e029"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/374ae52bfe5c3ac0da2a3f644f46e029/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Dear Bodyguard (2022) หญิงแกร่งบอดี้การ์ด",
     "url": "https://lk-hdx.com/my-dear-bodyguard-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Dear-Bodyguard-2022-หญิงแกร่งบอดี้การ์ด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Dear-Bodyguard-2022-หญิงแกร่งบอดี้การ์ด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/eb9aca8852b1c3846a66953b3e1f52d9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/eb9aca8852b1c3846a66953b3e1f52d9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Legend of Ghost YingNing (2023) ตำนานอิงหนิง",
     "url": "https://lk-hdx.com/legend-of-ghost-yingning-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Legend-of-Ghost-YingNing-2023-ตำนานอิงหนิง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Legend-of-Ghost-YingNing-2023-ตำนานอิงหนิง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/rBj_mv1AAn"
+      }
+    ]
   },
   {
     "title": "Dragon Hidden in A Mysterious Hole (2022) เขาวงกตซ่อนมังกร",
     "url": "https://lk-hdx.com/dragon-hidden-in-a-mysterious-hole-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dragon-Hidden-in-A-Mysterious-Hole-2022-เขาวงกตซ่อนมังกร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dragon-Hidden-in-A-Mysterious-Hole-2022-เขาวงกตซ่อนมังกร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/842c583358c447aca04eb6f71039d8a2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/842c583358c447aca04eb6f71039d8a2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Wong Fei Hung Return of the King (2017) หวงเฟยหง กังฟูกู้แผ่นดิน",
     "url": "https://lk-hdx.com/wong-fei-hung-return-of-the-king-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Wong-Fei-Hung-Return-of-the-King-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Wong-Fei-Hung-Return-of-the-King-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/188c7ffbe786ec68c50e29d23527811e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/188c7ffbe786ec68c50e29d23527811e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sniper 2 (2024) สไนเปอร์ 2",
     "url": "https://lk-hdx.com/sniper-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Sniper-2-2024-สไนเปอร์-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Sniper-2-2024-สไนเปอร์-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_brfzJOpBf"
+      }
+    ]
   },
   {
     "title": "The Dragon Nine (2022) เก้าบุตรแห่งมังกร",
     "url": "https://lk-hdx.com/the-dragon-nine-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Dragon-Nine-2022-เก้าบุตรแห่งมังกร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Dragon-Nine-2022-เก้าบุตรแห่งมังกร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/1f5962f4a981d23a64540481dac86637"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/1f5962f4a981d23a64540481dac86637/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Growth of God (2022) เทพเท้าเปล่า",
     "url": "https://lk-hdx.com/growth-of-god-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Growth-of-God-2022-เทพเท้าเปล่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Growth-of-God-2022-เทพเท้าเปล่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/4ee94cc7e99f07452084c043cfdc6e17"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/4ee94cc7e99f07452084c043cfdc6e17/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Taoist Priest in the Tomb (2023) นักพรตเต๋าตะลุยสุสาน",
     "url": "https://lk-hdx.com/taoist-priest-in-the-tomb-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Taoist-Priest-in-the-Tomb-2023-นักพรตเต๋าตะลุยสุสาน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Taoist-Priest-in-the-Tomb-2023-นักพรตเต๋าตะลุยสุสาน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/79e39212d4bb0ecffffab47b1783a92b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/79e39212d4bb0ecffffab47b1783a92b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Five Elements Mountain (2022) ซุนหงอคง ผจญห้าหุบเขา",
     "url": "https://lk-hdx.com/five-elements-mountain-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Five-Elements-Mountain-2022-ซุนหงอคง-ผจญห้าหุบเขา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Five-Elements-Mountain-2022-ซุนหงอคง-ผจญห้าหุบเขา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/b40588678fa85f226a19d17716997dda"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/b40588678fa85f226a19d17716997dda/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Novo Land Floating Heart (2022) ปริศนาแห่งจิ่วโจว",
     "url": "https://lk-hdx.com/novo-land-floating-heart-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Novo-Land-Floating-Heart-2022-ปริศนาแห่งจิ่วโจว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Novo-Land-Floating-Heart-2022-ปริศนาแห่งจิ่วโจว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/b79071075f800ed36f135e66be3c65f3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/b79071075f800ed36f135e66be3c65f3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ไซอิ๋ว เมืองนรกบนสวรรค์ (2025) Journey to the West The Helltown of Heaven",
     "url": "https://lk-hdx.com/journey-to-the-west-the-helltown-of-heaven-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ไซอิ๋ว-เมืองนรกบนสวรรค์-2025-Journey-to-the-West-The-Helltown-of-Heaven-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ไซอิ๋ว-เมืองนรกบนสวรรค์-2025-Journey-to-the-West-The-Helltown-of-Heaven-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/196fcc3a069a30e17c69adb745dcc387"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/196fcc3a069a30e17c69adb745dcc387/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Organ Child (2025) อวัยวะเถื่อน",
     "url": "https://lk-hdx.com/organ-child-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Organ-Child-2025-อวัยวะเถื่อน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Organ-Child-2025-อวัยวะเถื่อน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/8c5b40e2204babda311cd46ff981e867"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/8c5b40e2204babda311cd46ff981e867/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Desert Monster (2022) อสูรทะเลทราย",
     "url": "https://lk-hdx.com/desert-monster-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Desert-Monster-2022-อสูรทะเลทราย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Desert-Monster-2022-อสูรทะเลทราย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/9df472707168d30a75b1fc0b0cd4a35a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/9df472707168d30a75b1fc0b0cd4a35a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Legend of Bayi’s Grandpa (2024) เรื่องประหลาดฉางเล่อ",
     "url": "https://lk-hdx.com/the-legend-of-bayis-grandpa-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Legend-of-Bayis-Grandpa-2024-เรื่องประหลาดฉางเล่อ-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Legend-of-Bayis-Grandpa-2024-เรื่องประหลาดฉางเล่อ-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/904533b25758ee0f409508a9085a1ff7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/904533b25758ee0f409508a9085a1ff7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hong Boxing (2020) ปรมาจารย์หมัดเมา",
     "url": "https://lk-hdx.com/hong-boxing-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Hong-Boxing-2020-ปรมาจารย์หมัดเมา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Hong-Boxing-2020-ปรมาจารย์หมัดเมา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Mib3_S6tPS"
+      }
+    ]
   },
   {
     "title": "Er Woo Dong Unattended Flower (2015) บุปผาเลือด",
     "url": "https://lk-hdx.com/er-woo-dong-unattended-flower-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Er-Woo-Dong-Unattended-Flower-2015-บุปผาเลือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Er-Woo-Dong-Unattended-Flower-2015-บุปผาเลือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a3f8b838a1c64f2b80aae7811630845a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a3f8b838a1c64f2b80aae7811630845a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Chronicles of Libidoists (2024)",
     "url": "https://lk-hdx.com/the-chronicles-of-libidoists-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Chronicles-of-Libidoists-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Chronicles-of-Libidoists-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/96ed1eab53b7b77e91ae101b6d5e3b4f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/96ed1eab53b7b77e91ae101b6d5e3b4f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Folk Soul Ferryman (2025) นักสืบสื่อวิญญาณ",
     "url": "https://lk-hdx.com/folk-soul-ferryman-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Folk-Soul-Ferryman-2025-นักสืบสื่อวิญญาณ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Folk-Soul-Ferryman-2025-นักสืบสื่อวิญญาณ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/3db621e3a9371aa7a68900f83e7d5113"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/3db621e3a9371aa7a68900f83e7d5113/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Angel Heart (1995) บันทึกลับหัวใจนางฟ้า",
     "url": "https://lk-hdx.com/angel-heart-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Angel-Heart-1995-บันทึกลับหัวใจนางฟ้า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Angel-Heart-1995-บันทึกลับหัวใจนางฟ้า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/05507b5a66f6b3ea8b1206b8f778fe06"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/05507b5a66f6b3ea8b1206b8f778fe06/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Shadow’s Edge (2025) แผนระห่ำ ใหญ่ฟัดเดือด ",
     "url": "https://lk-hdx.com/the-shadows-edge-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Shadows-Edge-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Shadows-Edge-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/de3951f8ea7e29fc48fcc85c9dda6c6f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/de3951f8ea7e29fc48fcc85c9dda6c6f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Miss Danger (2020) ยอดจารชนสาว",
     "url": "https://lk-hdx.com/miss-danger-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Miss-Danger-2020-ยอดจารชนสาว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Miss-Danger-2020-ยอดจารชนสาว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/sofFx4M_oJ"
+      }
+    ]
   },
   {
     "title": "The Hidden Fox (2022) ขุมทรัพย์แห่งเฟยหู",
     "url": "https://lk-hdx.com/the-hidden-fox-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Hidden-Fox-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Hidden-Fox-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/n817IEauf_"
+      }
+    ]
   },
   {
     "title": "Dealer Hunting (2022) ล่าท้าตาย",
     "url": "https://lk-hdx.com/dealer-hunting-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dealer-Hunting-2022-ล่าท้าตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Dealer-Hunting-2022-ล่าท้าตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/f43c2394cc5d3e6c47accb6e18ff70e0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/f43c2394cc5d3e6c47accb6e18ff70e0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Men of Sacrifice (2022) ผู้กล้า ฝ่ามฤตยู",
     "url": "https://lk-hdx.com/men-of-sacrifice-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Men-of-Sacrifice-2022-ผู้กล้า-ฝ่ามฤตยู-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Men-of-Sacrifice-2022-ผู้กล้า-ฝ่ามฤตยู-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/2Ad_Jbqy0R"
+      }
+    ]
   },
   {
     "title": "The Descent Curse of Di Renjie (2025) ตี๋เหรินเจี๋ยกับเวทย์ขจัดมาร",
     "url": "https://lk-hdx.com/the-descent-curse-of-di-renjie-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Descent-Curse-of-Di-Renjie-2025-ตี๋เหรินเจี๋ยกับเวทย์ขจัดมาร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Descent-Curse-of-Di-Renjie-2025-ตี๋เหรินเจี๋ยกับเวทย์ขจัดมาร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://original.enjoy24cdn.com/play/9bfc6945749fb1f372bf8ca837da11c1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://original.enjoy24cdn.com/hlsr2/9bfc6945749fb1f372bf8ca837da11c1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Di Renjie’s Heavenly Palace Mirage (2024) ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์",
     "url": "https://lk-hdx.com/di-renjies-heavenly-palace-mirage-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Di-Renjies-Heavenly-Palace-Mirage-2024-ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Di-Renjies-Heavenly-Palace-Mirage-2024-ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/HoOfxe_tFN"
+      }
+    ]
   },
   {
     "title": "Lovesick (2025) รักในคำลวง",
     "url": "https://lk-hdx.com/lovesick-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Lovesick-2025-รักในคำลวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Lovesick-2025-รักในคำลวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_wOQaQN96B"
+      }
+    ]
   },
   {
     "title": "Red Land (2025) ธรณีสีเลือด",
