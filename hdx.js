@@ -472,23 +472,38 @@ if (embeds.length === 0) {
   }
 }
 
-// 🔥 server1 = m3u8
+movie.servers = [];
+
+// ✅ Server 1: m3u8
 if (firstM3U8) {
   movie.servers.push({
-    type: "m3u8",
-    m3u8: firstM3U8
+    name: "M3U8",
+    url: firstM3U8
   });
 }
 
-// 🔥 server2 = embed
+// ✅ Server 2: embed
 if (firstEmbed) {
   movie.servers.push({
-    type: "embed",
-    embed: firstEmbed
+    name: "Embed",
+    url: firstEmbed
   });
 }
 
-// 🔥 ลบ url หน้าหนังออก
+// ✅ fallback (กันไม่มี server)
+if (movie.servers.length === 0 && movie.url) {
+  movie.servers.push({
+    name: "Default",
+    url: movie.url
+  });
+}
+
+// ✅ map field ให้ frontend ใช้ได้
+movie.logo = movie.poster;
+movie.group = cat.name;
+
+// ❌ ลบของเก่า
+delete movie.poster;
 delete movie.url;
 
       // 🔥 บันทึกไฟล์ JSON ระหว่างทาง
