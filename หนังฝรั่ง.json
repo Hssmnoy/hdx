@@ -9935,153 +9935,433 @@
   },
   {
     "title": "The Gorge (2025)",
-    "url": "https://lk-hdx.com/the-gorge-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/The-Gorge-2025-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/336e497344c09b3d82582172f7a1f92e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/336e497344c09b3d82582172f7a1f92e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/The-Gorge-2025-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "รักนิรันดร์ (2025) Love Forever",
-    "url": "https://lk-hdx.com/love-forever-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/รักนิรันดร์-2025-Love-Forever-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a1543c56d915c804d45ca53c6970ab2a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a1543c56d915c804d45ca53c6970ab2a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/รักนิรันดร์-2025-Love-Forever-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ไม่มีทางรักษา (2025) Umjolo There Is No Cure",
-    "url": "https://lk-hdx.com/umjolo-there-is-no-cure-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ไม่มีทางรักษา-2025-Umjolo-There-Is-No-Cure-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/606e994a001dd887e832a4ecb3c04713/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/606e994a001dd887e832a4ecb3c04713"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ไม่มีทางรักษา-2025-Umjolo-There-Is-No-Cure-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "รูมเมอร์ (2024) Rumours",
-    "url": "https://lk-hdx.com/rumours-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/รูมเมอร์-2024-Rumours-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/bJK_EaIyX_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/รูมเมอร์-2024-Rumours-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ฅนเหล็กไวรัส เปลี่ยนพันธุ์ยึดโลก (1999) Virus",
-    "url": "https://lk-hdx.com/virus-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/ฅนเหล็กไวรัส-เปลี่ยนพันธุ์ยึดโลก-1999-Virus-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e1b63f141d4c3b1e75a92a85b4c5a85/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e1b63f141d4c3b1e75a92a85b4c5a85"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/ฅนเหล็กไวรัส-เปลี่ยนพันธุ์ยึดโลก-1999-Virus-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ฉกขุมทรัพย์มหาภัยขุมทอง (1999) Three Kings",
-    "url": "https://lk-hdx.com/three-kings-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/ฉกขุมทรัพย์มหาภัยขุมทอง-1999-Three-Kings-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0ca840fde2872b6fc030e5ae62e47d3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0ca840fde2872b6fc030e5ae62e47d3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/ฉกขุมทรัพย์มหาภัยขุมทอง-1999-Three-Kings-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ฟิลาเดลเฟีย (1993) Philadelphia",
-    "url": "https://lk-hdx.com/philadelphia-1993/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ฟิลาเดลเฟีย-1993-Philadelphia-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tKQ_RD0zIY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ฟิลาเดลเฟีย-1993-Philadelphia-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คนเหล็กทะลุมิติ (1993) Last Action Hero",
-    "url": "https://lk-hdx.com/last-action-hero-1993/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/คนเหล็กทะลุมิติ-1993-Last-Action-Hero-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a32564ba01f8c769579996a10061b932/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a32564ba01f8c769579996a10061b932"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/คนเหล็กทะลุมิติ-1993-Last-Action-Hero-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ข้อเสนอที่รักนี้มิอาจกั้น (1993) Indecent Proposal",
-    "url": "https://lk-hdx.com/indecent-proposal-1993/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ข้อเสนอที่รักนี้มิอาจกั้น-1993-Indecent-Proposal-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/1k4Kgaj0_y"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ข้อเสนอที่รักนี้มิอาจกั้น-1993-Indecent-Proposal-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mosquito (1994)",
-    "url": "https://lk-hdx.com/mosquito-1994/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Mosquito-1994-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eb558cdd7065a057c5ce13f6fc6af048/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eb558cdd7065a057c5ce13f6fc6af048"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Mosquito-1994-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ตายก่อนแต่ง (2025) Death Before the Wedding",
-    "url": "https://lk-hdx.com/death-before-the-wedding-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ตายก่อนแต่ง-2025-Death-Before-the-Wedding-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/645e2cdb410669723a5d246cb1fa5245/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/645e2cdb410669723a5d246cb1fa5245"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ตายก่อนแต่ง-2025-Death-Before-the-Wedding-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "วิลล่าแห่งรัก (2025) La Dolce Villa",
-    "url": "https://lk-hdx.com/la-dolce-villa-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/วิลล่าแห่งรัก-2025-La-Dolce-Villa-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bab11921b6b88373abf975de3572e266/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bab11921b6b88373abf975de3572e266"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/วิลล่าแห่งรัก-2025-La-Dolce-Villa-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ตัวป่วนฮันนีมูน (2025) Honeymoon Crasher",
-    "url": "https://lk-hdx.com/honeymoon-crasher-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ตัวป่วนฮันนีมูน-2025-Honeymoon-Crasher-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1d7de71919ae1daf3036e4dc625fdf0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1d7de71919ae1daf3036e4dc625fdf0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ตัวป่วนฮันนีมูน-2025-Honeymoon-Crasher-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เด็ก ๆ ของพระเจ้าและรองเท้าที่หายไป (1997) Children of Heaven",
-    "url": "https://lk-hdx.com/children-of-heaven-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/เด็ก-ๆ-ของพระเจ้าและรองเท้าที่หายไป-1997-Children-of-Heaven-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b570739eddbe0030a111b1cd27bcb8d5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b570739eddbe0030a111b1cd27bcb8d5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/เด็ก-ๆ-ของพระเจ้าและรองเท้าที่หายไป-1997-Children-of-Heaven-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ค็อปแลนด์ หลังชนฝาต้องกล้าสู้ (1997) Cop Land",
-    "url": "https://lk-hdx.com/cop-land-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ค็อปแลนด์-หลังชนฝาต้องกล้าสู้-1997-Cop-Land-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c03e7891035d080d826344ea41c6b07f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c03e7891035d080d826344ea41c6b07f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ค็อปแลนด์-หลังชนฝาต้องกล้าสู้-1997-Cop-Land-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "หนีหน้าตั้ง ก็ยังตายยาก (1998) Wrongfully Accused",
-    "url": "https://lk-hdx.com/wrongfully-accused-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/หนีหน้าตั้ง-ก็ยังตายยาก-1998-Wrongfully-Accused-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2bc386f7de190bdabf6938cd3238056a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2bc386f7de190bdabf6938cd3238056a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/หนีหน้าตั้ง-ก็ยังตายยาก-1998-Wrongfully-Accused-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ไวโอลินเลือด (1998) The Red Violin",
-    "url": "https://lk-hdx.com/the-red-violin-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ไวโอลินเลือด-1998-The-Red-Violin-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8a8817d1db4dac94c4bf23dc814a14ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8a8817d1db4dac94c4bf23dc814a14ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ไวโอลินเลือด-1998-The-Red-Violin-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สตรีมีคัน (2025) Kinda Pregnant",
-    "url": "https://lk-hdx.com/kinda-pregnant-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/สตรีมีคัน-2025-Kinda-Pregnant-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7164e11283516104928f016041581291/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7164e11283516104928f016041581291"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/สตรีมีคัน-2025-Kinda-Pregnant-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เจ็ดข้อต้องฆ่า (1995) Se7en",
-    "url": "https://lk-hdx.com/se7en-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/เจ็ดข้อต้องฆ่า-1995-Se7en-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4439c613d16038176665d22cabf0c36e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4439c613d16038176665d22cabf0c36e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/เจ็ดข้อต้องฆ่า-1995-Se7en-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "จ้ำม่ำเจ๊าะแจ๊ะให้เมืองยิ้ม (1994) Baby’s Day Out",
-    "url": "https://lk-hdx.com/babys-day-out-1994/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/จ้ำม่ำเจ๊าะแจ๊ะให้เมืองยิ้ม-1994-Babys-Day-Out-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ab206b37e891355dee4e3d135598b31f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab206b37e891355dee4e3d135598b31f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/จ้ำม่ำเจ๊าะแจ๊ะให้เมืองยิ้ม-1994-Babys-Day-Out-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "วอเตอร์เวิลด์ ผ่าโลกมหาสมุทร (1995) Waterworld",
-    "url": "https://lk-hdx.com/waterworld-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/วอเตอร์เวิลด์-ผ่าโลกมหาสมุทร-1995-Waterworld-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a89a7b8f90b4935f2d8e2f6a405fcff4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a89a7b8f90b4935f2d8e2f6a405fcff4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/วอเตอร์เวิลด์-ผ่าโลกมหาสมุทร-1995-Waterworld-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "วิกฤตไวรัสสูบนรก (1995) Outbreak",
-    "url": "https://lk-hdx.com/outbreak-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/วิกฤตไวรัสสูบนรก-1995-Outbreak-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/04d9ce118b4ae1264996e86ea2d7b51c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/04d9ce118b4ae1264996e86ea2d7b51c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/วิกฤตไวรัสสูบนรก-1995-Outbreak-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เกมตาย ต้องไม่ตาย (1997) The Game",
-    "url": "https://lk-hdx.com/the-game-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/เกมตาย-ต้องไม่ตาย-1997-The-Game-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5e70518c02a0e11e04dcac520ce0777c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e70518c02a0e11e04dcac520ce0777c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/เกมตาย-ต้องไม่ตาย-1997-The-Game-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "7 ปี โลกไม่มีวันลืม (1997) Seven Years in Tibet",
-    "url": "https://lk-hdx.com/seven-years-in-tibet-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/7-ปี-โลกไม่มีวันลืม-1997-Seven-Years-in-Tibet-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e723a7e5f31a145887fe3ed7e503c5d5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e723a7e5f31a145887fe3ed7e503c5d5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/7-ปี-โลกไม่มีวันลืม-1997-Seven-Years-in-Tibet-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "น.หนูฤทธิ์เดชป่วนโลก (1997) Mousehunt",
-    "url": "https://lk-hdx.com/mousehunt-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/น.หนูฤทธิ์เดชป่วนโลก-1997-Mousehunt-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bc98b044d230b6f9ab2bb4b5a450588a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bc98b044d230b6f9ab2bb4b5a450588a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/น.หนูฤทธิ์เดชป่วนโลก-1997-Mousehunt-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เจรจาก่อนจับตาย (1997) Metro",
-    "url": "https://lk-hdx.com/metro-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/เจรจาก่อนจับตาย-1997-Metro-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/2S3_Voy4DQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/เจรจาก่อนจับตาย-1997-Metro-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ยิ้มไว้โลกนี้ไม่มีสิ้นหวัง (1997) Life Is Beautiful",
-    "url": "https://lk-hdx.com/life-is-beautiful-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/ยิ้มไว้โลกนี้ไม่มีสิ้นหวัง-1997-Life-Is-Beautiful-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ru7_b5PGNP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/ยิ้มไว้โลกนี้ไม่มีสิ้นหวัง-1997-Life-Is-Beautiful-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Night Call (2024)",
-    "url": "https://lk-hdx.com/night-call-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Night-Call-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8fd44cf9ad3a45a5bd1584c2c31a839a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8fd44cf9ad3a45a5bd1584c2c31a839a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Night-Call-2024-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "IF (2024) เพื่อนในจินตนาการ",
-    "url": "https://lk-hdx.com/if/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5418ab82482cd13eb8474644270a8c08/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5418ab82482cd13eb8474644270a8c08"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Iron Man 2 (2010) ไอรอนแมน 2 มหาประลัยคนเกราะเหล็ก",
-    "url": "https://lk-hdx.com/iron-man-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Iron-Man-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b5e8f486935af976700685d70fcf622c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5e8f486935af976700685d70fcf622c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Iron-Man-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คู่ขาบ้าท้าโลก (1995) Four Rooms",
