@@ -857,153 +857,437 @@
   },
   {
     "title": "คู่แสบวายป่วง (2024) Duo Man",
-    "url": "https://lk-hdx.com/duo-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/คู่แสบวายป่วง-2024-Duo-Man-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f00a98e01199aeaa04d5c28761909210/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f00a98e01199aeaa04d5c28761909210"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/คู่แสบวายป่วง-2024-Duo-Man-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "2499 อันธพาลครองเมือง (1997) Antapan krong muang",
-    "url": "https://lk-hdx.com/antapan-krong-muang-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/2499-อันธพาลครองเมือง-2499-1997-Antapan-krong-muang-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/L58A_QeGke"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/2499-อันธพาลครองเมือง-2499-1997-Antapan-krong-muang-165x248.webp",
+    "group": "หนังไทย"
   },
   {
     "title": "2022 สึนามิ วันโลกสังหาร (2009) 2022 Tsunami",
-    "url": "https://lk-hdx.com/tsunami-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/2022-สึนามิ-วันโลกสังหาร-2009-2022-Tsunami-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cc087b4368e045faa5d4d37d0962f295/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cc087b4368e045faa5d4d37d0962f295"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/2022-สึนามิ-วันโลกสังหาร-2009-2022-Tsunami-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "คุณชายน์ (2024) The Cliche",
-    "url": "https://lk-hdx.com/the-cliche/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Cliche-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8958ca16143fb0179aa4aff6beb8937/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8958ca16143fb0179aa4aff6beb8937"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Cliche-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "วัยสตาร์ท น็อนสต็อป (2024) Start It Up",
-    "url": "https://lk-hdx.com/start-it-up-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Start-It-Up-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/787802da1a698e6cb200e38d63c9a6d1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/787802da1a698e6cb200e38d63c9a6d1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Start-It-Up-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ผู้บ่าวนิกะห์ (2024) Isan Nikah",
-    "url": "https://lk-hdx.com/isan-nikah-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Isan-Nikah-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9820a997090daa18149fc3c1bc966d1b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9820a997090daa18149fc3c1bc966d1b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Isan-Nikah-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "4ป่าช้า (2025) Graveyard Horror ",
-    "url": "https://lk-hdx.com/graveyard-horror-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Graveyard-Horror-165x248.png"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/951830d4527b9280816c15e9e2c38a11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/951830d4527b9280816c15e9e2c38a11"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Graveyard-Horror-165x248.png",
+    "group": "หนังไทย"
   },
   {
     "title": "Shrinking Tee (2025) ธี่หด",
-    "url": "https://lk-hdx.com/shrinking-tee-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Shrinking-Tee-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0ccc7c1b67a1a74b069121b03cba2300/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ccc7c1b67a1a74b069121b03cba2300"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Shrinking-Tee-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "แก๊งหิมะเดือด (2025) Frozen Hot Boys",
-    "url": "https://lk-hdx.com/frozen-hot-boys-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Frozen-Hot-Boys-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2c4d1bd328b4cb1c1078486bd09fff75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c4d1bd328b4cb1c1078486bd09fff75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Frozen-Hot-Boys-2025-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "โอเค เบตง (2003) OK baytong",
-    "url": "https://lk-hdx.com/ok-baytong-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/OK-baytong-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6e418543344cac80728b7c4682193403/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6e418543344cac80728b7c4682193403"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/OK-baytong-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "หนังไทย 404 สุขีนิรันดร์ (2024) 404 Run Run",
-    "url": "https://lk-hdx.com/404-run-run-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ดูหนังไทย-404-สุขีนิรันดร์-2024-404-Run-Run-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d883c225b3f0e4bc926b8ecae86f28a8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d883c225b3f0e4bc926b8ecae86f28a8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ดูหนังไทย-404-สุขีนิรันดร์-2024-404-Run-Run-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สื่อ-เม่ย (2023) Zi Mui",
-    "url": "https://lk-hdx.com/zi-mui-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/สื่อ-เม่ย-2023-Zi-Mui-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/26015c7e058b40f8b44e1b4bdcf429ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/26015c7e058b40f8b44e1b4bdcf429ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/สื่อ-เม่ย-2023-Zi-Mui-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "วัยหนุ่ม 2544 (2024) In Youth We Trust",
-    "url": "https://lk-hdx.com/in-youth-we-trust-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/วัยหนุ่ม-2544-2024-In-Youth-We-Trust-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2a2b7989d8f52a9d6d2e2909233c3aa1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a2b7989d8f52a9d6d2e2909233c3aa1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/วัยหนุ่ม-2544-2024-In-Youth-We-Trust-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ปณิธานหวานน้อย (2024) Endpresso  ",
-    "url": "https://lk-hdx.com/endpresso-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ปณิธานหวานน้อย-2024-Endpresso-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a3282798568016bf3d62c03a22bf61b8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a3282798568016bf3d62c03a22bf61b8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ปณิธานหวานน้อย-2024-Endpresso-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ปิด เกม ล่า (2024) EXIT",
-    "url": "https://lk-hdx.com/exit-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ปิด-เกม-ล่า-2024-EXIT-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8562816d304e9d57bbce2acacc589b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8562816d304e9d57bbce2acacc589b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ปิด-เกม-ล่า-2024-EXIT-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "เรือนขังผี (2023) Home Sweet Hell",
-    "url": "https://lk-hdx.com/home-sweet-hell-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เรือนขังผี-2023-Home-Sweet-Hell-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/17ce8d1f78717f47974811bc65d0e281/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17ce8d1f78717f47974811bc65d0e281"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/เรือนขังผี-2023-Home-Sweet-Hell-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ผาดำคำไอ่ ซินเดอเรลล่าสตอรี่ (2024) Pha Dam Kham Ai",
-    "url": "https://lk-hdx.com/pha-dam-kham-ai-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ผาดำคำไอ่-ซินเดอเรลล่าสตอรี่-2024-Pha-Dam-Kham-Ai-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/31c2a235e4eb5f393d53a3b2d104d198/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/31c2a235e4eb5f393d53a3b2d104d198"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ผาดำคำไอ่-ซินเดอเรลล่าสตอรี่-2024-Pha-Dam-Kham-Ai-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ตำรวจ ดิบ เดือด (2023) The Guardian",
-    "url": "https://lk-hdx.com/the-guardian-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ตำรวจ-ดิบ-เดือด-2023-The-Guardian-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ccfdd4be75d99adb34f1b959823e2417/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ccfdd4be75d99adb34f1b959823e2417"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ตำรวจ-ดิบ-เดือด-2023-The-Guardian-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "สุขสันต์ วันเกิดครับพ่อ (2019) Happy Birthday Father",
-    "url": "https://lk-hdx.com/happy-birthday-father-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/สุขสันต์-วันเกิดครับพ่อ-2019-Happy-Birthday-Father-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c09de27896a1dc724a45209d47bde148/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c09de27896a1dc724a45209d47bde148"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/สุขสันต์-วันเกิดครับพ่อ-2019-Happy-Birthday-Father-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ไรเดอร์ (2024) Rider",
-    "url": "https://lk-hdx.com/rider-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ไรเดอร์-2024-Rider-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/TwO_MEq6Li"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ไรเดอร์-2024-Rider-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "รอวัน (2024) Hours of Ours",
-    "url": "https://lk-hdx.com/hours-of-ours-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/รอวัน-2024-Hours-of-Ours-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ca8597cd379e7e7bab69a6deffa801e0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca8597cd379e7e7bab69a6deffa801e0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/รอวัน-2024-Hours-of-Ours-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "Kitty the Killer (2023) อีหนูอันตราย",
-    "url": "https://lk-hdx.com/kitty-the-killer-2023-%e0%b8%ad%e0%b8%b5%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Kitty-the-Killer-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5c533dc5906959863af90626147fdfbc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5c533dc5906959863af90626147fdfbc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Kitty-the-Killer-2023-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "มึงนอน มึงตาย (2024) Don’t Sleep",
-    "url": "https://lk-hdx.com/dont-sleep-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มึงนอน-มึงตาย-2024-Dont-Sleep-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/77af396792abcd84ca54e5408be72839/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/77af396792abcd84ca54e5408be72839"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/มึงนอน-มึงตาย-2024-Dont-Sleep-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ตำรวจแต่ง กำเนิดผู้พิทักษ์สันติหลุด (2024) Police Modify",
-    "url": "https://lk-hdx.com/police-modify-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ตำรวจแต่ง-กำเนิดผู้พิทักษ์สันติหลุด-2024-Police-Modify-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/79ec724f722c9ff40ef6dacf8c57fc21/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/79ec724f722c9ff40ef6dacf8c57fc21"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ตำรวจแต่ง-กำเนิดผู้พิทักษ์สันติหลุด-2024-Police-Modify-165x248.webp",
+    "group": "หนังไทย"
   },
   {
     "title": "ผู้เช่า (2024) The Tenant",
-    "url": "https://lk-hdx.com/the-tenant-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ผู้เช่า-2024-The-Tenant-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d835895629b2b2df202289f4c59c3f54/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d835895629b2b2df202289f4c59c3f54"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ผู้เช่า-2024-The-Tenant-165x248.webp",
+    "group": "หนังไทย"
   },
   {
     "title": "หม่อม (2024) The Elite of Devils",
-    "url": "https://lk-hdx.com/the-elite-of-devils-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/หม่อม-2024-The-Elite-of-Devils-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5d84bc0b60f025da49a1649d7bff49e9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5d84bc0b60f025da49a1649d7bff49e9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/หม่อม-2024-The-Elite-of-Devils-165x248.webp",
+    "group": "หนังไทย"
   },
   {
     "title": "ผีไม้จิ้มฟัน (2007) Vow of Death",
-    "url": "https://lk-hdx.com/vow-of-death-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/ผีไม้จิ้มฟัน-2007-Vow-of-Death-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/s8NJI11uR_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/ผีไม้จิ้มฟัน-2007-Vow-of-Death-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "หนูหิ่น เดอะมูฟวี่ (2006) Noo Hin The Movie",
-    "url": "https://lk-hdx.com/noo-hin-the-movie-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/หนูหิ่น-เดอะมูฟวี่-2006-Noo-Hin-The-Movie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4671ea1c4f728da7b0e173ff5a8d0ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4671ea1c4f728da7b0e173ff5a8d0ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/หนูหิ่น-เดอะมูฟวี่-2006-Noo-Hin-The-Movie-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ลองของ 2 (2008) Art Of The Devil 3",
-    "url": "https://lk-hdx.com/art-of-the-devil-3/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/ลองของ-2-2008-Art-Of-The-Devil-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/hlwf_tINk_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/ลองของ-2-2008-Art-Of-The-Devil-3-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "ลองของ (2005) Art Of The Devil 2",
-    "url": "https://lk-hdx.com/art-of-the-devil-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/ลองของ-2005-Art-Of-The-Devil-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ae6dc00052e6b73d6211088d90ee882e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ae6dc00052e6b73d6211088d90ee882e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/ลองของ-2005-Art-Of-The-Devil-2-165x248.jpg",
+    "group": "หนังไทย"
   },
   {
     "title": "คนเล่นของ (2004) Art Of The Devil 1",
