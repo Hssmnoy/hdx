@@ -57709,153 +57709,441 @@
   },
   {
     "title": "Finding ‘Ohana (2021) ผจญภัยใจอะโลฮา",
-    "url": "https://lk-hdx.com/finding-ohana-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Finding-‘Ohana-2021-ผจญภัยใจอะโลฮา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tsRQF_YGlI"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Finding-‘Ohana-2021-ผจญภัยใจอะโลฮา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Queenpins (2021) โกงกระหน่ำ เจ๊จัดให้",
-    "url": "https://lk-hdx.com/queenpins-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Queenpins-2021-โกงกระหน่ำ-เจ๊จัดให้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5982bd00bd0290c4fdd84492c263a652/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5982bd00bd0290c4fdd84492c263a652"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Queenpins-2021-โกงกระหน่ำ-เจ๊จัดให้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Superwho (2021) ซูเปอร์ฮู ฮีโร่ ฮีรั่ว",
-    "url": "https://lk-hdx.com/superwho-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Superwho-2021-ซูเปอร์ฮู-ฮีโร่-ฮีรั่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/71a26bd2899ddf998e4528ae4c3d701c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/71a26bd2899ddf998e4528ae4c3d701c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Superwho-2021-ซูเปอร์ฮู-ฮีโร่-ฮีรั่ว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Good on Paper (2021) หนุ่มเพอร์เฟค",
-    "url": "https://lk-hdx.com/good-on-paper-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-on-Paper-2021-หนุ่มเพอร์เฟค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1424d6e4ce7d8e31f7be5a75cab03b9e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1424d6e4ce7d8e31f7be5a75cab03b9e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Good-on-Paper-2021-หนุ่มเพอร์เฟค-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cosmic Sin (2021) ภารกิจคนอึด ฝ่าสงครามดวงดาว",
-    "url": "https://lk-hdx.com/cosmic-sin-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Cosmic-Sin-2021-ภารกิจคนอึด-ฝ่าสงครามดวงดาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Kzl2QhVq7_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Cosmic-Sin-2021-ภารกิจคนอึด-ฝ่าสงครามดวงดาว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Yara (2021) หนูน้อยยารา",
-    "url": "https://lk-hdx.com/yara-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Yara-2021-หนูน้อยยารา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_fAllN4D7O"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Yara-2021-หนูน้อยยารา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Fabelmans (2022) พ่อมดแห่งฮอลลีวูด",
-    "url": "https://lk-hdx.com/the-fabelmans-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fabelmans-2022-พ่อมดแห่งฮอลลีวูด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9a18a7e59f5ec7002f240cabf96637de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9a18a7e59f5ec7002f240cabf96637de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fabelmans-2022-พ่อมดแห่งฮอลลีวูด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Legend of La Llorona (2022) ตำนานแห่งลา โยโรนา",
-    "url": "https://lk-hdx.com/the-legend-of-la-llorona-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Legend-of-La-Llorona-2022-ตำนานแห่งลา-โยโรนา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0cb2a895ce6a108b21c5d4312ee0b121/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0cb2a895ce6a108b21c5d4312ee0b121"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Legend-of-La-Llorona-2022-ตำนานแห่งลา-โยโรนา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Breaking News in Yuba County (2021) หลัวหาย อย่าเผือกหา",
-    "url": "https://lk-hdx.com/breaking-news-in-yuba-county-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Breaking-News-in-Yuba-County-2021-หลัวหาย-อย่าเผือกหา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1f885c2a6e2b688385a00510ad44ba22/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1f885c2a6e2b688385a00510ad44ba22"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Breaking-News-in-Yuba-County-2021-หลัวหาย-อย่าเผือกหา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Benedetta (2021) เบเนเดตต้า ใครอยากให้เธอบาป",
-    "url": "https://lk-hdx.com/benedetta-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Benedetta-2021-เบเนเดตต้า-ใครอยากให้เธอบาป-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6218b3e0b58d21fb16409760abe776c6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6218b3e0b58d21fb16409760abe776c6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Benedetta-2021-เบเนเดตต้า-ใครอยากให้เธอบาป-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Boogie (2021) บูกี้",
-    "url": "https://lk-hdx.com/boogie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Boogie-2021-บูกี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1a3269e5137c8cdad10a7b4c44ba0167/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1a3269e5137c8cdad10a7b4c44ba0167"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Boogie-2021-บูกี้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Castle Falls (2021)",
-    "url": "https://lk-hdx.com/castle-falls-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Castle-Falls-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a3322a4ae60f079659284b086c454cfc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a3322a4ae60f079659284b086c454cfc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Castle-Falls-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Censor (2021) โหดต้องห้าม",
-    "url": "https://lk-hdx.com/censor-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Censor-2021-โหดต้องห้าม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/990e5f44363bb7efc1cd63020526cda1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/990e5f44363bb7efc1cd63020526cda1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Censor-2021-โหดต้องห้าม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Catch the Bullet (2021)",
-    "url": "https://lk-hdx.com/catch-the-bullet-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Catch-the-Bullet-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f77069ab971258e82353f0dc4c9e393e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f77069ab971258e82353f0dc4c9e393e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Catch-the-Bullet-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Animals on the Loose A You vs. Wild Movie (2021) ผจญภัยสุดขั้วกับแบร์ กริลส์ เดอะ มูฟวี่",
-    "url": "https://lk-hdx.com/animals-on-the-loose-a-you-vs-wild-movie-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Animals-on-the-Loose-A-You-vs.-Wild-Movie-2021-ผจญภัยสุดขั้วกับแบร์-กริลส์-เดอะ-มูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7c7feaa8c3da621425fa824996af7280/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7c7feaa8c3da621425fa824996af7280"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Animals-on-the-Loose-A-You-vs.-Wild-Movie-2021-ผจญภัยสุดขั้วกับแบร์-กริลส์-เดอะ-มูฟวี่-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Week Away (2021) อีก 7 วัน ฉันจะรักเธอ",
-    "url": "https://lk-hdx.com/a-week-away-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Week-Away-2021-อีก-7-วัน-ฉันจะรักเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5da1c205daa7fcb15f550de2f9af78bc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5da1c205daa7fcb15f550de2f9af78bc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/A-Week-Away-2021-อีก-7-วัน-ฉันจะรักเธอ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Awake (2021) ดับฝันวันสิ้นโลก",
-    "url": "https://lk-hdx.com/awake-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Awake-2021-ดับฝันวันสิ้นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6bd9324fb4998974d7a13b92302a7c88/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6bd9324fb4998974d7a13b92302a7c88"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Awake-2021-ดับฝันวันสิ้นโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Aftermath (2021)",
-    "url": "https://lk-hdx.com/aftermath-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Aftermath-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5a6598c46e7cf37cb4f4f6ea67f0cfa1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5a6598c46e7cf37cb4f4f6ea67f0cfa1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Aftermath-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blood Red Sky (2021) ฟ้าสีเลือด",
-    "url": "https://lk-hdx.com/blood-red-sky-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Blood-Red-Sky-2021-ฟ้าสีเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff41e66e97086ce022e4bee0b733be3c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff41e66e97086ce022e4bee0b733be3c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Blood-Red-Sky-2021-ฟ้าสีเลือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blue Miracle (2021) ปาฏิหาริย์สีน้ำเงิน",
-    "url": "https://lk-hdx.com/blue-miracle-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Blue-Miracle-2021-ปาฏิหาริย์สีน้ำเงิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d97860ba355be333463bf9a1ecb51e28/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d97860ba355be333463bf9a1ecb51e28"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Blue-Miracle-2021-ปาฏิหาริย์สีน้ำเงิน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fatherhood (2021) คุณพ่อเลี้ยงเดี่ยว",
-    "url": "https://lk-hdx.com/fatherhood-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fatherhood-2021-คุณพ่อเลี้ยงเดี่ยว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a7e7aa6c1662c6c64064ed214115b9bb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a7e7aa6c1662c6c64064ed214115b9bb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fatherhood-2021-คุณพ่อเลี้ยงเดี่ยว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "No One Gets Out Alive (2021) ห้องเช่าขังตาย",
-    "url": "https://lk-hdx.com/no-one-gets-out-alive-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/No-One-Gets-Out-Alive-2021-ห้องเช่าขังตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5573266da07c5923ffb91f93d414f533/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5573266da07c5923ffb91f93d414f533"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/No-One-Gets-Out-Alive-2021-ห้องเช่าขังตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Prey (2021) เหยื่อ",
-    "url": "https://lk-hdx.com/prey-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-2021-เหยื่อ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/062b00d956b80b1cbd872a2e0e9e42cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/062b00d956b80b1cbd872a2e0e9e42cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Prey-2021-เหยื่อ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "13 The Musical (2022)",
-    "url": "https://lk-hdx.com/13-the-musical-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/13-The-Musical-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d93a8fa2c39fe55a21016ca57022fd93/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d93a8fa2c39fe55a21016ca57022fd93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/13-The-Musical-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Menu (2022) เมนูสยอง",
-    "url": "https://lk-hdx.com/the-menu-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Menu-2022-เมนูสยอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3722a26cc9f4080a777cee3bff64b0a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3722a26cc9f4080a777cee3bff64b0a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Menu-2022-เมนูสยอง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Dark and the Wicked (2020) เฮี้ยน หลอน ซ่อนวิญญาณ",
-    "url": "https://lk-hdx.com/the-dark-and-the-wicked-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Dark-and-the-Wicked-2020-เฮี้ยน-หลอน-ซ่อนวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1a2be7e03e320063b66757476ce8d02/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1a2be7e03e320063b66757476ce8d02"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Dark-and-the-Wicked-2020-เฮี้ยน-หลอน-ซ่อนวิญญาณ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Snake & Ladders (2017) เกมบันไดไต่ตาย",
-    "url": "https://lk-hdx.com/snake-ladders-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Snake-Ladders-2017-เกมบันไดไต่ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0c45c006f15dce8140f8ff76fb033ebf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0c45c006f15dce8140f8ff76fb033ebf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Snake-Ladders-2017-เกมบันไดไต่ตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Piggy (2022) อ้วน ฆ่า ล่า เลือด",
-    "url": "https://lk-hdx.com/piggy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Piggy-2022-อ้วน-ฆ่า-ล่า-เลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3f5fbc7d1e77a8d12e31bd1d3b0e508d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3f5fbc7d1e77a8d12e31bd1d3b0e508d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Piggy-2022-อ้วน-ฆ่า-ล่า-เลือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Poker Face (2022)",
-    "url": "https://lk-hdx.com/poker-face-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Poker-Face-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/760c9b111e71af84561b05d846839623/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/760c9b111e71af84561b05d846839623"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Poker-Face-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Old Dads (2023) แก่แต่เก๋า",
-    "url": "https://lk-hdx.com/old-dads-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Old-Dads-2023-แก่แต่เก๋า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb5706c6f43d0c628aac6f56be0161a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb5706c6f43d0c628aac6f56be0161a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Old-Dads-2023-แก่แต่เก๋า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Flashback (2023) แฟลชแบ็ค",
