@@ -12921,153 +12921,417 @@
   },
   {
     "title": "Dear Santa (2024)",
-    "url": "https://lk-hdx.com/dear-santa-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Dear-Santa-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_5nIrhKI7A"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Dear-Santa-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "101 Dalmatians (1996) ไอ้จุดมหาสนุก",
-    "url": "https://lk-hdx.com/101-dalmatians-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/101-Dalmatians-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/acf1c3fd61816c4250de683b8be650c6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/acf1c3fd61816c4250de683b8be650c6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/101-Dalmatians-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gone with the Wind (1939) วิมานลอย",
-    "url": "https://lk-hdx.com/gone-with-the-wind-1939/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Gone-with-the-Wind-1939-วิมานลอย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/86a0170533ce5bb519e5a1978d2c7211/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/86a0170533ce5bb519e5a1978d2c7211"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Gone-with-the-Wind-1939-วิมานลอย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rebecca (2020) รีเบคกา",
-    "url": "https://lk-hdx.com/rebecca-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Rebecca-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6632c1a6bfe4463d1e0fb38b9ea1e11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6632c1a6bfe4463d1e0fb38b9ea1e11"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Rebecca-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Taken 3 (2014) เทคเคน ภาค 3 ฅนคมล่าไม่ยั้ง",
-    "url": "https://lk-hdx.com/taken-3-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Taken-3-2014-เทคเคน-ภาค-3-ฅนคมล่าไม่ยั้ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d9cff5193825c92b31b0184bb45f321/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d9cff5193825c92b31b0184bb45f321"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Taken-3-2014-เทคเคน-ภาค-3-ฅนคมล่าไม่ยั้ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "3 Days to Kill (2014) 3 วันโคตรอันตราย",
-    "url": "https://lk-hdx.com/3-days-to-kill-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/3-Days-to-Kill-2014-3-วันโคตรอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b7a01b0d782dbf511b83f3e94f5341ef/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b7a01b0d782dbf511b83f3e94f5341ef"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/3-Days-to-Kill-2014-3-วันโคตรอันตราย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Goosebumps 2 (2018) คืนอัศจรรย์ขนหัวลุก ภาค 2 หุ่นฝังแค้น",
-    "url": "https://lk-hdx.com/goosebumps-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Goosebumps-2-2018-คืนอัศจรรย์ขนหัวลุก-ภาค-2-หุ่นฝังแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8930be546174645397a80a381ea56e1f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8930be546174645397a80a381ea56e1f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Goosebumps-2-2018-คืนอัศจรรย์ขนหัวลุก-ภาค-2-หุ่นฝังแค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Goosebumps 1 (2015) คืนอัศจรรย์ขนหัวลุก ภาค 1",
-    "url": "https://lk-hdx.com/goosebumps-1-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Goosebumps-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jRxZWD_ICa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Goosebumps-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Captive State (2019) สงครามปฏิวัติทวงโลก",
-    "url": "https://lk-hdx.com/captive-state-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Captive-State-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7c56b4efe0e92fc064711a835c53850/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7c56b4efe0e92fc064711a835c53850"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Captive-State-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trainwreck (2015) เจอที่ใช่ หัวใจตกราง",
-    "url": "https://lk-hdx.com/trainwreck-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Trainwreck-2015-เจอที่ใช่-หัวใจตกราง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/t_KpvH_0M5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Trainwreck-2015-เจอที่ใช่-หัวใจตกราง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Limehouse Golem (2016) ฆาตกรรม ซ่อนฆาตกร",
-    "url": "https://lk-hdx.com/the-limehouse-golem-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Limehouse-Golem-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/406834acebc229dfef75d55cc16f94df/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/406834acebc229dfef75d55cc16f94df"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Limehouse-Golem-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gunner (2024) ยอดคุณพ่อมือปืน",
-    "url": "https://lk-hdx.com/gunner-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Gunner-2024-ยอดคุณพ่อมือปืน-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/71b571025ba35aa1c7f33e45ebe1fa17/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/71b571025ba35aa1c7f33e45ebe1fa17"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Gunner-2024-ยอดคุณพ่อมือปืน-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "How The Grinch Stole Christmas (2000) เดอะกริ๊นช์ ตัวเขียวป่วนเมือง",
-    "url": "https://lk-hdx.com/how-the-grinch-stole-christmas-20000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/How-The-Grinch-Stole-Christmas-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8b943203eda437536b1638affd6f9497/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b943203eda437536b1638affd6f9497"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/How-The-Grinch-Stole-Christmas-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Christmas at the Drive-In (2022) คริสต์มาสที่ไดรฟ์อิน",
-    "url": "https://lk-hdx.com/christmas-at-the-drive-in-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Christmas-at-the-Drive-In-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/199f42ff07af50dcf5e3482b01d5bd4a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/199f42ff07af50dcf5e3482b01d5bd4a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Christmas-at-the-Drive-In-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Last Christmas (2019) ลาสต์ คริสต์มาส",
-    "url": "https://lk-hdx.com/last-christmas-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Last-Christmas-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7503666ce1b21fe55c3b04b232c56de0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7503666ce1b21fe55c3b04b232c56de0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Last-Christmas-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Christmas Wonderland (2018) คริสต์มาส วันเดอร์แลนด์",
-    "url": "https://lk-hdx.com/christmas-wonderland-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Christmas-Wonderland-2018-คริสต์มาส-วันเดอร์แลนด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/RGXUqTOyI_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Christmas-Wonderland-2018-คริสต์มาส-วันเดอร์แลนด์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Christmas Land (2015) คริสต์มาสแลนด์",
-    "url": "https://lk-hdx.com/christmas-land-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Christmas-Land-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/81de569b4701989739ddcc781e82af04/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/81de569b4701989739ddcc781e82af04"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Christmas-Land-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hotel Desire (2011) โรงแรมตัณหา",
-    "url": "https://lk-hdx.com/hotel-desire-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Hotel-Desire-2011-โรงแรมตัณหา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4037c1a91a5ff5c52b59404203a1e616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4037c1a91a5ff5c52b59404203a1e616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Hotel-Desire-2011-โรงแรมตัณหา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Swing Into Romance (2023) สวิง อินทู โรแมนซ์",
-    "url": "https://lk-hdx.com/swing-into-romance-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Swing-Into-Romance-2023-สวิง-อินทู-โรแมนซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/FS_MgnLyzN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Swing-Into-Romance-2023-สวิง-อินทู-โรแมนซ์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Camp Crasher (2024) คุณแม่ป่วนค่าย",
-    "url": "https://lk-hdx.com/camp-crasher-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Camp-Crasher-2024-คุณแม่ป่วนค่าย-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7_ZLmNBOgm"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Camp-Crasher-2024-คุณแม่ป่วนค่าย-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Experts (2024) มือฉมังหักทรชน",
-    "url": "https://lk-hdx.com/the-experts-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/The-Experts-2024-มือฉมังหักทรชน-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2dea3b1026eacc4213cb541c134ef791/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2dea3b1026eacc4213cb541c134ef791"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/The-Experts-2024-มือฉมังหักทรชน-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Red Virgin (2024) ฮิลเดการ์ต ดรุณีสีชาด",
-    "url": "https://lk-hdx.com/the-red-virgin-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/The-Red-Virgin-2024-ฮิลเดการ์ต-ดรุณีสีชาด-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f964c9396bdd2096e53005d5cacf64dc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f964c9396bdd2096e53005d5cacf64dc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/The-Red-Virgin-2024-ฮิลเดการ์ต-ดรุณีสีชาด-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Agent Recon (2024) หุ่นกลคนพิฆาต",
-    "url": "https://lk-hdx.com/agent-recon-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Agent-Recon-2024-หุ่นกลคนพิฆาต-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad1b5f6d1329d8fdf1b93fa056deb367/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad1b5f6d1329d8fdf1b93fa056deb367"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Agent-Recon-2024-หุ่นกลคนพิฆาต-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mary (2024) มารีย์",
-    "url": "https://lk-hdx.com/mary-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Mary-2024-มารีย์-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/grruE_RDF7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Mary-2024-มารีย์-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Immoral Women (1979)",
-    "url": "https://lk-hdx.com/immoral-women-1979/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Immoral-Women-1979-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Lvl6rv_mCJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Immoral-Women-1979-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Coriolanus จอมคนคลั่งล้างโคตร (2011)",
-    "url": "https://lk-hdx.com/coriolanus-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Coriolanus-lk-hd-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/YSST_v3XeR"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Coriolanus-lk-hd-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Juror #2 (2024)",
-    "url": "https://lk-hdx.com/juror-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Juror-2-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d77a7f874ab6cc625f54f5f9f37e4cf4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d77a7f874ab6cc625f54f5f9f37e4cf4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Juror-2-2024-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beatles 64 (2024)",
-    "url": "https://lk-hdx.com/beatles-64-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Beatles-64-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d90e45b1da80ae9e89bad2a0e4430ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d90e45b1da80ae9e89bad2a0e4430ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Beatles-64-2024-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "No Strings Attached (2011) จะกิ๊กหรือกั๊ก ก็รักซะแล้ว",
-    "url": "https://lk-hdx.com/no-strings-attached-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/No-Strings-Attached-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/33a5f0419e2739f1f2f8fb9bf3e90023/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/33a5f0419e2739f1f2f8fb9bf3e90023"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/No-Strings-Attached-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Apollo 18 (2011) หลุมลับสยองสองล้านปี ",
-    "url": "https://lk-hdx.com/apollo-18/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Apollo-18-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ddf6011570897f5939c73761d199415d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ddf6011570897f5939c73761d199415d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Apollo-18-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Dangerous Method (2011) หิวรัก ซ่อนลึกลึก",
