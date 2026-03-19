@@ -1741,153 +1741,421 @@
   },
   {
     "title": "Switch (2023) สลับขั้ว ปรับความคิด พลิกชีวิต",
-    "url": "https://lk-hdx.com/switch/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Switch-2023-สลับขั้ว-ปรับความคิด-พลิกชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8459a0eef9b00f9d3192324625395668/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8459a0eef9b00f9d3192324625395668"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Switch-2023-สลับขั้ว-ปรับความคิด-พลิกชีวิต-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Escape (2024) หนี ให้พ้นนรก",
-    "url": "https://lk-hdx.com/escape/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Escape-2024-หนี-ให้พ้นนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v_249gHGsb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/08/Escape-2024-หนี-ให้พ้นนรก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "โบโกตา เมืองคนหลง (2025) Bogota city of the lost",
-    "url": "https://lk-hdx.com/bogota-city-of-the-lost-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/โบโกตา-เมืองคนหลง-2025-Bogota-city-of-the-lost-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d2a8b70f80cfc82e78284dbbaba26442/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d2a8b70f80cfc82e78284dbbaba26442"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/โบโกตา-เมืองคนหลง-2025-Bogota-city-of-the-lost-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "หล่อสั่งรวย สวยสั่งสู้ (2005) She’s on Duty",
-    "url": "https://lk-hdx.com/shes-on-duty-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/หล่อสั่งรวย-สวยสั่งสู้-2005-Shes-on-Duty-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/RTfRXhYLv_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/หล่อสั่งรวย-สวยสั่งสู้-2005-Shes-on-Duty-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "แข่งป่วนก๊วนฮา แอมะซอน (2025) Amazon Bullseye",
-    "url": "https://lk-hdx.com/amazon-bullseye-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/แข่งป่วนก๊วนฮา-แอมะซอน-2025-Amazon-Bullseye-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/af511e4580b5a143fa9881612466c015/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/af511e4580b5a143fa9881612466c015"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/แข่งป่วนก๊วนฮา-แอมะซอน-2025-Amazon-Bullseye-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Way (2011) สงคราม มิตรภาพ ความรัก",
-    "url": "https://lk-hdx.com/my-way-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/My-Way-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/1M2pt_tSDT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/My-Way-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Merciless (2017) แก๊งค์ระห่ำ โหดทะลุพิกัด",
-    "url": "https://lk-hdx.com/the-merciless-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Merciless-2017-แก๊งค์ระห่ำ-โหดทะลุพิกัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0712e037d142836a474c77b9729c260a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0712e037d142836a474c77b9729c260a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Merciless-2017-แก๊งค์ระห่ำ-โหดทะลุพิกัด-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Ashfall (2019) นรกล้างเมือง",
-    "url": "https://lk-hdx.com/ashfall-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Ashfall-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/89ab625b591a3463582a78dc4fcdbd13/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89ab625b591a3463582a78dc4fcdbd13"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Ashfall-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "หักเหลี่ยมสายลับมายา (2023) Phantom",
-    "url": "https://lk-hdx.com/phantom-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/หักเหลี่ยมสายลับมายา-2023-Phantom-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a25f3372c1cab057fce8b0c46fddd9e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a25f3372c1cab057fce8b0c46fddd9e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/หักเหลี่ยมสายลับมายา-2023-Phantom-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม (2024) Victory",
-    "url": "https://lk-hdx.com/victory-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม-2024-Victory-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/71247bb5644d65ce41cbece7bdfd6b39/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/71247bb5644d65ce41cbece7bdfd6b39"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม-2024-Victory-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "ระห่ำล่า 36 ชั่วโมง (2014) The Target",
-    "url": "https://lk-hdx.com/the-target-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/ระห่ำล่า-36-ชั่วโมง-2014-The-Target-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4566e6747c16eaa5d075d6d95431b6cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4566e6747c16eaa5d075d6d95431b6cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/ระห่ำล่า-36-ชั่วโมง-2014-The-Target-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "เจ้าหญิงจอมวุ่นกับเรื่องยุ่งของชาย 4 คน (2018) The Princess and the Matchmaker",
-    "url": "https://lk-hdx.com/the-princess-and-the-matchmaker-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เจ้าหญิงจอมวุ่นกับเรื่องยุ่งของชาย-4-คน-2018-The-Princess-and-the-Matchmaker-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/251b3ac31dc8353a1a0af41aabac474b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/251b3ac31dc8353a1a0af41aabac474b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/เจ้าหญิงจอมวุ่นกับเรื่องยุ่งของชาย-4-คน-2018-The-Princess-and-the-Matchmaker-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "แบล็กมันนี่ (2019) Black Money",
-    "url": "https://lk-hdx.com/black-money-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/แบล็กมันนี่-2019-Black-Money-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ae87dbdf881c49a1080b5b35980b7fde/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ae87dbdf881c49a1080b5b35980b7fde"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/แบล็กมันนี่-2019-Black-Money-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Front Line (2011) มหาสงครามเฉียดเส้นตาย",
-    "url": "https://lk-hdx.com/the-front-line/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Front-Line-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2585f58dc02283a985a9637c08021509/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2585f58dc02283a985a9637c08021509"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Front-Line-2011-165x248.jpeg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "อัพกูจอง หลอกมาอัพ จัดมาลวง (2022) Men of Plastic",
-    "url": "https://lk-hdx.com/men-of-plastic/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Men-of-Plastic-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/XdMW_3E6WH"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Men-of-Plastic-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Untold Scandal (2003) กลกามหลังราชวงศ์",
-    "url": "https://lk-hdx.com/untold-scandal-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Untold-Scandal-2003-กลกามหลังราชวงศ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/OhHmL4_S6k"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Untold-Scandal-2003-กลกามหลังราชวงศ์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "ดีลนรกคนกินชาติ (2023) The Devil’s Deal",
-    "url": "https://lk-hdx.com/the-devils-deal/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Devils-Deal-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9982b0d7f2515a6887371b58f439d4c3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9982b0d7f2515a6887371b58f439d4c3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Devils-Deal-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "จอมตุ๋นแก๊งค์อัจฉริยะเจ๋งเป้ง (2009) The Scam",
-    "url": "https://lk-hdx.com/the-scam-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Scam-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/84569f2324f6ffa352b050af7f6db421/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/84569f2324f6ffa352b050af7f6db421"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Scam-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "18 พฤษภาทมิฬของเกาหลีใต้ (2007) May 18",
-    "url": "https://lk-hdx.com/may-18-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/May-18-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_RSgRPv3cg"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/May-18-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "อีกนิยามรัก (2005) Sad Movie",
-    "url": "https://lk-hdx.com/sad-movie-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Sad-Movie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dc04046c008952095cc67c6613ca94fb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dc04046c008952095cc67c6613ca94fb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Sad-Movie-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "ยอดนักสืบ พลิกโชซอน (2015) Secret Of The Lost Island",
-    "url": "https://lk-hdx.com/secret-of-the-lost-island/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Secret-Of-The-Lost-Island-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/QwJl_cIueF"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Secret-Of-The-Lost-Island-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Feng Shui (2018) ฮวงจุ้ย",
-    "url": "https://lk-hdx.com/feng-shui-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Feng-Shui-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2ce3b319598df5471df261e46a60560a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2ce3b319598df5471df261e46a60560a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Feng-Shui-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Golden Holiday (2020)",
-    "url": "https://lk-hdx.com/the-golden-holiday-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/The-Golden-Holiday-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d6b761eb118159d1f7068558e445f586/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d6b761eb118159d1f7068558e445f586"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/The-Golden-Holiday-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "A Normal Family (2024) ลูกฉัน เป็นคนดี",
-    "url": "https://lk-hdx.com/a-normal-family-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/A-Normal-Family-2024-ลูกฉัน-เป็นคนดี-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c59facf28b642f8d881610be548d0bc3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c59facf28b642f8d881610be548d0bc3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/A-Normal-Family-2024-ลูกฉัน-เป็นคนดี-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Unfair (2015)",
-    "url": "https://lk-hdx.com/the-unfair-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Unfair-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/874a376cf72c3d2ceb17d265f5904135/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/874a376cf72c3d2ceb17d265f5904135"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Unfair-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Drive (2024)",
-    "url": "https://lk-hdx.com/drive-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/Drive-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbd5b2651dbcf8f305c8eab9da15d08c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbd5b2651dbcf8f305c8eab9da15d08c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/Drive-2024-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Annoying Brother (2016) คุณพี่ชายสุดที่รัก",
-    "url": "https://lk-hdx.com/my-annoying-brother-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/My-Annoying-Brother-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/9E9h_2z0Gj"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/My-Annoying-Brother-165x248.webp",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Haunters (2010) มหาเวทย์สงครามสะท้านโลก",
-    "url": "https://lk-hdx.com/haunters-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Haunters-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e27d54e5aadc880670aef3b1d80b426f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e27d54e5aadc880670aef3b1d80b426f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Haunters-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Host (2006) อสูรนรกกลายพันธุ์",
-    "url": "https://lk-hdx.com/the-host-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Host-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2a6094999d15e763d623dd3f53522df5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a6094999d15e763d623dd3f53522df5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Host-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Sympathy for Mr Vengeance (2002) ความแค้นของชนชั้น",
-    "url": "https://lk-hdx.com/sympathy-for-mr-vengeance-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Sympathy-for-Mr-Vengeance-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8910df3893408f9939663f9e227c1be8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8910df3893408f9939663f9e227c1be8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Sympathy-for-Mr-Vengeance-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "A Tale Of Legendary Libido (2008) ไอ้หนุ่มพลังช้าง ไวอาก้าเรียกพี่",
