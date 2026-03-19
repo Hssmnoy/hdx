@@ -24953,153 +24953,429 @@
   },
   {
     "title": "Backdraft 2 (2019) เปลวไฟกับวีรบุรุษ ภาค 2",
-    "url": "https://lk-hdx.com/backdraft-2-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6c1e828c6f1e3d7e7bf1c07ab71ff7fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6c1e828c6f1e3d7e7bf1c07ab71ff7fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Backdraft 1 (1991) เปลวไฟกับวีรบุรุษ ภาค 1",
-    "url": "https://lk-hdx.com/backdraft-1-1991/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Backdraft-1-1991-เปลวไฟกับวีรบุรุษ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/dZix_jhryP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Backdraft-1-1991-เปลวไฟกับวีรบุรุษ-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "10,000 BC (2008) บุกอาณาจักรโลก 10,000 ปี",
-    "url": "https://lk-hdx.com/10000-bc-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/10000-BC-2008-บุกอาณาจักรโลก-10000-ปี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ec36bddeda0f4273dee3b8de724ff94d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec36bddeda0f4273dee3b8de724ff94d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/10000-BC-2008-บุกอาณาจักรโลก-10000-ปี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mr. Bean’s Holiday (2007) มิสเตอร์บีน พักร้อนนี้มีฮา",
-    "url": "https://lk-hdx.com/mr-beans-holiday-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Mr.-Beans-Holiday-2007-มิสเตอร์บีน-พักร้อนนี้มีฮา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/B0FV4Em_5j"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Mr.-Beans-Holiday-2007-มิสเตอร์บีน-พักร้อนนี้มีฮา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Get Smart (2008) พยัคฆ์ฉลาด เก็กไม่เลิก",
-    "url": "https://lk-hdx.com/get-smart-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Get-Smart-2008-พยัคฆ์ฉลาด-เก็กไม่เลิก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/36a52a91063573e9517b515cb2548e76/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/36a52a91063573e9517b515cb2548e76"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Get-Smart-2008-พยัคฆ์ฉลาด-เก็กไม่เลิก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Public Enemies (2009) วีรบุรุษปล้นสะท้านเมือง",
-    "url": "https://lk-hdx.com/public-enemies-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Public-Enemies-2009-วีรบุรุษปล้นสะท้านเมือง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cb56094a99a96854e7397647e8766d7a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cb56094a99a96854e7397647e8766d7a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Public-Enemies-2009-วีรบุรุษปล้นสะท้านเมือง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Push (2009) พุช โคตรคนเหนือมนุษย์",
-    "url": "https://lk-hdx.com/push-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Push-2009-พุช-โคตรคนเหนือมนุษย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c7a042a3bf0476a832066ea44486aefc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c7a042a3bf0476a832066ea44486aefc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Push-2009-พุช-โคตรคนเหนือมนุษย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Immaculate (2024) บริสุทธิ์ผุดปีศาจ",
-    "url": "https://lk-hdx.com/immaculate-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Immaculate-2024-บริสุทธิ์ผุดปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b7c218558237c49a4ff03f4bdc1a3e4c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b7c218558237c49a4ff03f4bdc1a3e4c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Immaculate-2024-บริสุทธิ์ผุดปีศาจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dorian Gray (2009) ดอเรียน เกรย์ เทพบุตรสาปอมตะ",
-    "url": "https://lk-hdx.com/dorian-gray-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Dorian-Gray-2009-ดอเรียน-เกรย์-เทพบุตรสาปอมตะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bcbd7c1ae10ce7fc8f8e9c345c35180c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bcbd7c1ae10ce7fc8f8e9c345c35180c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Dorian-Gray-2009-ดอเรียน-เกรย์-เทพบุตรสาปอมตะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Warrior’s Way (2010) มหาสงครามโคตรคนต่างพันธุ์",
-    "url": "https://lk-hdx.com/the-warriors-way-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Warriors-Way-2010-มหาสงครามโคตรคนต่างพันธุ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MMvgE_1irx"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Warriors-Way-2010-มหาสงครามโคตรคนต่างพันธุ์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kampon (2023)",
-    "url": "https://lk-hdx.com/kampon-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Kampon-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/467829bc1a9b3266c847187eca556604/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/467829bc1a9b3266c847187eca556604"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Kampon-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Plot to Kill My Mother (2023)",
-    "url": "https://lk-hdx.com/the-plot-to-kill-my-mothe-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Plot-to-Kill-My-Mother-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/02ce83ceffb02d953276701f3d498f30/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/02ce83ceffb02d953276701f3d498f30"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Plot-to-Kill-My-Mother-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nancy Drew and the Hidden Staircase (2019)",
-    "url": "https://lk-hdx.com/nancy-drew-and-the-hidden-staircase-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Nancy-Drew-and-the-Hidden-Staircase-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cbddbc4884d7d09b9bc7b43d74c7f149/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cbddbc4884d7d09b9bc7b43d74c7f149"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Nancy-Drew-and-the-Hidden-Staircase-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Land of the Lost (2009) ข้ามมิติตะลุยแดนมหัศจรรย์",
-    "url": "https://lk-hdx.com/land-of-the-lost-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Land-of-the-Lost-2009-ข้ามมิติตะลุยแดนมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/191c8ee7d28dad40a661ccf323942a68/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/191c8ee7d28dad40a661ccf323942a68"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Land-of-the-Lost-2009-ข้ามมิติตะลุยแดนมหัศจรรย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Guilty (2021)",
-    "url": "https://lk-hdx.com/the-guilty-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Guilty-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9bb5d4a06a2272bc42dd2348a20cbd08/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9bb5d4a06a2272bc42dd2348a20cbd08"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Guilty-2021-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ghostbusters 3 (2016) บริษัทกำจัดผี ภาค 3",
-    "url": "https://lk-hdx.com/ghostbusters-3-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-3-2016-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8f7d10004d475654bdbc8f499bb02fda/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8f7d10004d475654bdbc8f499bb02fda"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-3-2016-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ghostbusters 2 (1989) บริษัทกำจัดผี ภาค 2",
-    "url": "https://lk-hdx.com/ghostbusters-2-1989/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghostbusters-2-1989-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/G_qD5YrRrB"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghostbusters-2-1989-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ghostbusters 1 (1984) บริษัทกำจัดผี ภาค 1",
-    "url": "https://lk-hdx.com/ghostbusters-1-1984/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-1-1984-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/319bffa0f41b5d16f7899d54cda8afd9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/319bffa0f41b5d16f7899d54cda8afd9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-1-1984-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Artemis Fowl (2020) อาร์ทิมิส ฟาวล์",
-    "url": "https://lk-hdx.com/artemis-fowl-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Artemis-Fowl-2020-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/le0ebT_rlO"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Artemis-Fowl-2020-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gunpowder Milkshake (2021) นรกเรียกแม่",
-    "url": "https://lk-hdx.com/gunpowder-milkshake-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gunpowder-Milkshake-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7891045c8a0d8840a9a532a224e03cc7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7891045c8a0d8840a9a532a224e03cc7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gunpowder-Milkshake-2021-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Secret Kingdom (2023) ผจญภัยอาณาจักรมังกร",
-    "url": "https://lk-hdx.com/the-secret-kingdom-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Secret-Kingdom-2023-ผจญภัยอาณาจักรมังกร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3c2c83a07164b7e287f7c707c1ca6dcf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c2c83a07164b7e287f7c707c1ca6dcf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Secret-Kingdom-2023-ผจญภัยอาณาจักรมังกร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Greatest Hits (2024)",
-    "url": "https://lk-hdx.com/the-greatest-hits-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Greatest-Hits-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8665843640b6d6555c1dc514f899282b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8665843640b6d6555c1dc514f899282b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Greatest-Hits-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Classic Horror Story (2021) สร้างหนังสั่งตาย",
-    "url": "https://lk-hdx.com/a-classic-horror-story-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Classic-Horror-Story-2021-สร้างหนังสั่งตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e68226b1bbfd759f73ebd7e772e1e3ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e68226b1bbfd759f73ebd7e772e1e3ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Classic-Horror-Story-2021-สร้างหนังสั่งตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bad Trip (2021) ทริปป่วนคู่อำ",
-    "url": "https://lk-hdx.com/bad-trip-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Trip-2021-ทริปป่วนคู่อำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/260c597d1ad9c0e7e2972f69fad77dc8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/260c597d1ad9c0e7e2972f69fad77dc8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Trip-2021-ทริปป่วนคู่อำ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Piranha 3DD (2012) ปิรันย่า ภาค 2 กัดแหลกแหวกทะลุจอ ดับเบิลดุ",
-    "url": "https://lk-hdx.com/piranha-3dd-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3DD-2012-ปิรันย่า-ภาค-2-กัดแหลกแหวกทะลุจอ-ดับเบิลดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/h9b3gRcH_k"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3DD-2012-ปิรันย่า-ภาค-2-กัดแหลกแหวกทะลุจอ-ดับเบิลดุ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Piranha 3D (2010) ปิรันย่า ภาค 1 กัดแหลกแหวกทะลุ",
-    "url": "https://lk-hdx.com/piranha-3d-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3D-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b89494adebc84ad4ff52b802aa8b62d8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b89494adebc84ad4ff52b802aa8b62d8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3D-2010-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Woody Woodpecker Goes to Camp (2023) วู้ดดี้ เจ้านกหัวขวาน ไปค่าย",
-    "url": "https://lk-hdx.com/woody-woodpecker-goes-to-camp-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Woody-Woodpecker-Goes-to-Camp-2023-วู้ดดี้-เจ้านกหัวขวาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff97d1a7aa784ccd980165e3f27049af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff97d1a7aa784ccd980165e3f27049af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Woody-Woodpecker-Goes-to-Camp-2023-วู้ดดี้-เจ้านกหัวขวาน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Stolen (2024) พราก",
-    "url": "https://lk-hdx.com/stolen-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Stolen-2024-พราก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73533771b98e266cbf725cd02ae84448/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73533771b98e266cbf725cd02ae84448"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Stolen-2024-พราก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Love Divided (2024) ผนังบางๆกั้นสองใจ",
-    "url": "https://lk-hdx.com/love-divided-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Love-Divided-2024-ผนังบางๆกั้นสองใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/564dbd7b12c4f7f87924da3fa0aebcaa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/564dbd7b12c4f7f87924da3fa0aebcaa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Love-Divided-2024-ผนังบางๆกั้นสองใจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
-    "url": "https://lk-hdx.com/army-of-the-dead-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Army-of-the-Dead-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0228bd4f95b43f27ddd0350a79551d81/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0228bd4f95b43f27ddd0350a79551d81"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Army-of-the-Dead-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Army of Thieves (2021) แผนปล้นยุโรปเดือด",
