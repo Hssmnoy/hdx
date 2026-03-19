@@ -2135,153 +2135,453 @@
   },
   {
     "title": "Who Am I? (1998) ใหญ่เต็มฟัด",
-    "url": "https://lk-hdx.com/who-am-i-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/Who-Am-I-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4526da3122103f3fdaf74ba6611ee4e2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4526da3122103f3fdaf74ba6611ee4e2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/Who-Am-I-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Wolf Girl (2025) หมาป่าสาว",
-    "url": "https://lk-hdx.com/wolf-girl-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Wolf-Girl-2025-หมาป่าสาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/64140c99c8be8a3380cd3db12dc228f8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/64140c99c8be8a3380cd3db12dc228f8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Wolf-Girl-2025-หมาป่าสาว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Guanshan grand guardian (2025) กวนซานไท่เป่า",
-    "url": "https://lk-hdx.com/guanshan-grand-guardian-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Guanshan-grand-guardian-2025-กวนซานไท่เป่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9af1f3da0ae5949541755d3952a61db6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9af1f3da0ae5949541755d3952a61db6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Guanshan-grand-guardian-2025-กวนซานไท่เป่า-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Chosen One (2024) หมอผีวิญญาณสั่ง",
-    "url": "https://lk-hdx.com/the-chosen-one-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Chosen-One-2024-หมอผีวิญญาณสั่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d465b47a0d46678f01239d16dc396a10/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d465b47a0d46678f01239d16dc396a10"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Chosen-One-2024-หมอผีวิญญาณสั่ง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Taoist Master (Zhang Sanfeng 2 Tai Chi Master) (2020) นักพรตจางแห่งหุบเขามังกรพยัคฆ์",
-    "url": "https://lk-hdx.com/taoist-master-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Taoist-Master-Zhang-Sanfeng-2-Tai-Chi-Master-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/372561a1cc702201e51538e2185bdeb2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/372561a1cc702201e51538e2185bdeb2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Taoist-Master-Zhang-Sanfeng-2-Tai-Chi-Master-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "GATAO Like Father Like Son (2024) เจ้าพ่อ เชื้อร้ายไม่ทิ้งแถว",
-    "url": "https://lk-hdx.com/gatao-like-father-like-son-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/GATAO-Like-Father-Like-Son-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0b45a4e8bb983bba60c9f58ca21efa2f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b45a4e8bb983bba60c9f58ca21efa2f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/GATAO-Like-Father-Like-Son-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Money Games (2025) ขบวนการปราบเงินตุ๋น",
-    "url": "https://lk-hdx.com/money-games-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Money-Games-2025-ขบวนการปราบเงินตุ๋น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6c202b41b0fca147da360760d84fc185/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6c202b41b0fca147da360760d84fc185"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Money-Games-2025-ขบวนการปราบเงินตุ๋น-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Midnight Inn (2024) โรงเตี๊ยมราตรี",
-    "url": "https://lk-hdx.com/midnight-inn-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Midnight-Inn-2024-โรงเตี๊ยมราตรี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/11ba4a758d1c17c9cba17f4e69d15882/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/11ba4a758d1c17c9cba17f4e69d15882"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Midnight-Inn-2024-โรงเตี๊ยมราตรี-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Dragon Treasure (2024) โลงคุกมังกร",
-    "url": "https://lk-hdx.com/dragon-treasure-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Dragon-Treasure-2024-โลงคุกมังกร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c2ce6c66dc4724dc78d6aa195f7e10e9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2ce6c66dc4724dc78d6aa195f7e10e9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Dragon-Treasure-2024-โลงคุกมังกร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "ตำนานสู่ซาน ยอดกระบี่หวนคืน (2024) Swords Drawn",
-    "url": "https://lk-hdx.com/swords-drawn-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ตำนานสู่ซาน-ยอดกระบี่หวนคืน-2024-Swords-Drawn-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/627727dae202a4723acbb94fe0f04a3a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/627727dae202a4723acbb94fe0f04a3a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ตำนานสู่ซาน-ยอดกระบี่หวนคืน-2024-Swords-Drawn-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "ตำนานผนึกปีศาจภูเขา (2024) The Legend of Shu Mountain Sealing Demons",
-    "url": "https://lk-hdx.com/the-legend-of-shu-mountain-sealing-demons-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ตำนานผนึกปีศาจภูเขา-2024-The-Legend-of-Shu-Mountain-Sealing-Demons-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cd69e4e268bd208f2b85e051cb523747/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cd69e4e268bd208f2b85e051cb523747"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ตำนานผนึกปีศาจภูเขา-2024-The-Legend-of-Shu-Mountain-Sealing-Demons-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Figth Break Sphere 3 (2025) สัประยุทธ์ทะลุฟ้า 3",
-    "url": "https://lk-hdx.com/figth-break-sphere-3-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Figth-Break-Sphere-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/810539e7bbbd317000a15a8c2bb82f10/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/810539e7bbbd317000a15a8c2bb82f10"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Figth-Break-Sphere-3-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Kun In The Distant Ocean (2024) คุน สัตว์ประหลาดแห่งทะเลเหนือ",
-    "url": "https://lk-hdx.com/kun-in-the-distant-ocean-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kun-In-The-Distant-Ocean-2024-คุน-สัตว์ประหลาดแห่งทะเลเหนือ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6e070dbae2dd3b65fb7dea1368d87bb2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6e070dbae2dd3b65fb7dea1368d87bb2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Kun-In-The-Distant-Ocean-2024-คุน-สัตว์ประหลาดแห่งทะเลเหนือ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "สัตว์ประหลาดแห่งทะเลสาบเอ๋อหลง (2025) Monster of Er Long Lake",
-    "url": "https://lk-hdx.com/monster-of-er-long-lake-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Monster-of-Er-Long-Lake-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f7b2320fe4ef89913e72364d01966236/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f7b2320fe4ef89913e72364d01966236"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Monster-of-Er-Long-Lake-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "New Dragon Gate Inn (2024) เดชคัมภีร์แดนพยัคฆ์",
-    "url": "https://lk-hdx.com/new-dragon-gate-inn/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/New-Dragon-Gate-Inn-2024-เดชคัมภีร์แดนพยัคฆ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3132408ab51de4e76ef0bd5f861f7d90/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3132408ab51de4e76ef0bd5f861f7d90"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/New-Dragon-Gate-Inn-2024-เดชคัมภีร์แดนพยัคฆ์-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่ (2025) The Legend of the Condor Heroes The Gallants",
-    "url": "https://lk-hdx.com/the-legend-of-the-condor-heroes-the-gallants-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่-2025-The-Legend-of-the-Condor-Heroes-The-Gallants-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3c16899423365039d8e95e0d024634a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c16899423365039d8e95e0d024634a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่-2025-The-Legend-of-the-Condor-Heroes-The-Gallants-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Strange Memories (2025) ความทรงจำพิศวง",
-    "url": "https://lk-hdx.com/strange-memories-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Strange-Memories-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e6e214f625864d2a34677a223301fb1e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e6e214f625864d2a34677a223301fb1e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Strange-Memories-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Brotherhood Of Blades 3 (2024) มังกรพยัคฆ์ ล่าสะท้านยุทธภพ ภาค 3",
-    "url": "https://lk-hdx.com/brotherhood-of-blades-3/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Brotherhood-Of-Blades-3-2024-มังกรพยัคฆ์-ล่าสะท้านยุทธภพ-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/01eb0011a58158630fe3c7bdd0b660ea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01eb0011a58158630fe3c7bdd0b660ea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Brotherhood-Of-Blades-3-2024-มังกรพยัคฆ์-ล่าสะท้านยุทธภพ-ภาค-3-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Quick Counterattack (2023) ใส่สุดไม่หยุดโต้",
-    "url": "https://lk-hdx.com/quick-counterattack-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Quick-Counterattack-2023-ใส่สุดไม่หยุดโต้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8725f4b04723e2ffba43fc47e3f14c0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8725f4b04723e2ffba43fc47e3f14c0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Quick-Counterattack-2023-ใส่สุดไม่หยุดโต้-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Fate of Devil Devastation (2023) ชะตากรรมหายนะปีศาจ",
-    "url": "https://lk-hdx.com/fate-of-devil-devastation-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Fate-of-Devil-Devastation-2023-ชะตากรรมหายนะปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73d5d622c13840807ae128d9468a98fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73d5d622c13840807ae128d9468a98fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Fate-of-Devil-Devastation-2023-ชะตากรรมหายนะปีศาจ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "ปฏิบัติการนักล่าสไนเปอร์ (2021) Drug Hunting Operation",
-    "url": "https://lk-hdx.com/drug-hunting-operation-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Drug-Hunting-Operation-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8f1ed5a581bc82a8d6afe9bbdc272627/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8f1ed5a581bc82a8d6afe9bbdc272627"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Drug-Hunting-Operation-2021-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "หยางกุ้ยเฟย สนมเอกสะท้านเเผ่นดิน (2015) Lady of The Dynasty",
-    "url": "https://lk-hdx.com/lady-of-the-dynasty-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Lady-of-The-Dynasty-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/84b7501450b5ecd06160b0f03932ce33/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/84b7501450b5ecd06160b0f03932ce33"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Lady-of-The-Dynasty-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "รักเรากัลปาวสาน (2007) Secret",
-    "url": "https://lk-hdx.com/secret-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Secret-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d38b7605ec22a6cd00264414edfe0c81/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d38b7605ec22a6cd00264414edfe0c81"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Secret-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "พรหมลิขิตรักชิงชิว (2025) Lost Destiny",
-    "url": "https://lk-hdx.com/lost-destiny-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/พรหมลิขิตรักชิงชิว-2025-Lost-Destiny-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/419e1198ec1e23fcc3564dd787c967e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/419e1198ec1e23fcc3564dd787c967e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/พรหมลิขิตรักชิงชิว-2025-Lost-Destiny-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Judge Bao Academy Intrigue (2023) เปาบุ้นจิ้นกับโรงเรียนลึกลับ",
-    "url": "https://lk-hdx.com/judge-bao-academy-intrigue-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Judge-Bao-Academy-Intrigue-2023-เปาบุ้นจิ้นกับโรงเรียนลึกลับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa1181c4f721967341e378d0cc4cecf3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa1181c4f721967341e378d0cc4cecf3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Judge-Bao-Academy-Intrigue-2023-เปาบุ้นจิ้นกับโรงเรียนลึกลับ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Novoland (2024) คดีประหลาดแห่งจิ่วโจว",
-    "url": "https://lk-hdx.com/novoland/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Novoland-2024-คดีประหลาดแห่งจิ่วโจว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4a30e60de81652fe305a76ad0126b960/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4a30e60de81652fe305a76ad0126b960"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Novoland-2024-คดีประหลาดแห่งจิ่วโจว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Spiritual Kung Fu (1978) ไอ้หนุ่มพันมือ 2 (เฉินหลง)",
-    "url": "https://lk-hdx.com/spiritual-kung-fu-1978/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Spiritual-Kung-Fu-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3c2a5e1cba7404db3a4be9f556fd6fd5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c2a5e1cba7404db3a4be9f556fd6fd5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Spiritual-Kung-Fu-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Snake in the Eagle’s Shadow (1978) ไอ้หนุ่มพันมือ เด็กหนุ่มนาม (เฉินหลง)",
-    "url": "https://lk-hdx.com/snake-in-the-eagles-shadow-1978/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Snake-in-the-Eagles-Shadow-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2979e9730d1eaabfe0c6b27122a55ac1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2979e9730d1eaabfe0c6b27122a55ac1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Snake-in-the-Eagles-Shadow-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "มังกรหยก ท่องยุทธภพ (2025) The Legend of Condor Hero What is Love",
-    "url": "https://lk-hdx.com/the-legend-of-condor-hero-what-is-love-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/02/มังกรหยก-ท่องยุทธภพ-2025-The-Legend-of-Condor-Hero-What-is-Love-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/309513449006720e88ee090ab21d401e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/309513449006720e88ee090ab21d401e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/02/มังกรหยก-ท่องยุทธภพ-2025-The-Legend-of-Condor-Hero-What-is-Love-165x248.webp",
+    "group": "หนังจีน"
   },
   {
     "title": "สำนักปราบมาร ตอนปลุกมังกร (2019) Zhen Mo Si Cang Long Jue Xing",
-    "url": "https://lk-hdx.com/zhen-mo-si-cang-long-jue-xing-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/สำนักปราบมาร-ตอนปลุกมังกร-2019-Zhen-Mo-Si-Cang-Long-Jue-Xing-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ffc113b2257955963de970f0c27b93e4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ffc113b2257955963de970f0c27b93e4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/สำนักปราบมาร-ตอนปลุกมังกร-2019-Zhen-Mo-Si-Cang-Long-Jue-Xing-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "หลังม่านเมฆ (2025) The Ranger",
