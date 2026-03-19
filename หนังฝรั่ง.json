@@ -30078,152 +30078,436 @@
   {
     "title": "The Ice Road (2021) เหยียบระห่ำ ฝ่านรกเยือกแข็ง",
     "url": "https://lk-hdx.com/the-ice-road-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Ice-Road-2021-เหยียบระห่ำ-ฝ่านรกเยือกแข็ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Ice-Road-2021-เหยียบระห่ำ-ฝ่านรกเยือกแข็ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d5ff5aaf861dfa9db147311cfb524216"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d5ff5aaf861dfa9db147311cfb524216/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Spiral From the Book of Saw (2021) เกมลอกอำมหิต",
     "url": "https://lk-hdx.com/spiral-from-the-book-of-saw-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Spiral-From-the-Book-of-Saw-2021-เกมลอกอำมหิต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Spiral-From-the-Book-of-Saw-2021-เกมลอกอำมหิต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/50805f532fc45d8bf871eb8ff69bb4f0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/50805f532fc45d8bf871eb8ff69bb4f0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Demonic (2021) หมายร่างสิง",
     "url": "https://lk-hdx.com/demonic-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Demonic-2021-หมายร่างสิง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Demonic-2021-หมายร่างสิง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/29c38d6b0164f71f388a7576c2a4ea6c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/29c38d6b0164f71f388a7576c2a4ea6c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pig (2021) หมูข้าหาย กับความหมายของชีวิต",
     "url": "https://lk-hdx.com/pig-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pig-2021-หมูข้าหาย-กับความหมายของชีวิต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pig-2021-หมูข้าหาย-กับความหมายของชีวิต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9d72ad0fbc3d22d9fbc079194d7edd5e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9d72ad0fbc3d22d9fbc079194d7edd5e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Power (2021) ไฟดับ จับผี",
     "url": "https://lk-hdx.com/the-power-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Power-2021-ไฟดับ-จับผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Power-2021-ไฟดับ-จับผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d019e82ca813b6f70879ab1a2e148204"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d019e82ca813b6f70879ab1a2e148204/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Without Remorse (2021) ลบรอยแค้น",
     "url": "https://lk-hdx.com/without-remorse-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Without-Remorse-2021-ลบรอยแค้น-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Without-Remorse-2021-ลบรอยแค้น-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/652641d3e7ebba26c45bcf6b2700ebae"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/652641d3e7ebba26c45bcf6b2700ebae/master.m3u8"
+      }
+    ]
   },
   {
     "title": "In Full Bloom (2019) หมัดนี้ขอเต็มที่",
     "url": "https://lk-hdx.com/in-full-bloom-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/In-Full-Bloom-2019-หมัดนี้ขอเต็มที่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/In-Full-Bloom-2019-หมัดนี้ขอเต็มที่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/552a5f001e0190e62aff125753cf6db0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/552a5f001e0190e62aff125753cf6db0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Venus (2022)",
     "url": "https://lk-hdx.com/venus-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Venus-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Venus-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5314d9890e88ba10ef6193ae68753f86"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5314d9890e88ba10ef6193ae68753f86/master.m3u8"
+      }
+    ]
   },
   {
     "title": "WarHunt (2022)",
     "url": "https://lk-hdx.com/warhunt-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/WarHunt-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/WarHunt-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1b70956a10d4b7cda84c72e4f35a2b50"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1b70956a10d4b7cda84c72e4f35a2b50/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hollow Point (2019) ฮอลโลว์พอยต์",
     "url": "https://lk-hdx.com/hollow-point-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hollow-Point-2019-ฮอลโลว์พอยต์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hollow-Point-2019-ฮอลโลว์พอยต์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/11a61cf3ffb807d9754f597410d5190b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/11a61cf3ffb807d9754f597410d5190b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Not Alone (2021)",
     "url": "https://lk-hdx.com/not-alone-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Not-Alone-2021-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Not-Alone-2021-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_nfgjuVBIX"
+      }
+    ]
   },
   {
     "title": "Stand Up Guys (2013) ไม่อยากเจ็บตัว อย่าหัวเราะปู่",
     "url": "https://lk-hdx.com/stand-up-guys-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Stand-Up-Guys-2013-ไม่อยากเจ็บตัว-อย่าหัวเราะปู่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Stand-Up-Guys-2013-ไม่อยากเจ็บตัว-อย่าหัวเราะปู่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fe8aca75232f9179169cae6eb26c063f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fe8aca75232f9179169cae6eb26c063f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pain & Gain (2013) ไม่เจ็บ ไม่รวย",
     "url": "https://lk-hdx.com/pain-gain-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pain-Gain-2013-ไม่เจ็บ-ไม่รวย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Pain-Gain-2013-ไม่เจ็บ-ไม่รวย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1f9292d94ff9bf516dd88837ad395b4b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1f9292d94ff9bf516dd88837ad395b4b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Mortal Instruments City of Bones (2013) นักรบครึ่งเทวดา",
     "url": "https://lk-hdx.com/the-mortal-instruments-city-of-bones-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Mortal-Instruments-City-of-Bones-2013-นักรบครึ่งเทวดา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Mortal-Instruments-City-of-Bones-2013-นักรบครึ่งเทวดา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d0c4cf37fca0314ec77f6c2ef555260f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d0c4cf37fca0314ec77f6c2ef555260f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Elysium (2013) เอลิเซียม ปฏิบัติการยึดดาวอนาคต",
     "url": "https://lk-hdx.com/elysium-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Elysium-2013-เอลิเซียม-ปฏิบัติการยึดดาวอนาคต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Elysium-2013-เอลิเซียม-ปฏิบัติการยึดดาวอนาคต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Qea_lFeRMw"
+      }
+    ]
   },
   {
     "title": "Don Jon (2013) รักติดเรท",
     "url": "https://lk-hdx.com/don-jon-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Don-Jon-2013-รักติดเรท-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Don-Jon-2013-รักติดเรท-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Q6o_WDYdN3"
+      }
+    ]
   },
   {
     "title": "Against the Clock (2019) เฮดร็อค",
     "url": "https://lk-hdx.com/against-the-clock-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Against-the-Clock-2019-เฮดร็อค-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Against-the-Clock-2019-เฮดร็อค-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dc130e97a74a0a83fef791beaaef29f0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dc130e97a74a0a83fef791beaaef29f0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Unhuman (2022) อมนุษย์",
     "url": "https://lk-hdx.com/unhuman-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Unhuman-2022-อมนุษย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Unhuman-2022-อมนุษย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d697d04cf48a1e9077fc6c2dce3f304f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d697d04cf48a1e9077fc6c2dce3f304f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "V for Vengeance (2022)",
     "url": "https://lk-hdx.com/v-for-vengeance-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/V-for-Vengeance-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/V-for-Vengeance-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0ace46735df50851889e9de9e256ed60"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0ace46735df50851889e9de9e256ed60/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Kill Mode (2020)",
     "url": "https://lk-hdx.com/kill-mode-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kill-Mode-2020-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kill-Mode-2020-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8802ccc55b5f34346ec314230aacae3a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8802ccc55b5f34346ec314230aacae3a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Princess (2022) เดอะ ปริ้นเซส",
     "url": "https://lk-hdx.com/the-princess-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Princess-2022-เดอะ-ปริ้นเซส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Princess-2022-เดอะ-ปริ้นเซส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6c94b1e67c78bff6c629fc14f627a63a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6c94b1e67c78bff6c629fc14f627a63a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Visitor from the Future (2022)",
     "url": "https://lk-hdx.com/the-visitor-from-the-future-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Visitor-from-the-Future-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Visitor-from-the-Future-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f851c25c9e0b2402b2466ffb25107d6d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f851c25c9e0b2402b2466ffb25107d6d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Acid (2018) กรด",
     "url": "https://lk-hdx.com/acid-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Acid-2018-กรด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Acid-2018-กรด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_V1_lENcd0"
+      }
+    ]
   },
   {
     "title": "The Sleepover (2020) เดอะ สลีปโอเวอร์",
     "url": "https://lk-hdx.com/the-sleepover-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Sleepover-2020-เดอะ-สลีปโอเวอร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Sleepover-2020-เดอะ-สลีปโอเวอร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/06e358e52fd57856c617c38997102101"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/06e358e52fd57856c617c38997102101/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Water Man (2020) เดอะ วอเตอร์ แมน",
     "url": "https://lk-hdx.com/the-water-man-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Water-Man-2020-เดอะ-วอเตอร์-แมน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Water-Man-2020-เดอะ-วอเตอร์-แมน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/978d971212ecde1a0e2ba96e765d4260"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/978d971212ecde1a0e2ba96e765d4260/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Deadly Vengeance (2019) การแก้แค้นมรณะ",
     "url": "https://lk-hdx.com/deadly-vengeance-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Deadly-Vengeance-2019-การแก้แค้นมรณะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Deadly-Vengeance-2019-การแก้แค้นมรณะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0d7f167ed0c648fe5d969028e3ca085b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0d7f167ed0c648fe5d969028e3ca085b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fatal Deceit (2019) การหลอกลวงร้ายแรง",
     "url": "https://lk-hdx.com/fatal-deceit-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fatal-Deceit-2019-การหลอกลวงร้ายแรง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fatal-Deceit-2019-การหลอกลวงร้ายแรง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c08f9c6e616d8b223ea0429e44cfffcb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c08f9c6e616d8b223ea0429e44cfffcb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Einstein and the Bomb (2024) ไอน์สไตน์และระเบิด",
     "url": "https://lk-hdx.com/einstein-and-the-bomb-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Einstein-and-the-Bomb-2024-ไอน์สไตน์และระเบิด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Einstein-and-the-Bomb-2024-ไอน์สไตน์และระเบิด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/804da3d61f0e1d2844055e19b1109aba"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/804da3d61f0e1d2844055e19b1109aba/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Please Don’t Destroy The Treasure of Foggy Mountain (2023)",
     "url": "https://lk-hdx.com/please-dont-destroy-the-treasure-of-foggy-mountain-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Please-Dont-Destroy-The-Treasure-of-Foggy-Mountain-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Please-Dont-Destroy-The-Treasure-of-Foggy-Mountain-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ac8c33c976606aac23b432322210dd45"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ac8c33c976606aac23b432322210dd45/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Book of Clarence (2023)",
     "url": "https://lk-hdx.com/the-book-of-clarence-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Book-of-Clarence-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Book-of-Clarence-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b1ff77be0446478004c987dcb1922ec6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b1ff77be0446478004c987dcb1922ec6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mank (2020) แมงค์",
