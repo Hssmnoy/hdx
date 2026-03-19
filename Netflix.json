@@ -3433,153 +3433,421 @@
   },
   {
     "title": "10 Days of a Curious Man (2024) 10 วันของคนอยากรู้อยากเห็น",
-    "url": "https://lk-hdx.com/10-days-of-a-curious-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/10-Days-of-a-Curious-Man-2024-10-วันของคนอยากรู้อยากเห็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7786be3cd161bbf9ede79836ae98560c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7786be3cd161bbf9ede79836ae98560c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/10-Days-of-a-Curious-Man-2024-10-วันของคนอยากรู้อยากเห็น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Meet Me Next Christmas (2024) เจอกันคริสต์มาสหน้า",
-    "url": "https://lk-hdx.com/meet-me-next-christmas-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Meet-Me-Next-Christmas-2024-เจอกันคริสต์มาสหน้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8bf80256c7c37c79c1e78a01da35c459/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8bf80256c7c37c79c1e78a01da35c459"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Meet-Me-Next-Christmas-2024-เจอกันคริสต์มาสหน้า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Pedro Páramo (2024)",
-    "url": "https://lk-hdx.com/pedro-paramo-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Pedro-Paramo-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fed336d2c6d7d61f4a7fb4c6999e9cc6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fed336d2c6d7d61f4a7fb4c6999e9cc6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Pedro-Paramo-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "It’s All Over The Kiss That Changed Spanish Football (2024) จูบที่พลิกฟุตบอลสเปน",
-    "url": "https://lk-hdx.com/its-all-over-the-kiss-that-changed-spanish-football-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Its-All-Over-The-Kiss-That-Changed-Spanish-Football-2024-จูบที่พลิกฟุตบอลสเปน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_pxDfiRXzJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Its-All-Over-The-Kiss-That-Changed-Spanish-Football-2024-จูบที่พลิกฟุตบอลสเปน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Let Go (2024) ปล่อย",
-    "url": "https://lk-hdx.com/let-go-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Let-Go-2024-ปล่อย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/96548008eb80dfb1b92b5701530a7cfc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/96548008eb80dfb1b92b5701530a7cfc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Let-Go-2024-ปล่อย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Martha (2024) มาร์ธา",
-    "url": "https://lk-hdx.com/martha-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Martha-2024-มาร์ธา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbbd6de73330c984aed0810a05f4a2f4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbbd6de73330c984aed0810a05f4a2f4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Martha-2024-มาร์ธา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Time Cut (2024) เจาะเวลาฆ่าอดีต",
-    "url": "https://lk-hdx.com/time-cut-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Time-Cut-2024-เจาะเวลาฆ่าอดีต-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MEG2_stt4a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Time-Cut-2024-เจาะเวลาฆ่าอดีต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Olivia Rodrigo GUTS World Tour (2024)",
-    "url": "https://lk-hdx.com/olivia-rodrigo-guts-world-tour-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Olivia-Rodrigo-GUTS-World-Tour-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/lEfW_vb5yo"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Olivia-Rodrigo-GUTS-World-Tour-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Do Patti (2024)",
-    "url": "https://lk-hdx.com/do-patti-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Do-Patti-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/54287cfe74535f4c0c838eadd41bd2cd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54287cfe74535f4c0c838eadd41bd2cd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Do-Patti-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Remarkable Life of Ibelin (2024) อีเบลิน สุดยอดชีวิตเกมเมอร์",
-    "url": "https://lk-hdx.com/the-remarkable-life-of-ibelin-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Remarkable-Life-of-Ibelin-2024-อีเบลิน-สุดยอดชีวิตเกมเมอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f8d2af292b2c323490b07cfd06886149/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f8d2af292b2c323490b07cfd06886149"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Remarkable-Life-of-Ibelin-2024-อีเบลิน-สุดยอดชีวิตเกมเมอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Family Pack (2024) เกมมนุษย์หมาป่า",
-    "url": "https://lk-hdx.com/family-pack-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Family-Pack-2024-เกมมนุษย์หมาป่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/gXbA_ZqV1y"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Family-Pack-2024-เกมมนุษย์หมาป่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Turnaround (2024) เดอะ เทิร์นอะราวด์",
-    "url": "https://lk-hdx.com/the-turnaround-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Turnaround-2024-เดอะ-เทิร์นอะราวด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/78560b9d6096704eae457a5310ea7b2d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/78560b9d6096704eae457a5310ea7b2d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Turnaround-2024-เดอะ-เทิร์นอะราวด์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Happiness Is (2024)",
-    "url": "https://lk-hdx.com/happiness-is-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Happiness-Is-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff7f273779d2c61407702ef4c34a940c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff7f273779d2c61407702ef4c34a940c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Happiness-Is-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Man Who Loved UFOs (2024) ชายผู้คลั่งไคล้ยูเอฟโอ",
-    "url": "https://lk-hdx.com/the-man-who-loved-ufos-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs-2024-ชายผู้คลั่งไคล้ยูเอฟโอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f1a43a6b3d40f02b0c06223ab7522448/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f1a43a6b3d40f02b0c06223ab7522448"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs-2024-ชายผู้คลั่งไคล้ยูเอฟโอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sing Thriller (2024) ร้องจริง เสียงจริง Thriller",
-    "url": "https://lk-hdx.com/sing-thriller-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Sing-Thriller-2024-ร้องจริง-เสียงจริง-Thriller-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/23f62995983567a7509ea2b4ea8bfe73/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/23f62995983567a7509ea2b4ea8bfe73"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Sing-Thriller-2024-ร้องจริง-เสียงจริง-Thriller-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Outside (2024) เอาท์ไซด์",
-    "url": "https://lk-hdx.com/outside-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Outside-2024-เอาท์ไซด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d2ef1efc33b8b2f128510a6e23b41f1e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d2ef1efc33b8b2f128510a6e23b41f1e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Outside-2024-เอาท์ไซด์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Shadow Strays (2024) นักฆ่าเงาล่าทรชน",
-    "url": "https://lk-hdx.com/the-shadow-strays-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Shadow-Strays-2024-นักฆ่าเงาล่าทรชน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b5aef0e6c1da477c921dd627a017689/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b5aef0e6c1da477c921dd627a017689"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Shadow-Strays-2024-นักฆ่าเงาล่าทรชน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Justice (2024) ล่าความยุติธรรม",
-    "url": "https://lk-hdx.com/justice-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Justice-2024-ล่าความยุติธรรม-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v_pkpwPX3a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Justice-2024-ล่าความยุติธรรม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sweet Bobby My Catfish Nightmare (2024) ฝันร้ายภัยนักตุ๋น",
-    "url": "https://lk-hdx.com/sweet-bobby-my-catfish-nightmare-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Sweet-Bobby-My-Catfish-Nightmare-2024-ฝันร้ายภัยนักตุ๋น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2aefaff1a93b4245c85513447875bd96/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2aefaff1a93b4245c85513447875bd96"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Sweet-Bobby-My-Catfish-Nightmare-2024-ฝันร้ายภัยนักตุ๋น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "In Her Place (2024) ชีวิตบนเส้นขนาน",
-    "url": "https://lk-hdx.com/in-her-place-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/In-Her-Place-2024-ชีวิตบนเส้นขนาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e121fae342063700a5e4e4618ec1d4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e121fae342063700a5e4e4618ec1d4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/In-Her-Place-2024-ชีวิตบนเส้นขนาน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Breaking the Silence The Maria Soledad Case (2024) มาเรีย โซเลดัด ทำลายความเงียบ",
-    "url": "https://lk-hdx.com/breaking-the-silence-the-maria-soledad-case-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Breaking-the-Silence-The-Maria-Soledad-Case-2024-มาเรีย-โซเลดัด-ทำลายความเงียบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2a8e64688b910ed19e62ada01b4aef9a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a8e64688b910ed19e62ada01b4aef9a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Breaking-the-Silence-The-Maria-Soledad-Case-2024-มาเรีย-โซเลดัด-ทำลายความเงียบ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Uprising (2024) กบฏผงาดแผ่นดิน",
-    "url": "https://lk-hdx.com/uprising-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Uprising-2024-กบฏผงาดแผ่นดิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e56b5ba6ee3902bdad89be01bff8e84d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e56b5ba6ee3902bdad89be01bff8e84d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Uprising-2024-กบฏผงาดแผ่นดิน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lonely Planet (2024) ที่หมายใจโดดเดี่ยว",
-    "url": "https://lk-hdx.com/lonely-planet-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Lonely-Planet-2024-ที่หมายใจโดดเดี่ยว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a8ca6b11b9ac7ef0e0691d5cbad33232/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a8ca6b11b9ac7ef0e0691d5cbad33232"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Lonely-Planet-2024-ที่หมายใจโดดเดี่ยว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Menendez Brothers (2024) พี่น้องเมเนนเดซ",
-    "url": "https://lk-hdx.com/the-menendez-brothers-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Menendez-Brothers-2024-พี่น้องเมเนนเดซ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_p4F8Gb3qE"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Menendez-Brothers-2024-พี่น้องเมเนนเดซ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "CTRL (2024) คอนโทรล",
-    "url": "https://lk-hdx.com/ctrl-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/CTRL-2024-คอนโทรล-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fCmd_779LS"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/CTRL-2024-คอนโทรล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "It’s What’s Inside (2024) กระเป๋าลับสลับร่าง",
-    "url": "https://lk-hdx.com/its-whats-inside-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Its-Whats-Inside-2024-กระเป๋าลับสลับร่าง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/XyMXgy4f_c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Its-Whats-Inside-2024-กระเป๋าลับสลับร่าง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Platform 2 (2024) เดอะ แพลตฟอร์ม ภาค 2",
-    "url": "https://lk-hdx.com/the-platform-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Platform-2-2024-เดอะ-แพลตฟอร์ม-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1052bac27b1426e88bf1831e321c6cb4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1052bac27b1426e88bf1831e321c6cb4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Platform-2-2024-เดอะ-แพลตฟอร์ม-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Trouble (2024) ผิดที่ ผิดทาง",
-    "url": "https://lk-hdx.com/trouble-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Trouble-2024-ผิดที่-ผิดทาง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/37e16765219d0406ada94f67f08727b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/37e16765219d0406ada94f67f08727b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Trouble-2024-ผิดที่-ผิดทาง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rez Ball (2024) เรซบอล",
-    "url": "https://lk-hdx.com/rez-ball-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Rez-Ball-2024-เรซบอล-พากย์ไทย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/efc59a7f76dab609f69673957cb1f47e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/efc59a7f76dab609f69673957cb1f47e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Rez-Ball-2024-เรซบอล-พากย์ไทย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Will & Harper (2024) วิลกับฮาร์เปอร์ คู่ซี้ท่องอเมริกา",
-    "url": "https://lk-hdx.com/will-harper-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Will-Harper-2024-วิลกับฮาร์เปอร์-คู่ซี้ท่องอเมริกา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/76a30e97a83076585bba3c6ff8efa794/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/76a30e97a83076585bba3c6ff8efa794"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/Will-Harper-2024-วิลกับฮาร์เปอร์-คู่ซี้ท่องอเมริกา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A True Gentleman (2024) สุภาพบุรุษตัวจริง",
