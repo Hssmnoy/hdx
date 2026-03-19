@@ -11635,153 +11635,433 @@
   },
   {
     "title": "Y2K (2024)",
-    "url": "https://lk-hdx.com/y2k-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Y2K-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7fd30e8892c7a5df91f111de724c347a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7fd30e8892c7a5df91f111de724c347a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/Y2K-2024-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Man with the Iron Fists 2 (2015) วีรบุรุษหมัดเหล็ก ภาค 2",
-    "url": "https://lk-hdx.com/the-man-with-the-iron-fists-2-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Man-with-the-Iron-Fists-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7cdd4cf62ce8cb329a29417032db1a1f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7cdd4cf62ce8cb329a29417032db1a1f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Man-with-the-Iron-Fists-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Man with the Iron Fists 1 (2012) วีรบุรุษหมัดเหล็ก ภาค 1",
-    "url": "https://lk-hdx.com/the-man-with-the-iron-fists-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Man-with-the-Iron-Fists-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/0_5z_W6xoz"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/The-Man-with-the-Iron-Fists-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สองวัยใส หัวใจยืนหนึ่ง (2020) Unpregnant",
-    "url": "https://lk-hdx.com/unpregnant-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/12/สองวัยใส-หัวใจยืนหนึ่ง-2020-Unpregnant-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9146d4c04406e50273918dc2d5cfca93/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9146d4c04406e50273918dc2d5cfca93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/12/สองวัยใส-หัวใจยืนหนึ่ง-2020-Unpregnant-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "บ้านสั่งตาย (2024) Heretic",
-    "url": "https://lk-hdx.com/heretic-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/บ้านสั่งตาย-2024-Heretic-1-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41b1732f1473f8728040626381a01fec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41b1732f1473f8728040626381a01fec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/บ้านสั่งตาย-2024-Heretic-1-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สัมผัส (2024) Touch",
-    "url": "https://lk-hdx.com/touch-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/สัมผัส-2024-Touch-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/020b4cb858a7715f88c27e4810cbe0a2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/020b4cb858a7715f88c27e4810cbe0a2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/สัมผัส-2024-Touch-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "มองชีวิตผ่านคังค์ (2025) Cunk on Life",
-    "url": "https://lk-hdx.com/cunk-on-life-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/มองชีวิตผ่านคังค์-2025-Cunk-on-Life-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a240708b8d2ca6ace238c57c6866fb6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a240708b8d2ca6ace238c57c6866fb6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/มองชีวิตผ่านคังค์-2025-Cunk-on-Life-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beverly Hills Chihuahua 3 Viva La Fiesta (2012) คุณหมาไฮโซ โกบ้านนอก ภาค 3",
-    "url": "https://lk-hdx.com/beverly-hills-chihuahua-3-viva-la-fiesta-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Beverly-Hills-Chihuahua-3-Viva-La-Fiesta--165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/88f8baebee285ef652b495308c2b5a78/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/88f8baebee285ef652b495308c2b5a78"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/Beverly-Hills-Chihuahua-3-Viva-La-Fiesta--165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beverly Hills Chihuahua 2 (2011) คุณหมาไฮโซ โกบ้านนอก ภาค 2",
-    "url": "https://lk-hdx.com/beverly-hills-chihuahua-2-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Beverly-Hills-Chihuahua-2-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f39273954adec34d61b1f65048fd69fa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f39273954adec34d61b1f65048fd69fa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/Beverly-Hills-Chihuahua-2-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beverly Hills Chihuahua (2008) คุณหมาไฮโซ โกบ้านนอก",
-    "url": "https://lk-hdx.com/beverly-hills-chihuahua-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Beverly-Hills-Chihuahua-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/iMr77_5KBl"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Beverly-Hills-Chihuahua-2008-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สุดทางโหด (2014) Beyond the Reach",
-    "url": "https://lk-hdx.com/beyond-the-reach-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Beyond-the-Reach-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/1yrBppX_Da"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/Beyond-the-Reach-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เดอะ ลองเกส ไรด์ ระยะทางพิสูจน์รัก (2015) The Longest Ride",
-    "url": "https://lk-hdx.com/the-longest-ride-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Longest-Ride-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3ae1a4af4c8a2414d00b986610441970/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3ae1a4af4c8a2414d00b986610441970"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Longest-Ride-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ล่านรกบาปนักบุญ (2014) Persecuted",
-    "url": "https://lk-hdx.com/persecuted-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/ล่านรกบาปนักบุญ-2014-Persecuted-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/cGwL_VroZG"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/ล่านรกบาปนักบุญ-2014-Persecuted-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เฮลล์บอย ฮีโร่พันธุ์นรก ภาค 4 (2024) Hellboy The Crooked Man",
-    "url": "https://lk-hdx.com/hellboy-the-crooked-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เฮลล์บอย-ฮีโร่พันธุ์นรก-ภาค-4-2024-Hellboy-The-Crooked-Man-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a29973db4e1a44876499714059912bf7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a29973db4e1a44876499714059912bf7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/เฮลล์บอย-ฮีโร่พันธุ์นรก-ภาค-4-2024-Hellboy-The-Crooked-Man-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คนหอนกลายพันธุ์ (2024) Werewolves",
-    "url": "https://lk-hdx.com/werewolves-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/คนหอนกลายพันธุ์-2024-Werewolves-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/80fbf80bcf87025626326059b3daffca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/80fbf80bcf87025626326059b3daffca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/คนหอนกลายพันธุ์-2024-Werewolves-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Red One (2024) เรด วัน",
-    "url": "https://lk-hdx.com/red-one/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Red-One-2024-เรด-วัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/377e30947f12d8c6cacd7d229e333b74/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/377e30947f12d8c6cacd7d229e333b74"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/11/Red-One-2024-เรด-วัน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "แผนจี๊ดๆ คิดได้ไง (2014) The Voices",
-    "url": "https://lk-hdx.com/the-voices-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/แผนจี๊ดๆ-คิดได้ไง-2014-The-Voices-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7780b5a88d6f6416dff3c0e0ef9cbb14/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7780b5a88d6f6416dff3c0e0ef9cbb14"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/แผนจี๊ดๆ-คิดได้ไง-2014-The-Voices-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เปลือยดูดชีพ (2004) Decoys",
-    "url": "https://lk-hdx.com/decoys-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เปลือยดูดชีพ-2004-Decoys-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ac5dd9b1c09dd57f8be2a4d2af94ebb2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac5dd9b1c09dd57f8be2a4d2af94ebb2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/เปลือยดูดชีพ-2004-Decoys-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "แค้นได้ตายไม่เป็น (2013) Dead Man Down",
-    "url": "https://lk-hdx.com/dead-man-down-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/แค้นได้ตายไม่เป็น-2013-Dead-Man-Down-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9730cc7f5f04e35f433cd3815f520151/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9730cc7f5f04e35f433cd3815f520151"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/แค้นได้ตายไม่เป็น-2013-Dead-Man-Down-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "สวนน้ำซอมบี้ (2021) Aquarium of the Dead",
-    "url": "https://lk-hdx.com/aquarium-of-the-dead-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/สวนน้ำซอมบี้-2021-Aquarium-of-the-Dead-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/386881eb84baa232198937697ae60530/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/386881eb84baa232198937697ae60530"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/สวนน้ำซอมบี้-2021-Aquarium-of-the-Dead-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คริสต์มาสนี้ที่วินด์มิลล์เวย์ (2023) Christmas on Windmill Way",
-    "url": "https://lk-hdx.com/christmas-on-windmill-way-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/คริสต์มาสนี้ที่วินด์มิลล์เวย์-2023-Christmas-on-Windmill-Way-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5e0bcd37d22e2086d9e4459fa36a7347/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e0bcd37d22e2086d9e4459fa36a7347"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/คริสต์มาสนี้ที่วินด์มิลล์เวย์-2023-Christmas-on-Windmill-Way-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คริสต์มาสเดตฉบับรอยัล (2023) A Royal Date for Christmas",
-    "url": "https://lk-hdx.com/a-royal-date-for-christmas-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/คริสต์มาสเดตฉบับรอยัล-2023-A-Royal-Date-for-Christmas-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db2c19effdbd25716cd5c76fc192363d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db2c19effdbd25716cd5c76fc192363d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/คริสต์มาสเดตฉบับรอยัล-2023-A-Royal-Date-for-Christmas-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "แผนรักฉุดใจ (2025) The Love Scam",
-    "url": "https://lk-hdx.com/the-love-scam-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/แผนรักฉุดใจ-2025-The-Love-Scam-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_8mIwKrkKB"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/แผนรักฉุดใจ-2025-The-Love-Scam-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Stream (2024)",
-    "url": "https://lk-hdx.com/stream-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Stream-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8a62178030e636d2b9d4fe89e01459e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8a62178030e636d2b9d4fe89e01459e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/Stream-2024-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Carrie Pilby (2016) แคร์รี่ พิลบี้",
-    "url": "https://lk-hdx.com/carrie-pilby-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Carrie-Pilby-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/24cc653a1d89133f37db583f4e34a35f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/24cc653a1d89133f37db583f4e34a35f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Carrie-Pilby-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Young & Beautiful (2013) ซ่อนรักสาวจิ้นเว่อร์",
-    "url": "https://lk-hdx.com/young-beautiful-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Young-Beautiful-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9a93b0e403ec34e87ccd1db69588864f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9a93b0e403ec34e87ccd1db69588864f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Young-Beautiful-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เดอะ บีสต์ วิทอิน (2024) The Beast Within",
-    "url": "https://lk-hdx.com/the-beast-within-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/เดอะ-บีสต์-วิทอิน-2024-The-Beast-Within-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2bfd47a4810f44fbda3cf1bf80287609/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2bfd47a4810f44fbda3cf1bf80287609"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/เดอะ-บีสต์-วิทอิน-2024-The-Beast-Within-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "For Love or Money (2019) รักฉันนั้นเพื่อ ใคร",
-    "url": "https://lk-hdx.com/for-love-or-money-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/For-Love-or-Money-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3aeaeb5d3d62bc8bbcb2f372981fd39b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3aeaeb5d3d62bc8bbcb2f372981fd39b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/For-Love-or-Money-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Spontaneous (2020) ระเบิดรักไม่ทันตั้งตัว",
-    "url": "https://lk-hdx.com/spontaneous-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Spontaneous-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0bfbe8710ef02e89b8d8db79a7a372f8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0bfbe8710ef02e89b8d8db79a7a372f8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Spontaneous-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ส่องให้เห็นผี (2013) Oculus",
-    "url": "https://lk-hdx.com/oculus-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Oculus-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c6954c1aec717658e6bf08c3f3e3da7d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c6954c1aec717658e6bf08c3f3e3da7d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Oculus-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "พ่อตาซ่าส์ วิวาห์ป่วง (2013) The Big Wedding",
