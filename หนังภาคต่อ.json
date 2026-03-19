@@ -6049,153 +6049,437 @@
   },
   {
     "title": "Peter Rabbit 2 The Runaway (2021) ปีเตอร์ แรบบิท ภาค 2",
-    "url": "https://lk-hdx.com/peter-rabbit-2-the-runaway-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Peter-Rabbit-2-The-Runaway-2021-ปีเตอร์-แรบบิท-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0c07a85edc719c7f2f9d942f8eb544b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0c07a85edc719c7f2f9d942f8eb544b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Peter-Rabbit-2-The-Runaway-2021-ปีเตอร์-แรบบิท-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Peter Rabbit 1 (2018) ปีเตอร์ แรบบิท ภาค 1",
-    "url": "https://lk-hdx.com/peter-rabbit-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Peter-Rabbit-1-2018-ปีเตอร์-แรบบิท-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cba456f41c7e19ea52595b99ad07cf6f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cba456f41c7e19ea52595b99ad07cf6f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Peter-Rabbit-1-2018-ปีเตอร์-แรบบิท-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Princess Diaries 2 Royal Engagement (2004) บันทึกรักเจ้าหญิงวุ่นลุ้นวิวาห์",
-    "url": "https://lk-hdx.com/the-princess-diaries-2-royal-engagement-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-2-Royal-Engagement-2004-บันทึกรักเจ้าหญิงวุ่นลุ้นวิวาห์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ex_2gRDFXt"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-2-Royal-Engagement-2004-บันทึกรักเจ้าหญิงวุ่นลุ้นวิวาห์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Princess Diaries 1 (2001) บันทึกรักเจ้าหญิงมือใหม่",
-    "url": "https://lk-hdx.com/the-princess-diaries-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-1-2001-บันทึกรักเจ้าหญิงมือใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8b377c275f782e31c10e465f585ac8f0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b377c275f782e31c10e465f585ac8f0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Princess-Diaries-1-2001-บันทึกรักเจ้าหญิงมือใหม่-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Lord Of The Rings 3 The Return Of The King (2003) มหาสงครามชิงพิภพ",
-    "url": "https://lk-hdx.com/the-lord-of-the-rings-3-the-return-of-the-king-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lord-Of-The-Rings-3-The-Return-Of-The-King-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/03e1004cb42df673e66f84eb8fe3959d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/03e1004cb42df673e66f84eb8fe3959d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Lord-Of-The-Rings-3-The-Return-Of-The-King-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Lord of The Rings 2 The Two Towers (2002) ศึกหอคอยคู่กู้พิภพ",
-    "url": "https://lk-hdx.com/the-lord-of-the-rings-2-the-two-towers-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Lord-of-The-Rings-2-The-Two-Towers-2002-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4cc0c56d2ebb0ac30f94b5c191538616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4cc0c56d2ebb0ac30f94b5c191538616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Lord-of-The-Rings-2-The-Two-Towers-2002-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Lord Of The Rings 1 The Fellowship Of The Ring (2001) อภินิหารแหวนครองพิภพ",
-    "url": "https://lk-hdx.com/the-lord-of-the-rings-1-the-fellowship-of-the-ring-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Lord-of-the-Rings-1-The-Fellowship-of-the-Ring-2001-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2b9a07849acea87be52d898eb4267197/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2b9a07849acea87be52d898eb4267197"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Lord-of-the-Rings-1-The-Fellowship-of-the-Ring-2001-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Tangled Ever After (2012) วุ่นวายวันวิวาห์ของราพันเซล",
-    "url": "https://lk-hdx.com/tangled-ever-after-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Tangled-Ever-After-2012-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/OziXtG_ryS"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Tangled-Ever-After-2012-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Tangled (2010) ราพันเซล เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ",
-    "url": "https://lk-hdx.com/tangled-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Tangled-2010-ราพันเซล-เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/9gnt_bZ0F2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Tangled-2010-ราพันเซล-เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Cloudy with a Chance of Meatballs 2 (2013) มหัศจรรย์ของกินดิ้นได้",
-    "url": "https://lk-hdx.com/cloudy-with-a-chance-of-meatballs-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Cloudy-with-a-Chance-of-Meatballs-2-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/33624ad40b4fe865dfe19c34b138ff5a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/33624ad40b4fe865dfe19c34b138ff5a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Cloudy-with-a-Chance-of-Meatballs-2-2013-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Cloudy with a Chance of Meatballs 1 (2009) มหัศจรรย์ลูกชิ้นตกทะลุมิติ",
-    "url": "https://lk-hdx.com/cloudy-with-a-chance-of-meatballs-1-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Cloudy-with-a-Chance-of-Meatballs-1-2009-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d9a7375b00cd7fb64da3cba9cd6ade6f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d9a7375b00cd7fb64da3cba9cd6ade6f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Cloudy-with-a-Chance-of-Meatballs-1-2009-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Crank 2 High Voltage (2009) คนคลั่ง ไฟแรงสูง",
-    "url": "https://lk-hdx.com/crank-2-high-voltage-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Crank-2-High-Voltage-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e182068797afdd57029c603817e241a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e182068797afdd57029c603817e241a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Crank-2-High-Voltage-2009-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Crank (2006) คนโคม่า วิ่ง/คลั่ง/ฆ่า",
-    "url": "https://lk-hdx.com/crank-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Crank-2006-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6d504c2804482b1cd112009a02e858a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6d504c2804482b1cd112009a02e858a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Crank-2006-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Running Out of Time 2 (2001) แหกกฏโหด มหาประลัย ภาค 2",
-    "url": "https://lk-hdx.com/running-out-of-time-2-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Running-Out-of-Time-2-2001-แหกกฏโหด-มหาประลัย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/371e8678e0d8f9b4ac38d0ef89e33b70/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/371e8678e0d8f9b4ac38d0ef89e33b70"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Running-Out-of-Time-2-2001-แหกกฏโหด-มหาประลัย-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Running Out of Time 1 (1999) แหกกฏโหดมหาประลัย ภาค 1",
-    "url": "https://lk-hdx.com/running-out-of-time-1-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Running-Out-of-Time-1-1999-แหกกฏโหดมหาประลัย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/156186e37bd92c8867a10797c4071aea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/156186e37bd92c8867a10797c4071aea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Running-Out-of-Time-1-1999-แหกกฏโหดมหาประลัย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fullmetal Alchemist the Revenge of Scar (2022) แขนกลคนแปรธาตุ สการ์ชำระแค้น",
-    "url": "https://lk-hdx.com/fullmetal-alchemist-the-revenge-of-scar-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Fullmetal-Alchemist-the-Revenge-of-Scar-2022-แขนกลคนแปรธาตุ-สการ์ชำระแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7aea18e1220ddde4bddf5923481c994/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7aea18e1220ddde4bddf5923481c994"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fullmetal-Alchemist-the-Revenge-of-Scar-2022-แขนกลคนแปรธาตุ-สการ์ชำระแค้น-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fullmetal Alchemist (2017) แขนกลคนแปรธาตุ",
-    "url": "https://lk-hdx.com/fullmetal-alchemist-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Fullmetal-Alchemist-2017-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2efb69a2fed4769d8412ef8628bdb439/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2efb69a2fed4769d8412ef8628bdb439"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Fullmetal-Alchemist-2017-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Too Old for Fairy Tales 2 (2024) เทพนิยายไม่ใช่ของเด็กโต",
-    "url": "https://lk-hdx.com/too-old-for-fairy-tales-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024-เทพนิยายไม่ใช่ของเด็กโต-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/113759d515fc4fa7dd1f2c06b941c973/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/113759d515fc4fa7dd1f2c06b941c973"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024-เทพนิยายไม่ใช่ของเด็กโต-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Roundup No Way Out (2023) บู๊ระห่ำล่าล้างนรก ทุบนรกแตก",
-    "url": "https://lk-hdx.com/the-roundup-no-way-out-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tW7_R1LwoN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Roundup (2022) บู๊ระห่ำ ล่าล้างนรก",
-    "url": "https://lk-hdx.com/the-roundup-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d41ab3952e860b73f1740cfb46afee3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d41ab3952e860b73f1740cfb46afee3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล",
-    "url": "https://lk-hdx.com/die-hart-2-die-harter-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7f50b6be9059f3ed6851aae2ba7c105/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7f50b6be9059f3ed6851aae2ba7c105"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Wonder Woman 1984 (2020) วันเดอร์ วูแมน 1984",
-    "url": "https://lk-hdx.com/wonder-woman-1984-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-1984-2020-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b7e6114b456b058fd6e120f5253dfdd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b7e6114b456b058fd6e120f5253dfdd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-1984-2020-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Wonder Woman (2017) วันเดอร์ วูแมน",
-    "url": "https://lk-hdx.com/wonder-woman/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-2017-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9baf1a1a5e7ee6c478b2f63eeed649b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9baf1a1a5e7ee6c478b2f63eeed649b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Wonder-Woman-2017-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shazam! 2 Fury of the Gods (2023) ชาแซม! ภาค 2 จุดเดือดเทพเจ้า",
-    "url": "https://lk-hdx.com/shazam-2-fury-of-the-gods/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Shazam-2-Fury-of-the-Gods-2023-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e977f2a69b1bd402f68307871b313d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e977f2a69b1bd402f68307871b313d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Shazam-2-Fury-of-the-Gods-2023-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shazam 1 (2019) ชาแซม ภาค 1",
-    "url": "https://lk-hdx.com/shazam-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Shazam-1-2019-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/211e743a0be8648a2501523af79d1aa0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/211e743a0be8648a2501523af79d1aa0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Shazam-1-2019-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
-    "url": "https://lk-hdx.com/furiosa-a-mad-max-saga-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e64555b304f123b987b8a247ce5b44cd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e64555b304f123b987b8a247ce5b44cd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Mad Max Fury Road (2015) แมด แม็กซ์ ถนนโลกันตร์",
-    "url": "https://lk-hdx.com/mad-max-fury-road-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Mad-Max-Fury-Road-2015-แมด-แม็กซ์-ถนนโลกันตร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cc2526f31903e14b4d58dfbb9ab8ca8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cc2526f31903e14b4d58dfbb9ab8ca8f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Mad-Max-Fury-Road-2015-แมด-แม็กซ์-ถนนโลกันตร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Mad Max 3 Beyond Thunderdome (1985) แมดแม็กซ์ ภาค 3 โดมบันลือโลก",
-    "url": "https://lk-hdx.com/mad-max-3-beyond-thunderdome-1985/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-3-Beyond-Thunderdome-1985-แมดแม็กซ์-ภาค-3-โดมบันลือโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/74ce6bacb12bc42c6fdfe44005e5fc7d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74ce6bacb12bc42c6fdfe44005e5fc7d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-3-Beyond-Thunderdome-1985-แมดแม็กซ์-ภาค-3-โดมบันลือโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Mad Max 2 The Road Warrior (1981) แมดแม็กซ์ ภาค 2 เส้นทางนักรบ",
-    "url": "https://lk-hdx.com/mad-max-2-the-road-warrior-1981/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-2-The-Road-Warrior-1981-แมดแม็กซ์-ภาค-2-เส้นทางนักรบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3ac8e1b8e5b8aaad2c819116776f1275/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3ac8e1b8e5b8aaad2c819116776f1275"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-2-The-Road-Warrior-1981-แมดแม็กซ์-ภาค-2-เส้นทางนักรบ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Mad Max 1 (1979) แมดแม็กซ์ ภาค 1",
-    "url": "https://lk-hdx.com/mad-max-1-1979/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-1-1979-แมดแม็กซ์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/925c17e9d843b8f813a56bce5ef848c5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/925c17e9d843b8f813a56bce5ef848c5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Mad-Max-1-1979-แมดแม็กซ์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
