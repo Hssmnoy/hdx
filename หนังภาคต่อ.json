@@ -7761,153 +7761,425 @@
   },
   {
     "title": "Sniper 4 Reloaded (2011) โคตรนักฆ่าซุ่มสังหาร ภาค 4",
-    "url": "https://lk-hdx.com/sniper-4-reloaded-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-4-Reloaded-2011-โคตรนักฆ่าซุ่มสังหาร-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/222cfdcd92d9beb4fa147359049dbaf2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/222cfdcd92d9beb4fa147359049dbaf2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-4-Reloaded-2011-โคตรนักฆ่าซุ่มสังหาร-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper 3 (2004) นักฆ่าเลือดเย็น ภาค 3",
-    "url": "https://lk-hdx.com/sniper-3-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-3-2004-นักฆ่าเลือดเย็น-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/NzvXsv7rw_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-3-2004-นักฆ่าเลือดเย็น-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper 2 (2002) นักฆ่าเลือดเย็น ภาค 2",
-    "url": "https://lk-hdx.com/sniper-2-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-2-2002-นักฆ่าเลือดเย็น-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/i_zwuSaTp1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-2-2002-นักฆ่าเลือดเย็น-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sniper 1 (1993) นักฆ่าเลือดเย็น ภาค 1",
-    "url": "https://lk-hdx.com/sniper-1-1993/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-1-1993-นักฆ่าเลือดเย็น-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/39c0bb6837dc38526dc8f081aa7f0f30/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/39c0bb6837dc38526dc8f081aa7f0f30"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Sniper-1-1993-นักฆ่าเลือดเย็น-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Tomb Raider (2018) ทูม เรเดอร์",
-    "url": "https://lk-hdx.com/tomb-raider-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Tomb-Raider-2018-ทูม-เรเดอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5871b8d852b6e2acc617ac522b08c4f1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5871b8d852b6e2acc617ac522b08c4f1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Tomb-Raider-2018-ทูม-เรเดอร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Godzilla 2 King of the Monsters (2019) ก็อดซิลล่า 2 ราชันแห่งมอนสเตอร์",
-    "url": "https://lk-hdx.com/godzilla-2-king-of-the-monsters-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2-King-of-the-Monsters-2019-ก็อดซิลล่า-ภาค-2-ราชันแห่งมอนสเตอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3fbc0a409dd806ac6ca6af1693f13967/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3fbc0a409dd806ac6ca6af1693f13967"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Godzilla-2-King-of-the-Monsters-2019-ก็อดซิลล่า-ภาค-2-ราชันแห่งมอนสเตอร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Never Back Down 2 The Beatdown (2011) สู้โค่นสังเวียน",
-    "url": "https://lk-hdx.com/never-back-down-2-the-beatdown-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Never-Back-Down-2-The-Beatdown-2011-สู้โค่นสังเวียน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/95b45785575c065196483c9ffe107e74/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/95b45785575c065196483c9ffe107e74"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Never-Back-Down-2-The-Beatdown-2011-สู้โค่นสังเวียน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shock Wave 2 (2020) คนคมถล่มนิวเคลียร์ ภาค 2",
-    "url": "https://lk-hdx.com/shock-wave-2-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-2-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f723c20ebe16055225a4ee873293d8e3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f723c20ebe16055225a4ee873293d8e3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-2-2020-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shock Wave 1 (2017) คนคมล่าระเบิดเมือง ภาค 1",
-    "url": "https://lk-hdx.com/shock-wave-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-1-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1151efb74ca2972de4b88f57efc6267a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1151efb74ca2972de4b88f57efc6267a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Shock-Wave-1-2017-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ หมอปลาวาฬ (2022) Thi Baan The Series Mo Plawan",
-    "url": "https://lk-hdx.com/thi-baan-the-series-mo-plawan-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-หมอปลาวาฬ-2022-Thi-Baan-The-Series-Mo-Plawan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d62d7af06fae6a65d69f0b8570991176/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d62d7af06fae6a65d69f0b8570991176"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-หมอปลาวาฬ-2022-Thi-Baan-The-Series-Mo-Plawan-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ ภาค 2.2 (2018) Thi Baan The Series 2.2",
-    "url": "https://lk-hdx.com/thi-baan-the-series-2-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.2-2018-Thi-Baan-The-Series-2.2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MFlt_EYrRT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.2-2018-Thi-Baan-The-Series-2.2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ ภาค 2.1 (2018) Thi Baan The Series 2.1",
-    "url": "https://lk-hdx.com/thi-baan-the-series-2-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.1-2018-Thi-Baan-The-Series-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d91ece0b7dcd7e370ba1a5cb318adac1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d91ece0b7dcd7e370ba1a5cb318adac1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-2.1-2018-Thi-Baan-The-Series-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "ไทบ้านเดอะซีรีส์ ภาค 1 (2017) Thi Baan The Series 1",
-    "url": "https://lk-hdx.com/thi-baan-the-series-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-1-2017-Thi-Baan-The-Series-1-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3f846cceb1d37d6584a40cddbdc30988/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3f846cceb1d37d6584a40cddbdc30988"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/ไทบ้านเดอะซีรีส์-ภาค-1-2017-Thi-Baan-The-Series-1-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dragonheart Vengeance (2020) ดราก้อนฮาร์ท ศึกล้างแค้น",
-    "url": "https://lk-hdx.com/dragonheart-vengeance-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dragonheart-Vengeance-2020-ดราก้อนฮาร์ท-ศึกล้างแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fA2Hxmy_R4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Dragonheart-Vengeance-2020-ดราก้อนฮาร์ท-ศึกล้างแค้น-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dragonheart 4 (2017) ดราก้อนฮาร์ท ภาค 4 มหาสงครามมังกรไฟ",
-    "url": "https://lk-hdx.com/dragonheart-4-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dragonheart-4-2017-ดราก้อนฮาร์ท-ภาค-4-มหาสงครามมังกรไฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_QNqOcb_Fq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Dragonheart-4-2017-ดราก้อนฮาร์ท-ภาค-4-มหาสงครามมังกรไฟ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dragonheart 3 (2015) ดราก้อนฮาร์ท ภาค 3 มังกรไฟผจญภัยล้างคำสาป",
-    "url": "https://lk-hdx.com/dragonheart-3-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dragonheart-3-2015-ดราก้อนฮาร์ท-ภาค-3-มังกรไฟผจญภัยล้างคำสาป-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a9bb85ae19b1b41289a4c0745553e78/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a9bb85ae19b1b41289a4c0745553e78"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Dragonheart-3-2015-ดราก้อนฮาร์ท-ภาค-3-มังกรไฟผจญภัยล้างคำสาป-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "DragonHeart 1 (1996) ดราก้อนฮาร์ท ภาค 1 มังกรไฟ หัวใจเขย่าโลก",
-    "url": "https://lk-hdx.com/dragonheart-1-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/DragonHeart-1-1996-ดราก้อนฮาร์ท-ภาค-1-มังกรไฟ-หัวใจเขย่าโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a928728f68475c9e91bec151d3235e61/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a928728f68475c9e91bec151d3235e61"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/DragonHeart-1-1996-ดราก้อนฮาร์ท-ภาค-1-มังกรไฟ-หัวใจเขย่าโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Skylines 3 (2020) สงครามสกายไลน์ดูดโลก ภาค 3",
-    "url": "https://lk-hdx.com/skylines-3-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Skylines-3-2020-สงครามสกายไลน์ดูดโลก-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d30292cb295fbc0257a4ae2f971e8206/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d30292cb295fbc0257a4ae2f971e8206"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Skylines-3-2020-สงครามสกายไลน์ดูดโลก-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Beyond Skyline 2 (2017) อสูรท้านรก",
-    "url": "https://lk-hdx.com/beyond-skyline-2-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Beyond-Skyline-2-2017-อสูรท้านรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/60ac039a602e5194496cbb154d619f98/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/60ac039a602e5194496cbb154d619f98"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Beyond-Skyline-2-2017-อสูรท้านรก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Skyline 1 (2010) สงครามสกายไลน์ดูดโลก ภาค 1",
-    "url": "https://lk-hdx.com/skyline-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Skyline-1-2010-สงครามสกายไลน์ดูดโลก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/77388567799b1a26ed6cba9e97109b75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/77388567799b1a26ed6cba9e97109b75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Skyline-1-2010-สงครามสกายไลน์ดูดโลก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sicario 2 Day Of The Soldado (2018) ทีมพิฆาตทะลุแดนเดือด ภาค 2",
-    "url": "https://lk-hdx.com/sicario-2-day-of-the-soldado-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-2-Day-Of-The-Soldado-2018-ทีมพิฆาตทะลุแดนเดือด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/859a526f03b5694bde54a005c6d857df/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/859a526f03b5694bde54a005c6d857df"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-2-Day-Of-The-Soldado-2018-ทีมพิฆาตทะลุแดนเดือด-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sicario 1 (2015) ทีมพิฆาตทะลุแดนเดือด ภาค 1",
-    "url": "https://lk-hdx.com/sicario-1-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-1-2015-ทีมพิฆาตทะลุแดนเดือด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b684c9030520d64816cb29374b2a8ac3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b684c9030520d64816cb29374b2a8ac3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sicario-1-2015-ทีมพิฆาตทะลุแดนเดือด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Boyka Undisputed 4 (2016) นักชกจ้าวสังเวียน ภาค 4",
-    "url": "https://lk-hdx.com/boyka-undisputed-4-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Boyka-Undisputed-4-2016-นักชกจ้าวสังเวียน-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/50ef05838228d63d927dad961d98c4d9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/50ef05838228d63d927dad961d98c4d9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Boyka-Undisputed-4-2016-นักชกจ้าวสังเวียน-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ne Zha (2019) นาจา",
-    "url": "https://lk-hdx.com/ne-zha-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ne-Zha-2019-นาจา-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/811858f1010e67c1999156d1c3d252b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/811858f1010e67c1999156d1c3d252b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Ne-Zha-2019-นาจา-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Total Recall 2 (2012) คนทะลุโลก ภาค 2",
-    "url": "https://lk-hdx.com/total-recall-2-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Total-Recall-2-2012-คนทะลุโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/lAhw_Ju3E7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Total-Recall-2-2012-คนทะลุโลก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Mechanic 2 Resurrection (2016) โคตรเพชฌฆาต แค้นข้ามโลก",
-    "url": "https://lk-hdx.com/mechanic-2-resurrection-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Mechanic-2-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/746a81aebce5fb55855b7d13bab3bb92/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/746a81aebce5fb55855b7d13bab3bb92"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Mechanic-2-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Mechanic 1 (2011) โคตรเพชฌฆาตแค้นมหากาฬ",
-    "url": "https://lk-hdx.com/the-mechanic-1-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Mechanic-1-2011-โคตรเพชฌฆาตแค้นมหากาฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff4dae12bca3d0a5bd280e2f242572d7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff4dae12bca3d0a5bd280e2f242572d7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Mechanic-1-2011-โคตรเพชฌฆาตแค้นมหากาฬ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kindergarten Cop 2 (2016) ตำรวจเหล็ก ปราบเด็กแสบ ภาค 2",
-    "url": "https://lk-hdx.com/kindergarten-cop-2-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-2-2016-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/1A31rEl__A"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-2-2016-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kindergarten Cop 1 (1990) ตำรวจเหล็ก ปราบเด็กแสบ ภาค 1",
-    "url": "https://lk-hdx.com/kindergarten-cop-1-1990/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-1-1990-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/17c118c510126ceaf9a1b65073ec4d0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17c118c510126ceaf9a1b65073ec4d0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Kindergarten-Cop-1-1990-ตำรวจเหล็ก-ปราบเด็กแสบ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jack Reacher Never Go Back 2 (2016) ยอดคนสืบระห่ำ ภาค 2",
-    "url": "https://lk-hdx.com/jack-reacher-never-go-back-2-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-Never-Go-Back-2-2016-ยอดคนสืบระห่ำ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/55a7e293a8aacd5516b4455170092013/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/55a7e293a8aacd5516b4455170092013"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Jack-Reacher-Never-Go-Back-2-2016-ยอดคนสืบระห่ำ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jack Reacher 1 (2012) ยอดคนสืบระห่ำ ภาค 1",
