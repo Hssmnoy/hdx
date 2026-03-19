@@ -10807,153 +10807,433 @@
   },
   {
     "title": "The Four 2 (2013) 4 มหากาฬพญายม ภาค 2",
-    "url": "https://lk-hdx.com/the-four-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Four-2-2013-4-มหากาฬพญายม-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9e4d013fa3cfa6a9f8bada49b3321900/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9e4d013fa3cfa6a9f8bada49b3321900"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Four-2-2013-4-มหากาฬพญายม-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Four 1 (2012) 4 มหากาฬพญายม ภาค 1",
-    "url": "https://lk-hdx.com/the-four-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Four-1-2012-4-มหากาฬพญายม-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/42e852c07fc9713459bf7304d551ca51/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/42e852c07fc9713459bf7304d551ca51"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Four-1-2012-4-มหากาฬพญายม-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Twins Effect 2 Blade of Kings (2004) คู่ใหญ่พายุฟัด ภาค 2",
-    "url": "https://lk-hdx.com/the-twins-effect-2-blade-of-kings-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Twins-Effect-2-Blade-of-Kings-2004-คู่ใหญ่พายุฟัด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/XnwJzVr_XJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Twins-Effect-2-Blade-of-Kings-2004-คู่ใหญ่พายุฟัด-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Twins Effect 1 (2003) คู่พายุฟัด ภาค 1",
-    "url": "https://lk-hdx.com/the-twins-effect-1-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Twins-Effect-1-2003-คู่พายุฟัด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7df6ba889ad6b4d52bc35783d7282c11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7df6ba889ad6b4d52bc35783d7282c11"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Twins-Effect-1-2003-คู่พายุฟัด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fantastic Four 3 (2015) สี่พลังคนกายสิทธิ์ ภาค 3",
-    "url": "https://lk-hdx.com/fantastic-four-3-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Fantastic-Four-3-2015-สี่พลังคนกายสิทธิ์-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f9d248fd42611a5f0561932d8417197a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f9d248fd42611a5f0561932d8417197a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Fantastic-Four-3-2015-สี่พลังคนกายสิทธิ์-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fantastic Four 2 Rise of the Silver Surfer (2007) สี่พลังคนกายสิทธิ์ ภาค 2 กำเนิดซิลเวอร์ เซิรฟเฟอร์",
-    "url": "https://lk-hdx.com/fantastic-four-2-rise-of-the-silver-surfer-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Fantastic-Four-2-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-ภาค-2-กำเนิดซิลเวอร์-เซิรฟเฟอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25441d7c3cca035d6a8b5730cff5b612/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25441d7c3cca035d6a8b5730cff5b612"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Fantastic-Four-2-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-ภาค-2-กำเนิดซิลเวอร์-เซิรฟเฟอร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fantastic Four 1 (2005) สี่พลังคนกายสิทธิ์ ภาค 1",
-    "url": "https://lk-hdx.com/fantastic-four-1-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Fantastic-Four-1-2005-สี่พลังคนกายสิทธิ์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7d935389ddfbd36f39e7dfe5cb6b7d1a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7d935389ddfbd36f39e7dfe5cb6b7d1a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Fantastic-Four-1-2005-สี่พลังคนกายสิทธิ์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Journey to the West 2 The Demons Strike Back (2017) ไซอิ๋ว คนเล็กอิทธิฤทธิ์ใหญ่ ภาค 2",
-    "url": "https://lk-hdx.com/journey-to-the-west-2-the-demons-strike-back-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-to-the-West-2-The-Demons-Strike-Back-2017-ไซอิ๋ว-คนเล็กอิทธิฤทธิ์ใหญ่-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1cd9ff9ea74788483d26d94f23ab2775/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1cd9ff9ea74788483d26d94f23ab2775"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-to-the-West-2-The-Demons-Strike-Back-2017-ไซอิ๋ว-คนเล็กอิทธิฤทธิ์ใหญ่-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Journey to the West 1 (2013) ไซอิ๋ว คนเล็กอิทธิฤทธิ์หญ่าย ภาค 1",
-    "url": "https://lk-hdx.com/journey-to-the-west-1-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-to-the-West-1-2013-ไซอิ๋ว-คนเล็กอิทธิฤทธิ์หญ่าย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b3a21ae61b85eb0672a6213c26c26f7e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b3a21ae61b85eb0672a6213c26c26f7e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-to-the-West-1-2013-ไซอิ๋ว-คนเล็กอิทธิฤทธิ์หญ่าย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic Park 3 (2001) จูราสสิค ปาร์ค ภาค 3 ไดโนเสาร์พันธุ์ดุ",
-    "url": "https://lk-hdx.com/jurassic-park-3-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jurassic-Park-3-2001-จูราสสิค-ปาร์ค-ภาค-3-ไดโนเสาร์พันธุ์ดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dcbb52390606af0cd53a6d23767acd9b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dcbb52390606af0cd53a6d23767acd9b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Jurassic-Park-3-2001-จูราสสิค-ปาร์ค-ภาค-3-ไดโนเสาร์พันธุ์ดุ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic Park 2 The Lost World (1997) จูราสสิค ปาร์ค ภาค 2 ใครว่ามันสูญพันธุ์",
-    "url": "https://lk-hdx.com/jurassic-park-2-the-lost-world-1997/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jurassic-Park-2-The-Lost-World-1997-จูราสสิค-ปาร์ค-ภาค-2-ใครว่ามันสูญพันธุ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de988162ae97b03d47b41474fbcad5e7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de988162ae97b03d47b41474fbcad5e7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Jurassic-Park-2-The-Lost-World-1997-จูราสสิค-ปาร์ค-ภาค-2-ใครว่ามันสูญพันธุ์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jurassic Park 1 (1993) จูราสสิค ปาร์ค ภาค 1 กำเนิดใหม่ ไดโนเสาร์",
-    "url": "https://lk-hdx.com/jurassic-park-1-1993/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Jurassic-Park-1-1993-จูราสสิค-ปาร์ค-ภาค-1-กำเนิดใหม่-ไดโนเสาร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe910692c5fe0016c5d9631f177bb6d4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe910692c5fe0016c5d9631f177bb6d4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Jurassic-Park-1-1993-จูราสสิค-ปาร์ค-ภาค-1-กำเนิดใหม่-ไดโนเสาร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kaiji The Ultimate Gambler 2 (2011) ไคจิ กลโกงมรณะ ภาค 2",
-    "url": "https://lk-hdx.com/kaiji-the-ultimate-gambler-2-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-2-2011-ไคจิ-กลโกงมรณะ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1eca3ef9ca2cc7fed62b1fec5bdbc32/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1eca3ef9ca2cc7fed62b1fec5bdbc32"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-2-2011-ไคจิ-กลโกงมรณะ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Kaiji The Ultimate Gambler 1 (2009) ไคจิ กลโกงมรณะ ภาค 1",
-    "url": "https://lk-hdx.com/kaiji-the-ultimate-gambler-1-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-1-2009-ไคจิ-กลโกงมรณะ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/2q2_qeoF4m"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Kaiji-The-Ultimate-Gambler-1-2009-ไคจิ-กลโกงมรณะ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "P Storm (2019) คนคมโค่นพายุ ภาค 4",
-    "url": "https://lk-hdx.com/p-storm-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/P-Storm-2019-คนคมโค่นพายุ-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cecf7bf414a9a0fd807b1c85472c7845/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cecf7bf414a9a0fd807b1c85472c7845"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/P-Storm-2019-คนคมโค่นพายุ-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "L Storm (2018) คนคมโค่นพายุ ภาค 3",
-    "url": "https://lk-hdx.com/l-storm-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/L-Storm-2018-คนคมโค่นพายุ-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1d7a3954a9035e10b9c8de57c1707a93/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1d7a3954a9035e10b9c8de57c1707a93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/L-Storm-2018-คนคมโค่นพายุ-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "S Storm (2016) คนคมโค่นพายุ ภาค 2",
-    "url": "https://lk-hdx.com/s-storm-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/S-Storm-2016-คนคมโค่นพายุ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d022df921331c89f6a602342ef9c324f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d022df921331c89f6a602342ef9c324f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/S-Storm-2016-คนคมโค่นพายุ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Z Storm (2014) คนคมโค่นพายุ ภาค 1",
-    "url": "https://lk-hdx.com/z-storm-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Z-Storm-2014-คนคมโค่นพายุ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dd11864cffc58a8e7e619d130b38182f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dd11864cffc58a8e7e619d130b38182f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Z-Storm-2014-คนคมโค่นพายุ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lara Croft Tomb Raider The Cradle Of Life 2 (2003) ลาร่า ครอฟท์ ทูม เรเดอร์ ภาค 2 กู้วิกฤตล่ากล่องปริศนา",
-    "url": "https://lk-hdx.com/lara-croft-tomb-raider-the-cradle-of-life-2-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Lara-Croft-Tomb-Raider-The-Cradle-Of-Life-2-2003-ลาร่า-ครอฟท์-ทูม-เรเดอร์-ภาค-2-กู้วิกฤตล่ากล่องปริศนา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0021f1a07e243e59c6a4ed449d62cc86/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0021f1a07e243e59c6a4ed449d62cc86"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Lara-Croft-Tomb-Raider-The-Cradle-Of-Life-2-2003-ลาร่า-ครอฟท์-ทูม-เรเดอร์-ภาค-2-กู้วิกฤตล่ากล่องปริศนา-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lara Croft Tomb Raider 1 (2001) ลาร่า ครอฟท์ ทูมเรเดอร์ ภาค 1",
-    "url": "https://lk-hdx.com/lara-croft-tomb-raider-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Lara-Croft-Tomb-Raider-1-2001-ลาร่า-ครอฟท์-ทูมเรเดอร์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/afbc2b64732ee3848fe23b7aa35cb321/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/afbc2b64732ee3848fe23b7aa35cb321"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Lara-Croft-Tomb-Raider-1-2001-ลาร่า-ครอฟท์-ทูมเรเดอร์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Line Walker 2 Invisible Spy (2019) ล่าจารชน ภาค 2 สายลับล่องหน",
-    "url": "https://lk-hdx.com/line-walker-2-invisible-spy-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Line-Walker-2-Invisible-Spy-2019-ล่าจารชน-ภาค-2-สายลับล่องหน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/191e01175186eb7e4e823a7a9865f2c5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/191e01175186eb7e4e823a7a9865f2c5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Line-Walker-2-Invisible-Spy-2019-ล่าจารชน-ภาค-2-สายลับล่องหน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Line Walker 1 (2016) ล่าจารชน ภาค 1 สายลับสายลวง",
-    "url": "https://lk-hdx.com/line-walker-1-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Line-Walker-1-2016-ล่าจารชน-ภาค-1-สายลับสายลวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/30aeb4a5d408310492efde62755191ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/30aeb4a5d408310492efde62755191ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Line-Walker-1-2016-ล่าจารชน-ภาค-1-สายลับสายลวง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Stake Land 2 (2016) โคตรแดนเถื่อน ล้างพันธุ์ซอมบี้ ภาค 2",
-    "url": "https://lk-hdx.com/stake-land-2-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Stake-Land-2-2016-โคตรแดนเถื่อน-ล้างพันธุ์ซอมบี้-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/876818e1237dda3cd0c9507e1805c358/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/876818e1237dda3cd0c9507e1805c358"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Stake-Land-2-2016-โคตรแดนเถื่อน-ล้างพันธุ์ซอมบี้-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Stake Land 1 (2010) โคตรแดนเถื่อน ล้างพันธุ์ซอมบี้ ภาค 1",
-    "url": "https://lk-hdx.com/stake-land-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Stake-Land-1-2010-โคตรแดนเถื่อน-ล้างพันธุ์ซอมบี้-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/RaQu5w_k1C"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Stake-Land-1-2010-โคตรแดนเถื่อน-ล้างพันธุ์ซอมบี้-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dead Snow 2 Red vs Dead (2014) ผีหิมะ กัดกระชากโหด ภาค 2",
-    "url": "https://lk-hdx.com/dead-snow-2-red-vs-dead-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dead-Snow-2-Red-vs-Dead-2014-ผีหิมะ-กัดกระชากโหด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f65c148a4fb906d0dafe3f16f3133b60/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f65c148a4fb906d0dafe3f16f3133b60"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Dead-Snow-2-Red-vs-Dead-2014-ผีหิมะ-กัดกระชากโหด-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dead Snow 1 (2009) ผีหิมะ กัดกระชากโหด ภาค 1",
-    "url": "https://lk-hdx.com/dead-snow-1-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dead-Snow-1-2009-ผีหิมะ-กัดกระชากโหด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/NfDxQ6n0v_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Dead-Snow-1-2009-ผีหิมะ-กัดกระชากโหด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Bumblebee (2018) บัมเบิ้ลบี",
-    "url": "https://lk-hdx.com/bumblebee-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bumblebee-2018-บัมเบิ้ลบี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1c06c1abe0958066d2c4a6f6991fd73a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1c06c1abe0958066d2c4a6f6991fd73a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Bumblebee-2018-บัมเบิ้ลบี-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Trolls Band Together (2023) โทรลล์ส ภาค 3",
-    "url": "https://lk-hdx.com/trolls-band-together-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2932b8383c736f0caa8dfe62915a25a1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2932b8383c736f0caa8dfe62915a25a1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "London Has Fallen (2016) ผ่ายุทธการถล่มลอนดอน",
-    "url": "https://lk-hdx.com/london-has-fallen-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3bd74066c51ed42aa770e930f09336fd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3bd74066c51ed42aa770e930f09336fd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Holy Man 3 (2010) หลวงพี่เท่ง ภาค 3 รุ่นฮาเขย่าโลก",
-    "url": "https://lk-hdx.com/the-holy-man-3-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Holy-Man-3-2010-หลวงพี่เท่ง-ภาค-3-รุ่นฮาเขย่าโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_r2aaQoBvN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Holy-Man-3-2010-หลวงพี่เท่ง-ภาค-3-รุ่นฮาเขย่าโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Holy Man 2 (2008) หลวงพี่เท่ง ภาค 2",
