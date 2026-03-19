@@ -1299,153 +1299,437 @@
   },
   {
     "title": "The Last 10 Years (2022) สุดท้ายและตลอดไป",
-    "url": "https://lk-hdx.com/the-last-10-years-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Last-10-Years-2022-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/918c173929ac1f16fa80d5f8f3cb7426/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/918c173929ac1f16fa80d5f8f3cb7426"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Last-10-Years-2022-165x248.jpeg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Golden Kamuy (2024) โกลเดนคามุย",
-    "url": "https://lk-hdx.com/golden-kamuy-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Golden-Kamuy-2024-โกลเดนคามุย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/60788562316e4eca63ccf8d63f832601/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/60788562316e4eca63ccf8d63f832601"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Golden-Kamuy-2024-โกลเดนคามุย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Flying Colors (2015) บีลี่เกล สาวน้อยวัยวุ่น",
-    "url": "https://lk-hdx.com/flying-colors/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Flying-Colors-2015-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/80e322dfba1836bb10f3b8f30de78d1b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/80e322dfba1836bb10f3b8f30de78d1b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Flying-Colors-2015-165x248.jpeg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Blue Skies at Your Feet (2022) แอบรักเติมฝันในวันฟ้าใส",
-    "url": "https://lk-hdx.com/the-blue-skies-at-your-feet-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Blue-Skies-at-Your-Feet-2022-แอบรักเติมฝันในวันฟ้าใส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdda51ebe897b3207cd33619e7684c99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdda51ebe897b3207cd33619e7684c99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Blue-Skies-at-Your-Feet-2022-แอบรักเติมฝันในวันฟ้าใส-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "All Lives (2024) เส้นทางชีวิต",
-    "url": "https://lk-hdx.com/all-lives-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/All-Lives-2024-เส้นทางชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/GFBSEJcb_b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/All-Lives-2024-เส้นทางชีวิต-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Cube (2021) กล่องเกมมรณะ",
-    "url": "https://lk-hdx.com/cube-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Cube-2021-กล่องเกมมรณะ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c245e0f0e9aecf2199318592c416ddfe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c245e0f0e9aecf2199318592c416ddfe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Cube-2021-กล่องเกมมรณะ-165x248.jpeg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kiki’s Delivery Service (2014) แม่มดน้อยกิกิ",
-    "url": "https://lk-hdx.com/kikis-delivery-service-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Kikis-Delivery-Service-2014-แม่มดน้อยกิกิ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1f8996f31b0917a593dff83bb93e354f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1f8996f31b0917a593dff83bb93e354f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Kikis-Delivery-Service-2014-แม่มดน้อยกิกิ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ultraman Taiga the Movie New Generation Climax (2020) อุลตร้าแมนไทกะ",
-    "url": "https://lk-hdx.com/ultraman-taiga-the-movie-new-generation-climax-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ultraman-Taiga-the-Movie-New-Generation-Climax-2020-อุลตร้าแมนไทกะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/52019c08b96fff0cba59960c993e8e83/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/52019c08b96fff0cba59960c993e8e83"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Ultraman-Taiga-the-Movie-New-Generation-Climax-2020-อุลตร้าแมนไทกะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Side By Side (2023) ที่ตรงนั้นยังคิดถึง",
-    "url": "https://lk-hdx.com/side-by-side-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Side-By-Side-2023-ที่ตรงนั้นยังคิดถึง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/05b009a367463202cc9a711e24bdb28d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/05b009a367463202cc9a711e24bdb28d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Side-By-Side-2023-ที่ตรงนั้นยังคิดถึง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "City Hunter (2024) ซิตี้ ฮันเตอร์ ",
-    "url": "https://lk-hdx.com/city-hunter-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/City-Hunter-2024-ซิตี้-ฮันเตอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf1351bfedbd900e77874a9a115f3b3e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf1351bfedbd900e77874a9a115f3b3e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/City-Hunter-2024-ซิตี้-ฮันเตอร์-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Touken Ranbu 2 (2023) ศึกรุ่งอรุณ",
-    "url": "https://lk-hdx.com/touken-ranbu-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Touken-Ranbu-2-2023-ศึกรุ่งอรุณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3f528ed0c2300e79fb9804cbba29c3c5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3f528ed0c2300e79fb9804cbba29c3c5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Touken-Ranbu-2-2023-ศึกรุ่งอรุณ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Tomorrow I Will Date with Yesterday’s You (2016) พรุ่งนี้ผมจะเดตกับเธอคนเมื่อวาน",
-    "url": "https://lk-hdx.com/tomorrow-i-will-date-with-yesterdays-you-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Tomorrow-I-Will-Date-with-Yesterdays-You-2016-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5e6478d76014892a34197abdfe311287/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e6478d76014892a34197abdfe311287"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Tomorrow-I-Will-Date-with-Yesterdays-You-2016-165x248.jpeg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Takumi kun The Dawn of the Long Tales (2023) ใกล้กว่านี้ จะรักแล้วนะ",
-    "url": "https://lk-hdx.com/takumi-kun-the-dawn-of-the-long-tales-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023-ใกล้กว่านี้-จะรักแล้วนะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/7Mh3t_8H7t"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023-ใกล้กว่านี้-จะรักแล้วนะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Third Murder (2017) กับดักฆาตกรรมครั้งที่ 3",
-    "url": "https://lk-hdx.com/the-third-murder-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Third-Murder-2017-กับดักฆาตกรรมครั้งที่-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25c1694bbaff31cd1ab03e30844dfcb6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25c1694bbaff31cd1ab03e30844dfcb6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Third-Murder-2017-กับดักฆาตกรรมครั้งที่-3-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kids on the Slope (2018) เพลงแรก รักแรก จูบแรก",
-    "url": "https://lk-hdx.com/kids-on-the-slope-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kids-on-the-Slope-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3dac3ad4e4a8a698b914477788828b2b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3dac3ad4e4a8a698b914477788828b2b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Kids-on-the-Slope-2018-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ghost Book Obake Zukan (2022) อัศจรรย์หนังสือดูดวิญญาณ",
-    "url": "https://lk-hdx.com/ghost-book-obake-zukan-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022-อัศจรรย์หนังสือดูดวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41bc81e84dfa43863f132751bfc598d1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41bc81e84dfa43863f132751bfc598d1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022-อัศจรรย์หนังสือดูดวิญญาณ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Re Member (2023) ตามล่า ศพสยอง",
-    "url": "https://lk-hdx.com/re-member-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Re-Member-2023-ตามล่า-ศพสยอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/41101edffc1365006eae99e1eab1cc0d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/41101edffc1365006eae99e1eab1cc0d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Re-Member-2023-ตามล่า-ศพสยอง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Its a Summer Film (2020) เกือบจะไม่ได้ฉายแล้วหน้าร้อนนี้",
-    "url": "https://lk-hdx.com/its-a-summer-film-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Its-a-Summer-Film-2020-เกือบจะไม่ได้ฉายแล้วหน้าร้อนนี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8fc2f4b03919cfd27acb2f4b07e86218/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8fc2f4b03919cfd27acb2f4b07e86218"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Its-a-Summer-Film-2020-เกือบจะไม่ได้ฉายแล้วหน้าร้อนนี้-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Rohan at the Louvre (2023) โรฮังกับความลับพิพิธภัณฑ์ลูฟร์",
-    "url": "https://lk-hdx.com/rohan-at-the-louvre-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Rohan-at-the-Louvre-2023-โรฮังกับความลับพิพิธภัณฑ์ลูฟร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/48adc35b4141ef3f61ea044e653acdd2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/48adc35b4141ef3f61ea044e653acdd2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Rohan-at-the-Louvre-2023-โรฮังกับความลับพิพิธภัณฑ์ลูฟร์-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kamen Rider Reiwa The First Generation (2019) มาสค์ไรเดอร์ กำเนิดใหม่ไอ้มดแดงยุคเรย์วะ",
-    "url": "https://lk-hdx.com/kamen-rider-reiwa-the-first-generation-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Kamen-Rider-Reiwa-The-First-Generation-2019-มาสค์ไรเดอร์-กำเนิดใหม่ไอ้มดแดงยุคเรย์วะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/35abfe5ebb863ff29aaac9a8056a5965/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/35abfe5ebb863ff29aaac9a8056a5965"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Kamen-Rider-Reiwa-The-First-Generation-2019-มาสค์ไรเดอร์-กำเนิดใหม่ไอ้มดแดงยุคเรย์วะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Parasyte Part 2 (2015) ปรสิต เพื่อนรักเขมือบโลก ภาค 2",
-    "url": "https://lk-hdx.com/parasyte-part-2-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Parasyte-Part-2-2015-ปรสิต-เพื่อนรักเขมือบโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4af976f3e4b58cb81a00814a2439a05a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4af976f3e4b58cb81a00814a2439a05a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Parasyte-Part-2-2015-ปรสิต-เพื่อนรักเขมือบโลก-ภาค-2-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Parasyte Part 1 (2014) ปรสิต เพื่อนรักเขมือบโลก ภาค 1",
-    "url": "https://lk-hdx.com/parasyte-part-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Parasyte-Part-1-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/185e6d6c459aab289854e1813b983376/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/185e6d6c459aab289854e1813b983376"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Parasyte-Part-1-2014-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Eyes on Me (1999)",
-    "url": "https://lk-hdx.com/eyes-on-me-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Eyes-on-Me-1999-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3434aff2438ec230111d9dc2d1f14eac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3434aff2438ec230111d9dc2d1f14eac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Eyes-on-Me-1999-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Gintama 2 Rules Are Meant To Be Broken (2018) กินทามะ ซามูไร เพี้ยนสารพัด 2 แหกกฎชิมิก่อนไม่รอแล้วนะ",
-    "url": "https://lk-hdx.com/gintama-2-rules-are-meant-to-be-broken-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2-Rules-Are-Meant-To-Be-Broken-2018-กินทามะ-ซามูไร-เพี้ยนสารพัด-2-แหกกฎชิมิก่อนไม่รอแล้วนะ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b3ce069d6a4c2962e1df9914939a37dc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b3ce069d6a4c2962e1df9914939a37dc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2-Rules-Are-Meant-To-Be-Broken-2018-กินทามะ-ซามูไร-เพี้ยนสารพัด-2-แหกกฎชิมิก่อนไม่รอแล้วนะ-165x248.jpeg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Gintama (2017) กินทามะ ซามูไร เพี้ยนสารพัด",
-    "url": "https://lk-hdx.com/gintama-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2017-กินทามะ-ซามูไร-เพี้ยนสารพัด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/39766b265f1157ea13bc09432bf75e6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/39766b265f1157ea13bc09432bf75e6d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Gintama-2017-กินทามะ-ซามูไร-เพี้ยนสารพัด-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Laplace’s Witch (2018) ลาปลาซ วิปลาส",
-    "url": "https://lk-hdx.com/laplaces-witch-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Laplaces-Witch-2018-ลาปลาซ-วิปลาส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ce2a29b82f3bdcc9387cb2d7600077da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ce2a29b82f3bdcc9387cb2d7600077da"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Laplaces-Witch-2018-ลาปลาซ-วิปลาส-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Tornado Girl (2017) ฉ่ำรัก หัวใจวี๊ดวิ้ววว  ",
-    "url": "https://lk-hdx.com/tornado-girl-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Tornado-Girl-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/aDxSUx_0Tg"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Tornado-Girl-2017-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Shin Godzilla (2016) ก็อดซิลล่า รีเซอร์เจนซ์",
-    "url": "https://lk-hdx.com/shin-godzilla-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Shin-Godzilla-2016-ก็อดซิลล่า-รีเซอร์เจนซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_GNLRtQY9T"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Shin-Godzilla-2016-ก็อดซิลล่า-รีเซอร์เจนซ์-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Let Me Eat Your Pancreas (2017) ตับอ่อนเธอนั้น ขอฉันเถอะนะ",
-    "url": "https://lk-hdx.com/let-me-eat-your-pancreas-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Let-Me-Eat-Your-Pancreas-2017-ตับอ่อนเธอนั้น-ขอฉันเถอะนะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7b784f152d8c4cc99e5a27bd6dea882/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7b784f152d8c4cc99e5a27bd6dea882"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Let-Me-Eat-Your-Pancreas-2017-ตับอ่อนเธอนั้น-ขอฉันเถอะนะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Parades (2024) เดอะ พาเหรด",
-    "url": "https://lk-hdx.com/the-parades-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Parades-2024-เดอะ-พาเหรด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df93e19b65a1ad6158c33f9db4314645/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df93e19b65a1ad6158c33f9db4314645"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Parades-2024-เดอะ-พาเหรด-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Shin Ultraman (2022) ชิน อุลตร้าแมน",
