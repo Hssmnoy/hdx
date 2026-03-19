@@ -6427,153 +6427,421 @@
   },
   {
     "title": "Little Big Mouth (2021) ลิตเติ้ล บิ๊ก เมาท์",
-    "url": "https://lk-hdx.com/little-big-mouth-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Little-Big-Mouth-2021-ลิตเติ้ล-บิ๊ก-เมาท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2eae49d829f49301d82cdfc87720a663/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2eae49d829f49301d82cdfc87720a663"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Little-Big-Mouth-2021-ลิตเติ้ล-บิ๊ก-เมาท์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Just Say Yes (2021)",
-    "url": "https://lk-hdx.com/just-say-yes-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Just-Say-Yes-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9f766378a3d9b8dcde9b3aeac33c65b2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9f766378a3d9b8dcde9b3aeac33c65b2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Just-Say-Yes-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Je Suis Karl (2021) เราคือคาร์ล",
-    "url": "https://lk-hdx.com/je-suis-karl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Je-Suis-Karl-2021-เราคือคาร์ล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9c24e7598f38bf4d0433ea27a49a9d81/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c24e7598f38bf4d0433ea27a49a9d81"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Je-Suis-Karl-2021-เราคือคาร์ล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Just Short of Perfect (2021) รักเล็กๆ ก็เพอร์เฟ็กต์แล้ว",
-    "url": "https://lk-hdx.com/just-short-of-perfect-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Just-Short-of-Perfect-2021-รักเล็กๆ-ก็เพอร์เฟ็กต์แล้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/9_hJMB7UGS"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Just-Short-of-Perfect-2021-รักเล็กๆ-ก็เพอร์เฟ็กต์แล้ว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "June & Kopi (2021) จูนกับโกปี้",
-    "url": "https://lk-hdx.com/june-kopi-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/June-Kopi-2021-จูนกับโกปี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nR_FUGB2Ml"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/June-Kopi-2021-จูนกับโกปี้-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I Am All Girls (2021) ฉันคือตัวแทนเด็กผู้หญิง",
-    "url": "https://lk-hdx.com/i-am-all-girls-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Am-All-Girls-2021-ฉันคือตัวแทนเด็กผู้หญิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/10057cfc7a6acfdae3113983f5f01036/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/10057cfc7a6acfdae3113983f5f01036"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Am-All-Girls-2021-ฉันคือตัวแทนเด็กผู้หญิง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hope Frozen A Quest to Live Twice (2020) ความหวังแช่แข็ง ขอเกิดอีกครั้ง",
-    "url": "https://lk-hdx.com/hope-frozen-a-quest-to-live-twice-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hope-Frozen-A-Quest-to-Live-Twice-2020-ความหวังแช่แข็ง-ขอเกิดอีกครั้ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0c467002c2070b42200a70aebbd9e856/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0c467002c2070b42200a70aebbd9e856"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Hope-Frozen-A-Quest-to-Live-Twice-2020-ความหวังแช่แข็ง-ขอเกิดอีกครั้ง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hillbilly Elegy (2020) บันทึกหลังเขา",
-    "url": "https://lk-hdx.com/hillbilly-elegy-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hillbilly-Elegy-2020-บันทึกหลังเขา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/43c36a8b7aafdebd85aedbebc572b44f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/43c36a8b7aafdebd85aedbebc572b44f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Hillbilly-Elegy-2020-บันทึกหลังเขา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hubie Halloween (2020) ฮูบี้ ฮาโลวีน",
-    "url": "https://lk-hdx.com/hubie-halloween-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hubie-Halloween-2020-ฮูบี้-ฮาโลวีน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/82854937e6d213db8cd6a4d5799a3d05/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/82854937e6d213db8cd6a4d5799a3d05"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Hubie-Halloween-2020-ฮูบี้-ฮาโลวีน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
-    "url": "https://lk-hdx.com/a-soweto-love-story-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Soweto-Love-Story-2024-ความรักสไตล์โซเวโต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8bad4730ae3d76f1690c8efc279a7914/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8bad4730ae3d76f1690c8efc279a7914"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/A-Soweto-Love-Story-2024-ความรักสไตล์โซเวโต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
-    "url": "https://lk-hdx.com/kill-me-if-you-dare-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58b03a97cab2ed8f6be54fbdffaf746e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58b03a97cab2ed8f6be54fbdffaf746e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare-2024-ถ้ากล้า-ก็ฆ่าเลย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fever Dream (2021) ฟีเวอร์ ดรีม",
-    "url": "https://lk-hdx.com/fever-dream-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fever-Dream-2021-ฟีเวอร์-ดรีม-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jXQjM5t8_3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Fever-Dream-2021-ฟีเวอร์-ดรีม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Oloture (2019) โอโลตูร์",
-    "url": "https://lk-hdx.com/oloture-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Oloture-2019-โอโลตูร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58810f156d821ec97ac29a73de337f0f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58810f156d821ec97ac29a73de337f0f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Oloture-2019-โอโลตูร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Oh, Ramona (2019) ราโมนาที่รัก",
-    "url": "https://lk-hdx.com/oh-ramona-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Oh-Ramona-2019-ราโมนาที่รัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e1f76993bfac93ab3a82dfa2d7f18a2b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e1f76993bfac93ab3a82dfa2d7f18a2b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Oh-Ramona-2019-ราโมนาที่รัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mosul (2019) โมซูล",
-    "url": "https://lk-hdx.com/mosul-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mosul-2019-โมซูล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9cf56d34c22f25b6a4e1eb4be23a3422/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9cf56d34c22f25b6a4e1eb4be23a3422"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Mosul-2019-โมซูล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Marriage Story (2019) แมริเอจ สตอรี่",
-    "url": "https://lk-hdx.com/marriage-story-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Marriage-Story-2019-แมริเอจ-สตอรี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3162fc8f881f043ad980c793fd62043a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3162fc8f881f043ad980c793fd62043a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Marriage-Story-2019-แมริเอจ-สตอรี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Let It Snow (2019) อุ่นรักฤดูหนาว",
-    "url": "https://lk-hdx.com/let-it-snow-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Let-It-Snow-2019-อุ่นรักฤดูหนาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ed483badf1fd092d4b1288ef3066669/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ed483badf1fd092d4b1288ef3066669"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Let-It-Snow-2019-อุ่นรักฤดูหนาว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ashes (2024) เถ้าถ่าน",
-    "url": "https://lk-hdx.com/ashes-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Ashes-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e062a6b35eaf2a6b40a0d4e1e11fec9b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e062a6b35eaf2a6b40a0d4e1e11fec9b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Ashes-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lover, Stalker, Killer (2024) คนรัก สตอล์กเกอร์ ฆาตกร",
-    "url": "https://lk-hdx.com/lover-stalker-killer-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lover-Stalker-Killer-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1c926b29d39dfd11158f058160248127/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1c926b29d39dfd11158f058160248127"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Lover-Stalker-Killer-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "I Lost My Body (2019) ร่างกายที่หายไป",
-    "url": "https://lk-hdx.com/i-lost-my-body-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Lost-My-Body-2019-ร่างกายที่หายไป-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ACPlg_a_JJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/I-Lost-My-Body-2019-ร่างกายที่หายไป-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Holiday Rush (2019) ฮอลิเดย์ รัช",
-    "url": "https://lk-hdx.com/holiday-rush-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Holiday-Rush-2019-ฮอลิเดย์-รัช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6be7909dbb9f3fc4eafb50ecff4646ba/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6be7909dbb9f3fc4eafb50ecff4646ba"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Holiday-Rush-2019-ฮอลิเดย์-รัช-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Good Sam (2019) ของขวัญจากคนใจดี",
-    "url": "https://lk-hdx.com/good-sam-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Good-Sam-2019-ของขวัญจากคนใจดี-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/pZhv_DPmbJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Good-Sam-2019-ของขวัญจากคนใจดี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fractured (2019) แตกหัก",
-    "url": "https://lk-hdx.com/fractured-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fractured-2019-แตกหัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f992ad3b4644195f2a55b35b4035b6ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f992ad3b4644195f2a55b35b4035b6ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Fractured-2019-แตกหัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Extremely Wicked Shockingly Evil and Vile (2019)",
-    "url": "https://lk-hdx.com/extremely-wicked-shockingly-evil-and-vile-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Extremely-Wicked-Shockingly-Evil-and-Vile-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/g6J_LCmAV1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Extremely-Wicked-Shockingly-Evil-and-Vile-2019-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Eurovision Song Contest The Story of Fire Saga (2020)",
-    "url": "https://lk-hdx.com/eurovision-song-contest-the-story-of-fire-saga-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Eurovision-Song-Contest-The-Story-of-Fire-Saga-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/3CRiJ_aayY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Eurovision-Song-Contest-The-Story-of-Fire-Saga-2020-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Dolly Parton’s Christmas on the Square (2020) ดอลลี่ พาร์ตัน คริสต์มาส ออน เดอะ สแควร์",
-    "url": "https://lk-hdx.com/dolly-partons-christmas-on-the-square-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dolly-Partons-Christmas-on-the-Square-2020-ดอลลี่-พาร์ตัน-คริสต์มาส-ออน-เดอะ-สแควร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d0940df0017c4d4d87bf70cb5a89ac8c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d0940df0017c4d4d87bf70cb5a89ac8c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Dolly-Partons-Christmas-on-the-Square-2020-ดอลลี่-พาร์ตัน-คริสต์มาส-ออน-เดอะ-สแควร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Desperados (2020) เสียฟอร์ม ยอมเพราะรัก",
-    "url": "https://lk-hdx.com/desperados-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Desperados-2020-เสียฟอร์ม-ยอมเพราะรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/921ff81a8be5a70b419d254cc57b75a7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/921ff81a8be5a70b419d254cc57b75a7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Desperados-2020-เสียฟอร์ม-ยอมเพราะรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Dear Mother (2020) เดียร์ มาเธอร์",
-    "url": "https://lk-hdx.com/dear-mother-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dear-Mother-2020-เดียร์-มาเธอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/CJoU_owD4k"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Dear-Mother-2020-เดียร์-มาเธอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Coffee and Kareem (2020) คอฟฟี่กับคารีม",
-    "url": "https://lk-hdx.com/coffee-and-kareem-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Coffee-and-Kareem-2020-คอฟฟี่กับคารีม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0f50be5b5d1f16919ff51736d7f88fa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0f50be5b5d1f16919ff51736d7f88fa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Coffee-and-Kareem-2020-คอฟฟี่กับคารีม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Friendzone (2021) โซนนี้เพื่อนขอ",
-    "url": "https://lk-hdx.com/friendzone-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Friendzone-2021-โซนนี้เพื่อนขอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8a6823b905c1237cf90bfc48ae77a330/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8a6823b905c1237cf90bfc48ae77a330"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Friendzone-2021-โซนนี้เพื่อนขอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Forever Rich (2021) ฟอร์เอเวอร์ ริช",
