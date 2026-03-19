@@ -55970,152 +55970,428 @@
   {
     "title": "The Unholy (2021) เทวาอาถรรพ์",
     "url": "https://lk-hdx.com/the-unholy-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Unholy-2021-เทวาอาถรรพ์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Unholy-2021-เทวาอาถรรพ์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/i8dJAWmUV_"
+      }
+    ]
   },
   {
     "title": "The Woman in the Window (2021) ส่องปมมรณะ",
     "url": "https://lk-hdx.com/the-woman-in-the-window-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Woman-in-the-Window-2021-ส่องปมมรณะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Woman-in-the-Window-2021-ส่องปมมรณะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a3cfc36a4d2a38ca46fc8730f3a59306"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a3cfc36a4d2a38ca46fc8730f3a59306/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Thunder Force (2021) ธันเดอร์ฟอร์ซ ขบวนการฮีโร่ฟาดฟ้า",
     "url": "https://lk-hdx.com/thunder-force-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Thunder-Force-2021-ธันเดอร์ฟอร์ซ-ขบวนการฮีโร่ฟาดฟ้า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Thunder-Force-2021-ธันเดอร์ฟอร์ซ-ขบวนการฮีโร่ฟาดฟ้า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/313e9bc31d936f454458cf7e84d7e08d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/313e9bc31d936f454458cf7e84d7e08d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Attraction 2 Invasion (2020) มหาวิบัติเอเลี่ยนถล่มโลก ภาค 2",
     "url": "https://lk-hdx.com/attraction-2-invasion-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Attraction-2-Invasion-2020-มหาวิบัติเอเลี่ยนถล่มโลก-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Attraction-2-Invasion-2020-มหาวิบัติเอเลี่ยนถล่มโลก-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/x10Ywy_kdV"
+      }
+    ]
   },
   {
     "title": "Attraction 1 (2017) มหาวิบัติเอเลี่ยนถล่มโลก ภาค 1",
     "url": "https://lk-hdx.com/attraction-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Attraction-1-2017-มหาวิบัติเอเลี่ยนถล่มโลก-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Attraction-1-2017-มหาวิบัติเอเลี่ยนถล่มโลก-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5e40201c6349c7df15fd22a64c5f86a1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5e40201c6349c7df15fd22a64c5f86a1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "To All the Boys 3 Always And Forever (2021) แด่ชายทุกคนที่ฉันเคยรัก ชั่วนิจนิรันดร์ ภาค 3",
     "url": "https://lk-hdx.com/to-all-the-boys-3-always-and-forever-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-3-Always-And-Forever-2021-แด่ชายทุกคนที่ฉันเคยรัก-ชั่วนิจนิรันดร์-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-3-Always-And-Forever-2021-แด่ชายทุกคนที่ฉันเคยรัก-ชั่วนิจนิรันดร์-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/943db910dc6a64f0c94c8c91e7eaf21a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/943db910dc6a64f0c94c8c91e7eaf21a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "To All the Boys 2 P.S. I Still Love You (2020) แด่ชายทุกคนที่ฉันเคยรัก (ตอนนี้ก็ยังรัก) ภาค 2",
     "url": "https://lk-hdx.com/to-all-the-boys-2-p-s-i-still-love-you-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-2-P.S.-I-Still-Love-You-2020-แด่ชายทุกคนที่ฉันเคยรัก-ตอนนี้ก็ยังรัก-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-2-P.S.-I-Still-Love-You-2020-แด่ชายทุกคนที่ฉันเคยรัก-ตอนนี้ก็ยังรัก-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6327364a83c53db4739c796302b57e47"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6327364a83c53db4739c796302b57e47/master.m3u8"
+      }
+    ]
   },
   {
     "title": "To All the Boys 1 I’ve Loved Before (2018) แด่ชายทุกคนที่ฉันเคยรัก ภาค 1",
     "url": "https://lk-hdx.com/to-all-the-boys-1-ive-loved-before-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-1-Ive-Loved-Before-2018-แด่ชายทุกคนที่ฉันเคยรัก-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/To-All-the-Boys-1-Ive-Loved-Before-2018-แด่ชายทุกคนที่ฉันเคยรัก-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/15baff14280349e6424023f0388314aa"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/15baff14280349e6424023f0388314aa/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Princess Switch 3 Romancing the Star (2021) เดอะ พริ้นเซส สวิตช์ ภาค 3 ไขว่คว้าหาดาว",
     "url": "https://lk-hdx.com/the-princess-switch-3-romancing-the-star-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-3-Romancing-the-Star-2021-เดอะ-พริ้นเซส-สวิตช์-ภาค-3-ไขว่คว้าหาดาว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-3-Romancing-the-Star-2021-เดอะ-พริ้นเซส-สวิตช์-ภาค-3-ไขว่คว้าหาดาว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9782f6b9b9e7be80684d86f0e674a0a3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9782f6b9b9e7be80684d86f0e674a0a3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Princess Switch 2 Switched Again (2020) เดอะ พริ้นเซส สวิตช์ ภาค 2 สลับแล้วสลับอีก",
     "url": "https://lk-hdx.com/the-princess-switch-2-switched-again-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-2-Switched-Again-2020-เดอะ-พริ้นเซส-สวิตช์-ภาค-2-สลับแล้วสลับอีก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-2-Switched-Again-2020-เดอะ-พริ้นเซส-สวิตช์-ภาค-2-สลับแล้วสลับอีก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/215ae4d1b98dcecdad70c22aa6d5bab7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/215ae4d1b98dcecdad70c22aa6d5bab7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Princess Switch 1 (2018) เดอะ พริ้นเซส สวิตช์ ภาค 1 สลับตัวไม่สลับหัวใจ",
     "url": "https://lk-hdx.com/the-princess-switch-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-1-2018-เดอะ-พริ้นเซส-สวิตช์-ภาค-1-สลับตัวไม่สลับหัวใจ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Princess-Switch-1-2018-เดอะ-พริ้นเซส-สวิตช์-ภาค-1-สลับตัวไม่สลับหัวใจ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/397dbb417f745b864d85deb84f0a01a5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/397dbb417f745b864d85deb84f0a01a5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Things Heard & Seen (2021) แว่วเสียงวิญญาณหลอน",
     "url": "https://lk-hdx.com/things-heard-seen-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Things-Heard-Seen-2021-แว่วเสียงวิญญาณหลอน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Things-Heard-Seen-2021-แว่วเสียงวิญญาณหลอน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b4ebd564435f0fa0d4a1f8d09f36641d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b4ebd564435f0fa0d4a1f8d09f36641d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Feel the Beat (2020) ขาแดนซ์วัยใส",
     "url": "https://lk-hdx.com/feel-the-beat-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Feel-the-Beat-2020-ขาแดนซ์วัยใส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Feel-the-Beat-2020-ขาแดนซ์วัยใส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/15bb99a09e5ffe33bedf92e0def70f12"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/15bb99a09e5ffe33bedf92e0def70f12/master.m3u8"
+      }
+    ]
   },
   {
     "title": "How I Became a Super Hero (2020) ปริศนาพลังฮีโร่",
     "url": "https://lk-hdx.com/how-i-became-a-super-hero-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/How-I-Became-a-Super-Hero-2020-ปริศนาพลังฮีโร่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/How-I-Became-a-Super-Hero-2020-ปริศนาพลังฮีโร่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8c21eb89976ed647aed1219099bb6c1d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8c21eb89976ed647aed1219099bb6c1d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Jingle Jangle A Christmas Journey (2020) จิงเกิ้ล แจงเกิ้ล คริสต์มาสมหัศจรรย์",
     "url": "https://lk-hdx.com/jingle-jangle-a-christmas-journey-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jingle-Jangle-A-Christmas-Journey-2020-จิงเกิ้ล-แจงเกิ้ล-คริสต์มาสมหัศจรรย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jingle-Jangle-A-Christmas-Journey-2020-จิงเกิ้ล-แจงเกิ้ล-คริสต์มาสมหัศจรรย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b993d10712fe1cfc91ed796d51e58cf3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b993d10712fe1cfc91ed796d51e58cf3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Anna (2019) แอนนา สวยสะบัดสังหาร",
     "url": "https://lk-hdx.com/anna-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Anna-2019-แอนนา-สวยสะบัดสังหาร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Anna-2019-แอนนา-สวยสะบัดสังหาร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7243334bc829d927e4e5dca629d64bcf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7243334bc829d927e4e5dca629d64bcf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "3 Bears Christmas (2019) 3 หมี ตะลุยคริสต์มาส",
     "url": "https://lk-hdx.com/3-bears-christmas-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/3-Bears-Christmas-2019-3-หมี-ตะลุยคริสต์มาส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/3-Bears-Christmas-2019-3-หมี-ตะลุยคริสต์มาส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a2c4e84fa7739743488ae86cb1187c14"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a2c4e84fa7739743488ae86cb1187c14/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Billionaire Boys Club (2018) รวมพลรวยอัจฉริยะ",
     "url": "https://lk-hdx.com/billionaire-boys-club-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Billionaire-Boys-Club-2018-รวมพลรวยอัจฉริยะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Billionaire-Boys-Club-2018-รวมพลรวยอัจฉริยะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/GIecthsmA_"
+      }
+    ]
   },
   {
     "title": "Day of the Dead Bloodline (2018) วันนรกเดือด มฤตยูซอมบี้สยอง",
     "url": "https://lk-hdx.com/day-of-the-dead-bloodline-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Day-of-the-Dead-Bloodline-2018-วันนรกเดือด-มฤตยูซอมบี้สยอง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Day-of-the-Dead-Bloodline-2018-วันนรกเดือด-มฤตยูซอมบี้สยอง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/H_JOqW0pRu"
+      }
+    ]
   },
   {
     "title": "First Love (2021) รักแรก",
     "url": "https://lk-hdx.com/first-love-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/First-Love-2021-รักแรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/First-Love-2021-รักแรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5bbff78993f425f614a48c880eec6f8b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5bbff78993f425f614a48c880eec6f8b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fortress (2021) โฟร์ทเทรส",
     "url": "https://lk-hdx.com/fortress-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fortress-2021-โฟร์ทเทรส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fortress-2021-โฟร์ทเทรส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/eb8a00886291a7a1cabee466c2783b5b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/eb8a00886291a7a1cabee466c2783b5b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Final Score (2018) ยุทธการดับแผน ผ่าแมตช์เส้นตาย",
     "url": "https://lk-hdx.com/final-score-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Final-Score-2018-ยุทธการดับแผน-ผ่าแมตช์เส้นตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Final-Score-2018-ยุทธการดับแผน-ผ่าแมตช์เส้นตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/673523a96571d24e403719bc361e8ba7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/673523a96571d24e403719bc361e8ba7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Battle Drone (2018) สงครามหุ่นรบพิฆาต",
     "url": "https://lk-hdx.com/battle-drone-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Battle-Drone-2018-สงครามหุ่นรบพิฆาต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Battle-Drone-2018-สงครามหุ่นรบพิฆาต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/exA1Il_kZD"
+      }
+    ]
   },
   {
     "title": "Backstabbing for Beginners (2018) ล้วงแผนล่าทรยศ",
     "url": "https://lk-hdx.com/backstabbing-for-beginners-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Backstabbing-for-Beginners-2018-ล้วงแผนล่าทรยศ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Backstabbing-for-Beginners-2018-ล้วงแผนล่าทรยศ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d76d1ff77b4c8beb8aa3c8ca5bb1778b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d76d1ff77b4c8beb8aa3c8ca5bb1778b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Booksmart (2019) เด็กเรียนซ่าส์ ขอเกรียนบ้าวันเรียนจบ",
     "url": "https://lk-hdx.com/booksmart-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Booksmart-2019-เด็กเรียนซ่าส์-ขอเกรียนบ้าวันเรียนจบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Booksmart-2019-เด็กเรียนซ่าส์-ขอเกรียนบ้าวันเรียนจบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bebc6c4183f65cd16693c4ef0078b42a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bebc6c4183f65cd16693c4ef0078b42a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bombshell (2019) แฉกระฉ่อนโลก",
     "url": "https://lk-hdx.com/bombshell-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bombshell-2019-แฉกระฉ่อนโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bombshell-2019-แฉกระฉ่อนโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/UKX2tQ_tjh"
+      }
+    ]
   },
   {
     "title": "Blood Vessel (2019) เรือนรกเลือดต้องสาป",
     "url": "https://lk-hdx.com/blood-vessel-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Blood-Vessel-2019-เรือนรกเลือดต้องสาป-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Blood-Vessel-2019-เรือนรกเลือดต้องสาป-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2cdd3132a4c47f8262dae0de17706f97"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2cdd3132a4c47f8262dae0de17706f97/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Angel Has Fallen (2019) ผ่ายุทธการ ดับแผนอหังการ์",
     "url": "https://lk-hdx.com/angel-has-fallen-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Angel-Has-Fallen-2019-ผ่ายุทธการ-ดับแผนอหังการ์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Angel-Has-Fallen-2019-ผ่ายุทธการ-ดับแผนอหังการ์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a944f7c7d18cde9400d4070733a7007f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a944f7c7d18cde9400d4070733a7007f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Christmas Gift from Bob (2020) ของขวัญจากบ๊อบ",
     "url": "https://lk-hdx.com/a-christmas-gift-from-bob-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Christmas-Gift-from-Bob-2020-ของขวัญจากบ๊อบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Christmas-Gift-from-Bob-2020-ของขวัญจากบ๊อบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/92b9e905d7de9bb153632eba57e85279"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/92b9e905d7de9bb153632eba57e85279/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Project Power (2020) โปรเจคท์ พาวเวอร์ พลังลับพลังฮีโร่",
     "url": "https://lk-hdx.com/project-power-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Project-Power-2020-โปรเจคท์-พาวเวอร์-พลังลับพลังฮีโร่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Project-Power-2020-โปรเจคท์-พาวเวอร์-พลังลับพลังฮีโร่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8656aaddb75fe350c34a41625c3ed4e9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8656aaddb75fe350c34a41625c3ed4e9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hotel Mumbai (2018) มุมไบ เมืองนรกแตก",
