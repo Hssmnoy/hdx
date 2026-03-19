@@ -14192,152 +14192,440 @@
   {
     "title": "What Happens Later (2023) เกิดอะไรขึ้นในภายหลัง",
     "url": "https://lk-hdx.com/what-happens-later-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/What-Happens-Later-2023-เกิดอะไรขึ้นในภายหลัง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/09/What-Happens-Later-2023-เกิดอะไรขึ้นในภายหลัง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/efbe8842085e69da7612512b94034e31"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/efbe8842085e69da7612512b94034e31/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Land of Bad (2024) ภารกิจฝ่าแดนดิบ",
     "url": "https://lk-hdx.com/land-of-bad-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Land-of-Bad-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Land-of-Bad-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dcd2d62ba291815038c1c25ae46f2c40"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dcd2d62ba291815038c1c25ae46f2c40/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Challengers (2024) ชาเลนเจอร์ส",
     "url": "https://lk-hdx.com/challengers/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/99654db01faea4d1fc4b454aa3fdb7b3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/99654db01faea4d1fc4b454aa3fdb7b3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Platform (2019) เดอะ แพลตฟอร์ม",
     "url": "https://lk-hdx.com/the-platform-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Platform-2019-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Platform-2019-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/19af57ca0adceac6b9b86014947a4256"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/19af57ca0adceac6b9b86014947a4256/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
     "url": "https://lk-hdx.com/bob-marley-one-love/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ab5c048b2bb0be362b48e9d01f96d482"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ab5c048b2bb0be362b48e9d01f96d482/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
     "url": "https://lk-hdx.com/harold-and-the-purple-crayon/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024-แฮโรลด์กับสีเทียนมหัศจรรย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024-แฮโรลด์กับสีเทียนมหัศจรรย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/758c55fdfe884f878112b15d5baf5e6b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/758c55fdfe884f878112b15d5baf5e6b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
     "url": "https://lk-hdx.com/deadpool-wolverine/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9c72cabacf36033e8aab72fffb9252ec"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9c72cabacf36033e8aab72fffb9252ec/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Deadpool 2 (2018) เดดพูล ภาค 2",
     "url": "https://lk-hdx.com/deadpool-2-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-2-2018-เดดพูล-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-2-2018-เดดพูล-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e0133c2ec40819d3afc0f8f44ed7b7ee"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e0133c2ec40819d3afc0f8f44ed7b7ee/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Deadpool 1 (2016) เดดพูล ภาค 1 นักสู้พันธุ์เกรียน",
     "url": "https://lk-hdx.com/deadpool-1-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-1-2016-เดดพูล-ภาค-1-นักสู้พันธุ์เกรียน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Deadpool-1-2016-เดดพูล-ภาค-1-นักสู้พันธุ์เกรียน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_4XJgoFgxR"
+      }
+    ]
   },
   {
     "title": "The Painter (2024) จิตรกร",
     "url": "https://lk-hdx.com/the-painter-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Painter-2024-จิตรกร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Painter-2024-จิตรกร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/afef71d807c5910e9ffc8a61ec0bf2a1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/afef71d807c5910e9ffc8a61ec0bf2a1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Don’t Move (2024) อย่าขยับ",
     "url": "https://lk-hdx.com/dont-move-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Dont-Move-2024-อย่าขยับ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/Dont-Move-2024-อย่าขยับ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7a9cda9b446e3ec78075047ddcd8022d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7a9cda9b446e3ec78075047ddcd8022d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sleeping Dogs (2024)",
     "url": "https://lk-hdx.com/sleeping-dogs-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Sleeping-Dogs-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Sleeping-Dogs-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/63b744b46f813ede5a34714c3e565018"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/63b744b46f813ede5a34714c3e565018/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Night Swim (2024) ค่ำคืนอย่าแหวกว่าย",
     "url": "https://lk-hdx.com/night-swim/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Night-Swim-2024-ค่ำคืนอย่าแหวกว่าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Night-Swim-2024-ค่ำคืนอย่าแหวกว่าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/20b58f25c415a0850d9c0f304452210a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/20b58f25c415a0850d9c0f304452210a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Alpha ผจญนรกแดนทมิฬ 20,000 ปี (2018)",
     "url": "https://lk-hdx.com/alpha/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Alpha-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Alpha-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1c1583720c9db0f5140199566ebe9515"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1c1583720c9db0f5140199566ebe9515/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Way Down หยุดโลกปล้น (2021)",
     "url": "https://lk-hdx.com/way-down/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Way-Down-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Way-Down-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/57d34050fdd47594f0586ebf5ca015f8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/57d34050fdd47594f0586ebf5ca015f8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Blade Runner 2049 เบลด รันเนอร์ 2049",
     "url": "https://lk-hdx.com/blade-runner-2049/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Blade-Runner-2049-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Blade-Runner-2049-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/097011ef38639c872078bcdd43f3b9d0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/097011ef38639c872078bcdd43f3b9d0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Marvels เดอะ มาร์เวลส์ (2023)",
     "url": "https://lk-hdx.com/the-marvels/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Marvels-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Marvels-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6bd713790782db129b29e265dd2656a6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6bd713790782db129b29e265dd2656a6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Aquaman and the Lost Kingdom อควาแมนกับอาณาจักรสาบสูญ (2023)",
     "url": "https://lk-hdx.com/aquaman-and-the-lost-kingdom/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Aquaman-and-the-Lost-Kingdom-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Aquaman-and-the-Lost-Kingdom-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ad622b6fef01b8bd95a2c4a9b92f2321"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ad622b6fef01b8bd95a2c4a9b92f2321/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Aquaman อควาแมน เจ้าสมุทร (2018)",
     "url": "https://lk-hdx.com/aquaman/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Aquaman-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Aquaman-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f02cc111b5ce1b48b525b7dfe260c1c9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f02cc111b5ce1b48b525b7dfe260c1c9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Killers of the Flower Moon คิลเลอร์ส ออฟ เดอะ ฟลาวเวอร์ มูน (2023)",
     "url": "https://lk-hdx.com/killers-of-the-flower-moon/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Killers-of-the-Flower-Moon-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Killers-of-the-Flower-Moon-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d8430ceb9272b576602d9e5fae87fc8d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d8430ceb9272b576602d9e5fae87fc8d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Homefront โคตรคนระห่ำล่าผ่าเมือง (2013)",
     "url": "https://lk-hdx.com/homefront/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Homefront-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Homefront-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9f1c83e5e28daf1d7fbe3363e43fe5bb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9f1c83e5e28daf1d7fbe3363e43fe5bb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Joy Ride 3 Roadkill เกมหยอก หลอกไปเชือด 3 ถนนสายเลือด (2014)",
     "url": "https://lk-hdx.com/joy-ride-3-roadkill-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-3-Roadkill-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-3-Roadkill-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4774aec2e35f717177db2acf2e6042c8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4774aec2e35f717177db2acf2e6042c8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Joy Ride 2 Dead Ahead เกมหยอก หลอกไปเชือด 2 เชือดสุดทางนรก (2008)",
     "url": "https://lk-hdx.com/joy-ride-2-dead-ahead-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-2-Dead-Ahead-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-2-Dead-Ahead-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/v_W7Xgc6NN"
+      }
+    ]
   },
   {
     "title": "Joy Ride 1 เกมหยอกหลอกไปเชือด (2001)",
     "url": "https://lk-hdx.com/joy-ride-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Joy-Ride-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e591b5e228b6320e3841087ef39d05de"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e591b5e228b6320e3841087ef39d05de/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Goodrich (2024) กู๊ดริช",
     "url": "https://lk-hdx.com/goodrich-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Goodrich-2024-กู๊ดริช-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Goodrich-2024-กู๊ดริช-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cedb7d7869df902488bce58c28704315"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cedb7d7869df902488bce58c28704315/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Skincare (2024)",
     "url": "https://lk-hdx.com/skincare-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Skincare-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/11/Skincare-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/480c1be4c4d4521d7ccb576418608fce"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/480c1be4c4d4521d7ccb576418608fce/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Gladiator (2000) นักรบผู้กล้าผ่าแผ่นดินทรราช",
     "url": "https://lk-hdx.com/gladiator-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Gladiator-2000-นักรบผู้กล้าผ่าแผ่นดินทรราช-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Gladiator-2000-นักรบผู้กล้าผ่าแผ่นดินทรราช-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/745333fc8305f5c60560ac0fd7ad8e22"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/745333fc8305f5c60560ac0fd7ad8e22/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hardcore Henry เฮนรี่ โคตรฮาร์ดคอร์ (2015)",
     "url": "https://lk-hdx.com/hardcore-henry-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hardcore-Henry-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hardcore-Henry-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/w3WkRrLbP_"
+      }
+    ]
   },
   {
     "title": "Flipped หวานนักวันรักแรก (2010)",
     "url": "https://lk-hdx.com/flipped-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Flipped-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Flipped-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f0734c316e102f5520c611e826db7e5e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f0734c316e102f5520c611e826db7e5e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Snake Eyes G.I. Joe Origins (2021) จี.ไอ.โจ สเนคอายส์",
     "url": "https://lk-hdx.com/snake-eyes-g-i-joe-origins/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Snake-Eyes-G.I.-Joe-Origins-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Snake-Eyes-G.I.-Joe-Origins-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/daa1757ff18e2712aa6248bc5ccb0c8e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/daa1757ff18e2712aa6248bc5ccb0c8e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "School of Rock (2003) ครูซ่าเปิดตำราร็อค",
