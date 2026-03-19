@@ -24520,152 +24520,432 @@
   {
     "title": "Tiger (2024)",
     "url": "https://lk-hdx.com/tiger-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Tiger-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Tiger-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/K2Bw_COZ6B"
+      }
+    ]
   },
   {
     "title": "Tigers on the Rise (2024)",
     "url": "https://lk-hdx.com/tigers-on-the-rise-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Tigers-on-the-Rise-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Tigers-on-the-Rise-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/520a65b13654c8175ac5fafab9fcef12"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/520a65b13654c8175ac5fafab9fcef12/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Coma (2019) โคม่า",
     "url": "https://lk-hdx.com/coma-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Coma-2019-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Coma-2019-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/850f7ee70582e818b10091ce7fe89c2c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/850f7ee70582e818b10091ce7fe89c2c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Frozen (2010) นรกแขวนฟ้า",
     "url": "https://lk-hdx.com/frozen-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Frozen-2010-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Frozen-2010-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Tw_wDIbHrL"
+      }
+    ]
   },
   {
     "title": "Eternals (2021) ฮีโร่พลังเทพเจ้า",
     "url": "https://lk-hdx.com/eternals/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Eternals-2021-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Eternals-2021-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/hfFfWi_YbR"
+      }
+    ]
   },
   {
     "title": "Shooter (2007) คนระห่ำปืนเดือด",
     "url": "https://lk-hdx.com/shooter-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Shooter-2007-คนระห่ำปืนเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Shooter-2007-คนระห่ำปืนเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e65e70fed7e1cb45591ec94178041ec5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e65e70fed7e1cb45591ec94178041ec5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Book Club The Next Chapter (2023)",
     "url": "https://lk-hdx.com/book-club-the-next-chapter-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Book-Club-The-Next-Chapter-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Book-Club-The-Next-Chapter-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/58206a266bba9a69a2ba06e24b338880"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/58206a266bba9a69a2ba06e24b338880/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Student Services (2010) กิจกามนิสิต",
     "url": "https://lk-hdx.com/student-services-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Student-Services-2010-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Student-Services-2010-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f9a71b63fd5ee47a58eb46cc0b2f3589"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f9a71b63fd5ee47a58eb46cc0b2f3589/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Thick as Thieves (2009) ผ่าแผนปล้น คนเหนือเมฆ",
     "url": "https://lk-hdx.com/thick-as-thieves-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Thick-as-Thieves-2009-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Thick-as-Thieves-2009-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/13f1eebe19c14731280b7c761cdfb373"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/13f1eebe19c14731280b7c761cdfb373/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Diary of the Dead (2007) ไดอารี่แห่งความตาย ",
     "url": "https://lk-hdx.com/diary-of-the-dead-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Diary-of-the-Dead-2007-ไดอารี่แห่งความตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Diary-of-the-Dead-2007-ไดอารี่แห่งความตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0b03b9dd6401fcb1e8da5deef6d7da97"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0b03b9dd6401fcb1e8da5deef6d7da97/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Predator (2018) เดอะ เพรดเดเทอร์",
     "url": "https://lk-hdx.com/the-predator-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Predator-2018-เดอะ-เพรดเดเทอร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Predator-2018-เดอะ-เพรดเดเทอร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fe160b8ff95491642632cc2b7e8e615f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fe160b8ff95491642632cc2b7e8e615f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Predators 3 (2010) มหากาฬพรีเดเตอร์ ภาค 3",
     "url": "https://lk-hdx.com/predators-3-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predators-3-2010-มหากาฬพรีเดเตอร์-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predators-3-2010-มหากาฬพรีเดเตอร์-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b7fcda9cf6704554a9ff3fb4d9874490"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b7fcda9cf6704554a9ff3fb4d9874490/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Predator 2 (1990) คนไม่ใช่คน ภาค 2 บดเมืองมนุษย์",
     "url": "https://lk-hdx.com/predator-2-1990/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-2-1990-คนไม่ใช่คน-ภาค-2-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-2-1990-คนไม่ใช่คน-ภาค-2-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4fdbafa60c55768ab0a728d39b8bb174"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4fdbafa60c55768ab0a728d39b8bb174/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Predator 1 (1987) คนไม่ใช่คน ภาค 1",
     "url": "https://lk-hdx.com/predator-1-1987/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-1-1987-คนไม่ใช่คน-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-1-1987-คนไม่ใช่คน-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bb8f2b7261359f30f1c79bf5e7cc1f87"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bb8f2b7261359f30f1c79bf5e7cc1f87/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Blind Side (2009) แม่ผู้นี้มีแต่รักแท้",
     "url": "https://lk-hdx.com/the-blind-side-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Blind-Side-2009-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Blind-Side-2009-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/097cffee89a414309aa18d33ea8fea23"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/097cffee89a414309aa18d33ea8fea23/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Deja Vu (2006) ภารกิจเดือด ล่าทะลุเวลา",
     "url": "https://lk-hdx.com/deja-vu-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Deja-Vu-2006-ภารกิจเดือด-ล่าทะลุเวลา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Deja-Vu-2006-ภารกิจเดือด-ล่าทะลุเวลา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b2cf02859cf031e420e663dcf242622e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b2cf02859cf031e420e663dcf242622e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Day the Earth Stood Still (2008) วันพิฆาตสะกดโลก",
     "url": "https://lk-hdx.com/the-day-the-earth-stood-still-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Day-the-Earth-Stood-Still-2008-วันพิฆาตสะกดโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Day-the-Earth-Stood-Still-2008-วันพิฆาตสะกดโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/229a4b4d0387141016316cc00142b754"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/229a4b4d0387141016316cc00142b754/master.m3u8"
+      }
+    ]
   },
   {
     "title": "G.I. Joe Retaliation (2013) จีไอโจ สงครามระห่ำแค้นคอบร้าทมิฬ",
     "url": "https://lk-hdx.com/g-i-joe-retaliation-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/G.I.-Joe-Retaliation-2013-จีไอโจ-สงครามระห่ำแค้นคอบร้าทมิฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/G.I.-Joe-Retaliation-2013-จีไอโจ-สงครามระห่ำแค้นคอบร้าทมิฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ea4e6234c5de75d679568c24a84efca8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ea4e6234c5de75d679568c24a84efca8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "G.I. Joe The Rise of Cobra (2009) จีไอโจ สงครามพิฆาตคอบร้าทมิฬ",
     "url": "https://lk-hdx.com/g-i-joe-the-rise-of-cobra-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c75c63e7eb90862582ecb97602a5fd61"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c75c63e7eb90862582ecb97602a5fd61/master.m3u8"
+      }
+    ]
   },
   {
     "title": "10 Cloverfield Lane (2016) 10 โคลเวอร์ฟิลด์ เลน",
     "url": "https://lk-hdx.com/10-cloverfield-lane-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/10-Cloverfield-Lane-2016-10-โคลเวอร์ฟิลด์-เลน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/10-Cloverfield-Lane-2016-10-โคลเวอร์ฟิลด์-เลน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2cd1531c58e2dd3e17f2bf378fffcd26"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2cd1531c58e2dd3e17f2bf378fffcd26/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fantastic Beasts The Secrets of Dumbledore (2022) สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
     "url": "https://lk-hdx.com/fantastic-beasts-the-secrets-of-dumbledore-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b8c393e4371ab0ad70212e509e1785f9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b8c393e4371ab0ad70212e509e1785f9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fantastic Beasts The Crimes of Grindelwald (2018) สัตว์มหัศจรรย์ อาชญากรรมของกรินเดลวัลด์",
     "url": "https://lk-hdx.com/fantastic-beasts-the-crimes-of-grindelwald-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Fantastic-Beasts-The-Crimes-of-Grindelwald-2018-สัตว์มหัศจรรย์-อาชญากรรมของกรินเดลวัลด์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Fantastic-Beasts-The-Crimes-of-Grindelwald-2018-สัตว์มหัศจรรย์-อาชญากรรมของกรินเดลวัลด์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c5c8590627162a9fd176c99cec1b6583"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c5c8590627162a9fd176c99cec1b6583/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fantastic Beasts and Where to Find Them (2016) สัตว์มหัศจรรย์และถิ่นที่อยู่",
     "url": "https://lk-hdx.com/fantastic-beasts-and-where-to-find-them-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-and-Where-to-Find-Them-2016-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-and-Where-to-Find-Them-2016-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fe4faf259d2f598e3ea3553ab823a85e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fe4faf259d2f598e3ea3553ab823a85e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pride and Glory (2008) คู่ระห่ำผงาดเกียรติ",
     "url": "https://lk-hdx.com/pride-and-glory-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Pride-and-Glory-2008-คู่ระห่ำผงาดเกียรติ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Pride-and-Glory-2008-คู่ระห่ำผงาดเกียรติ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/88129b286765feb2c49cf1f56479d119"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/88129b286765feb2c49cf1f56479d119/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Vampires Suck (2010) สะกิดต่อมขำ ยำแวมไพร์",
     "url": "https://lk-hdx.com/vampires-suck-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Vampires-Suck-2010-สะกิดต่อมขำ-ยำแวมไพร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Vampires-Suck-2010-สะกิดต่อมขำ-ยำแวมไพร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/844c44174a85e4e93e12bcffc3bb41ff"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/844c44174a85e4e93e12bcffc3bb41ff/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Rebel Moon Part Two The Scargiver (2024) นักรบผู้ตีตรา ภาค 2",
     "url": "https://lk-hdx.com/rebel-moon-part-two-the-scargiver-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/fh_pG3bhZp"
+      }
+    ]
   },
   {
     "title": "The Three Musketeers Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
     "url": "https://lk-hdx.com/the-three-musketeers-milady-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Three-Musketeers-Milady-2023-สามทหารเสือ-มิลาดี้-สตรีสีเลือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Three-Musketeers-Milady-2023-สามทหารเสือ-มิลาดี้-สตรีสีเลือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/92ef3fa49e59bbbddb80f66761ef3ebb"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/92ef3fa49e59bbbddb80f66761ef3ebb/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Spectral (2016) ยกพลพิฆาตผี",
     "url": "https://lk-hdx.com/spectral-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Spectral-2016-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Spectral-2016-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/544f987d6fb85e6e4c38356de5781fc5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/544f987d6fb85e6e4c38356de5781fc5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Backdraft 2 (2019) เปลวไฟกับวีรบุรุษ ภาค 2",
     "url": "https://lk-hdx.com/backdraft-2-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6c1e828c6f1e3d7e7bf1c07ab71ff7fc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6c1e828c6f1e3d7e7bf1c07ab71ff7fc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Backdraft 1 (1991) เปลวไฟกับวีรบุรุษ ภาค 1",
     "url": "https://lk-hdx.com/backdraft-1-1991/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Backdraft-1-1991-เปลวไฟกับวีรบุรุษ-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Backdraft-1-1991-เปลวไฟกับวีรบุรุษ-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/dZix_jhryP"
+      }
+    ]
   },
   {
     "title": "10,000 BC (2008) บุกอาณาจักรโลก 10,000 ปี",
