@@ -21087,153 +21087,429 @@
   },
   {
     "title": "Damage (1992) ปรารถนาลึกสุดใจ",
-    "url": "https://lk-hdx.com/damage-1992/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Damage-1992-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6496492a1083bebb25dbeebc3ba7b811/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6496492a1083bebb25dbeebc3ba7b811"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Damage-1992-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sherlock Holmes A Game of Shadows (2011) เชอร์ล็อค โฮล์มส์ เกมพญายมเงามรณะ ภาค 2",
-    "url": "https://lk-hdx.com/sherlock-holmes-a-game-of-shadows-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-A-Game-of-Shadows-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f2dab6397d253b162730b71487483f7f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f2dab6397d253b162730b71487483f7f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-A-Game-of-Shadows-2011-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sherlock Holmes (2009) เชอร์ล็อค โฮล์มส์ ดับแผนพิฆาตโลก ภาค 1",
-    "url": "https://lk-hdx.com/sherlock-holmes-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/37123b6c5c6ef1eebf45457e60a28c06/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/37123b6c5c6ef1eebf45457e60a28c06"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hellboy (2019) เฮลล์บอย",
-    "url": "https://lk-hdx.com/hellboy-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hellboy-2019-เฮลล์บอย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a53a3ee00fe296bf6537cd645627e847/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a53a3ee00fe296bf6537cd645627e847"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hellboy-2019-เฮลล์บอย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hellboy 2 The Golden Army (2008) เฮลล์บอย ฮีโร่พันธุ์นรก ภาค 2",
-    "url": "https://lk-hdx.com/hellboy-2-the-golden-army-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hellboy-2-The-Golden-Army-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/h8U_zr68SL"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Hellboy-2-The-Golden-Army-2008-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hellboy 1 (2004) เฮลล์บอย ฮีโร่พันธุ์นรก ภาค 1",
-    "url": "https://lk-hdx.com/hellboy-1-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hellboy-1-2004-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4dd43e3b8ef91dea27906a7f821fa33b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4dd43e3b8ef91dea27906a7f821fa33b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Hellboy-1-2004-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Extraction 2 (2023) คนระห่ำภารกิจเดือด ภาค 2",
-    "url": "https://lk-hdx.com/extraction-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-2-2023-คนระห่ำภารกิจเดือด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d780be16dd3afed57ef2b6cd40a725f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d780be16dd3afed57ef2b6cd40a725f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-2-2023-คนระห่ำภารกิจเดือด-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Extraction 1 (2020) คนระห่ำภารกิจเดือด ภาค 1",
-    "url": "https://lk-hdx.com/extraction-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-1-2020-คนระห่ำภารกิจเดือด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b8a8f011ba2e117a503a15ade134cc25/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b8a8f011ba2e117a503a15ade134cc25"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-1-2020-คนระห่ำภารกิจเดือด-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Evil Dead (2013) ผีอมตะ",
-    "url": "https://lk-hdx.com/evil-dead-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Evil-Dead-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e9df2d1155eca1a9664af1dff2dd8957/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e9df2d1155eca1a9664af1dff2dd8957"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Evil-Dead-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Warm Bodies (2013) ซอมบี้ที่รัก",
-    "url": "https://lk-hdx.com/warm-bodies-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Warm-Bodies-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ffe9dd1a9f2a2ff9178650fceffaccb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ffe9dd1a9f2a2ff9178650fceffaccb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Warm-Bodies-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Me Before You (2016) มี บีฟอร์ ยู",
-    "url": "https://lk-hdx.com/me-before-you-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Me-Before-You-2016-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53b725d2ff62f0198ec4139467b40b27/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53b725d2ff62f0198ec4139467b40b27"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Me-Before-You-2016-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน",
-    "url": "https://lk-hdx.com/mallari-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Mallari-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8a8487d43da7ec93beeaba711ae02798/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8a8487d43da7ec93beeaba711ae02798"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Mallari-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trigger Warning (2024) ลั่นไกเตือน",
-    "url": "https://lk-hdx.com/trigger-warning-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Trigger-Warning-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6aa7a4b2b683f21ea562bbe2f40b4871/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6aa7a4b2b683f21ea562bbe2f40b4871"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Trigger-Warning-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Federer Twelve Final Days (2024)",
-    "url": "https://lk-hdx.com/federer-twelve-final-days-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Federer-Twelve-Final-Days-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2320c0d0b133be102806ee3ad738b621/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2320c0d0b133be102806ee3ad738b621"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Federer-Twelve-Final-Days-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Accidental Twins (2024) ฝาแฝดบังเอิญ",
-    "url": "https://lk-hdx.com/the-accidental-twins-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Accidental-Twins-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_onWJ2Oa2X"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Accidental-Twins-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Silent Hill Revelation (2012) เมืองห่าผี เรฟเวเลชั่น ภาค 2",
-    "url": "https://lk-hdx.com/silent-hill-revelation-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-Revelation-2012-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v7CDLLm_Ii"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-Revelation-2012-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Silent Hill (2006) เมืองห่าผี ภาค 1",
-    "url": "https://lk-hdx.com/silent-hill-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-2006-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/05e3a31dec727d94e08349026ee01a47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/05e3a31dec727d94e08349026ee01a47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-2006-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์",
-    "url": "https://lk-hdx.com/kleks-academy-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Kleks-Academy-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44d62d8ed1132b08584bf1b25940ffd3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44d62d8ed1132b08584bf1b25940ffd3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Kleks-Academy-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Inheritance (2024) มรดกอลเวง",
-    "url": "https://lk-hdx.com/inheritance-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Inheritance-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6954b17d2229ad1831a5999f946cdab4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6954b17d2229ad1831a5999f946cdab4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Inheritance-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Black Barbie (2024) แบล็ค บาร์บี้",
-    "url": "https://lk-hdx.com/black-barbie-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Black-Barbie-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4014f4802c91bed824a3aa79ffdca91e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4014f4802c91bed824a3aa79ffdca91e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Black-Barbie-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jim Henson Idea Man (2024)",
-    "url": "https://lk-hdx.com/jim-henson-idea-man-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Jim-Henson-Idea-Man-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/78155e39b89a1bdc764a63898c9f8a66/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/78155e39b89a1bdc764a63898c9f8a66"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Jim-Henson-Idea-Man-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Call Me Country Beyoncé & Nashville’s Renaissance (2024)",
-    "url": "https://lk-hdx.com/call-me-country-beyonce-nashvilles-renaissance-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Call-Me-Country-Beyonce-Nashvilles-Renaissance-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nW4rOe3_jl"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Call-Me-Country-Beyonce-Nashvilles-Renaissance-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Outstanding A Comedy Revolution (2024) ปฏิวัติคอมเมดี้",
-    "url": "https://lk-hdx.com/outstanding-a-comedy-revolution-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution-2024-ปฏิวัติคอมเมดี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1010c62bda4e92c03d3c9159f176a293/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1010c62bda4e92c03d3c9159f176a293"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution-2024-ปฏิวัติคอมเมดี้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Geek Charming (2011)",
-    "url": "https://lk-hdx.com/geek-charming-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Geek-Charming-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_IlmLYXdQQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Geek-Charming-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Red Tails (2012) สงครามกลางเวหาของเสืออากาศผิวสี",
-    "url": "https://lk-hdx.com/red-tails-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Red-Tails-2012-สงครามกลางเวหาของเสืออากาศผิวสี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8cd3a8021e8e483492a5c5c52219a9b2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8cd3a8021e8e483492a5c5c52219a9b2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Red-Tails-2012-สงครามกลางเวหาของเสืออากาศผิวสี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lone Survivor (2013) ปฏิบัติการพิฆาตสมรภูมิเดือด",
-    "url": "https://lk-hdx.com/lone-survivor-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lone-Survivor-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/GtBJSQLPg_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Lone-Survivor-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Zulu (2013) คู่หูล้างบางนรก",
-    "url": "https://lk-hdx.com/zulu-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Zulu-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ce7d0cd06ce90e6cc9c8ebeeba76814c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ce7d0cd06ce90e6cc9c8ebeeba76814c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Zulu-2013-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Season of the Witch (2011) มหาคำสาปสิ้นโลก",
-    "url": "https://lk-hdx.com/season-of-the-witch-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Season-of-the-Witch-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cb6cd15f5dce3668bf874b25af9d5c0b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cb6cd15f5dce3668bf874b25af9d5c0b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Season-of-the-Witch-2011-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Girl Lost (aka Nowhereland) (2016) เด็กใจแตก",
-    "url": "https://lk-hdx.com/girl-lost-aka-nowhereland-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Girl-Lost-aka-Nowhereland-2016-เด็กใจแตก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/38a8c50c35cb2f16c6bd0a30a1f30000/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/38a8c50c35cb2f16c6bd0a30a1f30000"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Girl-Lost-aka-Nowhereland-2016-เด็กใจแตก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Special Forces (2011) แหกด่านจู่โจม สายฟ้าแลบ",
-    "url": "https://lk-hdx.com/special-forces-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Special-Forces-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ae88c4b5a010966c41fb7cd2afccd03/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ae88c4b5a010966c41fb7cd2afccd03"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Special-Forces-2011-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Adjustment Bureau (2011) พลิกชะตาฝ่าองค์กรนรก",
