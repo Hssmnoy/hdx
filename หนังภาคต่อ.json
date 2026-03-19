@@ -6483,153 +6483,429 @@
   },
   {
     "title": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
-    "url": "https://lk-hdx.com/percy-jackson-sea-of-monsters-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Percy-Jackson-Sea-of-Monsters-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7d9b6b63488e4a1f31682e52d28d2be/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7d9b6b63488e4a1f31682e52d28d2be"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Percy-Jackson-Sea-of-Monsters-2013-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Percy Jackson & the Olympians The Lightning Thief (2010) เพอร์ซีย์ แจ็คสัน กับสายฟ้าที่หายไป",
-    "url": "https://lk-hdx.com/percy-jackson-the-olympians-the-lightning-thief-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0cefc0d8641da0befcaa4b7420d3f5e1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0cefc0d8641da0befcaa4b7420d3f5e1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "In Good Hands 2 (2024) ฝากรักไว้ให้ดูแล 2",
-    "url": "https://lk-hdx.com/in-good-hands-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/In-Good-Hands-2-2024-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/QEbPcuYwk_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/In-Good-Hands-2-2024-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Rings (2017) คำสาปมรณะ 3 ",
-    "url": "https://lk-hdx.com/rings-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Rings-2017-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8cd27e78a1b09d07dcf2717c46813606/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8cd27e78a1b09d07dcf2717c46813606"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Rings-2017-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Ring Two (2005) เดอะ ริง คำสาปมรณะ 2",
-    "url": "https://lk-hdx.com/the-ring-two-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Ring-Two-2005-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/uoVF4Yf_1L"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Ring-Two-2005-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Ring (2002) เดอะ ริง คำสาปมรณะ",
-    "url": "https://lk-hdx.com/the-ring-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Ring-2002-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/85204a035a1ec6b70a00d8e13067360d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/85204a035a1ec6b70a00d8e13067360d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Ring-2002-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Meg (2018) เม็ก ภาค 1 โคตรหลามพันล้านปี",
-    "url": "https://lk-hdx.com/the-meg-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Meg-2018-โคตรหลามพันล้านปี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6c471e0122d08998ef55e3706903639b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6c471e0122d08998ef55e3706903639b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Meg-2018-โคตรหลามพันล้านปี-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Pirates of the Caribbean 5 Dead Men Tell No Tales (2017) สงครามแค้นโจรสลัดไร้ชีพ",
-    "url": "https://lk-hdx.com/pirates-of-the-caribbean-5-dead-men-tell-no-tales-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-5-Dead-Men-Tell-No-Tales-2017-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/zmP_qy3c_b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-5-Dead-Men-Tell-No-Tales-2017-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Pirates of the Caribbean 4 On Stranger Tides (2011) ผจญภัยล่าสายน้ำอมฤตสุดขอบโลก",
-    "url": "https://lk-hdx.com/pirates-of-the-caribbean-4-on-stranger-tides-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-4-On-Stranger-Tides-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/XqEZy_H00a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-4-On-Stranger-Tides-2011-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Pirates of the Caribbean 3 At World’s End (2007) ผจญภัยล่าโจรสลัดสุดขอบโลก",
-    "url": "https://lk-hdx.com/pirates-of-the-caribbean-3-at-worlds-end-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-3-At-Worlds-End-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/017f47c7e9085b5ded5d69e7ee7eba27/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/017f47c7e9085b5ded5d69e7ee7eba27"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-3-At-Worlds-End-2007-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Pirates of the Caribbean 2 Dead Man’s Chest (2006) สงครามปีศาจโจรสลัดสยองโลก",
-    "url": "https://lk-hdx.com/pirates-of-the-caribbean-2-dead-mans-chest-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-2-Dead-Mans-Chest-2006-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/33cc0086fb95801634c769f3857b6f3c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/33cc0086fb95801634c769f3857b6f3c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-2-Dead-Mans-Chest-2006-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Pirates of the Caribbean 1 The Curse of The Black Pearl (2003) คืนชีพกองทัพโจรสลัดสยองโลก",
-    "url": "https://lk-hdx.com/pirates-of-the-caribbean-1-the-curse-of-the-black-pearl-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/E_l4kdsY00"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ralph Breaks the Internet (2018) ราล์ฟตะลุยโลกอินเทอร์เน็ต วายร้ายหัวใจฮีโร่ 2",
-    "url": "https://lk-hdx.com/ralph-breaks-the-internet-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Ralph-Breaks-the-Internet-2018-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d11df0fad9dd4a42cf5549ea164b427e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d11df0fad9dd4a42cf5549ea164b427e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Ralph-Breaks-the-Internet-2018-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Freaky Friday (2003) ศุกร์สยอง สองรุ่นสลับร่าง",
-    "url": "https://lk-hdx.com/freaky-friday-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Freaky-Friday-2003-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/721d6f4c53814c968d5da69381da5d09/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/721d6f4c53814c968d5da69381da5d09"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Freaky-Friday-2003-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Frozen 1 (2013) โฟรเซ่น ภาค 1 ผจญภัยแดนคำสาปราชินีหิมะ",
-    "url": "https://lk-hdx.com/frozen-1-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Frozen-1-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6af0577c312fbda4b071a2dba85a217d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6af0577c312fbda4b071a2dba85a217d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Frozen-1-2013-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "War for the Planet of the Apes (2017) มหาสงครามพิภพวานร",
-    "url": "https://lk-hdx.com/war-for-the-planet-of-the-apes-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/War-for-the-Planet-of-the-Apes-2017-มหาสงครามพิภพวานร-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/83c5bc309985efb8856f1445329fc864/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/83c5bc309985efb8856f1445329fc864"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/War-for-the-Planet-of-the-Apes-2017-มหาสงครามพิภพวานร-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dawn of the Planet of the Apes (2014) รุ่งอรุณแห่งพิภพวานร",
-    "url": "https://lk-hdx.com/dawn-of-the-planet-of-the-apes-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Dawn-of-the-Planet-of-the-Apes-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7ae6ca2bf75564108ce1e58dbf218dc8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ae6ca2bf75564108ce1e58dbf218dc8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Dawn-of-the-Planet-of-the-Apes-2014-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Rise of the Planet of the Apes (2011) กำเนิดพิภพวานร",
-    "url": "https://lk-hdx.com/rise-of-the-planet-of-the-apes-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Rise-of-the-Planet-of-the-Apes-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/623266baf4e74432f2eb535e7fdbf30f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/623266baf4e74432f2eb535e7fdbf30f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Rise-of-the-Planet-of-the-Apes-2011-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Planet of the Apes (2001) พิภพวานร",
-    "url": "https://lk-hdx.com/planet-of-the-apes-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Planet-of-the-Apes-2001-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4785880aac2a9eb7a09109215c96913d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4785880aac2a9eb7a09109215c96913d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Planet-of-the-Apes-2001-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Planet of the Apes (1968) บุกพิภพมนุษย์วานร",
-    "url": "https://lk-hdx.com/planet-of-the-apes-1968/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Planet-of-the-Apes-1968-บุกพิภพมนุษย์วานร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a2598bc7405cef1a2cef5d9f8d068a12/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a2598bc7405cef1a2cef5d9f8d068a12"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Planet-of-the-Apes-1968-บุกพิภพมนุษย์วานร-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Independence Day 2 Resurgence (2016) สงครามใหม่วันบดโลก",
-    "url": "https://lk-hdx.com/independence-day-2-resurgence-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Independence-Day-2-Resurgence-2016-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/DI__jOpdB0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Independence-Day-2-Resurgence-2016-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Independence Day 1 (1996) ไอดี 4 สงครามวันดับโลก",
-    "url": "https://lk-hdx.com/independence-day-1-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Independence-Day-1-1996-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/263154fa980e2075901ad05ebe4c4918/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/263154fa980e2075901ad05ebe4c4918"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Independence-Day-1-1996-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alienoid 2 The Return to the Future (2024) วายร้ายเอเลี่ยน 2",
-    "url": "https://lk-hdx.com/alienoid-2-the-return-to-the-future-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe16a47fd1e1b7983bc8b005f1b4910c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe16a47fd1e1b7983bc8b005f1b4910c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Alienoid (2022) วายร้ายเอเลี่ยน",
-    "url": "https://lk-hdx.com/alienoid-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Alienoid-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a9e7e6a5e774a4e068720a019ba74296/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a9e7e6a5e774a4e068720a019ba74296"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Alienoid-2022-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Predator (2018) เดอะ เพรดเดเทอร์",
-    "url": "https://lk-hdx.com/the-predator-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Predator-2018-เดอะ-เพรดเดเทอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe160b8ff95491642632cc2b7e8e615f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe160b8ff95491642632cc2b7e8e615f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Predator-2018-เดอะ-เพรดเดเทอร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Predators 3 (2010) มหากาฬพรีเดเตอร์ ภาค 3",
-    "url": "https://lk-hdx.com/predators-3-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predators-3-2010-มหากาฬพรีเดเตอร์-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b7fcda9cf6704554a9ff3fb4d9874490/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b7fcda9cf6704554a9ff3fb4d9874490"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Predators-3-2010-มหากาฬพรีเดเตอร์-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Predator 2 (1990) คนไม่ใช่คน ภาค 2 บดเมืองมนุษย์",
-    "url": "https://lk-hdx.com/predator-2-1990/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-2-1990-คนไม่ใช่คน-ภาค-2-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4fdbafa60c55768ab0a728d39b8bb174/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4fdbafa60c55768ab0a728d39b8bb174"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-2-1990-คนไม่ใช่คน-ภาค-2-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Predator 1 (1987) คนไม่ใช่คน ภาค 1",
-    "url": "https://lk-hdx.com/predator-1-1987/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-1-1987-คนไม่ใช่คน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bb8f2b7261359f30f1c79bf5e7cc1f87/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bb8f2b7261359f30f1c79bf5e7cc1f87"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Predator-1-1987-คนไม่ใช่คน-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "G.I. Joe Retaliation (2013) จีไอโจ สงครามระห่ำแค้นคอบร้าทมิฬ",
-    "url": "https://lk-hdx.com/g-i-joe-retaliation-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/G.I.-Joe-Retaliation-2013-จีไอโจ-สงครามระห่ำแค้นคอบร้าทมิฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea4e6234c5de75d679568c24a84efca8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea4e6234c5de75d679568c24a84efca8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/G.I.-Joe-Retaliation-2013-จีไอโจ-สงครามระห่ำแค้นคอบร้าทมิฬ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "G.I. Joe The Rise of Cobra (2009) จีไอโจ สงครามพิฆาตคอบร้าทมิฬ",
-    "url": "https://lk-hdx.com/g-i-joe-the-rise-of-cobra-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c75c63e7eb90862582ecb97602a5fd61/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c75c63e7eb90862582ecb97602a5fd61"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fantastic Beasts The Secrets of Dumbledore (2022) สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
