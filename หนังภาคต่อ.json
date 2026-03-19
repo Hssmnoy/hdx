@@ -6909,153 +6909,433 @@
   },
   {
     "title": "Fantastic Beasts The Secrets of Dumbledore (2022) สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
-    "url": "https://lk-hdx.com/fantastic-beasts-the-secrets-of-dumbledore-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b8c393e4371ab0ad70212e509e1785f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b8c393e4371ab0ad70212e509e1785f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fantastic Beasts The Crimes of Grindelwald (2018) สัตว์มหัศจรรย์ อาชญากรรมของกรินเดลวัลด์",
-    "url": "https://lk-hdx.com/fantastic-beasts-the-crimes-of-grindelwald-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Fantastic-Beasts-The-Crimes-of-Grindelwald-2018-สัตว์มหัศจรรย์-อาชญากรรมของกรินเดลวัลด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c5c8590627162a9fd176c99cec1b6583/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c5c8590627162a9fd176c99cec1b6583"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Fantastic-Beasts-The-Crimes-of-Grindelwald-2018-สัตว์มหัศจรรย์-อาชญากรรมของกรินเดลวัลด์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fantastic Beasts and Where to Find Them (2016) สัตว์มหัศจรรย์และถิ่นที่อยู่",
-    "url": "https://lk-hdx.com/fantastic-beasts-and-where-to-find-them-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-and-Where-to-Find-Them-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe4faf259d2f598e3ea3553ab823a85e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe4faf259d2f598e3ea3553ab823a85e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Fantastic-Beasts-and-Where-to-Find-Them-2016-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Rebel Moon Part Two The Scargiver (2024) นักรบผู้ตีตรา ภาค 2",
-    "url": "https://lk-hdx.com/rebel-moon-part-two-the-scargiver-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fh_pG3bhZp"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Three Musketeers Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
-    "url": "https://lk-hdx.com/the-three-musketeers-milady-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Three-Musketeers-Milady-2023-สามทหารเสือ-มิลาดี้-สตรีสีเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/92ef3fa49e59bbbddb80f66761ef3ebb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/92ef3fa49e59bbbddb80f66761ef3ebb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Three-Musketeers-Milady-2023-สามทหารเสือ-มิลาดี้-สตรีสีเลือด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Backdraft 2 (2019) เปลวไฟกับวีรบุรุษ ภาค 2",
-    "url": "https://lk-hdx.com/backdraft-2-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6c1e828c6f1e3d7e7bf1c07ab71ff7fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6c1e828c6f1e3d7e7bf1c07ab71ff7fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Backdraft 1 (1991) เปลวไฟกับวีรบุรุษ ภาค 1",
-    "url": "https://lk-hdx.com/backdraft-1-1991/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Backdraft-1-1991-เปลวไฟกับวีรบุรุษ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/dZix_jhryP"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Backdraft-1-1991-เปลวไฟกับวีรบุรุษ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ghostbusters 3 (2016) บริษัทกำจัดผี ภาค 3",
-    "url": "https://lk-hdx.com/ghostbusters-3-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-3-2016-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8f7d10004d475654bdbc8f499bb02fda/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8f7d10004d475654bdbc8f499bb02fda"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-3-2016-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ghostbusters 2 (1989) บริษัทกำจัดผี ภาค 2",
-    "url": "https://lk-hdx.com/ghostbusters-2-1989/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghostbusters-2-1989-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/G_qD5YrRrB"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Ghostbusters-2-1989-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ghostbusters 1 (1984) บริษัทกำจัดผี ภาค 1",
-    "url": "https://lk-hdx.com/ghostbusters-1-1984/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-1-1984-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/319bffa0f41b5d16f7899d54cda8afd9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/319bffa0f41b5d16f7899d54cda8afd9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Ghostbusters-1-1984-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Yin yang Master (2021) หยิน หยาง ศึกมหาเวท",
-    "url": "https://lk-hdx.com/the-yin-yang-master-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Yin-yang-Master-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3dda07db8f783453226d96885a3198c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3dda07db8f783453226d96885a3198c9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Yin-yang-Master-2021-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Piranha 3DD (2012) ปิรันย่า ภาค 2 กัดแหลกแหวกทะลุจอ ดับเบิลดุ",
-    "url": "https://lk-hdx.com/piranha-3dd-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3DD-2012-ปิรันย่า-ภาค-2-กัดแหลกแหวกทะลุจอ-ดับเบิลดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/h9b3gRcH_k"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3DD-2012-ปิรันย่า-ภาค-2-กัดแหลกแหวกทะลุจอ-ดับเบิลดุ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Piranha 3D (2010) ปิรันย่า ภาค 1 กัดแหลกแหวกทะลุ",
-    "url": "https://lk-hdx.com/piranha-3d-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3D-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b89494adebc84ad4ff52b802aa8b62d8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b89494adebc84ad4ff52b802aa8b62d8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Piranha-3D-2010-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Jason Bourne (2016) เจสัน บอร์น ยอดจารชนคนอันตราย",
-    "url": "https://lk-hdx.com/jason-bourne-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Jason-Bourne-2016-เจสัน-บอร์น-ยอดจารชนคนอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c2132ccde7be6b5e5224f34cab7b3005/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2132ccde7be6b5e5224f34cab7b3005"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Jason-Bourne-2016-เจสัน-บอร์น-ยอดจารชนคนอันตราย-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Bourne Legacy (2012) พลิกแผนล่ายอดจารชน",
-    "url": "https://lk-hdx.com/the-bourne-legacy-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_JjzWZlBn9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Bourne Ultimatum (2007) ปิดเกมล่าจารชน คนอันตราย",
-    "url": "https://lk-hdx.com/the-bourne-ultimatum-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bourne-Ultimatum-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5897161fb432b13e33679c3db064e5b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5897161fb432b13e33679c3db064e5b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bourne-Ultimatum-2007-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Bourne Supremacy (2004) สุดยอดเกมล่าจารชน",
-    "url": "https://lk-hdx.com/the-bourne-supremacy-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bourne-Supremacy-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d1da32a2bae4e8a9ef360f954654b6de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d1da32a2bae4e8a9ef360f954654b6de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bourne-Supremacy-2004-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Bourne Identity (2002) ล่าจารชน ยอดคนอันตราย",
-    "url": "https://lk-hdx.com/the-bourne-identity-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bourne-Identity-2002-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7cc2ca08184cb2b433118d76cd69904/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7cc2ca08184cb2b433118d76cd69904"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Bourne-Identity-2002-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "ธี่หยด (2023) Death Whisperer",
-    "url": "https://lk-hdx.com/death-whisperer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/ธี่หยด-2023-Death-Whisperer-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5371422813e7500fcfd8b9bc0d0ecc33/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5371422813e7500fcfd8b9bc0d0ecc33"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/ธี่หยด-2023-Death-Whisperer-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Basic Instinct 1 (1992) เจ็บธรรมดา ที่ไม่ธรรมดา ภาค 1",
-    "url": "https://lk-hdx.com/basic-instinct-1-1992/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Basic-Instinct-1-1992-เจ็บธรรมดา-ที่ไม่ธรรมดา-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aa790700c2b3a14f0a40b7715e8a97de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aa790700c2b3a14f0a40b7715e8a97de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Basic-Instinct-1-1992-เจ็บธรรมดา-ที่ไม่ธรรมดา-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "R.I.P.D. 2 Rise of the Damned (2022) อาร์.ไอ.พี.ดี. ภาค 2 ความรุ่งโรจน์ของผู้ถูกสาป",
-    "url": "https://lk-hdx.com/r-i-p-d-2-rise-of-the-damned-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/R.I.P.D.-2-Rise-of-the-Damned-2022-อาร์.ไอ.พี.ดี.-ภาค-2-ความรุ่งโรจน์ของผู้ถูกสาป-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/34cac90939a4905ad534986c32ce923c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/34cac90939a4905ad534986c32ce923c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/R.I.P.D.-2-Rise-of-the-Damned-2022-อาร์.ไอ.พี.ดี.-ภาค-2-ความรุ่งโรจน์ของผู้ถูกสาป-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "R.I.P.D. 1 (2013) อาร์.ไอ.พี.ดี. ภาค 1 หน่วยพิฆาตสยบวิญญาณ",
-    "url": "https://lk-hdx.com/r-i-p-d-1-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/R.I.P.D.-1-2013-อาร์.ไอ.พี.ดี.-ภาค-1-หน่วยพิฆาตสยบวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/88ad8a5b59302f2e502a0e41814704a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/88ad8a5b59302f2e502a0e41814704a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/R.I.P.D.-1-2013-อาร์.ไอ.พี.ดี.-ภาค-1-หน่วยพิฆาตสยบวิญญาณ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Omen (2006) อาถรรพณ์กำเนิดซาตานล้างโลก",
-    "url": "https://lk-hdx.com/the-omen-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Omen-2006-อาถรรพณ์กำเนิดซาตานล้างโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c5495fcc0cbcc6fe12233bec76e3b369/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c5495fcc0cbcc6fe12233bec76e3b369"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Omen-2006-อาถรรพณ์กำเนิดซาตานล้างโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Final Conflict (1981) อาถรรพ์หมายเลข 6 ภาค 3",
-    "url": "https://lk-hdx.com/the-final-conflict-1981/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Final-Conflict-1981-อาถรรพ์หมายเลข-6-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ef816807a71c9ca75f4be301c24f60b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ef816807a71c9ca75f4be301c24f60b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Final-Conflict-1981-อาถรรพ์หมายเลข-6-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Damien Omen 2 (1978) อาถรรพ์หมายเลข 6 ภาค 2",
-    "url": "https://lk-hdx.com/damien-omen-2-1978/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Damien-Omen-2-1978-อาถรรพ์หมายเลข-6-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff0bff2700e866c92e98af797fb477b3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff0bff2700e866c92e98af797fb477b3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Damien-Omen-2-1978-อาถรรพ์หมายเลข-6-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Omen (1976) อาถรรพ์หมายเลข 6 ภาค 1",
-    "url": "https://lk-hdx.com/the-omen-1976/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Omen-1976-อาถรรพ์หมายเลข-6-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a3cb2787cbacf363f515e756fde0a37/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a3cb2787cbacf363f515e756fde0a37"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Omen-1976-อาถรรพ์หมายเลข-6-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6",
-    "url": "https://lk-hdx.com/the-first-omen-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3a177f38aa7e651029b265e1c1bd943a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a177f38aa7e651029b265e1c1bd943a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Strawberry Shortcake’s Spring Spectacular (2024)",
-    "url": "https://lk-hdx.com/strawberry-shortcakes-spring-spectacular-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d09c9d3d81475171f4a985882ccd2856/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d09c9d3d81475171f4a985882ccd2856"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Strawberry Shortcake’s Perfect Holiday (2023)",
-    "url": "https://lk-hdx.com/strawberry-shortcakes-perfect-holiday-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bea5e24868a07015c4685771569822c2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bea5e24868a07015c4685771569822c2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Strawberry Shortcake and the Beast of Berry Bog (2023)",
-    "url": "https://lk-hdx.com/strawberry-shortcake-and-the-beast-of-berry-bog-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7c7d945e45d829106a2fcfab9f5008d4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7c7d945e45d829106a2fcfab9f5008d4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Master Z The Ip Man Legacy (2018) ยิปมัน ตำนานมาสเตอร์ Z",
