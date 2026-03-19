@@ -5145,153 +5145,437 @@
   },
   {
     "title": "Article 370 (2024) มาตรา 370",
-    "url": "https://lk-hdx.com/article-370-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Article-370-2024-มาตรา-370-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b0df2ffb776b2b1a19340a45e12eb624/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b0df2ffb776b2b1a19340a45e12eb624"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Article-370-2024-มาตรา-370-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "All India Rank (2024) เอ็นทรานซ์มหาหิน",
-    "url": "https://lk-hdx.com/all-india-rank-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/All-India-Rank-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a257c795e8de71b1d426fe28493dbfcc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a257c795e8de71b1d426fe28493dbfcc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/All-India-Rank-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Living with Leopards (2024) อยู่กับเสือดาว",
-    "url": "https://lk-hdx.com/living-with-leopards-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Living-with-Leopards-2024-อยู่กับเสือดาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_CdU2mmqQ4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Living-with-Leopards-2024-อยู่กับเสือดาว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Guardian Of The Monarchs (2024) ผู้พิทักษ์ผีเสื้อ",
-    "url": "https://lk-hdx.com/the-guardian-of-the-monarchs-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Guardian-Of-The-Monarchs-2024-ผู้พิทักษ์ผีเสื้อ-165x248.png"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b7efe722456a3d0f50832a8af288f789/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b7efe722456a3d0f50832a8af288f789"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Guardian-Of-The-Monarchs-2024-ผู้พิทักษ์ผีเสื้อ-165x248.png",
+    "group": "Netflix"
   },
   {
     "title": "Mother of the Bride (2024) แม่เจ้าสาว",
-    "url": "https://lk-hdx.com/mother-of-the-bride-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Mother-of-the-Bride-2024-แม่เจ้าสาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a404c4a181f162e3a2fd7d6b1e5618d4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a404c4a181f162e3a2fd7d6b1e5618d4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Mother-of-the-Bride-2024-แม่เจ้าสาว-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Final Attack on Wembley (2024)",
-    "url": "https://lk-hdx.com/the-final-attack-on-wembley-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Final-Attack-on-Wembley-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/19e2fb75f61d385503eefc4354331697/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19e2fb75f61d385503eefc4354331697"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/The-Final-Attack-on-Wembley-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Shaitaan (2024) ซาตาน",
-    "url": "https://lk-hdx.com/shaitaan-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Shaitaan-2024-ซาตาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c38a9dfac4a997956f58c5dcb21d0a5a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c38a9dfac4a997956f58c5dcb21d0a5a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Shaitaan-2024-ซาตาน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Unfrosted (2024) ศึกป๊อปทาร์ต",
-    "url": "https://lk-hdx.com/unfrosted-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/hQS_0ASv65"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Beautiful Rebel (2024) สาวร็อคหัวขบถ",
-    "url": "https://lk-hdx.com/beautiful-rebel-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Beautiful-Rebel-2024-สาวร็อคหัวขบถ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/546a887c87a83c273efa8603cc4bad26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/546a887c87a83c273efa8603cc4bad26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Beautiful-Rebel-2024-สาวร็อคหัวขบถ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Secrets of the Neanderthals (2024) ความลับของนีแอนเดอร์ทาล",
-    "url": "https://lk-hdx.com/secrets-of-the-neanderthals-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Secrets-of-the-Neanderthals-2024-ความลับของนีแอนเดอร์ทาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2ddbb675be8ab2149f407bcb6d7251d1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2ddbb675be8ab2149f407bcb6d7251d1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Secrets-of-the-Neanderthals-2024-ความลับของนีแอนเดอร์ทาล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์ (2024) Deaw Special Super Soft Power",
-    "url": "https://lk-hdx.com/deaw-special-super-soft-power-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-2024-Deaw-Special-Super-Soft-Power-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fb9b6cd8f6529af91d5fa022c72eccb3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fb9b6cd8f6529af91d5fa022c72eccb3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-2024-Deaw-Special-Super-Soft-Power-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Down The Rabbit Hole (2024) เด็กชายในโพรงไพร",
-    "url": "https://lk-hdx.com/down-the-rabbit-hole-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/Down-The-Rabbit-Hole-2024-เด็กชายในโพรงไพร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/32f161522aedda446a590bb0ea25ab10/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/32f161522aedda446a590bb0ea25ab10"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/Down-The-Rabbit-Hole-2024-เด็กชายในโพรงไพร-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Illang The Wolf Brigade (2018) กองพลหมาป่าพันธุ์ปีศาจ",
-    "url": "https://lk-hdx.com/illang-the-wolf-brigade-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Illang-The-Wolf-Brigade-2018-กองพลหมาป่าพันธุ์ปีศาจ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c7a080211bef6da1c2cf16edb48a70ec/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c7a080211bef6da1c2cf16edb48a70ec"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Illang-The-Wolf-Brigade-2018-กองพลหมาป่าพันธุ์ปีศาจ-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "City Hunter (2024) ซิตี้ ฮันเตอร์ ",
-    "url": "https://lk-hdx.com/city-hunter-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/City-Hunter-2024-ซิตี้-ฮันเตอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf1351bfedbd900e77874a9a115f3b3e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf1351bfedbd900e77874a9a115f3b3e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/City-Hunter-2024-ซิตี้-ฮันเตอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Doomsday Cult Of Antares De La Luz (2024) ลัทธิวันสิ้นโลก",
-    "url": "https://lk-hdx.com/the-doomsday-cult-of-antares-de-la-luz-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Doomsday-Cult-Of-Antares-De-La-Luz-2024-ลัทธิวันสิ้นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/9NmP_6N4Tf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Doomsday-Cult-Of-Antares-De-La-Luz-2024-ลัทธิวันสิ้นโลก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rebel Moon Part Two The Scargiver (2024) นักรบผู้ตีตรา ภาค 2",
-    "url": "https://lk-hdx.com/rebel-moon-part-two-the-scargiver-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/fh_pG3bhZp"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Spectral (2016) ยกพลพิฆาตผี",
-    "url": "https://lk-hdx.com/spectral-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Spectral-2016-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/544f987d6fb85e6e4c38356de5781fc5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/544f987d6fb85e6e4c38356de5781fc5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Spectral-2016-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "Words Bubble Up Like Soda Pop (2021) ถ้อยคำเอ่อล้นด้วยหัวใจรัก",
-    "url": "https://lk-hdx.com/words-bubble-up-like-soda-pop-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Words-Bubble-Up-Like-Soda-Pop-2021-ถ้อยคำเอ่อล้นด้วยหัวใจรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/95a9ed6dd82bd08f10b7d9d044ae8e99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/95a9ed6dd82bd08f10b7d9d044ae8e99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Words-Bubble-Up-Like-Soda-Pop-2021-ถ้อยคำเอ่อล้นด้วยหัวใจรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Wish Dragon (2021) มังกรอธิษฐาน",
-    "url": "https://lk-hdx.com/wish-dragon-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Wish-Dragon-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7f62d0f8d56a5b4e14804f961ffcb4c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7f62d0f8d56a5b4e14804f961ffcb4c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Wish-Dragon-2021-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "Violet Evergarden Recollections (2021) ไวโอเล็ต เอเวอร์การ์เดน",
-    "url": "https://lk-hdx.com/violet-evergarden-recollections-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Violet-Evergarden-Recollections-2021-ไวโอเล็ต-เอเวอร์การ์เดน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/529dec88bbe6df8b7598393603d2aa0d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/529dec88bbe6df8b7598393603d2aa0d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Violet-Evergarden-Recollections-2021-ไวโอเล็ต-เอเวอร์การ์เดน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Guilty (2021)",
-    "url": "https://lk-hdx.com/the-guilty-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Guilty-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9bb5d4a06a2272bc42dd2348a20cbd08/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9bb5d4a06a2272bc42dd2348a20cbd08"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Guilty-2021-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "Gunpowder Milkshake (2021) นรกเรียกแม่",
-    "url": "https://lk-hdx.com/gunpowder-milkshake-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gunpowder-Milkshake-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7891045c8a0d8840a9a532a224e03cc7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7891045c8a0d8840a9a532a224e03cc7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gunpowder-Milkshake-2021-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "A Journey (2024) เดินทางไกล เท่าใจฝัน",
-    "url": "https://lk-hdx.com/a-journey-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/A-Journey-2024-เดินทางไกล-เท่าใจฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df3d51a936b6c0dbe5025ba5d6b628e7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df3d51a936b6c0dbe5025ba5d6b628e7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/A-Journey-2024-เดินทางไกล-เท่าใจฝัน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Classic Horror Story (2021) สร้างหนังสั่งตาย",
-    "url": "https://lk-hdx.com/a-classic-horror-story-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Classic-Horror-Story-2021-สร้างหนังสั่งตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e68226b1bbfd759f73ebd7e772e1e3ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e68226b1bbfd759f73ebd7e772e1e3ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Classic-Horror-Story-2021-สร้างหนังสั่งตาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bad Trip (2021) ทริปป่วนคู่อำ",
-    "url": "https://lk-hdx.com/bad-trip-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Trip-2021-ทริปป่วนคู่อำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/260c597d1ad9c0e7e2972f69fad77dc8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/260c597d1ad9c0e7e2972f69fad77dc8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Bad-Trip-2021-ทริปป่วนคู่อำ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Woody Woodpecker Goes to Camp (2023) วู้ดดี้ เจ้านกหัวขวาน ไปค่าย",
-    "url": "https://lk-hdx.com/woody-woodpecker-goes-to-camp-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Woody-Woodpecker-Goes-to-Camp-2023-วู้ดดี้-เจ้านกหัวขวาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ff97d1a7aa784ccd980165e3f27049af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff97d1a7aa784ccd980165e3f27049af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Woody-Woodpecker-Goes-to-Camp-2023-วู้ดดี้-เจ้านกหัวขวาน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Amar Singh Chamkila (2024) ตำนานเพลง แห่งปัญจาม",
-    "url": "https://lk-hdx.com/amar-singh-chamkila-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024-ตำนานเพลง-แห่งปัญจาม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/407f67a54e3f9cadce74b64aa6e8f3a6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/407f67a54e3f9cadce74b64aa6e8f3a6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024-ตำนานเพลง-แห่งปัญจาม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Stolen (2024) พราก",
-    "url": "https://lk-hdx.com/stolen-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Stolen-2024-พราก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73533771b98e266cbf725cd02ae84448/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73533771b98e266cbf725cd02ae84448"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Stolen-2024-พราก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love Divided (2024) ผนังบางๆกั้นสองใจ",
-    "url": "https://lk-hdx.com/love-divided-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Love-Divided-2024-ผนังบางๆกั้นสองใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/564dbd7b12c4f7f87924da3fa0aebcaa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/564dbd7b12c4f7f87924da3fa0aebcaa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Love-Divided-2024-ผนังบางๆกั้นสองใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
-    "url": "https://lk-hdx.com/army-of-the-dead-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Army-of-the-Dead-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0228bd4f95b43f27ddd0350a79551d81/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0228bd4f95b43f27ddd0350a79551d81"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Army-of-the-Dead-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Army of Thieves (2021) แผนปล้นยุโรปเดือด",
