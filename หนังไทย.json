@@ -4752,152 +4752,424 @@
   {
     "title": "Krasue Siam (2019) กระสือสยาม",
     "url": "https://lk-hdx.com/krasue-siam-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Krasue-Siam-2019-กระสือสยาม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Krasue-Siam-2019-กระสือสยาม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4c43bdd7499e4f761e7a30b7026518f6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4c43bdd7499e4f761e7a30b7026518f6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Om Crush on Me (2021) อโยธยา มหาละลวย",
     "url": "https://lk-hdx.com/om-crush-on-me-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Om-Crush-on-Me-2021-อโยธยา-มหาละลวย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Om-Crush-on-Me-2021-อโยธยา-มหาละลวย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0a33462e1446ab0d22e531a15a7f6909"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0a33462e1446ab0d22e531a15a7f6909/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Real Ghosts (2019) ช่องส่องผี",
     "url": "https://lk-hdx.com/the-real-ghosts-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Real-Ghosts-2019-ช่องส่องผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Real-Ghosts-2019-ช่องส่องผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1e30e827a329163115a784a0f8c7305c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1e30e827a329163115a784a0f8c7305c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Exchange (2019) โจรปล้นโจร",
     "url": "https://lk-hdx.com/the-exchange-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Exchange-2019-โจรปล้นโจร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Exchange-2019-โจรปล้นโจร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d196be721763e74a61d3c0b6114d786e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d196be721763e74a61d3c0b6114d786e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Love U Kohk E Kueng (2020) เลิฟยูโคกอีเกิ้ง",
     "url": "https://lk-hdx.com/love-u-kohk-e-kueng-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-U-Kohk-E-Kueng-2020-เลิฟยูโคกอีเกิ้ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Love-U-Kohk-E-Kueng-2020-เลิฟยูโคกอีเกิ้ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/4_lvygftwo"
+      }
+    ]
   },
   {
     "title": "Low Season (2020) สุขสันต์วันโสด",
     "url": "https://lk-hdx.com/low-season-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Low-Season-2020-สุขสันต์วันโสด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Low-Season-2020-สุขสันต์วันโสด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/bpjhoFQI_v"
+      }
+    ]
   },
   {
     "title": "Invisible Cop (2020) นักฆ่าไร้เงา",
     "url": "https://lk-hdx.com/invisible-cop-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Invisible-Cop-2020-นักฆ่าไร้เงา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Invisible-Cop-2020-นักฆ่าไร้เงา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/79da1ae1e3932f4c4c3ee018f96fe641"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/79da1ae1e3932f4c4c3ee018f96fe641/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hug Ma Yom Ma Yem (2019) ฮักมะย๋อมมะแย๋ม",
     "url": "https://lk-hdx.com/hug-ma-yom-ma-yem-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hug-Ma-Yom-Ma-Yem-2019-ฮักมะย๋อมมะแย๋ม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hug-Ma-Yom-Ma-Yem-2019-ฮักมะย๋อมมะแย๋ม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/fCOWv_1msb"
+      }
+    ]
   },
   {
     "title": "See You Again (2023) ขอเจอเธออีกสักครั้ง",
     "url": "https://lk-hdx.com/see-you-again-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/See-You-Again-2023-ขอเจอเธออีกสักครั้ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/See-You-Again-2023-ขอเจอเธออีกสักครั้ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/u_fMD9FvML"
+      }
+    ]
   },
   {
     "title": "Scala (2022) ที่ระลึกรอบสุดท้าย",
     "url": "https://lk-hdx.com/scala-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Scala-2022-ที่ระลึกรอบสุดท้าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Scala-2022-ที่ระลึกรอบสุดท้าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4fbd7496db9bf80be5d0b55505f44408"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4fbd7496db9bf80be5d0b55505f44408/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Stand up Comedy (2022) หมู่ 2",
     "url": "https://lk-hdx.com/stand-up-comedy-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Stand-up-Comedy-2022-หมู่-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Stand-up-Comedy-2022-หมู่-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ba8c68653301885cce3ff7f08782222d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ba8c68653301885cce3ff7f08782222d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Who (2020) ปิดป่าหลอน",
     "url": "https://lk-hdx.com/who-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Who-2020-ปิดป่าหลอน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Who-2020-ปิดป่าหลอน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/79d5b93d372af20de20e431382c29f2a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/79d5b93d372af20de20e431382c29f2a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Zombie Fighters (2017) กัดกระชากเกรียน",
     "url": "https://lk-hdx.com/zombie-fighters-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Zombie-Fighters-2017-กัดกระชากเกรียน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Zombie-Fighters-2017-กัดกระชากเกรียน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0dd739000b69001d804ac3a16f495167"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0dd739000b69001d804ac3a16f495167/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Presence (2018) ส่อง ส่ง ผี",
     "url": "https://lk-hdx.com/the-presence-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Presence-2018-ส่อง-ส่ง-ผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Presence-2018-ส่อง-ส่ง-ผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c9953247cfe76f6cf32c159f7b230199"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c9953247cfe76f6cf32c159f7b230199/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Waning Moon (2020) คน ทรง ผี",
     "url": "https://lk-hdx.com/waning-moon-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Waning-Moon-2020-คน-ทรง-ผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Waning-Moon-2020-คน-ทรง-ผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ffea9d301c21a3f0b352ac8c5c7512f5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ffea9d301c21a3f0b352ac8c5c7512f5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Kill List (2020) ล่า ล้าง บัญชี",
     "url": "https://lk-hdx.com/the-kill-list-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Kill-List-2020-ล่า-ล้าง-บัญชี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Kill-List-2020-ล่า-ล้าง-บัญชี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b5bec3f1d1b20b61155305048a9e47a8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b5bec3f1d1b20b61155305048a9e47a8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Krasue Kreung Khon (2016) กระสือครึ่งคน",
     "url": "https://lk-hdx.com/krasue-kreung-khon-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Krasue-Kreung-Khon-2016-กระสือครึ่งคน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Krasue-Kreung-Khon-2016-กระสือครึ่งคน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/689f8b380601e7c0446b3e564b06b4c6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/689f8b380601e7c0446b3e564b06b4c6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Promise (2017) เพื่อน ที่ระลึก",
     "url": "https://lk-hdx.com/the-promise-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Promise-2017-เพื่อน-ที่ระลึก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Promise-2017-เพื่อน-ที่ระลึก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6b8c8e00777b56247d460bd5b90dce0c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6b8c8e00777b56247d460bd5b90dce0c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Pojaman Sawang Ka Ta (2020) พจมาน สว่างคาตา",
     "url": "https://lk-hdx.com/pojaman-sawang-ka-ta-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Pojaman-Sawang-Ka-Ta-2020-พจมาน-สว่างคาตา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Pojaman-Sawang-Ka-Ta-2020-พจมาน-สว่างคาตา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3c16bb6540dfd600aeeae4f907653048"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3c16bb6540dfd600aeeae4f907653048/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Song from Phatthalung (2017) มหาลัยวัวชน",
     "url": "https://lk-hdx.com/song-from-phatthalung-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Song-from-Phatthalung-2017-มหาลัยวัวชน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Song-from-Phatthalung-2017-มหาลัยวัวชน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b173156c784ecc98bb56b70f51c7e85d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b173156c784ecc98bb56b70f51c7e85d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Nemesis (2020) คืนยุติ-ธรรม",
     "url": "https://lk-hdx.com/nemesis-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Nemesis-2020-คืนยุติ-ธรรม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Nemesis-2020-คืนยุติ-ธรรม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/CfG63_4OCY"
+      }
+    ]
   },
   {
     "title": "Mother Gamer (2020) เกมเมอร์เกมแม่",
     "url": "https://lk-hdx.com/mother-gamer-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Mother-Gamer-2020-เกมเมอร์เกมแม่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Mother-Gamer-2020-เกมเมอร์เกมแม่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3862058884f6dffa216f4d27169a98d1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3862058884f6dffa216f4d27169a98d1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Con Heartist (2020) อ้ายคนหล่อลวง",
     "url": "https://lk-hdx.com/the-con-heartist-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Con-Heartist-2020-อ้ายคนหล่อลวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Con-Heartist-2020-อ้ายคนหล่อลวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_b0mNPqUp1"
+      }
+    ]
   },
   {
     "title": "The Bodyguard 2 (2007) บอดี้การ์ดหน้าเหลี่ยม ภาค 2",
     "url": "https://lk-hdx.com/the-bodyguard-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-2-2007-บอดี้การ์ดหน้าเหลี่ยม-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-2-2007-บอดี้การ์ดหน้าเหลี่ยม-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e58dc8f4b557a076485be5e335cfc48b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e58dc8f4b557a076485be5e335cfc48b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Bodyguard 1 (2004) บอดี้การ์ดหน้าเหลี่ยม ภาค 1",
     "url": "https://lk-hdx.com/the-bodyguard-1-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-1-2004-บอดี้การ์ดหน้าเหลี่ยม-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Bodyguard-1-2004-บอดี้การ์ดหน้าเหลี่ยม-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/609fbae39f6d078195c219e0ae5ed26e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/609fbae39f6d078195c219e0ae5ed26e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "3 Idiot Heroes (2023) ฮีโร่ต้มแซ่บ",
     "url": "https://lk-hdx.com/3-idiot-heroes-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/3-Idiot-Heroes-2023-ฮีโร่ต้มแซ่บ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/3-Idiot-Heroes-2023-ฮีโร่ต้มแซ่บ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ced9554ef28b6358d7c0fdbe570bf311"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ced9554ef28b6358d7c0fdbe570bf311/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Happy New You (2019) แฮปปี้นิวยู แสบสนั่น ยันหว่าง",
     "url": "https://lk-hdx.com/happy-new-you-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Happy-New-You-2019-แฮปปี้นิวยู-แสบสนั่น-ยันหว่าง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Happy-New-You-2019-แฮปปี้นิวยู-แสบสนั่น-ยันหว่าง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4d76367afc1a38a0fd1ca312bcadc3e5"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4d76367afc1a38a0fd1ca312bcadc3e5/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Friend Zone (2019) ระวัง สิ้นสุดทางเพื่อน",
     "url": "https://lk-hdx.com/friend-zone-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Friend-Zone-2019-ระวัง-สิ้นสุดทางเพื่อน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Friend-Zone-2019-ระวัง-สิ้นสุดทางเพื่อน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/19973381f424255e1b8fff03bf369a13"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/19973381f424255e1b8fff03bf369a13/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Chaeng (2019) แช่ง",
     "url": "https://lk-hdx.com/chaeng-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Chaeng-2019-แช่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Chaeng-2019-แช่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/cace0530216c93b128842271155e7212"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/cace0530216c93b128842271155e7212/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Holy Man 3 (2010) หลวงพี่เท่ง ภาค 3 รุ่นฮาเขย่าโลก",
     "url": "https://lk-hdx.com/the-holy-man-3-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Holy-Man-3-2010-หลวงพี่เท่ง-ภาค-3-รุ่นฮาเขย่าโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Holy-Man-3-2010-หลวงพี่เท่ง-ภาค-3-รุ่นฮาเขย่าโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_r2aaQoBvN"
+      }
+    ]
   },
   {
     "title": "The Holy Man 2 (2008) หลวงพี่เท่ง ภาค 2",
