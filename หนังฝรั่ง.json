@@ -64602,152 +64602,428 @@
   {
     "title": "Off Track (2022) ออฟเทร็ค",
     "url": "https://lk-hdx.com/off-track-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Off-Track-2022-ออฟเทร็ค-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Off-Track-2022-ออฟเทร็ค-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/dc0b4ad700255ddbca04c074f25aa1c7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/dc0b4ad700255ddbca04c074f25aa1c7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Old People (2022) เกิด แก่ กัน ตาย",
     "url": "https://lk-hdx.com/old-people-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Old-People-2022-เกิด-แก่-กัน-ตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Old-People-2022-เกิด-แก่-กัน-ตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c07358b01aaabba4cc942960d5e2e9fa"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c07358b01aaabba4cc942960d5e2e9fa/master.m3u8"
+      }
+    ]
   },
   {
     "title": "We Feed People (2022)",
     "url": "https://lk-hdx.com/we-feed-people-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/We-Feed-People-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/We-Feed-People-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/RotY_7ccde"
+      }
+    ]
   },
   {
     "title": "Navalny (2022)",
     "url": "https://lk-hdx.com/navalny-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Navalny-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Navalny-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0183fa284f298beec56820b3a8b3524f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0183fa284f298beec56820b3a8b3524f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dampyr (2022) แดมไพร์ | ตำนานฮีโร่ป้องกันโลก",
     "url": "https://lk-hdx.com/dampyr-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dampyr-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dampyr-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f3f2a788806ff5ee912a7dca477ffd8b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f3f2a788806ff5ee912a7dca477ffd8b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Magic Flute (2022)",
     "url": "https://lk-hdx.com/the-magic-flute-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Magic-Flute-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Magic-Flute-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/34105fce8ad9b49d4bc682be13e4745c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/34105fce8ad9b49d4bc682be13e4745c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Secret Headquarters (2022) กองบัญชาการลับ",
     "url": "https://lk-hdx.com/secret-headquarters-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Secret-Headquarters-2022-กองบัญชาการลับ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Secret-Headquarters-2022-กองบัญชาการลับ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/24bc0ce21d522b844bba37723bbbfbd2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/24bc0ce21d522b844bba37723bbbfbd2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Summit Fever (2022)",
     "url": "https://lk-hdx.com/summit-fever-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Summit-Fever-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Summit-Fever-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e541592fa8b961449173bd0a390f32f0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e541592fa8b961449173bd0a390f32f0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Infinite Storm (2022) ฝ่ามหันตภัยพายุนรก",
     "url": "https://lk-hdx.com/infinite-storm-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Infinite-Storm-2022-ฝ่ามหันตภัยพายุนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Infinite-Storm-2022-ฝ่ามหันตภัยพายุนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ab9d1fe93c594074b3e362ce1c38bf99"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ab9d1fe93c594074b3e362ce1c38bf99/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ordinary Men The Forgotten Holocaust (2022)",
     "url": "https://lk-hdx.com/ordinary-men-the-forgotten-holocaust-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ordinary-Men-The-Forgotten-Holocaust-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ordinary-Men-The-Forgotten-Holocaust-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/889378d6fcb2ea7d7e23dfdf67380d30"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/889378d6fcb2ea7d7e23dfdf67380d30/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Father of the Bride (2022) ฟาเธอร์ออฟเดอะไบร์ด",
     "url": "https://lk-hdx.com/father-of-the-bride-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Father-of-the-Bride-2022-ฟาเธอร์ออฟเดอะไบร์ด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Father-of-the-Bride-2022-ฟาเธอร์ออฟเดอะไบร์ด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Q_iu1lNjY6"
+      }
+    ]
   },
   {
     "title": "Alice in Wonderland (2010) อลิซ ในแดนมหัศจรรย์",
     "url": "https://lk-hdx.com/alice-in-wonderland-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Alice-in-Wonderland-2010-อลิซ-ในแดนมหัศจรรย์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Alice-in-Wonderland-2010-อลิซ-ในแดนมหัศจรรย์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/55d03fd1ebea6138dfdf7126c90d9f3e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/55d03fd1ebea6138dfdf7126c90d9f3e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "12 Mighty Orphans (2021) ผู้เกรียงไกรแห่งไมตี้ไมต์ส",
     "url": "https://lk-hdx.com/12-mighty-orphans-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/12-Mighty-Orphans-2021-ผู้เกรียงไกรแห่งไมตี้ไมต์ส-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/12-Mighty-Orphans-2021-ผู้เกรียงไกรแห่งไมตี้ไมต์ส-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d74857858bf0da0dfc4e58d0592eaeaf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d74857858bf0da0dfc4e58d0592eaeaf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Taming of the Sharewd (2022) ปราบร้ายด้วยรัก",
     "url": "https://lk-hdx.com/the-taming-of-the-sharewd-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Taming-of-the-Sharewd-2022-ปราบร้ายด้วยรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Taming-of-the-Sharewd-2022-ปราบร้ายด้วยรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/66f49579c64876bcde5f1cb45ec37f40"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/66f49579c64876bcde5f1cb45ec37f40/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Toscana (2022) ทัสคานี",
     "url": "https://lk-hdx.com/toscana-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Toscana-2022-ทัสคานี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Toscana-2022-ทัสคานี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3b7ac3066aa56c334c4454c14db53c63"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3b7ac3066aa56c334c4454c14db53c63/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Photographer Murder in Pinamar (2022) ฆาตกรรมช่างภาพ",
     "url": "https://lk-hdx.com/the-photographer-murder-in-pinamar-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Photographer-Murder-in-Pinamar-2022-ฆาตกรรมช่างภาพ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Photographer-Murder-in-Pinamar-2022-ฆาตกรรมช่างภาพ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7dc6aa2cbe015eaaa6aa0c4537abb969"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7dc6aa2cbe015eaaa6aa0c4537abb969/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Adam Project (2022) ย้อนเวลาหาอดัม",
     "url": "https://lk-hdx.com/the-adam-project-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Adam-Project-2022-ย้อนเวลาหาอดัม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Adam-Project-2022-ย้อนเวลาหาอดัม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/59bb62070f6fac567187c2135e30e59f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/59bb62070f6fac567187c2135e30e59f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Shadow in My Eye (2022) เงาสงคราม",
     "url": "https://lk-hdx.com/the-shadow-in-my-eye-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Shadow-in-My-Eye-2022-เงาสงคราม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Shadow-in-My-Eye-2022-เงาสงคราม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f9368818dd60cdcecb0925116f6a7a85"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f9368818dd60cdcecb0925116f6a7a85/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Doula (2022) หมอตำแย",
     "url": "https://lk-hdx.com/doula-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Doula-2022-หมอตำแย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Doula-2022-หมอตำแย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d6ca1af5829253f212e55eb67b313d1d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d6ca1af5829253f212e55eb67b313d1d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dead for a Dollar (2022)",
     "url": "https://lk-hdx.com/dead-for-a-dollar-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dead-for-a-Dollar-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dead-for-a-Dollar-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3f8f36cfd18d5122bb2a163b92437792"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3f8f36cfd18d5122bb2a163b92437792/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Downton Abbey A New Era (2022) ดาวน์ตัน แอบบีย์ สู่ยุคใหม่",
     "url": "https://lk-hdx.com/downton-abbey-a-new-era-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Downton-Abbey-A-New-Era-2022-ดาวน์ตัน-แอบบีย์-สู่ยุคใหม่-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Downton-Abbey-A-New-Era-2022-ดาวน์ตัน-แอบบีย์-สู่ยุคใหม่-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5497799fbcf91dd9aa082f615324620e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5497799fbcf91dd9aa082f615324620e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Eating Miss Campbell (2022)",
     "url": "https://lk-hdx.com/eating-miss-campbell-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Eating-Miss-Campbell-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Eating-Miss-Campbell-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a456038151bf62b035ddc1cfd9df8db4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a456038151bf62b035ddc1cfd9df8db4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Redeem Team (2022) เดอะ รีดีม ทีม",
     "url": "https://lk-hdx.com/the-redeem-team-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Redeem-Team-2022-เดอะ-รีดีม-ทีม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Redeem-Team-2022-เดอะ-รีดีม-ทีม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b13a31923ef695653575ee3e88dd5ce4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b13a31923ef695653575ee3e88dd5ce4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Insidious The Red Door (2023) วิญญาณตามติด ภาค 5 ประตูผีผ่าน",
     "url": "https://lk-hdx.com/insidious-the-red-door-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Red-Door-2023-วิญญาณตามติด-ภาค-5-ประตูผีผ่าน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Red-Door-2023-วิญญาณตามติด-ภาค-5-ประตูผีผ่าน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a96b4cf8c30daa3d8964b40256e9d67b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a96b4cf8c30daa3d8964b40256e9d67b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Insidious The Last Key (2018) วิญญาณตามติด ภาค 4 กุญแจผีบอก",
     "url": "https://lk-hdx.com/insidious-the-last-key-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Last-Key-2018-วิญญาณตามติด-ภาค-4-กุญแจผีบอก-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-The-Last-Key-2018-วิญญาณตามติด-ภาค-4-กุญแจผีบอก-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/MkJxo_ThvV"
+      }
+    ]
   },
   {
     "title": "Insidious Chapter 3 (2015) วิญญาณตามติด ภาค 3",
     "url": "https://lk-hdx.com/insidious-chapter-3-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-3-2015-วิญญาณตามติด-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-3-2015-วิญญาณตามติด-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4e4aaea094390f2522f5e115d040fe4f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4e4aaea094390f2522f5e115d040fe4f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Insidious Chapter 2 (2013) วิญญาณตามติด ภาค 2",
     "url": "https://lk-hdx.com/insidious-chapter-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-2-2013-วิญญาณตามติด-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-Chapter-2-2013-วิญญาณตามติด-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/y55dpe_aYz"
+      }
+    ]
   },
   {
     "title": "Insidious 1 (2010) วิญญาณตามติด ภาค 1",
     "url": "https://lk-hdx.com/insidious-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-1-2010-วิญญาณตามติด-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Insidious-1-2010-วิญญาณตามติด-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/352d8c4fd2107645dc6919409fa42111"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/352d8c4fd2107645dc6919409fa42111/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อ",
     "url": "https://lk-hdx.com/indiana-jones-and-the-dial-of-destiny-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-and-the-Dial-of-Destiny-2023-อินเดียน่า-โจนส์-กับกงล้อ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-and-the-Dial-of-Destiny-2023-อินเดียน่า-โจนส์-กับกงล้อ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/8_4hViemT7"
+      }
+    ]
   },
   {
     "title": "Indiana Jones 4 And The Kingdom Of The Crystal Skull (2008) ขุมทรัพย์สุดขอบฟ้า ภาค 4 ตอน อาณาจักรกะโหลกแก้ว",
     "url": "https://lk-hdx.com/indiana-jones-4-and-the-kingdom-of-the-crystal-skull-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-4-And-The-Kingdom-Of-The-Crystal-Skull-2008-ขุมทรัพย์สุดขอบฟ้า-ภาค-4-ตอน-อาณาจักรกะโหลกแก้ว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Indiana-Jones-4-And-The-Kingdom-Of-The-Crystal-Skull-2008-ขุมทรัพย์สุดขอบฟ้า-ภาค-4-ตอน-อาณาจักรกะโหลกแก้ว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/9Kvs_kPvmT"
+      }
+    ]
   },
   {
     "title": "Indiana Jones 3 And The Last Crusade (1989) ขุมทรัพย์สุดขอบฟ้า ภาค 3 ตอน ศึกอภินิหารครูเสด",
