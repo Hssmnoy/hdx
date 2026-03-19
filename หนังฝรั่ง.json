@@ -61595,153 +61595,437 @@
   },
   {
     "title": "On the Line (2022) ออน เดอะ ไลน์",
-    "url": "https://lk-hdx.com/on-the-line-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/On-the-Line-2022-ออน-เดอะ-ไลน์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/853e2ca53e46f8ad5385e86038347697/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/853e2ca53e46f8ad5385e86038347697"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/On-the-Line-2022-ออน-เดอะ-ไลน์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "UFO (2022) ยู เอฟ โอ",
-    "url": "https://lk-hdx.com/ufo-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/UFO-2022-ยู-เอฟ-โอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/caaa0c373b0111740888dddbca370285/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/caaa0c373b0111740888dddbca370285"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/UFO-2022-ยู-เอฟ-โอ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Glorious (2022)",
-    "url": "https://lk-hdx.com/glorious-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Glorious-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/82fe0af954dbf634ba50e67ebfbc2bd7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/82fe0af954dbf634ba50e67ebfbc2bd7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Glorious-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Honk for Jesus Save Your Soul (2022)",
-    "url": "https://lk-hdx.com/honk-for-jesus-save-your-soul-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Honk-for-Jesus-Save-Your-Soul-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad0e6ff224943d2a6191036141f50c37/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad0e6ff224943d2a6191036141f50c37"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Honk-for-Jesus-Save-Your-Soul-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Honor Society (2022)",
-    "url": "https://lk-hdx.com/honor-society-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Honor-Society-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5e94ba876378525032cbc74bd088fe0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e94ba876378525032cbc74bd088fe0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Honor-Society-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Heatwave (2022)",
-    "url": "https://lk-hdx.com/heatwave-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Heatwave-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/H_kRHX7z8X"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Heatwave-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I Want You Back (2022)",
-    "url": "https://lk-hdx.com/i-want-you-back-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Want-You-Back-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fdc86687492b75ee90d812e6c244796d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fdc86687492b75ee90d812e6c244796d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Want-You-Back-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Influencer (2022)",
-    "url": "https://lk-hdx.com/influencer-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Influencer-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9b3e8a142227a9f2d971fd1d5650fef1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9b3e8a142227a9f2d971fd1d5650fef1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Influencer-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I Hear the Trees Whispering (2022)",
-    "url": "https://lk-hdx.com/i-hear-the-trees-whispering-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Hear-the-Trees-Whispering-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a0784fdc3b593b7a31dbdc45329e7fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a0784fdc3b593b7a31dbdc45329e7fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/I-Hear-the-Trees-Whispering-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I’m Totally Fine (2022) ฉันสบายดี",
-    "url": "https://lk-hdx.com/im-totally-fine-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Im-Totally-Fine-2022-ฉันสบายดี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/768ad4c06a911779a3e425fd31ae1553/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/768ad4c06a911779a3e425fd31ae1553"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Im-Totally-Fine-2022-ฉันสบายดี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Holiday Heritage (2022)",
-    "url": "https://lk-hdx.com/holiday-heritage-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Holiday-Heritage-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ecd8c909f997e26212fe71d3b8003c99/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ecd8c909f997e26212fe71d3b8003c99"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Holiday-Heritage-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hatching (2022)",
-    "url": "https://lk-hdx.com/hatching-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hatching-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e78ba503c703e88ff900e46241cd0f3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e78ba503c703e88ff900e46241cd0f3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hatching-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hot Seat (2022)",
-    "url": "https://lk-hdx.com/hot-seat-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hot-Seat-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3414afaa01260ef707767460709fa052/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3414afaa01260ef707767460709fa052"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hot-Seat-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hunting Alaskan Dinosaur’s (2022) ล่าไดโนเสาร์ในอลาสก้า",
-    "url": "https://lk-hdx.com/hunting-alaskan-dinosaurs-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hunting-Alaskan-Dinosaurs-2022-ล่าไดโนเสาร์ในอลาสก้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b796ad774b5195f94e74c95008bed88c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b796ad774b5195f94e74c95008bed88c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hunting-Alaskan-Dinosaurs-2022-ล่าไดโนเสาร์ในอลาสก้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "How I Fell in Love with a Gangster (2022)",
-    "url": "https://lk-hdx.com/how-i-fell-in-love-with-a-gangster-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/How-I-Fell-in-Love-with-a-Gangster-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c0c0df21c9e9fe4974607b543d440f5c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c0c0df21c9e9fe4974607b543d440f5c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/How-I-Fell-in-Love-with-a-Gangster-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "High Heat (2022)",
-    "url": "https://lk-hdx.com/high-heat-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/High-Heat-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/u_377Fa7yM"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/High-Heat-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Holy Spider (2022) ฆาตกรรมเภณีเมืองศักดิ์สิทธิ์",
-    "url": "https://lk-hdx.com/holy-spider-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Holy-Spider-2022-ฆาตกรรมเภณีเมืองศักดิ์สิทธิ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f978a3cdb29a8b91026d580cbb0fee93/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f978a3cdb29a8b91026d580cbb0fee93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Holy-Spider-2022-ฆาตกรรมเภณีเมืองศักดิ์สิทธิ์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hip Hop Family Christmas Wedding (2022)",
-    "url": "https://lk-hdx.com/hip-hop-family-christmas-wedding-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hip-Hop-Family-Christmas-Wedding-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0dc13db0b1ca01120ed8d9da20352562/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0dc13db0b1ca01120ed8d9da20352562"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hip-Hop-Family-Christmas-Wedding-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "1-800-Hot-Nite (2022) 1-800 ฮอตไนท์",
-    "url": "https://lk-hdx.com/1-800-hot-nite-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/1-800-Hot-Nite-2022-1-800-ฮอตไนท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b50bb10444b6e122ccd251358ca52e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b50bb10444b6e122ccd251358ca52e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/1-800-Hot-Nite-2022-1-800-ฮอตไนท์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jije (2022)",
-    "url": "https://lk-hdx.com/jije-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jije-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7973e97b59d65e6b688e3c9ec4049a4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7973e97b59d65e6b688e3c9ec4049a4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jije-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Just Love and a Thousand Songs (2022)",
-    "url": "https://lk-hdx.com/just-love-and-a-thousand-songs-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Just-Love-and-a-Thousand-Songs-2022-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/tNjgnONk_5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Just-Love-and-a-Thousand-Songs-2022-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Joyride (2022)",
-    "url": "https://lk-hdx.com/joyride-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Joyride-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0984daef63cd8bafc9641de3c2bb04de/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0984daef63cd8bafc9641de3c2bb04de"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Joyride-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hounded (2022)",
-    "url": "https://lk-hdx.com/hounded-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hounded-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5c8bcf690f867ba5b0293462882d8772/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5c8bcf690f867ba5b0293462882d8772"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hounded-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gospel (2022)",
-    "url": "https://lk-hdx.com/gospel-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gospel-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5ca6785de93f4959b7364035a32bba0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5ca6785de93f4959b7364035a32bba0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gospel-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gods Country (2022) ก็อต คันทรี",
-    "url": "https://lk-hdx.com/gods-country-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gods-Country-2022-ก็อต-คันทรี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/39ea99e06d0bb5a7b082514e6373e9b1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/39ea99e06d0bb5a7b082514e6373e9b1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gods-Country-2022-ก็อต-คันทรี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gone in the Night (2022)",
-    "url": "https://lk-hdx.com/gone-in-the-night-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Gone-in-the-Night-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b940e38aba9bba1a02d6a5e4c35602c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b940e38aba9bba1a02d6a5e4c35602c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Gone-in-the-Night-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jane (2022) เจน",
-    "url": "https://lk-hdx.com/jane-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jane-2022-เจน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/rEQfp_qZAx"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jane-2022-เจน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jackass Forever (2022) แจ็คแอส ฟอร์เอฟเวอร์",
-    "url": "https://lk-hdx.com/jackass-forever-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jackass-Forever-2022-แจ็คแอส-ฟอร์เอฟเวอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ebfeae5486ac4989067324199eae2b42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ebfeae5486ac4989067324199eae2b42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jackass-Forever-2022-แจ็คแอส-ฟอร์เอฟเวอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jerry and Marge Go Large (2022)",
-    "url": "https://lk-hdx.com/jerry-and-marge-go-large-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jerry-and-Marge-Go-Large-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3eb666985c53277613db04901d39c03d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3eb666985c53277613db04901d39c03d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jerry-and-Marge-Go-Large-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jersey (2022) เจอร์ซีย์",
-    "url": "https://lk-hdx.com/jersey-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Jersey-2022-เจอร์ซีย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8b97fc1922d66c32aa1ba035657413d8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b97fc1922d66c32aa1ba035657413d8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Jersey-2022-เจอร์ซีย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Icahn The Restless Billionaire (2022) ไอคาห์น เศรษฐีอยู่ไม่สุข",
