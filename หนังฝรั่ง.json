@@ -36113,153 +36113,437 @@
   },
   {
     "title": "My Summer In Provence (2014) คุณปู่จอมเฮี๊ยบกับคุณหลานจอมป่วน",
-    "url": "https://lk-hdx.com/my-summer-in-provence-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Summer-In-Provence-2014-คุณปู่จอมเฮี๊ยบกับคุณหลานจอมป่วน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/j6e_Qc2ohC"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/My-Summer-In-Provence-2014-คุณปู่จอมเฮี๊ยบกับคุณหลานจอมป่วน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Marshland (2014) ตะลุยเมืองโหด",
-    "url": "https://lk-hdx.com/marshland-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Marshland-2014-ตะลุยเมืองโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f5f8d0cd56cc9f5e90e1229deebb53b8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f5f8d0cd56cc9f5e90e1229deebb53b8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Marshland-2014-ตะลุยเมืองโหด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Apartment 143 (2011) หลอนขนหัวลุก",
-    "url": "https://lk-hdx.com/apartment-143-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Apartment-143-2011-หลอนขนหัวลุก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jP_D_V5xpb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Apartment-143-2011-หลอนขนหัวลุก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Django Unchained (2012) จังโก้ โคตรคนแดนเถื่อน",
-    "url": "https://lk-hdx.com/django-unchained-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Django-Unchained-2012-จังโก้-โคตรคนแดนเถื่อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5b7e7f04f8118636c35098ed40ed88e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5b7e7f04f8118636c35098ed40ed88e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Django-Unchained-2012-จังโก้-โคตรคนแดนเถื่อน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Chronicle (2012) โครนิเคิล บันทึกลับเหนือโลก",
-    "url": "https://lk-hdx.com/chronicle-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Chronicle-2012-โครนิเคิล-บันทึกลับเหนือโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/20928d4b2050fe21e9a7bb5856a0ad83/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/20928d4b2050fe21e9a7bb5856a0ad83"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Chronicle-2012-โครนิเคิล-บันทึกลับเหนือโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Contraband (2012) คนเดือดท้านรกเถื่อน",
-    "url": "https://lk-hdx.com/contraband-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Contraband-2012-คนเดือดท้านรกเถื่อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c685f3d48ced816d711679c809b76c27/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c685f3d48ced816d711679c809b76c27"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Contraband-2012-คนเดือดท้านรกเถื่อน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Chernobyl Diaries (2012) เชอร์โนบิล เมืองร้าง มหันตภัยหลอน",
-    "url": "https://lk-hdx.com/chernobyl-diaries-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Chernobyl-Diaries-2012-เชอร์โนบิล-เมืองร้าง-มหันตภัยหลอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3520739c2e2c6eeecb79cbee69b18fbd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3520739c2e2c6eeecb79cbee69b18fbd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Chernobyl-Diaries-2012-เชอร์โนบิล-เมืองร้าง-มหันตภัยหลอน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bullet to the Head (2012) กระสุนเดนตาย",
-    "url": "https://lk-hdx.com/bullet-to-the-head-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Bullet-to-the-Head-2012-กระสุนเดนตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3e79cc5a164b05661bf4ffa358781c49/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3e79cc5a164b05661bf4ffa358781c49"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Bullet-to-the-Head-2012-กระสุนเดนตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Goodbye World (2013) หายนะวันลาโลก",
-    "url": "https://lk-hdx.com/goodbye-world-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Goodbye-World-2013-หายนะวันลาโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6ed91f144ca5a18a5081605e170e122a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6ed91f144ca5a18a5081605e170e122a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Goodbye-World-2013-หายนะวันลาโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gravity (2013) กราวิตี้ มฤตยูแรงโน้มถ่วง",
-    "url": "https://lk-hdx.com/gravity-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Gravity-2013-กราวิตี้-มฤตยูแรงโน้มถ่วง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a9c2970bbbc32a7bb76737b2fe781d7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a9c2970bbbc32a7bb76737b2fe781d7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Gravity-2013-กราวิตี้-มฤตยูแรงโน้มถ่วง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fruitvale Station (2013) ยุติธรรมอำพราง",
-    "url": "https://lk-hdx.com/fruitvale-station-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Fruitvale-Station-2013-ยุติธรรมอำพราง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/VRfjPQT_3I"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Fruitvale-Station-2013-ยุติธรรมอำพราง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "End of the World (2013) ฝนมฤตยูดับโลก",
-    "url": "https://lk-hdx.com/end-of-the-world-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/End-of-the-World-2013-ฝนมฤตยูดับโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6facbaa7e788de3420ad3175e98d6356/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6facbaa7e788de3420ad3175e98d6356"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/End-of-the-World-2013-ฝนมฤตยูดับโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ouija (2014) กระดานผีกระชากวิญญาณ",
-    "url": "https://lk-hdx.com/ouija-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Ouija-2014-กระดานผีกระชากวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a10d344f4c8076cc7690cac9020f652a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a10d344f4c8076cc7690cac9020f652a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Ouija-2014-กระดานผีกระชากวิญญาณ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ninja Immovable Heart (2014) โคตรนินจา ฆ่าไม่ตาย",
-    "url": "https://lk-hdx.com/ninja-immovable-heart-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Ninja-Immovable-Heart-2014-โคตรนินจา-ฆ่าไม่ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4dbdca2d03cba9d79ac4ff2c4777e686/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4dbdca2d03cba9d79ac4ff2c4777e686"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Ninja-Immovable-Heart-2014-โคตรนินจา-ฆ่าไม่ตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Need for Speed (2014) ซิ่งเต็มสปีดแค้น",
-    "url": "https://lk-hdx.com/need-for-speed-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Need-for-Speed-2014-ซิ่งเต็มสปีดแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6ce7f8f8240f597fab333b191db20c88/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6ce7f8f8240f597fab333b191db20c88"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Need-for-Speed-2014-ซิ่งเต็มสปีดแค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Exploding Sun (2013) อุบัติการณ์หลุดห้วงจักรวาล",
-    "url": "https://lk-hdx.com/exploding-sun-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Exploding-Sun-2013-อุบัติการณ์หลุดห้วงจักรวาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8d6112e3da34b4345a39998e9892b6e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8d6112e3da34b4345a39998e9892b6e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Exploding-Sun-2013-อุบัติการณ์หลุดห้วงจักรวาล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Extraction (2013) ภารกิจชิงตัวนักโทษ",
-    "url": "https://lk-hdx.com/extraction-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Extraction-2013-ภารกิจชิงตัวนักโทษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/DhOYGvP_oD"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Extraction-2013-ภารกิจชิงตัวนักโทษ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ender’s Game (2013) สงครามพลิกจักรวาล",
-    "url": "https://lk-hdx.com/enders-game-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Enders-Game-2013-สงครามพลิกจักรวาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6a8ab9b812c655d10ca2ac3356c80c65/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a8ab9b812c655d10ca2ac3356c80c65"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Enders-Game-2013-สงครามพลิกจักรวาล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Evidence (2013) ชนวนฆ่าขนหัวลุก",
-    "url": "https://lk-hdx.com/evidence-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Evidence-2013-ชนวนฆ่าขนหัวลุก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2ba46799e0dcc111c34a22d2caa397aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2ba46799e0dcc111c34a22d2caa397aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Evidence-2013-ชนวนฆ่าขนหัวลุก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Enemy (2013) ล่าตัวตน คนสองเงา",
-    "url": "https://lk-hdx.com/enemy-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Enemy-2013-ล่าตัวตน-คนสองเงา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d78820c0b4dd2f7a0e9134116de043f1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d78820c0b4dd2f7a0e9134116de043f1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Enemy-2013-ล่าตัวตน-คนสองเงา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nightcrawler (2014) เหยี่ยวข่าวคลั่ง",
-    "url": "https://lk-hdx.com/nightcrawler-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Nightcrawler-2014-เหยี่ยวข่าวคลั่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/94d44f1769d631c65938863fbe98d3c6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/94d44f1769d631c65938863fbe98d3c6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Nightcrawler-2014-เหยี่ยวข่าวคลั่ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Noah (2014) โนอาห์ มหาวิบัติวันล้างโลก",
-    "url": "https://lk-hdx.com/noah-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Noah-2014-โนอาห์-มหาวิบัติวันล้างโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c430edc4a4ba5a599ff9d5daf648ef96/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c430edc4a4ba5a599ff9d5daf648ef96"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Noah-2014-โนอาห์-มหาวิบัติวันล้างโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Non Stop (2014) เที่ยวบินระทึก ยึดเหนือฟ้า",
-    "url": "https://lk-hdx.com/non-stop-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Non-Stop-2014-เที่ยวบินระทึก-ยึดเหนือฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90c4d0d86c54ed64cd406995089e8b7c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90c4d0d86c54ed64cd406995089e8b7c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Non-Stop-2014-เที่ยวบินระทึก-ยึดเหนือฟ้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "No Good Deed (2014) หักเหลี่ยมโฉด",
-    "url": "https://lk-hdx.com/no-good-deed-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/No-Good-Deed-2014-หักเหลี่ยมโฉด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/51fea9243315845fde7ee353a2d398bf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/51fea9243315845fde7ee353a2d398bf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/No-Good-Deed-2014-หักเหลี่ยมโฉด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Not Safe for Work (2014) ปิดออฟฟิศฆ่า",
-    "url": "https://lk-hdx.com/not-safe-for-work-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Not-Safe-for-Work-2014-ปิดออฟฟิศฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d52be30a9d2e0c1dc89bc19a299db4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d52be30a9d2e0c1dc89bc19a299db4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Not-Safe-for-Work-2014-ปิดออฟฟิศฆ่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Irishman (2019) คนใหญ่ไอริช",
-    "url": "https://lk-hdx.com/the-irishman-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Irishman-2019-คนใหญ่ไอริช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4f65dbe939a954de524f72aef8ab135b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4f65dbe939a954de524f72aef8ab135b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Irishman-2019-คนใหญ่ไอริช-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Red Sea Diving Resort (2019) ปฏิบัติการแหวกทะเลแดง",
-    "url": "https://lk-hdx.com/the-red-sea-diving-resort-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Red-Sea-Diving-Resort-2019-ปฏิบัติการแหวกทะเลแดง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90d18d6d4576c6030c2c71509774c4d9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90d18d6d4576c6030c2c71509774c4d9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Red-Sea-Diving-Resort-2019-ปฏิบัติการแหวกทะเลแดง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Social Dilemma (2020) ทุนนิยมสอดแนม ภัยแฝงเครือข่ายอัจฉริยะ",
-    "url": "https://lk-hdx.com/the-social-dilemma-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Social-Dilemma-2020-ทุนนิยมสอดแนม-ภัยแฝงเครือข่ายอัจฉริยะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ffc5d2b069305470b2815eeb02bbcde6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ffc5d2b069305470b2815eeb02bbcde6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Social-Dilemma-2020-ทุนนิยมสอดแนม-ภัยแฝงเครือข่ายอัจฉริยะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Think Like a Dog (2020) คู่คิดสี่ขา",
-    "url": "https://lk-hdx.com/think-like-a-dog-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Think-Like-a-Dog-2020-คู่คิดสี่ขา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ab69a3ccd1742fe671ea7795cf9437ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab69a3ccd1742fe671ea7795cf9437ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Think-Like-a-Dog-2020-คู่คิดสี่ขา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Scary House (2020) บ้านพิลึก",
-    "url": "https://lk-hdx.com/the-scary-house-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Scary-House-2020-บ้านพิลึก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9f86190c824ac3cff547c657a329fbcb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9f86190c824ac3cff547c657a329fbcb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Scary-House-2020-บ้านพิลึก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bed Rest (2023) บ้านอาถรรพ์ในวันที่ฉันติดเตียง",
