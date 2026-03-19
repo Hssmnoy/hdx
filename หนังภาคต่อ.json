@@ -5615,153 +5615,437 @@
   },
   {
     "title": "Wrong Turn 5 Bloodlines (2012) หวีดเขมือบคน ปาร์ตี้สยอง ภาค 5",
-    "url": "https://lk-hdx.com/wrong-turn-5-bloodlines-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-5-Bloodlines-2012-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa07722ca019df958154eaf10900bba5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa07722ca019df958154eaf10900bba5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-5-Bloodlines-2012-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Wrong Turn 4 Bloody Beginnings (2011) หวีดเขมือบคน ปลุกโหดโรงเชือดสยอง ภาค 4",
-    "url": "https://lk-hdx.com/wrong-turn-4-bloody-beginnings-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-4-Bloody-Beginnings-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b88b313dc5a5f890f4540710b535d643/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b88b313dc5a5f890f4540710b535d643"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-4-Bloody-Beginnings-2011-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Wrong Turn 3 Left for Dead (2009) หวีดเขมือบคน ภาค 3",
-    "url": "https://lk-hdx.com/wrong-turn-3-left-for-dead-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-3-Left-for-Dead-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d0b49a0cf843166195875cf8700b2e1b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d0b49a0cf843166195875cf8700b2e1b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-3-Left-for-Dead-2009-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Wrong Turn 2 Dead End (2007) หวีดเขมือบคน ภาค 2",
-    "url": "https://lk-hdx.com/wrong-turn-2-dead-end-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-2-Dead-End-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/546e9667818ac668597c48600a4471ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/546e9667818ac668597c48600a4471ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/Wrong-Turn-2-Dead-End-2007-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Wrong Turn 1 (2003) หวีดเขมือบคน ภาค 1",
-    "url": "https://lk-hdx.com/wrong-turn-1-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Wrong-Turn-1-2003-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/88d499d8fb2d825b1d6dcc5ec658b71f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/88d499d8fb2d825b1d6dcc5ec658b71f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Wrong-Turn-1-2003-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sherlock Holmes A Game of Shadows (2011) เชอร์ล็อค โฮล์มส์ เกมพญายมเงามรณะ ภาค 2",
-    "url": "https://lk-hdx.com/sherlock-holmes-a-game-of-shadows-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-A-Game-of-Shadows-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f2dab6397d253b162730b71487483f7f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f2dab6397d253b162730b71487483f7f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-A-Game-of-Shadows-2011-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sherlock Holmes (2009) เชอร์ล็อค โฮล์มส์ ดับแผนพิฆาตโลก ภาค 1",
-    "url": "https://lk-hdx.com/sherlock-holmes-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/37123b6c5c6ef1eebf45457e60a28c06/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/37123b6c5c6ef1eebf45457e60a28c06"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sherlock-Holmes-2009-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Hellboy (2019) เฮลล์บอย",
-    "url": "https://lk-hdx.com/hellboy-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Hellboy-2019-เฮลล์บอย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a53a3ee00fe296bf6537cd645627e847/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a53a3ee00fe296bf6537cd645627e847"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Hellboy-2019-เฮลล์บอย-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Hellboy 2 The Golden Army (2008) เฮลล์บอย ฮีโร่พันธุ์นรก ภาค 2",
-    "url": "https://lk-hdx.com/hellboy-2-the-golden-army-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hellboy-2-The-Golden-Army-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/h8U_zr68SL"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Hellboy-2-The-Golden-Army-2008-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Hellboy 1 (2004) เฮลล์บอย ฮีโร่พันธุ์นรก ภาค 1",
-    "url": "https://lk-hdx.com/hellboy-1-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Hellboy-1-2004-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4dd43e3b8ef91dea27906a7f821fa33b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4dd43e3b8ef91dea27906a7f821fa33b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Hellboy-1-2004-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Divine Move 2 The Wrathful (2019) เซียนหมาก โค่นโคตรเซียน ภาค 2",
-    "url": "https://lk-hdx.com/the-divine-move-2-the-wrathful-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Divine-Move-2-The-Wrathful-2019-เซียนหมาก-โค่นโคตรเซียน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/wbWacz_CHv"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Divine-Move-2-The-Wrathful-2019-เซียนหมาก-โค่นโคตรเซียน-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Divine Move 1 (2014) เซียนหมาก โค่นโคตรเซียน ภาค 1",
-    "url": "https://lk-hdx.com/the-divine-move-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Divine-Move-1-2014-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a4b243d12ecdf3e196a4dd0af8d651af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a4b243d12ecdf3e196a4dd0af8d651af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Divine-Move-1-2014-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Extraction 2 (2023) คนระห่ำภารกิจเดือด ภาค 2",
-    "url": "https://lk-hdx.com/extraction-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-2-2023-คนระห่ำภารกิจเดือด-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d780be16dd3afed57ef2b6cd40a725f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d780be16dd3afed57ef2b6cd40a725f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-2-2023-คนระห่ำภารกิจเดือด-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Extraction 1 (2020) คนระห่ำภารกิจเดือด ภาค 1",
-    "url": "https://lk-hdx.com/extraction-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-1-2020-คนระห่ำภารกิจเดือด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b8a8f011ba2e117a503a15ade134cc25/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b8a8f011ba2e117a503a15ade134cc25"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Extraction-1-2020-คนระห่ำภารกิจเดือด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Cold War 2 (2016) 2 คมล่าถล่มเมือง ภาค 2",
-    "url": "https://lk-hdx.com/cold-war-2-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Cold-War-2-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/xtFSs_pZBd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Cold-War-2-2016-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Cold War 1 (2012) 2 คมล่าถล่มเมือง ภาค 1",
-    "url": "https://lk-hdx.com/cold-war-1-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Cold-War-1-2012-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/13fc1e8946f556e833ed322ca0f0f2e1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/13fc1e8946f556e833ed322ca0f0f2e1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Cold-War-1-2012-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Silent Hill Revelation (2012) เมืองห่าผี เรฟเวเลชั่น ภาค 2",
-    "url": "https://lk-hdx.com/silent-hill-revelation-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-Revelation-2012-165x248.jpeg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v7CDLLm_Ii"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-Revelation-2012-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Silent Hill (2006) เมืองห่าผี ภาค 1",
-    "url": "https://lk-hdx.com/silent-hill-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-2006-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/05e3a31dec727d94e08349026ee01a47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/05e3a31dec727d94e08349026ee01a47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Silent-Hill-2006-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Inside Out (2015) มหัศจรรย์อารมณ์อลเวง",
-    "url": "https://lk-hdx.com/inside-out-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Inside-Out-2015-มหัศจรรย์อารมณ์อลเวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3789250f40413de5fbaac2e1ed71f650/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3789250f40413de5fbaac2e1ed71f650"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Inside-Out-2015-มหัศจรรย์อารมณ์อลเวง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sex Is Zero 2 (2007) ขบวนการปิ๊ดปี้ปิ๊ด ภาค 2 แผนแอ้มน้องใหม่หัวใจสะเทิ้น",
-    "url": "https://lk-hdx.com/sex-is-zero-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-2-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d22b9355201668344965449762400cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d22b9355201668344965449762400cf"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-2-2007-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sex Is Zero 1 (2002) ขบวนการปิ๊ด ปี้ ปิ๊ด ภาค 1",
-    "url": "https://lk-hdx.com/sex-is-zero-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-1-2002-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e3df63eab4aefa1ac0bc487e5cfcf10b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e3df63eab4aefa1ac0bc487e5cfcf10b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Sex-Is-Zero-1-2002-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hangover Part 3 (2013) เมายกแก๊ง แฮงค์ยกก๊วน ภาค 3",
-    "url": "https://lk-hdx.com/the-hangover-part-3-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Hangover-Part-3-2013-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4b4f98c235cc47aa27e672640941e562/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4b4f98c235cc47aa27e672640941e562"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Hangover-Part-3-2013-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hangover Part 2 (2011) เดอะ แฮงค์โอเวอร์ ภาค 2",
-    "url": "https://lk-hdx.com/the-hangover-part-2-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-Part-2-2011-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b61d168513cf4208586f507c9b216490/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b61d168513cf4208586f507c9b216490"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-Part-2-2011-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hangover (2009) เมายกแก๊ง แฮงค์ยกก๊วน ภาค 1",
-    "url": "https://lk-hdx.com/the-hangover-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/72c4aea3e064a5aea93d5adae6e28c42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/72c4aea3e064a5aea93d5adae6e28c42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/03/The-Hangover-2009-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shrek 4 Shrek Forever After (2010) เชร็ค ภาค 4 สุขสันต์นิรันดร",
-    "url": "https://lk-hdx.com/shrek-4-shrek-forever-after-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Shrek-4-Shrek-Forever-After-2010-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/498dd736822e1ae3cc1d6401a957ddbc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/498dd736822e1ae3cc1d6401a957ddbc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Shrek-4-Shrek-Forever-After-2010-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shrek the Third (2007) เชร็ค ภาค 3",
-    "url": "https://lk-hdx.com/shrek-the-third-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Shrek-the-Third-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/730be58adfbaac982de9a919f42de394/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/730be58adfbaac982de9a919f42de394"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Shrek-the-Third-2007-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shrek 2 (2004) เชร็ค ภาค 2",
-    "url": "https://lk-hdx.com/shrek-2-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Shrek-2-2004-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/068e64a080798641ce8d451130ef5b08/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/068e64a080798641ce8d451130ef5b08"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Shrek-2-2004-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Shrek 1 (2001) เชร็ค ภาค 1",
-    "url": "https://lk-hdx.com/shrek-1-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Shrek-1-2001-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad7a85d57ab15f703f7194548b4fa9b7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad7a85d57ab15f703f7194548b4fa9b7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Shrek-1-2001-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "ผีหัวขาด ภาค 2 (2004) Headless Hero 2",
-    "url": "https://lk-hdx.com/headless-hero-2-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-2-2004-Headless-Hero-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/44155e6470baae9d6a20344ef8198c04/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44155e6470baae9d6a20344ef8198c04"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-2-2004-Headless-Hero-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "ผีหัวขาด ภาค 1 (2002) Headless Hero 1",
-    "url": "https://lk-hdx.com/headless-hero-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-1-2002-Headless-Hero-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ce27552fc2bce3c50d8de46694aeb2ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ce27552fc2bce3c50d8de46694aeb2ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/ผีหัวขาด-ภาค-1-2002-Headless-Hero-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Peter Rabbit 2 The Runaway (2021) ปีเตอร์ แรบบิท ภาค 2",
