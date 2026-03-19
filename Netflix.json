@@ -2155,153 +2155,429 @@
   },
   {
     "title": "Bad Influence (2025) วัยรักอันตราย",
-    "url": "https://lk-hdx.com/bad-influence-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Bad-Influence-2025-วัยรักอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/5aa0El1y_J"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Bad-Influence-2025-วัยรักอันตราย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nonnas (2025) รักนะย่ายายจ๋า",
-    "url": "https://lk-hdx.com/nonnas-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/029d2fb422a625597df8a31ec56eca15/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/029d2fb422a625597df8a31ec56eca15"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lost Bullet 2 (2022) แรงทะลุกระสุน ภาค 2",
-    "url": "https://lk-hdx.com/lost-bullet-2-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Lost-Bullet-2-2022-แรงทะลุกระสุน-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea6eddbb9a822fef5946d3fffe31865e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea6eddbb9a822fef5946d3fffe31865e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Lost-Bullet-2-2022-แรงทะลุกระสุน-ภาค-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lost Bullet 1 (2020) แรงทะลุกระสุน ภาค 1",
-    "url": "https://lk-hdx.com/lost-bullet-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Lost-Bullet-1-2020-แรงทะลุกระสุน-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/hJXmvrAZN_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Lost-Bullet-1-2020-แรงทะลุกระสุน-ภาค-1-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Exterritorial (2025) พลิกแผนลับลวงระทึก",
-    "url": "https://lk-hdx.com/exterritorial-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Exterritorial-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d193b140df9beabaa7be821baa865e7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d193b140df9beabaa7be821baa865e7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Exterritorial-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Britain and the Blitz (2025) ยุทธการเดอะบลิตซ์พิชิตอังกฤษ",
-    "url": "https://lk-hdx.com/britain-and-the-blitz-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Britain-and-the-Blitz-2025-ยุทธการเดอะบลิตซ์พิชิตอังกฤษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/c_x9jCk_qg"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Britain-and-the-Blitz-2025-ยุทธการเดอะบลิตซ์พิชิตอังกฤษ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Biggest Fan (2025) แฟนพันธุ์แท้",
-    "url": "https://lk-hdx.com/the-biggest-fan-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Biggest-Fan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6c713dcb650b71ed3154b300fe443d7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6c713dcb650b71ed3154b300fe443d7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Biggest-Fan-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Rose of Versailles (2025) กุหลาบแวร์ซายส์",
-    "url": "https://lk-hdx.com/the-rose-of-versailles-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Rose-of-Versailles-2025-กุหลาบแวร์ซายส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7fa1cbc31f9848b724e2274ab733b47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7fa1cbc31f9848b724e2274ab733b47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Rose-of-Versailles-2025-กุหลาบแวร์ซายส์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "คุณชายน์ (2024) The Cliche",
-    "url": "https://lk-hdx.com/the-cliche/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Cliche-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c8958ca16143fb0179aa4aff6beb8937/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8958ca16143fb0179aa4aff6beb8937"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/The-Cliche-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ฝ่านรกกองโจร (2025) Counterstrike",
-    "url": "https://lk-hdx.com/counterstrike-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ฝ่านรกกองโจร-2025-Counterstrike-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0ecb1d324a52f7d41a318876f6ff2df/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0ecb1d324a52f7d41a318876f6ff2df"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ฝ่านรกกองโจร-2025-Counterstrike-165x248.webp",
+    "group": "Netflix"
   },
   {
     "title": "ฝ่าหายนะครองเมือง (2025) Havoc",
-    "url": "https://lk-hdx.com/havoc-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Havoc-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6d4a7826be4c29345d24b9439251af4d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6d4a7826be4c29345d24b9439251af4d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Havoc-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "การเดินทางของคูลู (2025) Pangolin Kulu’s Journey",
-    "url": "https://lk-hdx.com/pangolin-kulus-journey-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Pangolin-Kulus-Journey-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1543ac3521aa0968673e7e6c143e970a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1543ac3521aa0968673e7e6c143e970a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Pangolin-Kulus-Journey-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ",
-    "url": "https://lk-hdx.com/bullet-train-explosion-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58d0c2b60e666fa981a30aecef3237af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58d0c2b60e666fa981a30aecef3237af"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Woman of the Hour (2023) รู้ไหมใครโหด",
-    "url": "https://lk-hdx.com/woman-of-the-hour-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Woman-of-the-Hour-2023-รู้ไหมใครโหด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/784db4c7ed145bf2e3d57ffcb66a5592/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/784db4c7ed145bf2e3d57ffcb66a5592"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Woman-of-the-Hour-2023-รู้ไหมใครโหด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Meet the Khumalos (2025) เปิดบ้านป่วนคูมาโล",
-    "url": "https://lk-hdx.com/meet-the-khumalos-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Meet-the-Khumalos-2025-เปิดบ้านป่วนคูมาโล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9fde03835e60a2f61f1ef510d85e463c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9fde03835e60a2f61f1ef510d85e463c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Meet-the-Khumalos-2025-เปิดบ้านป่วนคูมาโล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "iHostage (2025) จับตัวประกันสนั่นเมือง",
-    "url": "https://lk-hdx.com/ihostage-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/iHostage-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2e5cffb1be3b40dfb4e8e36e85a7c1e8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e5cffb1be3b40dfb4e8e36e85a7c1e8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/iHostage-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Hard Feelings (2023) วัยพลุ่งพล่าน",
-    "url": "https://lk-hdx.com/hard-feelings/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Hard-Feelings-2023-วัยพลุ่งพล่าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d97742609cd914249ca86c07eb320410/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d97742609cd914249ca86c07eb320410"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Hard-Feelings-2023-วัยพลุ่งพล่าน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ภารกิจคุณพ่อ (2025) The Dad Quest | NETFLIX",
-    "url": "https://lk-hdx.com/the-dad-quest-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/The-Dad-Quest-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_uIBTnzar5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/The-Dad-Quest-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "แก๊งหิมะเดือด (2025) Frozen Hot Boys",
-    "url": "https://lk-hdx.com/frozen-hot-boys-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Frozen-Hot-Boys-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2c4d1bd328b4cb1c1078486bd09fff75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c4d1bd328b4cb1c1078486bd09fff75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Frozen-Hot-Boys-2025-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "เกมวัดใจ (2025) Test",
-    "url": "https://lk-hdx.com/test-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/เกมวัดใจ-2025-Test-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8ea6fab9c52a0c12891514430c3d57fb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8ea6fab9c52a0c12891514430c3d57fb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/เกมวัดใจ-2025-Test-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ดีเจนอกเครื่องแบบ (2025) Banger",
-    "url": "https://lk-hdx.com/banger-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ดีเจนอกเครื่องแบบ-2025-Banger-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/R_8SbQJMjL"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ดีเจนอกเครื่องแบบ-2025-Banger-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "หลักฐานสัญญาใจ (2025) Promised Hearts",
-    "url": "https://lk-hdx.com/promised-hearts-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/หลักฐานสัญญาใจ-2025-Promised-Hearts-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/81e1b37a9821a1611a08642a87ae35fa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/81e1b37a9821a1611a08642a87ae35fa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/หลักฐานสัญญาใจ-2025-Promised-Hearts-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ผู้ชายใจไม่พ่าย (2025) VidaaMuyarchi",
-    "url": "https://lk-hdx.com/vidaamuyarchi-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/ผู้ชายใจไม่พ่าย-2025-VidaaMuyarchi-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/547317b1ff5160e96cd7ef35cb6c5b8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/547317b1ff5160e96cd7ef35cb6c5b8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/ผู้ชายใจไม่พ่าย-2025-VidaaMuyarchi-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "รายการชีวิต (2025) The Life List",
-    "url": "https://lk-hdx.com/the-life-list-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/รายการชีวิต-2025-The-Life-List-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/582a5f146f35f1294f211e6a85f67f49/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/582a5f146f35f1294f211e6a85f67f49"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/รายการชีวิต-2025-The-Life-List-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "Dream (2023) ไร้บ้าน ไม่ไร้ฝัน",
-    "url": "https://lk-hdx.com/dream-2023-%e0%b9%84%e0%b8%a3%e0%b9%89%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99-%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%84%e0%b8%a3%e0%b9%89%e0%b8%9d%e0%b8%b1%e0%b8%99/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dream-2023-ดรีม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fbb203f9514ffa9fd62cdd37a46a2773/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbb203f9514ffa9fd62cdd37a46a2773"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Dream-2023-ดรีม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "นิมิตสวรรค์ (2025) Revelations",
-    "url": "https://lk-hdx.com/revelations-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/นิมิตสวรรค์-2025-Revelations-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e265d8978c91309e520d54e5914e61b7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e265d8978c91309e520d54e5914e61b7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/นิมิตสวรรค์-2025-Revelations-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ลิตเติ้ล​ ไซบีเรีย (2025) Little Siberia",
-    "url": "https://lk-hdx.com/little-siberia-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ลิตเติ้ล​-ไซบีเรีย-2025-Little-Siberia-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1ca0b77d082e7080fb9416491e3d7b9a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1ca0b77d082e7080fb9416491e3d7b9a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/ลิตเติ้ล​-ไซบีเรีย-2025-Little-Siberia-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "โอคจา ซูเปอร์หมู (2017) OKJA",
-    "url": "https://lk-hdx.com/okja-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/โอคจา-ซูเปอร์หมู-2017-OKJA-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/nsl_tGpBoJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/โอคจา-ซูเปอร์หมู-2017-OKJA-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "โอชะ (2025) Delicious",
-    "url": "https://lk-hdx.com/delicious-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/โอชะ-2025-Delicious-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f0d39ccd0cad9940db27fe6097617d1a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0d39ccd0cad9940db27fe6097617d1a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/โอชะ-2025-Delicious-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "แพลงค์ตอน เดอะ มูฟวี่ (2025) Plankton The Movie",
-    "url": "https://lk-hdx.com/plankton-the-movie-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/แพลงค์ตอน-เดอะ-มูฟวี่-2025-Plankton-The-Movie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e99bb383c3d9fa394403efad66909745/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e99bb383c3d9fa394403efad66909745"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/แพลงค์ตอน-เดอะ-มูฟวี่-2025-Plankton-The-Movie-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "หัวใจติดกับ รักผิดแผน (2025) Nadaaniyan",
