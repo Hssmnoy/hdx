@@ -7275,153 +7275,433 @@
   },
   {
     "title": "Amanda Knox (2016) อแมนด้า น็อกซ์",
-    "url": "https://lk-hdx.com/amanda-knox-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Amanda-Knox-2016-อแมนด้า-น็อกซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d9418a0428d48bc7252706f8cfd0108/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d9418a0428d48bc7252706f8cfd0108"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Amanda-Knox-2016-อแมนด้า-น็อกซ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "76 (2016)",
-    "url": "https://lk-hdx.com/76-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/76-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db058be2ba77a0e7b6d126bb9b92a760/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db058be2ba77a0e7b6d126bb9b92a760"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/76-2016-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Lady Chatterley’s Lover (2015) ชู้รักเลดี้แชตเตอร์เลย์ (ต้นฉบับ)",
-    "url": "https://lk-hdx.com/lady-chatterleys-lover-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lady-Chatterleys-Lover-2015-ชู้รักเลดี้แชตเตอร์เลย์-ต้นฉบับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/BBdEV1t4E_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Lady-Chatterleys-Lover-2015-ชู้รักเลดี้แชตเตอร์เลย์-ต้นฉบับ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "All the Bright Places (2020) แสงแห่งหวังที่ทุกฝั่งฟ้า",
-    "url": "https://lk-hdx.com/all-the-bright-places-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/All-the-Bright-Places-2020-แสงแห่งหวังที่ทุกฝั่งฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/135586b3c4675c623e58da374ac226dd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/135586b3c4675c623e58da374ac226dd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/All-the-Bright-Places-2020-แสงแห่งหวังที่ทุกฝั่งฟ้า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Altered Carbon Resleeved (2020) อัลเทอร์ด คาร์บอน รีสลีฟ",
-    "url": "https://lk-hdx.com/altered-carbon-resleeved-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Altered-Carbon-Resleeved-2020-อัลเทอร์ด-คาร์บอน-รีสลีฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fcc95a34a2a343cdf53ab3ee2443dfd9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fcc95a34a2a343cdf53ab3ee2443dfd9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Altered-Carbon-Resleeved-2020-อัลเทอร์ด-คาร์บอน-รีสลีฟ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Alter Me (2020) ความรักเปลี่ยนฉัน",
-    "url": "https://lk-hdx.com/alter-me-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Alter-Me-2020-ความรักเปลี่ยนฉัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f5227bb26b3def412ea429d31f2de911/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f5227bb26b3def412ea429d31f2de911"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Alter-Me-2020-ความรักเปลี่ยนฉัน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "American Murder The Family Next Door (2020) ครอบครัวข้างบ้าน",
-    "url": "https://lk-hdx.com/american-murder-the-family-next-door-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/American-Murder-The-Family-Next-Door-2020-ครอบครัวข้างบ้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8b1818fe264bd69ffe4c7b450d9922a7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b1818fe264bd69ffe4c7b450d9922a7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/American-Murder-The-Family-Next-Door-2020-ครอบครัวข้างบ้าน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "An Easy Girl (2020) สาวใจง่าย",
-    "url": "https://lk-hdx.com/an-easy-girl-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/An-Easy-Girl-2020-สาวใจง่าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/aaVV_I7IuM"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/An-Easy-Girl-2020-สาวใจง่าย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Ankahi Kahaniya (2021) เรื่องรัก เรื่องหัวใจ",
-    "url": "https://lk-hdx.com/ankahi-kahaniya-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Ankahi-Kahaniya-2021-เรื่องรัก-เรื่องหัวใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7967da6a32dc90e1d7176c6daca7998a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7967da6a32dc90e1d7176c6daca7998a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Ankahi-Kahaniya-2021-เรื่องรัก-เรื่องหัวใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Attack of the Hollywood Cliches (2021) มุกซ้ำขำซ้อนสไตล์ฮอลลีวูด",
-    "url": "https://lk-hdx.com/attack-of-the-hollywood-cliches-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Attack-of-the-Hollywood-Cliches-2021-มุกซ้ำขำซ้อนสไตล์ฮอลลีวูด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1054e3c907ddefc2ea0304da9f0aec75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1054e3c907ddefc2ea0304da9f0aec75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Attack-of-the-Hollywood-Cliches-2021-มุกซ้ำขำซ้อนสไตล์ฮอลลีวูด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "After We Fell (2021) อาฟเตอร์ วี เฟลล์",
-    "url": "https://lk-hdx.com/after-we-fell-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/After-We-Fell-2021-อาฟเตอร์-วี-เฟลล์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/YwChIzGW_3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/After-We-Fell-2021-อาฟเตอร์-วี-เฟลล์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Anonymously Yours (2021) รักไม่บอกชื่อ",
-    "url": "https://lk-hdx.com/anonymously-yours-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Anonymously-Yours-2021-รักไม่บอกชื่อ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0c80102ffef3a35512aa84292d75a299/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0c80102ffef3a35512aa84292d75a299"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Anonymously-Yours-2021-รักไม่บอกชื่อ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Autumn Girl (2021) ออทัมน์เกิร์ล",
-    "url": "https://lk-hdx.com/autumn-girl-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Autumn-Girl-2021-ออทัมน์เกิร์ล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/051fa852fb1e246ac07da5e1f146fb2b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/051fa852fb1e246ac07da5e1f146fb2b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Autumn-Girl-2021-ออทัมน์เกิร์ล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
-    "url": "https://lk-hdx.com/bhakshak-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/BHAKSHAK-2024-เปิดหน้ากากความจริง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/de036c2e2cd5f1922f07eb638ca5f325/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de036c2e2cd5f1922f07eb638ca5f325"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/BHAKSHAK-2024-เปิดหน้ากากความจริง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "After Everything (2023)",
-    "url": "https://lk-hdx.com/after-everything-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/After-Everything-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a3626fa564c644918188dd3eb5ca2d98/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a3626fa564c644918188dd3eb5ca2d98"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/After-Everything-2023-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Dragons Rescue Riders (2020) ทีมมังกรผู้พิทักษ์ วันหยุดฮัตส์เกเลอร์",
-    "url": "https://lk-hdx.com/dragons-rescue-riders-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dragons-Rescue-Riders-2020-ทีมมังกรผู้พิทักษ์-วันหยุดฮัตส์เกเลอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eb52e87baa6c55df8b084a3b721a38ab/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eb52e87baa6c55df8b084a3b721a38ab"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Dragons-Rescue-Riders-2020-ทีมมังกรผู้พิทักษ์-วันหยุดฮัตส์เกเลอร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Dasvi (2022) สอบจากคุก",
-    "url": "https://lk-hdx.com/dasvi-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Dasvi-2022-สอบจากคุก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_iUD_sKW5n"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Dasvi-2022-สอบจากคุก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
-    "url": "https://lk-hdx.com/orion-and-the-dark-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Orion-and-the-Dark-2024-โอไรออนท่องแดนมหัศจรรย์รัตติกาล-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b14ed2eedceb4dda3e55746819ec6826/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b14ed2eedceb4dda3e55746819ec6826"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Orion-and-the-Dark-2024-โอไรออนท่องแดนมหัศจรรย์รัตติกาล-165x248.jpeg",
+    "group": "Netflix"
   },
   {
     "title": "The Greatest Night in Pop (2024) คืนแห่งประวัติศาสตร์เพลงป๊อป",
-    "url": "https://lk-hdx.com/the-greatest-night-in-pop-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Greatest-Night-in-Pop-2024-คืนแห่งประวัติศาสตร์เพลงป๊อป-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/89592ca03e7ac64d8b0e7e3ae3dcd6bb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89592ca03e7ac64d8b0e7e3ae3dcd6bb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Greatest-Night-in-Pop-2024-คืนแห่งประวัติศาสตร์เพลงป๊อป-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช",
-    "url": "https://lk-hdx.com/sit-down-with-stand-up-udom-taephanich-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-ซิทดาวน์-วิท-สแตนด์อัพ-อุดม-แต้พานิช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ea8aaf2b137e2581eee955f4241535db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ea8aaf2b137e2581eee955f4241535db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-ซิทดาวน์-วิท-สแตนด์อัพ-อุดม-แต้พานิช-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Badland Hunters (2024) นักล่ากลางนรก",
-    "url": "https://lk-hdx.com/badland-hunters-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e3479807e04e4eb7e27d834e44d8591/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e3479807e04e4eb7e27d834e44d8591"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Last Days of American Crime (2020) ปล้นสั่งลา",
-    "url": "https://lk-hdx.com/the-last-days-of-american-crime-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Last-Days-of-American-Crime-2020-ปล้นสั่งลา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/22c62c6febdf104f51509c131deaf01b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/22c62c6febdf104f51509c131deaf01b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Last-Days-of-American-Crime-2020-ปล้นสั่งลา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Kitchen (2023) เดอะ คิทเช่น",
-    "url": "https://lk-hdx.com/the-kitchen-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Kitchen-2023-เดอะ-คิทเช่น-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/0_tTC2MkXs"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Kitchen-2023-เดอะ-คิทเช่น-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "60 Minuten (2024) 60 นาที",
-    "url": "https://lk-hdx.com/60-minuten-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/60-Minuten-2024-60-นาที-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/50216edb5a6c7b3da17d6048d09b829a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/50216edb5a6c7b3da17d6048d09b829a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/60-Minuten-2024-60-นาที-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Irishman (2019) คนใหญ่ไอริช",
-    "url": "https://lk-hdx.com/the-irishman-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Irishman-2019-คนใหญ่ไอริช-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4f65dbe939a954de524f72aef8ab135b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4f65dbe939a954de524f72aef8ab135b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Irishman-2019-คนใหญ่ไอริช-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Red Sea Diving Resort (2019) ปฏิบัติการแหวกทะเลแดง",
-    "url": "https://lk-hdx.com/the-red-sea-diving-resort-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Red-Sea-Diving-Resort-2019-ปฏิบัติการแหวกทะเลแดง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90d18d6d4576c6030c2c71509774c4d9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90d18d6d4576c6030c2c71509774c4d9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Red-Sea-Diving-Resort-2019-ปฏิบัติการแหวกทะเลแดง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Svaha The Sixth Finger (2019) สวาหะ ศรัทธามืด",
-    "url": "https://lk-hdx.com/svaha-the-sixth-finger-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Svaha-The-Sixth-Finger-2019-สวาหะ-ศรัทธามืด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aa5857ac27e551498094f90fefa253cc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aa5857ac27e551498094f90fefa253cc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Svaha-The-Sixth-Finger-2019-สวาหะ-ศรัทธามืด-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Bleach (2018) เทพมรณะ",
-    "url": "https://lk-hdx.com/bleach-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Bleach-2018-เทพมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6b683da27a440e98eedeac8366c42b0b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b683da27a440e98eedeac8366c42b0b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Bleach-2018-เทพมรณะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Whipped (2020) เปลี่ยนลายนายหงอ",
-    "url": "https://lk-hdx.com/whipped-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Whipped-2020-เปลี่ยนลายนายหงอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf6071b2abf8da0e9112761bd3bb00a5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf6071b2abf8da0e9112761bd3bb00a5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Whipped-2020-เปลี่ยนลายนายหงอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Social Dilemma (2020) ทุนนิยมสอดแนม ภัยแฝงเครือข่ายอัจฉริยะ",
-    "url": "https://lk-hdx.com/the-social-dilemma-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Social-Dilemma-2020-ทุนนิยมสอดแนม-ภัยแฝงเครือข่ายอัจฉริยะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ffc5d2b069305470b2815eeb02bbcde6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ffc5d2b069305470b2815eeb02bbcde6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Social-Dilemma-2020-ทุนนิยมสอดแนม-ภัยแฝงเครือข่ายอัจฉริยะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Think Like a Dog (2020) คู่คิดสี่ขา",
