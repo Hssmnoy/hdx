@@ -9485,153 +9485,441 @@
   },
   {
     "title": "Gekijouban Free The Movie 2 Timeless Medley (Yakusoku) (2017)",
-    "url": "https://lk-hdx.com/gekijouban-free-the-movie-2-timeless-medley-yakusoku-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Gekijouban-Free-The-Movie-2-Timeless-Medley-Yakusoku-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/92fc3c9178c00a1abe18ea2c2e851369/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/92fc3c9178c00a1abe18ea2c2e851369"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Gekijouban-Free-The-Movie-2-Timeless-Medley-Yakusoku-2017-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Gekijouban Free The Movie 1 Timeless Medley (Kizuna) (2017)",
-    "url": "https://lk-hdx.com/gekijouban-free-the-movie-1-timeless-medley-kizuna-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Gekijouban-Free-The-Movie-1-Timeless-Medley-Kizuna-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8fe7bb432562fdd67fca06390fcfb4d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8fe7bb432562fdd67fca06390fcfb4d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Gekijouban-Free-The-Movie-1-Timeless-Medley-Kizuna-2017-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Largo Winch 2 (2011) ยอดคนอันตรายล่าข้ามโลก ภาค 2",
-    "url": "https://lk-hdx.com/largo-winch-2-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Largo-Winch-2-2011-ยอดคนอันตรายล่าข้ามโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/530ce0b35142586d7b82ff0e3133bc3a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/530ce0b35142586d7b82ff0e3133bc3a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Largo-Winch-2-2011-ยอดคนอันตรายล่าข้ามโลก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Largo Winch 1 (2008) รหัสสังหารยอดคนเหนือเมฆ ภาค 1",
-    "url": "https://lk-hdx.com/largo-winch-1-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Largo-Winch-1-2008-รหัสสังหารยอดคนเหนือเมฆ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4fa358cf7bd16da203b20abfac429f5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4fa358cf7bd16da203b20abfac429f5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Largo-Winch-1-2008-รหัสสังหารยอดคนเหนือเมฆ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Figth Break Sphere 2 (2023) สัประยุทธ์ทะลุฟ้า ภาค 2",
-    "url": "https://lk-hdx.com/figth-break-sphere-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/82156b0923bc5b018e25c8a588a1524b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/82156b0923bc5b018e25c8a588a1524b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Forbidden Legend Sex And Chopsticks (2008) บทรักอมตะ",
-    "url": "https://lk-hdx.com/the-forbidden-legend-sex-and-chopsticks-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Forbidden-Legend-Sex-And-Chopsticks-2008-บทรักอมตะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d5c78b26b0f0244d6d6e41c18c552770/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5c78b26b0f0244d6d6e41c18c552770"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Forbidden-Legend-Sex-And-Chopsticks-2008-บทรักอมตะ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Rebel Moon Part One A Child of Fire (2023) บุตรแห่งเปลวไฟ",
-    "url": "https://lk-hdx.com/rebel-moon-part-one-a-child-of-fire-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Rebel-Moon-Part-One-A-Child-of-Fire-2023-บุตรแห่งเปลวไฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/efe373129e450b382bf589d025adb813/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/efe373129e450b382bf589d025adb813"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Rebel-Moon-Part-One-A-Child-of-Fire-2023-บุตรแห่งเปลวไฟ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Grown Ups 2 (2013) ขาใหญ่ วัยกลับ ภาค 2",
-    "url": "https://lk-hdx.com/grown-ups-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Grown-Ups-2-2013-ขาใหญ่-วัยกลับ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/97e930c6e4bb59e792e6afe8d171d69a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/97e930c6e4bb59e792e6afe8d171d69a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Grown-Ups-2-2013-ขาใหญ่-วัยกลับ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Grown Ups 1 (2010) ขาใหญ่ วัยกลับ ภาค 1",
-    "url": "https://lk-hdx.com/grown-ups-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Grown-Ups-1-2010-ขาใหญ่-วัยกลับ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4c0244a45d855b633f46bd710de15764/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4c0244a45d855b633f46bd710de15764"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Grown-Ups-1-2010-ขาใหญ่-วัยกลับ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Grave Encounters 2 (2012) คน ล่า ผี ภาค 2",
-    "url": "https://lk-hdx.com/grave-encounters-2-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Grave-Encounters-2-2012-คน-ล่า-ผี-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/668738b47c349434dc30618c5a72c990/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/668738b47c349434dc30618c5a72c990"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Grave-Encounters-2-2012-คน-ล่า-ผี-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Grave Encounters 1 (2011) คน ล่า ผี ภาค 1",
-    "url": "https://lk-hdx.com/grave-encounters-1-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Grave-Encounters-1-2011-คน-ล่า-ผี-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/FkzNLdg_gT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Grave-Encounters-1-2011-คน-ล่า-ผี-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ghost Rider 2 Spirit of Vengeance (2011) โกสต์ ไรเดอร์ อเวจีพิฆาต ภาค 2",
-    "url": "https://lk-hdx.com/ghost-rider-2-spirit-of-vengeance-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Rider-2-Spirit-of-Vengeance-2011-โกสต์-ไรเดอร์-อเวจีพิฆาต-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/G_AIZTs45a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Rider-2-Spirit-of-Vengeance-2011-โกสต์-ไรเดอร์-อเวจีพิฆาต-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ghost Rider 1 (2007) โกสต์ ไรเดอร์ มัจจุราชแห่งรัตติกาล ภาค 1",
-    "url": "https://lk-hdx.com/ghost-rider-1-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Rider-1-2007-โกสต์-ไรเดอร์-มัจจุราชแห่งรัตติกาล-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/694b77f3b017967bc729e2b5a1cb3289/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/694b77f3b017967bc729e2b5a1cb3289"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Ghost-Rider-1-2007-โกสต์-ไรเดอร์-มัจจุราชแห่งรัตติกาล-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Hating Peter Tatchell (2021) ปีเตอร์ แทตเชลล์ เป้าความเกลียดชัง",
-    "url": "https://lk-hdx.com/hating-peter-tatchell-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hating-Peter-Tatchell-2021-ปีเตอร์-แทตเชลล์-เป้าความเกลียดชัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0c000df757c9d24dbd7f5ee4eb44e8c3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0c000df757c9d24dbd7f5ee4eb44e8c3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Hating-Peter-Tatchell-2021-ปีเตอร์-แทตเชลล์-เป้าความเกลียดชัง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Rope Curse 3 (2023) เชือกอาถรรพ์ ภาค 3",
-    "url": "https://lk-hdx.com/the-rope-curse-3-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Rope-Curse-3-2023-เชือกอาถรรพ์-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/74d0938a136ecac3af3fa0255426f836/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74d0938a136ecac3af3fa0255426f836"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Rope-Curse-3-2023-เชือกอาถรรพ์-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Rope Curse 2 (2020) เชือกอาถรรพ์ ภาค 2",
-    "url": "https://lk-hdx.com/the-rope-curse-2-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Rope-Curse-2-2020-เชือกอาถรรพ์-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/736bbe6ea9db68bd8282aa3145340bf5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/736bbe6ea9db68bd8282aa3145340bf5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Rope-Curse-2-2020-เชือกอาถรรพ์-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Rope Curse 1 (2018) เชือกอาถรรพ์ ภาค 1",
-    "url": "https://lk-hdx.com/the-rope-curse-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Rope-Curse-1-2018-เชือกอาถรรพ์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15f9d61ab1c3301998e117e45974b129/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15f9d61ab1c3301998e117e45974b129"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Rope-Curse-1-2018-เชือกอาถรรพ์-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Taming of the Shrewd 2 (2023) ปราบร้ายด้วยรัก 2",
-    "url": "https://lk-hdx.com/the-taming-of-the-shrewd-2-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Taming-of-the-Shrewd-2-2023-ปราบร้ายด้วยรัก-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/417be22e1f71dc4a03582e84d5b592b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/417be22e1f71dc4a03582e84d5b592b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Taming-of-the-Shrewd-2-2023-ปราบร้ายด้วยรัก-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sundome 4 The Final (2009) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 4",
-    "url": "https://lk-hdx.com/sundome-4-the-final-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-4-The-Final-2009-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3061ef550aee9796e2ddc1c81c6f99cd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3061ef550aee9796e2ddc1c81c6f99cd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-4-The-Final-2009-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-4-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sundome 3 (2008) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 3",
-    "url": "https://lk-hdx.com/sundome-3-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-3-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/naV_hYrVvq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-3-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sundome 2 (2008) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 2",
-    "url": "https://lk-hdx.com/sundome-2-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-2-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/61a74f596da25af5c21429e1e9e47939/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/61a74f596da25af5c21429e1e9e47939"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-2-2008-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sundome 1 (2007) ป่วนน้องใหม่จี๊ดใจได้อีก ภาค 1",
-    "url": "https://lk-hdx.com/sundome-1-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-1-2007-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fadfa7fc8aed88dd987c9b5c083bb5f3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fadfa7fc8aed88dd987c9b5c083bb5f3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Sundome-1-2007-ป่วนน้องใหม่จี๊ดใจได้อีก-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Hostel 3 (2011) นรกรอชำแหละ ภาค 3",
-    "url": "https://lk-hdx.com/hostel-3-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hostel-3-2011-นรกรอชำแหละ-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/93ab9ebd4b8e10492aa180914533e30c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/93ab9ebd4b8e10492aa180914533e30c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Hostel-3-2011-นรกรอชำแหละ-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Hostel 2 (2007) นรกรอชำแหละ ภาค 2",
-    "url": "https://lk-hdx.com/hostel-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hostel-2-2007-นรกรอชำแหละ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5f0b6cf08166ff70e098179cc9d47e85/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f0b6cf08166ff70e098179cc9d47e85"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Hostel-2-2007-นรกรอชำแหละ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Hostel 1 (2005) นรกรอชำแหละ ภาค 1",
-    "url": "https://lk-hdx.com/hostel-1-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Hostel-1-2005-นรกรอชำแหละ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4f3c887df44c0b9dd343d8f152e826f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4f3c887df44c0b9dd343d8f152e826f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Hostel-1-2005-นรกรอชำแหละ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "I Spit On Your Grave 3 (2015) เดนนรก ต้องตาย ภาค 3",
-    "url": "https://lk-hdx.com/i-spit-on-your-grave-3-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/I-Spit-On-Your-Grave-3-2015-เดนนรก-ต้องตาย-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/330fdfad7cd52507fce5fcff7123efa3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/330fdfad7cd52507fce5fcff7123efa3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/I-Spit-On-Your-Grave-3-2015-เดนนรก-ต้องตาย-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "I Spit On Your Grave 2 (2013) เดนนรกต้องตาย ภาค 2",
-    "url": "https://lk-hdx.com/i-spit-on-your-grave-2-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/I-Spit-On-Your-Grave-2-2013-เดนนรกต้องตาย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/43521b485114d630bfb6736f6323752b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/43521b485114d630bfb6736f6323752b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/I-Spit-On-Your-Grave-2-2013-เดนนรกต้องตาย-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "I Spit On Your Grave 1 (2010) เดนนรกต้องตาย ภาค 1",
-    "url": "https://lk-hdx.com/i-spit-on-your-grave-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/I-Spit-On-Your-Grave-1-2010-เดนนรกต้องตาย-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/05d4f209958251f0ff72dc16e7aa967c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/05d4f209958251f0ff72dc16e7aa967c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/I-Spit-On-Your-Grave-1-2010-เดนนรกต้องตาย-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dolphin Tale 2 (2014) มหัศจรรย์โลมาหัวใจนักสู้ ภาค 2",
-    "url": "https://lk-hdx.com/dolphin-tale-2-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Dolphin-Tale-2-2014-มหัศจรรย์โลมาหัวใจนักสู้-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6af9cd7639c544b195220b03b2648ead/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6af9cd7639c544b195220b03b2648ead"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Dolphin-Tale-2-2014-มหัศจรรย์โลมาหัวใจนักสู้-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Dolphin Tale 1 (2011) มหัศจรรย์โลมาหัวใจนักสู้ ภาค 1",
-    "url": "https://lk-hdx.com/dolphin-tale-1-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Dolphin-Tale-1-2011-มหัศจรรย์โลมาหัวใจนักสู้-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f84d0302079356880af5b0daceaf2668/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f84d0302079356880af5b0daceaf2668"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Dolphin-Tale-1-2011-มหัศจรรย์โลมาหัวใจนักสู้-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fright Night 2 (2013) คืนนี้ผีมาตามนัด ภาค 2 ดุฝังเขี้ยว",
