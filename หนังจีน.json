@@ -2586,152 +2586,444 @@
   {
     "title": "หลังม่านเมฆ (2025) The Ranger",
     "url": "https://lk-hdx.com/the-ranger-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/หลังม่านเมฆ-2025-The-Ranger-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/หลังม่านเมฆ-2025-The-Ranger-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/45579e1a5ff3103d5d12bd23b71b6a41"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/45579e1a5ff3103d5d12bd23b71b6a41/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ยอดนักสืบจั่นเจา (2025) The Story Of Detective Zhan Zhao",
     "url": "https://lk-hdx.com/the-story-of-detective-zhan-zhao-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ยอดนักสืบจั่นเจา-2025-The-Story-Of-Detective-Zhan-Zhao-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ยอดนักสืบจั่นเจา-2025-The-Story-Of-Detective-Zhan-Zhao-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2f250599cd6a775d1bb664c73a78dccd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2f250599cd6a775d1bb664c73a78dccd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "เรื่องลึกลับหมู่บ้านหวงเมี่ยว (2023) Huang Miao Village s Tales of Mystery",
     "url": "https://lk-hdx.com/huang-miao-village-s-tales-of-mystery-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เรื่องลึกลับหมู่บ้านหวงเมี่ยว-2023-Huang-Miao-Village-s-Tales-of-Mystery-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เรื่องลึกลับหมู่บ้านหวงเมี่ยว-2023-Huang-Miao-Village-s-Tales-of-Mystery-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/eb6013cc1b579984b6241b1bb81487fd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/eb6013cc1b579984b6241b1bb81487fd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "หยินซานหมู่บ้านต้องสาป (2025) The Cursed Village",
     "url": "https://lk-hdx.com/the-cursed-village-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/หยินซานหมู่บ้านต้องสาป-2025-The-Cursed-Village-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/หยินซานหมู่บ้านต้องสาป-2025-The-Cursed-Village-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/035c961abf1cbf8885092547e7aba3cf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/035c961abf1cbf8885092547e7aba3cf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "เลือดยุติธรรม (2025) Bleed for Justice",
     "url": "https://lk-hdx.com/bleed-for-justice-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เลือดยุติธรรม-2025-Bleed-for-Justice-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เลือดยุติธรรม-2025-Bleed-for-Justice-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/136409acbef9a5eb85661f136eeb7411"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/136409acbef9a5eb85661f136eeb7411/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ตัวมัมประจำคุก (2024) Second Life",
     "url": "https://lk-hdx.com/second-life-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ตัวมัมประจำคุก-2024-Second-Life-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ตัวมัมประจำคุก-2024-Second-Life-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d7a9a6f82cc59ac6b791069510ce6ddc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d7a9a6f82cc59ac6b791069510ce6ddc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "สัตว์ประหลาดเนเมซิส (2025) Nemesis",
     "url": "https://lk-hdx.com/nemesis-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/สัตว์ประหลาดเนเมซิส-2025-Nemesis-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/สัตว์ประหลาดเนเมซิส-2025-Nemesis-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/1uLTE13T3_"
+      }
+    ]
   },
   {
     "title": "นักสู้กู้ภัย (2025) Red Blood Rescue",
     "url": "https://lk-hdx.com/red-blood-rescue-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/นักสู้กู้ภัย-2025-Red-Blood-Rescue-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/นักสู้กู้ภัย-2025-Red-Blood-Rescue-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/DKcg60y_mR"
+      }
+    ]
   },
   {
     "title": "นักล่าเสือ (2025) Beat the Tiger",
     "url": "https://lk-hdx.com/beat-the-tiger-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/นักล่าเสือ-2025-Beat-the-Tiger-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/นักล่าเสือ-2025-Beat-the-Tiger-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a8007ab9fa37157185bb5422845fe031"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a8007ab9fa37157185bb5422845fe031/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ล่าพยัคฆ์ (2025) The Hunt Down",
     "url": "https://lk-hdx.com/the-hunt-down-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ล่าพยัคฆ์-2025-The-Hunt-Down-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ล่าพยัคฆ์-2025-The-Hunt-Down-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b6adbb3e2a4ecbe18f89dfc0d8dbdbfd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b6adbb3e2a4ecbe18f89dfc0d8dbdbfd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Swordsmen (Wu Xia) (2011) นักฆ่าเทวดา แขนเดียว",
     "url": "https://lk-hdx.com/swordsmen-wu-xia-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Swordsmen-Wu-Xia-2011-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/Swordsmen-Wu-Xia-2011-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/2580b4a26114db937feed0f8f75609ea"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/2580b4a26114db937feed0f8f75609ea/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ราชาปีศาจหนู (2025) Evil Of The Rat",
     "url": "https://lk-hdx.com/evil-of-the-rat-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ราชาปีศาจหนู-2025-Evil-Of-The-Rat-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ราชาปีศาจหนู-2025-Evil-Of-The-Rat-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4c1b154c8a735bc8f5a8be74d1b6597b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4c1b154c8a735bc8f5a8be74d1b6597b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ปรมาจารย์สวรรค์อสูร (2025) The Savior Of The World",
     "url": "https://lk-hdx.com/the-savior-of-the-world-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ปรมาจารย์สวรรค์อสูร-2025-The-Savior-Of-The-World-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ปรมาจารย์สวรรค์อสูร-2025-The-Savior-Of-The-World-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4c1b154c8a735bc8f5a8be74d1b6597b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4c1b154c8a735bc8f5a8be74d1b6597b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "เรื่องเล่าขานตำนานชูหม่าเซียน (2025) Folk tales of Chu Maxian",
     "url": "https://lk-hdx.com/folk-tales-of-chu-maxian-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เรื่องเล่าขานตำนานชูหม่าเซียน-2025-Folk-tales-of-Chu-Maxian-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เรื่องเล่าขานตำนานชูหม่าเซียน-2025-Folk-tales-of-Chu-Maxian-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/05a65f69bf8dec895a77a0a810e5f6a9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/05a65f69bf8dec895a77a0a810e5f6a9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "พ่อปลอมปลอม (2025) Fake Dad",
     "url": "https://lk-hdx.com/fake-dad-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/พ่อปลอมปลอม-2025-Fake-Dad-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/พ่อปลอมปลอม-2025-Fake-Dad-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ceb1930928d45cc9c49ab6e8b7c55885"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ceb1930928d45cc9c49ab6e8b7c55885/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ท่านเซียน แห่งตงเป่ย (2025) Fortune Teller",
     "url": "https://lk-hdx.com/fortune-teller-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ท่านเซียน-แห่งตงเป่ย-2025-Fortune-Teller-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ท่านเซียน-แห่งตงเป่ย-2025-Fortune-Teller-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ccf72d9ef9974ecf4ed7a19354840e16"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ccf72d9ef9974ecf4ed7a19354840e16/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ผู้พิทักษ์สุสานฉินหลิง (2025) Guardian of Graveyard",
     "url": "https://lk-hdx.com/guardian-of-graveyard-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ผู้พิทักษ์สุสานฉินหลิง-2025-Guardian-of-Graveyard-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ผู้พิทักษ์สุสานฉินหลิง-2025-Guardian-of-Graveyard-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/38f86d6a5492299c067b9bc0c7abf902"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/38f86d6a5492299c067b9bc0c7abf902/master.m3u8"
+      }
+    ]
   },
   {
     "title": "กลไกฉีเหมิน (2025) Qimen Mechanism Volume",
     "url": "https://lk-hdx.com/qimen-mechanism-volume-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/กลไกฉีเหมิน-2025-Qimen-Mechanism-Volume-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/กลไกฉีเหมิน-2025-Qimen-Mechanism-Volume-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fda391f7862f74ca3d170657b7396f17"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fda391f7862f74ca3d170657b7396f17/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ตำนานเทพสวรรค์ (2023) League of Gods The Fall of Sheng",
     "url": "https://lk-hdx.com/league-of-gods-the-fall-of-sheng-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ตำนานเทพสวรรค์-2023-League-of-Gods-The-Fall-of-Sheng-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/ตำนานเทพสวรรค์-2023-League-of-Gods-The-Fall-of-Sheng-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9bbbcb9d56c8ba858b57568a6c11c037"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9bbbcb9d56c8ba858b57568a6c11c037/master.m3u8"
+      }
+    ]
   },
   {
     "title": "คนเล็กในโลกใหญ่ (2024) Big World",
     "url": "https://lk-hdx.com/big-world-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/คนเล็กในโลกใหญ่-2024-Big-World-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/คนเล็กในโลกใหญ่-2024-Big-World-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5b17a17dd33f38f8362928faa973171d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5b17a17dd33f38f8362928faa973171d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Customs Frontline (2024) คนมหากาฬพิฆาตนรก",
     "url": "https://lk-hdx.com/customs-frontline-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Customs-Frontline-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/Customs-Frontline-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/308ca4c37bfbe044863699d38b2b6b0c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/308ca4c37bfbe044863699d38b2b6b0c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Copper Skin and Iron Bones of Fang Shiyu (2021) ฟางซื่ออวี้ ยอดกังฟูกระดูกเหล็ก",
     "url": "https://lk-hdx.com/copper-skin-and-iron-bones-of-fang-shiyu-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Copper-Skin-and-Iron-Bones-of-Fang-Shiyu-2021-ฟางซื่ออวี้-ยอดกังฟูกระดูกเหล็ก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Copper-Skin-and-Iron-Bones-of-Fang-Shiyu-2021-ฟางซื่ออวี้-ยอดกังฟูกระดูกเหล็ก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f8959ddedc69f21ef033ac8c010a8bda"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f8959ddedc69f21ef033ac8c010a8bda/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Age of The Legend (2021) ไขกุญแจลับตำนานวีรบุรุษยอดนักสู้",
     "url": "https://lk-hdx.com/age-of-the-legend-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Age-of-The-Legend-2021-ไขกุญแจลับตำนานวีรบุรุษยอดนักสู้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Age-of-The-Legend-2021-ไขกุญแจลับตำนานวีรบุรุษยอดนักสู้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ec754b5d720730ade520dde8e3552b0a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ec754b5d720730ade520dde8e3552b0a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "คนเล็กเหยียบใหญ่ (1990) The Unmatchable Match",
     "url": "https://lk-hdx.com/the-unmatchable-match-1990/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/คนเล็กเหยียบใหญ่-1990-The-Unmatchable-Match-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/คนเล็กเหยียบใหญ่-1990-The-Unmatchable-Match-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0c11f94e9978ae149e8fc38d557e28b9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0c11f94e9978ae149e8fc38d557e28b9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Lord of The Monsters (2024) ประกาศิตเทพปีศาจ",
     "url": "https://lk-hdx.com/the-lord-of-the-monsters-2024-%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b8%b4%e0%b8%95%e0%b9%80%e0%b8%97%e0%b8%9e%e0%b8%9b%e0%b8%b5%e0%b8%a8%e0%b8%b2%e0%b8%88/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-ประกาศิตเทพปีศาจ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-ประกาศิตเทพปีศาจ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/49353199a014f0063e63afac02769e15"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/49353199a014f0063e63afac02769e15/master.m3u8"
+      }
+    ]
   },
   {
     "title": "มหายุทธหยุดพิภพ ภาค 2 (2021) Martial Universe 2 Nine Talisman Tower",
     "url": "https://lk-hdx.com/martial-universe-2-nine-talisman-tower-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มหายุทธหยุดพิภพ-ภาค-2-2021-Martial-Universe-2-Nine-Talisman-Tower-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มหายุทธหยุดพิภพ-ภาค-2-2021-Martial-Universe-2-Nine-Talisman-Tower-165x248.webp",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/eabfd73b0f5e71f50acf7c116490dc2d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/eabfd73b0f5e71f50acf7c116490dc2d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "มหายุทธหยุดพิภพ ภาค 1 (2020) Martial Universe 1 Immortal Stone of Nirvana",
     "url": "https://lk-hdx.com/martial-universe-1-immortal-stone-of-nirvana-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มหายุทธหยุดพิภพ-ภาค-1-2020-Martial-Universe-1-Immortal-Stone-of-Nirvana-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/มหายุทธหยุดพิภพ-ภาค-1-2020-Martial-Universe-1-Immortal-Stone-of-Nirvana-165x248.webp",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1a8de8f450e2076bfd9c85e5cbab98d4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1a8de8f450e2076bfd9c85e5cbab98d4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Eye for an Eye 2 (2024) ยอดกระบี่ไร้เทียมทาน ภาค 2",
     "url": "https://lk-hdx.com/eye-for-an-eye-2-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Eye-for-an-Eye-2-2024-ยอดกระบี่ไร้เทียมทาน-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Eye-for-an-Eye-2-2024-ยอดกระบี่ไร้เทียมทาน-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6149167512b798fc69963dbfd85abe80"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6149167512b798fc69963dbfd85abe80/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Eye for an Eye (2022) ยอดกระบี่ไร้เทียมทาน ภาค 1",
     "url": "https://lk-hdx.com/eye-for-an-eye-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Eye-for-an-Eye-2022-ยอดกระบี่ไร้เทียมทาน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Eye-for-an-Eye-2022-ยอดกระบี่ไร้เทียมทาน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8c9142a6ec516b621220751836e7bed8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8c9142a6ec516b621220751836e7bed8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "เดอะบอดี้การ์ด (2024) The Body Guard",
     "url": "https://lk-hdx.com/the-body-guard-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เดอะบอดี้การ์ด-2024-The-Body-Guard-165x248.webp"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/เดอะบอดี้การ์ด-2024-The-Body-Guard-165x248.webp",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/82206155bbaa42985446688c00afb458"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/82206155bbaa42985446688c00afb458/master.m3u8"
+      }
+    ]
   },
   {
     "title": "ซุนหงอคง ราชาวานร (2024) Monkey King fights Lion Camel",
