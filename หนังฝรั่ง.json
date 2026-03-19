@@ -18918,152 +18918,432 @@
   {
     "title": "Non Negotiable (2024) เจรจาท้ารัก",
     "url": "https://lk-hdx.com/non-negotiable-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Non-Negotiable-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Non-Negotiable-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/239b20c4a998350191a8c12f8e6a46c1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/239b20c4a998350191a8c12f8e6a46c1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "House of Ga’a (2024) บัลลังก์แห่งกาอา",
     "url": "https://lk-hdx.com/house-of-gaa-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/House-of-Gaa-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/House-of-Gaa-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/33fc1d30f2d49940e61c2a268467939c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/33fc1d30f2d49940e61c2a268467939c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hotel for Dogs (2009) โรงแรมสี่ขาก๊วนหมาจอมกวน",
     "url": "https://lk-hdx.com/hotel-for-dogs-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Hotel-for-Dogs-2009-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Hotel-for-Dogs-2009-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/372813e950997fca80d17091c867f10a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/372813e950997fca80d17091c867f10a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "St.Vincent (2014) มนุษย์ลุงวินเซนต์ แก่กายแต่ใจเฟี้ยว",
     "url": "https://lk-hdx.com/st-vincent-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/St.Vincent-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/St.Vincent-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/851a25e7dd651bb7230a4d9065ba1344"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/851a25e7dd651bb7230a4d9065ba1344/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Damsel (2024) ดรุณีผู้พิชิต",
     "url": "https://lk-hdx.com/damsel-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Damsel-2024-ดรุณีผู้พิชิต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/03/Damsel-2024-ดรุณีผู้พิชิต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7eec42baa49f5bf6e36e26c1a9d91d4a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7eec42baa49f5bf6e36e26c1a9d91d4a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Species 4 The Awakening (2007) สปีชี่ส์ ภาค 4 สายพันธุ์มฤตยู ปลุกชีพพันธุ์นรก",
     "url": "https://lk-hdx.com/species-4-the-awakening-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Species-4-The-Awakening-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Species-4-The-Awakening-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/70e5a6549263a65b838fa6364ec0e836"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/70e5a6549263a65b838fa6364ec0e836/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Species 3 (2004) สปีชี่ส์ ภาค 3 สายพันธุ์มฤตยู กำเนิดใหม่พันธุ์นรก",
     "url": "https://lk-hdx.com/species-3-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Species-3-2004-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Species-3-2004-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/592d69f712989d916fe2f9466db66330"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/592d69f712989d916fe2f9466db66330/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Species 2 (1998) สปีชี่ส์ ภาค 2 สายพันธุ์มฤตยู แพร่พันธุ์นรก",
     "url": "https://lk-hdx.com/species-2-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Species-2-1998-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Species-2-1998-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9b8041435408211b6742d9a2c94ee1d2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9b8041435408211b6742d9a2c94ee1d2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Species 1 (1995) สปีชี่ส์ ภาค 1 สายพันธุ์มฤตยู สวยสูบนรก",
     "url": "https://lk-hdx.com/species-1-1995/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Species-1-1995-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Species-1-1995-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0b01045423c92a824c54c5c4ef9beb85"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0b01045423c92a824c54c5c4ef9beb85/master.m3u8"
+      }
+    ]
   },
   {
     "title": "One Day (2011) วันเดียว วันนั้น วันของเรา",
     "url": "https://lk-hdx.com/one-day-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/One-Day-2011-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/One-Day-2011-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/gV0_yk6dF2"
+      }
+    ]
   },
   {
     "title": "Before Dawn (2024) ก่อนรุ่งสาง",
     "url": "https://lk-hdx.com/before-dawn-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Before-Dawn-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Before-Dawn-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4e65dabbebe0a038ac2f10789999a7ca"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4e65dabbebe0a038ac2f10789999a7ca/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Green Mile (1999) ปาฏิหาริย์แดนประหาร",
     "url": "https://lk-hdx.com/the-green-mile-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Green-Mile-1999-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Green-Mile-1999-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fa5a79b03decf8b7d4e50334974535db"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fa5a79b03decf8b7d4e50334974535db/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Christopher Robin (2018) คริสโตเฟอร์ โรบิน",
     "url": "https://lk-hdx.com/christopher-robin-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Christopher-Robin-2018-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Christopher-Robin-2018-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/67a1dc207cb6f93e2912230900213647"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/67a1dc207cb6f93e2912230900213647/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Matrix 4 Resurrections (2021) เดอะ เมทริกซ์ เรเซอเร็คชั่นส์ ภาค 4",
     "url": "https://lk-hdx.com/the-matrix-4-resurrections-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-4-Resurrections-2021-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-4-Resurrections-2021-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c2aa38e1c37865c81ced8b37264072ce"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c2aa38e1c37865c81ced8b37264072ce/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Matrix 3 Revolutions (2003) เดอะ เมทริกซ์ ภาค 3 เรฟเวอลูชั่น ปฏิวัติมนุษย์เหนือโลก",
     "url": "https://lk-hdx.com/the-matrix-3-revolutions-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-3-Revolutions-2003-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-3-Revolutions-2003-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/691b90e7077cc6d3cf3eef4018f00a5e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/691b90e7077cc6d3cf3eef4018f00a5e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Matrix 2 Reloaded (2003) เดอะ เมทริกซ์ ภาค 2 สงครามมนุษย์เหนือโลก",
     "url": "https://lk-hdx.com/the-matrix-2-reloaded-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-2-Reloaded-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-2-Reloaded-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/y_fJsHEwM3"
+      }
+    ]
   },
   {
     "title": "The Matrix 1 (1999) เดอะ เมทริกซ์ ภาค 1 เพาะพันธุ์มนุษย์เหนือโลก",
     "url": "https://lk-hdx.com/the-matrix-1-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-1-1999-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Matrix-1-1999-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/xHGuh18Fe_"
+      }
+    ]
   },
   {
     "title": "Bridge To Terabithia (2007) ทิราบิเตีย สะพานมหัศจรรย์",
     "url": "https://lk-hdx.com/bridge-to-terabithia-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Bridge-To-Terabithia-2007-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Bridge-To-Terabithia-2007-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/328e758ec902e07c426b3bd76c675147"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/328e758ec902e07c426b3bd76c675147/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Illusionist (2006) มายากลเขย่าบัลลังก์",
     "url": "https://lk-hdx.com/the-illusionist-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Illusionist-2006-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/The-Illusionist-2006-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_Jptz2Dlvk"
+      }
+    ]
   },
   {
     "title": "The Duke (2020) โจรเก๋า หัวใจไม่เก่า",
     "url": "https://lk-hdx.com/the-duke-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Duke-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Duke-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d05ec0ae61bba9780d304fee9bc66dd0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d05ec0ae61bba9780d304fee9bc66dd0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "My Spy the Eternal City (2024) พยัตฆ์ร้าย สปายแสบ คู่ป่วนตะลุยเมืองศักดิ์สิทธิ์",
     "url": "https://lk-hdx.com/my-spy-the-eternal-city-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Spy-the-Eternal-City-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/My-Spy-the-Eternal-City-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0a4168cbf480c6e93c7dfd5e647378b6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0a4168cbf480c6e93c7dfd5e647378b6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Punisher War Zone 2 (2008) เพชฌฆาตมหากาฬ ภาค 2",
     "url": "https://lk-hdx.com/punisher-war-zone-2-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Punisher-War-Zone-2-2008-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Punisher-War-Zone-2-2008-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/965ea89a604e3f00f29f8959bb64d332"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/965ea89a604e3f00f29f8959bb64d332/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Punisher (2004) เพชฌฆาตมหากาฬ ภาค 1",
     "url": "https://lk-hdx.com/the-punisher-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Punisher-2004-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Punisher-2004-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/68e062ddc67bb5b2993c622f59f69214"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/68e062ddc67bb5b2993c622f59f69214/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I Am Sam (2001) สุภาพบุรุษปัญญานิ่ม",
     "url": "https://lk-hdx.com/i-am-sam-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/I-Am-Sam-2001-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/I-Am-Sam-2001-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f21a8c3008557badc1fec24fe61cfb90"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f21a8c3008557badc1fec24fe61cfb90/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Sex-Positive (2024) เซ็กส์ พอสซิทีฟ",
     "url": "https://lk-hdx.com/sex-positive-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Sex-Positive-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Sex-Positive-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3f46b9c2543ad6e141bdf198f390aa95"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3f46b9c2543ad6e141bdf198f390aa95/master.m3u8"
+      }
+    ]
   },
   {
     "title": "2 Guns (2013) ดวล ปล้น สนั่นเมือง",
     "url": "https://lk-hdx.com/2-guns-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/2-GUNS-2013-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/2-GUNS-2013-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/c2fo_3Vty0"
+      }
+    ]
   },
   {
     "title": "The Rock (1996) ยึดนรกป้อมทมิฬ",
     "url": "https://lk-hdx.com/the-rock-1996/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Rock-1996-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Rock-1996-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e31ae4b06669b4af0a920c5ccc20f6b4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e31ae4b06669b4af0a920c5ccc20f6b4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Pianist (2002) สงคราม ความหวัง บัลลังก์เกียรติยศ",
     "url": "https://lk-hdx.com/the-pianist-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/THE-PIANIST-2002-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/THE-PIANIST-2002-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/55d2bd529e197883163f9e2ae2b06713"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/55d2bd529e197883163f9e2ae2b06713/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Behind Enemy Lines (2001) แหกมฤตยูแดนข้าศึก",
     "url": "https://lk-hdx.com/behind-enemy-lines-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Behind-Enemy-Lines-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Behind-Enemy-Lines-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8bd13b65c92922a22fda1cdb8073aecf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8bd13b65c92922a22fda1cdb8073aecf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Skywalkers A Love Story (2024) คู่รักนักไต่ฟ้า",
     "url": "https://lk-hdx.com/skywalkers-a-love-story-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Skywalkers-A-Love-Story-2024-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Skywalkers-A-Love-Story-2024-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ce3bfd225cdf0cab5a0268ed8450c9a7"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ce3bfd225cdf0cab5a0268ed8450c9a7/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Find Me Falling (2024) ล้มลุกแล้วเจอรัก",
