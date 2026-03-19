@@ -14701,153 +14701,441 @@
   },
   {
     "title": "Eureka Seven Hi Evolution 2 Anemone (2018) ยูเรก้า เซเว่น ไฮเอโวลูชั่น ภาค 2",
-    "url": "https://lk-hdx.com/eureka-seven-hi-evolution-2-anemone-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Eureka-Seven-Hi-Evolution-2-Anemone-2018-ยูเรก้า-เซเว่น-ไฮเอโวลูชั่น-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/HrX4Ux8_0L"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Eureka-Seven-Hi-Evolution-2-Anemone-2018-ยูเรก้า-เซเว่น-ไฮเอโวลูชั่น-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Eureka Seven Hi Evolution 1 (2017) ยูเรก้า เซเว่น ไฮเอโวลูชั่น ภาค 1",
-    "url": "https://lk-hdx.com/eureka-seven-hi-evolution-1-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Eureka-Seven-Hi-Evolution-1-2017-ยูเรก้า-เซเว่น-ไฮเอโวลูชั่น-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/14e6ca56a1c151da43db8fd3a8945f34/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/14e6ca56a1c151da43db8fd3a8945f34"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Eureka-Seven-Hi-Evolution-1-2017-ยูเรก้า-เซเว่น-ไฮเอโวลูชั่น-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sing 2 (2021) ร้องจริง เสียงจริง ภาค 2",
-    "url": "https://lk-hdx.com/sing-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-2-2021-ร้องจริง-เสียงจริง-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d820408ceba0efbfb0a6a39deec4b229/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d820408ceba0efbfb0a6a39deec4b229"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-2-2021-ร้องจริง-เสียงจริง-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sing 1 (2016) ร้องจริง เสียงจริง ภาค 1",
-    "url": "https://lk-hdx.com/sing-1-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-1-2016-ร้องจริง-เสียงจริง-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0fd899590e7d202425cc6db219b0782e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0fd899590e7d202425cc6db219b0782e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sing-1-2016-ร้องจริง-เสียงจริง-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Addams Family 2 (2021) ตระกูลนี้ผียังหลบ ภาค 2",
-    "url": "https://lk-hdx.com/the-addams-family-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Addams-Family-2-2021-ตระกูลนี้ผียังหลบ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/J4nzzD_E93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Addams-Family-2-2021-ตระกูลนี้ผียังหลบ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Addams Family 1 (2019) ตระกูลนี้ผียังหลบ ภาค 1",
-    "url": "https://lk-hdx.com/the-addams-family-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Addams-Family-1-2019-ตระกูลนี้ผียังหลบ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/70ae2d1a680d49885d224113215538ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/70ae2d1a680d49885d224113215538ca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Addams-Family-1-2019-ตระกูลนี้ผียังหลบ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Fable 2 The Killer Who Doesnt Kill (2021) โหดไม่ถามชื่อ ภาค 2",
-    "url": "https://lk-hdx.com/the-fable-2-the-killer-who-doesnt-kill-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-2-The-Killer-Who-Doesnt-Kill-2021-โหดไม่ถามชื่อ-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dd53f8716e7a5ab3378ebcda12934a8e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dd53f8716e7a5ab3378ebcda12934a8e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-2-The-Killer-Who-Doesnt-Kill-2021-โหดไม่ถามชื่อ-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Fable 1 (2019) โหดไม่ถามชื่อ ภาค 1",
-    "url": "https://lk-hdx.com/the-fable-1-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-1-2019-โหดไม่ถามชื่อ-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/236ac837421ff3fa4f808e3f636b4c92/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/236ac837421ff3fa4f808e3f636b4c92"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Fable-1-2019-โหดไม่ถามชื่อ-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hitman’s Bodyguard (2017) แสบ ซ่าส์ แบบว่าบอดี้การ์ด ภาค 1",
-    "url": "https://lk-hdx.com/the-hitmans-bodyguard-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hitmans-Bodyguard-2017-แสบ-ซ่าส์-แบบว่าบอดี้การ์ด-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/53be7570fac9dfae7897b92468ae27ad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/53be7570fac9dfae7897b92468ae27ad"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hitmans-Bodyguard-2017-แสบ-ซ่าส์-แบบว่าบอดี้การ์ด-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Nobody Sleeps in the Woods Tonight 2 (2021) คืนผวาป่าไร้เงา 2",
-    "url": "https://lk-hdx.com/nobody-sleeps-in-the-woods-tonight-2-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-in-the-Woods-Tonight-2-2021-คืนผวาป่าไร้เงา-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c2b18e2e626417352381494602b6559d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2b18e2e626417352381494602b6559d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-in-the-Woods-Tonight-2-2021-คืนผวาป่าไร้เงา-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Nobody Sleeps In The Woods Tonight 1 (2020) คืนผวาป่าไร้เงา ภาค 1",
-    "url": "https://lk-hdx.com/nobody-sleeps-in-the-woods-tonight-1-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-In-The-Woods-Tonight-1-2020-คืนผวาป่าไร้เงา-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3d61fea6d4f641dfcdc5adffd0434aa8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d61fea6d4f641dfcdc5adffd0434aa8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nobody-Sleeps-In-The-Woods-Tonight-1-2020-คืนผวาป่าไร้เงา-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Still Out of My League (2021) รักสุดเอื้อม ภาค 2",
-    "url": "https://lk-hdx.com/still-out-of-my-league-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-Out-of-My-League-2021-รักสุดเอื้อม-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5190a18a4ae0af669a8ecc6f8a5ca78e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5190a18a4ae0af669a8ecc6f8a5ca78e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-Out-of-My-League-2021-รักสุดเอื้อม-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Out Of My League (2020) รักสุดเอื้อม ภาค 1",
-    "url": "https://lk-hdx.com/out-of-my-league-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Out-Of-My-League-2020-รักสุดเอื้อม-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2c0de0aad662095fdda70b420a3f242a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c0de0aad662095fdda70b420a3f242a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Out-Of-My-League-2020-รักสุดเอื้อม-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Still 2 (2014) ตายโหง ภาค 2 ตายเฮี้ยน",
-    "url": "https://lk-hdx.com/still-2-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-2-2014-ตายโหง-ภาค-2-ตายเฮี้ยน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/185fe81d709b28b1aa442d1fc40f014f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/185fe81d709b28b1aa442d1fc40f014f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-2-2014-ตายโหง-ภาค-2-ตายเฮี้ยน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Still 1 (2010) ตายโหง ภาค 1",
-    "url": "https://lk-hdx.com/still-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-1-2010-ตายโหง-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dfec7fcc06ee465c0be57f7746bc19e5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dfec7fcc06ee465c0be57f7746bc19e5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Still-1-2010-ตายโหง-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sin Sisters 2 (2010) ผู้หญิง 5 บาป ภาค 2",
-    "url": "https://lk-hdx.com/sin-sisters-2-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-2-2010-ผู้หญิง-5-บาป-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8d79138e5f80ab09932c2c7949141461/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8d79138e5f80ab09932c2c7949141461"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-2-2010-ผู้หญิง-5-บาป-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Sin Sisters 1 (2002) ผู้หญิง 5 บาป ภาค 1",
-    "url": "https://lk-hdx.com/sin-sisters-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-1-2002-ผู้หญิง-5-บาป-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6e90169645524c97d3702d9f4d8c282/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6e90169645524c97d3702d9f4d8c282"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-1-2002-ผู้หญิง-5-บาป-ภาค-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ghostbusters Afterlife (2021) โกสต์บัสเตอร์ ปลุกพลังล่าท้าผี",
-    "url": "https://lk-hdx.com/ghostbusters-afterlife-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Ghostbusters-Afterlife-2021-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/16b51afba502c9123c40d266cedad007/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/16b51afba502c9123c40d266cedad007"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Ghostbusters-Afterlife-2021-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ivy & Bean Doomed to Dance (2022) ไอวี่และบีน บัลเล่ต์จำเป็น",
-    "url": "https://lk-hdx.com/ivy-bean-doomed-to-dance-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-Doomed-to-Dance-2022-ไอวี่และบีน-บัลเล่ต์จำเป็น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/466dd66923de04b646ee92f914b2142e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/466dd66923de04b646ee92f914b2142e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-Doomed-to-Dance-2022-ไอวี่และบีน-บัลเล่ต์จำเป็น-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ivy & Bean The Ghost That Had to Go (2022) ไอวี่และบีน ผีในห้องน้ำ",
-    "url": "https://lk-hdx.com/ivy-bean-the-ghost-that-had-to-go-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-The-Ghost-That-Had-to-Go-2022-ไอวี่และบีน-ผีในห้องน้ำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58184a94f1cbd6413183019a81a767ae/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58184a94f1cbd6413183019a81a767ae"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-The-Ghost-That-Had-to-Go-2022-ไอวี่และบีน-ผีในห้องน้ำ-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ivy & Bean (2022) ไอวี่และบีน",
-    "url": "https://lk-hdx.com/ivy-bean-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-2022-ไอวี่และบีน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2dd333b593068c806b20ab30f952ca56/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2dd333b593068c806b20ab30f952ca56"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ivy-Bean-2022-ไอวี่และบีน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Ice Age Adventures of Buck Wild (2022) ไอซ์ เอจ ภาค 6 การผจญภัยของบั๊คไวด์",
-    "url": "https://lk-hdx.com/the-ice-age-adventures-of-buck-wild-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Ice-Age-Adventures-of-Buck-Wild-2022-ไอซ์-เอจ-ภาค-6-การผจญภัยของบั๊คไวด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bdddf21234e3dbe0b8fdf1e40c53416e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bdddf21234e3dbe0b8fdf1e40c53416e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Ice-Age-Adventures-of-Buck-Wild-2022-ไอซ์-เอจ-ภาค-6-การผจญภัยของบั๊คไวด์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ice Age 5 Collision Course (2016) ไอซ์ เอจ ภาค 5 ผจญอุกกาบาตสุดอลเวง",
-    "url": "https://lk-hdx.com/ice-age-5-collision-course-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-5-Collision-Course-2016-ไอซ์-เอจ-ภาค-5-ผจญอุกกาบาตสุดอลเวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cfe4db86cb5d87a51fc077633318a0a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cfe4db86cb5d87a51fc077633318a0a3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-5-Collision-Course-2016-ไอซ์-เอจ-ภาค-5-ผจญอุกกาบาตสุดอลเวง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ice Age 4 Continental Drift (2012) ไอซ์ เอจ ภาค 4 กำเนิดแผ่นดินใหม่",
-    "url": "https://lk-hdx.com/ice-age-4-continental-drift-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-4-Continental-Drift-2012-ไอซ์-เอจ-ภาค-4-กำเนิดแผ่นดินใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/40f6939da6a4968a58ba8908111a2e77/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40f6939da6a4968a58ba8908111a2e77"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-4-Continental-Drift-2012-ไอซ์-เอจ-ภาค-4-กำเนิดแผ่นดินใหม่-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ice Age 3 Dawn Of The Dinosaurs (2009) ไอซ์ เอจ ภาค 3 จ๊ะเอ๋ไดโนเสาร์",
-    "url": "https://lk-hdx.com/ice-age-3-dawn-of-the-dinosaurs-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-3-Dawn-Of-The-Dinosaurs-2009-ไอซ์-เอจ-ภาค-3-จ๊ะเอ๋ไดโนเสาร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c2586cb79dac7014293d78e0d06cf6b4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2586cb79dac7014293d78e0d06cf6b4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-3-Dawn-Of-The-Dinosaurs-2009-ไอซ์-เอจ-ภาค-3-จ๊ะเอ๋ไดโนเสาร์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ice Age 2 The Meltdown (2006) ไอซ์ เอจ ภาค 2 เจาะยุคน้ำแข็งมหัศจรรย์",
-    "url": "https://lk-hdx.com/ice-age-2-the-meltdown-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-2-The-Meltdown-2006-ไอซ์-เอจ-ภาค-2-เจาะยุคน้ำแข็งมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bf2147bd8b5a9612d8841e8ccd805f0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bf2147bd8b5a9612d8841e8ccd805f0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-2-The-Meltdown-2006-ไอซ์-เอจ-ภาค-2-เจาะยุคน้ำแข็งมหัศจรรย์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Ice Age 1 (2002) ไอซ์ เอจ ภาค 1 เจาะยุคน้ำแข็งมหัศจรรย์",
-    "url": "https://lk-hdx.com/ice-age-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-1-2002-ไอซ์-เอจ-ภาค-1-เจาะยุคน้ำแข็งมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/15966476c92493fd079db52969466625/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15966476c92493fd079db52969466625"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Ice-Age-1-2002-ไอซ์-เอจ-ภาค-1-เจาะยุคน้ำแข็งมหัศจรรย์-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Squared Love (2021) ความรักกำลังสอง",
-    "url": "https://lk-hdx.com/squared-love-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Squared-Love-2021-ความรักกำลังสอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/xRste_uxRU"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Squared-Love-2021-ความรักกำลังสอง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Squared Love All Over Again (2023) รักกำลังสอง (อีกแล้ว)",
-    "url": "https://lk-hdx.com/squared-love-all-over-again-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Squared-Love-All-Over-Again-2023-รักกำลังสอง-อีกแล้ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2293221a271bf3ee94ae01a141107ef1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2293221a271bf3ee94ae01a141107ef1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Squared-Love-All-Over-Again-2023-รักกำลังสอง-อีกแล้ว-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Rogue One A Star Wars Story (2016) โร้ค วัน ตำนานสตาร์วอร์ส",
-    "url": "https://lk-hdx.com/rogue-one-a-star-wars-story-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Rogue-One-A-Star-Wars-Story-2016-โร้ค-วัน-ตำนานสตาร์วอร์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/56b2227368a376869d96c0a14046d616/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/56b2227368a376869d96c0a14046d616"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Rogue-One-A-Star-Wars-Story-2016-โร้ค-วัน-ตำนานสตาร์วอร์ส-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Star Wars Episode 9 The Rise of Skywalker (2019) สตาร์วอร์ส เอพพิโซด 9 กำเนิดใหม่สกายวอล์คเกอร์",
