@@ -48238,152 +48238,416 @@
   {
     "title": "Above Suspicion (2019) ระอุรัก ระห่ำชีวิต",
     "url": "https://lk-hdx.com/above-suspicion-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Above-Suspicion-2019-ระอุรัก-ระห่ำชีวิต-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Above-Suspicion-2019-ระอุรัก-ระห่ำชีวิต-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/k7V_hgUSkQ"
+      }
+    ]
   },
   {
     "title": "Capone (2020) เจ้าพ่อมาเฟีย อัล คาโปน",
     "url": "https://lk-hdx.com/capone-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Capone-2020-เจ้าพ่อมาเฟีย-อัล-คาโปน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Capone-2020-เจ้าพ่อมาเฟีย-อัล-คาโปน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/33370214d3b8d5b2682cb8a40183dd3a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/33370214d3b8d5b2682cb8a40183dd3a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Doctor Who The Star Beast (2023)",
     "url": "https://lk-hdx.com/doctor-who-the-star-beast-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Doctor-Who-The-Star-Beast-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Doctor-Who-The-Star-Beast-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/bf2a111a9e4c22c193e724166f83f2aa"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/bf2a111a9e4c22c193e724166f83f2aa/master.m3u8"
+      }
+    ]
   },
   {
     "title": "American Symphony (2023) อเทริกัน ซิมโฟนี",
     "url": "https://lk-hdx.com/american-symphony-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/American-Symphony-2023-อเทริกัน-ซิมโฟนี-165x248.jpeg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/American-Symphony-2023-อเทริกัน-ซิมโฟนี-165x248.jpeg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fcb6654090cfcdded0be746fc1f705cf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fcb6654090cfcdded0be746fc1f705cf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Evil Hunter (2023) ล่าอาชญากร",
     "url": "https://lk-hdx.com/evil-hunter-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Evil-Hunter-2023-ล่าอาชญากร-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Evil-Hunter-2023-ล่าอาชญากร-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3a0e55eb8ac5c75fa2819d4f2758963a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3a0e55eb8ac5c75fa2819d4f2758963a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Shooting Stars (2023)",
     "url": "https://lk-hdx.com/shooting-stars-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Shooting-Stars-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Shooting-Stars-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c8d23736daf40cb472ddcad24594ac29"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c8d23736daf40cb472ddcad24594ac29/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Friend Request (2016) ผีแอดเพื่อน",
     "url": "https://lk-hdx.com/friend-request-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Friend-Request-2016-ผีแอดเพื่อน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Friend-Request-2016-ผีแอดเพื่อน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/804b0ec33f5273e1b6ce95e131be41ee"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/804b0ec33f5273e1b6ce95e131be41ee/master.m3u8"
+      }
+    ]
   },
   {
     "title": "London Has Fallen (2016) ผ่ายุทธการถล่มลอนดอน",
     "url": "https://lk-hdx.com/london-has-fallen-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3bd74066c51ed42aa770e930f09336fd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3bd74066c51ed42aa770e930f09336fd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Kill Switch (2017) วันหายนะพลิกโลก",
     "url": "https://lk-hdx.com/kill-switch-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Kill-Switch-2017-วันหายนะพลิกโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Kill-Switch-2017-วันหายนะพลิกโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_xzu5uqmuk"
+      }
+    ]
   },
   {
     "title": "Keep Watching (2017) ห้ามออกจากบ้าน",
     "url": "https://lk-hdx.com/keep-watching-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Keep-Watching-2017-ห้ามออกจากบ้าน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Keep-Watching-2017-ห้ามออกจากบ้าน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/82fa3126eaf9b2093f8ec4fd67c965c9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/82fa3126eaf9b2093f8ec4fd67c965c9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Kidnap (2017) ล่าหยุดนรก",
     "url": "https://lk-hdx.com/kidnap-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Kidnap-2017-ล่าหยุดนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Kidnap-2017-ล่าหยุดนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ef221ac127ae3393e1d5afa362220c47"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ef221ac127ae3393e1d5afa362220c47/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Habit (2017) รักซ่อนร้าย",
     "url": "https://lk-hdx.com/habit-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Habit-2017-รักซ่อนร้าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Habit-2017-รักซ่อนร้าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/xJDjmU_ukh"
+      }
+    ]
   },
   {
     "title": "Future World (2018) สงครามล่าคนเหล็ก",
     "url": "https://lk-hdx.com/future-world-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Future-World-2018-สงครามล่าคนเหล็ก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Future-World-2018-สงครามล่าคนเหล็ก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Qy3d_sldCN"
+      }
+    ]
   },
   {
     "title": "Every Day (2018) ทุกวัน เปลี่ยนร่าง รักเธอ",
     "url": "https://lk-hdx.com/every-day-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Every-Day-2018-ทุกวัน-เปลี่ยนร่าง-รักเธอ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Every-Day-2018-ทุกวัน-เปลี่ยนร่าง-รักเธอ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7b93abcf92f4719a51a0baba4ec06d1f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7b93abcf92f4719a51a0baba4ec06d1f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Elizabeth Harvest (2018) เจ้าสาวร่างปริศนา",
     "url": "https://lk-hdx.com/elizabeth-harvest-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Elizabeth-Harvest-2018-เจ้าสาวร่างปริศนา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Elizabeth-Harvest-2018-เจ้าสาวร่างปริศนา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/s7YTgA5t_U"
+      }
+    ]
   },
   {
     "title": "7 Days in Entebbe (2018) เที่ยวบินนรกเอนเทบเบ้",
     "url": "https://lk-hdx.com/7-days-in-entebbe-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/7-Days-in-Entebbe-2018-เที่ยวบินนรกเอนเทบเบ้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/7-Days-in-Entebbe-2018-เที่ยวบินนรกเอนเทบเบ้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/37d4bafcc0aae189dcf7297af0ca2a74"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/37d4bafcc0aae189dcf7297af0ca2a74/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Don’t Let Go (2019) อย่าให้รอด",
     "url": "https://lk-hdx.com/dont-let-go-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dont-Let-Go-2019-อย่าให้รอด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dont-Let-Go-2019-อย่าให้รอด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_YdBpv1gbs"
+      }
+    ]
   },
   {
     "title": "Color Out of Space (2019) มฤตยูสีสยองโลก",
     "url": "https://lk-hdx.com/color-out-of-space-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Color-Out-of-Space-2019-มฤตยูสีสยองโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Color-Out-of-Space-2019-มฤตยูสีสยองโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/nDhgN_ZLnc"
+      }
+    ]
   },
   {
     "title": "A Godwink Christmas Second Chance First Love (2020) ปาฏิหาริย์คริสต์มาส รักครั้งใหม่หัวใจเดิม",
     "url": "https://lk-hdx.com/a-godwink-christmas-second-chance-first-love-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Godwink-Christmas-Second-Chance-First-Love-2020-ปาฏิหาริย์คริสต์มาส-รักครั้งใหม่หัวใจ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Godwink-Christmas-Second-Chance-First-Love-2020-ปาฏิหาริย์คริสต์มาส-รักครั้งใหม่หัวใจ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ee6a1fff5992c81789f8305dfd09ce48"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ee6a1fff5992c81789f8305dfd09ce48/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Compartment No. 6 (2021) ละลายหัวใจ ที่ปลายโลก",
     "url": "https://lk-hdx.com/compartment-no-6-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Compartment-No.-6-2021-ละลายหัวใจ-ที่ปลายโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Compartment-No.-6-2021-ละลายหัวใจ-ที่ปลายโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/546a201e0f6bcd47637dc27410c48fa1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/546a201e0f6bcd47637dc27410c48fa1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Angel Falls Christmas (2021) คริสต์มาสที่แองเจิลฟอลส์",
     "url": "https://lk-hdx.com/angel-falls-christmas-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Angel-Falls-Christmas-2021-คริสต์มาสที่แองเจิลฟอลส์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Angel-Falls-Christmas-2021-คริสต์มาสที่แองเจิลฟอลส์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/65a7e356cb710d4ca26dde6294ede496"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/65a7e356cb710d4ca26dde6294ede496/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Lost King (2022) ราชาผู้สาบสูญ",
     "url": "https://lk-hdx.com/the-lost-king-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Lost-King-2022-ราชาผู้สาบสูญ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Lost-King-2022-ราชาผู้สาบสูญ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/871cd91a956e98a7bf78282e9e980367"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/871cd91a956e98a7bf78282e9e980367/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Independent (2022) แผนการชิงตำแหน่งประธานาธิบดี",
     "url": "https://lk-hdx.com/the-independent-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Independent-2022-แผนการชิงตำแหน่งประธานาธิบดี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Independent-2022-แผนการชิงตำแหน่งประธานาธิบดี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e9d080ee36bb48540a9e8cdebfd38891"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e9d080ee36bb48540a9e8cdebfd38891/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Louis Armstrong’s Black & Blues (2022)",
     "url": "https://lk-hdx.com/louis-armstrongs-black-blues-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Louis-Armstrongs-Black-Blues-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Louis-Armstrongs-Black-Blues-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d4256a8e240c8f4c3dc4870edfc2c8f8"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d4256a8e240c8f4c3dc4870edfc2c8f8/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mending the Line (2022) ทหาร(ต้อง)ผ่านศึก",
     "url": "https://lk-hdx.com/mending-the-line-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Mending-the-Line-2022-ทหารต้องผ่านศึก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Mending-the-Line-2022-ทหารต้องผ่านศึก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/335708d4ae0e10b6fd3a3c14f4e84de1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/335708d4ae0e10b6fd3a3c14f4e84de1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mirrors 2 (2010) มันอยู่ในกระจก ภาค 2 สะท้อนผีดุ",
     "url": "https://lk-hdx.com/mirrors-2-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Mirrors-2-2010-มันอยู่ในกระจก-ภาค-2-สะท้อนผีดุ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Mirrors-2-2010-มันอยู่ในกระจก-ภาค-2-สะท้อนผีดุ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e921225e3a5394f32f677ed1dfeb39bf"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e921225e3a5394f32f677ed1dfeb39bf/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Mirrors 1 (2008) มันอยู่ในกระจก ภาค 1",
     "url": "https://lk-hdx.com/mirrors-1-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Mirrors-1-2008-มันอยู่ในกระจก-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Mirrors-1-2008-มันอยู่ในกระจก-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Wa__QG_5mA"
+      }
+    ]
   },
   {
     "title": "Paddington 2 (2017) แพดดิงตัน ภาค 2 ของขวัญที่หายไป",
     "url": "https://lk-hdx.com/paddington-2-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Paddington-2-2017-แพดดิงตัน-ภาค-2-ของขวัญที่หายไป-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Paddington-2-2017-แพดดิงตัน-ภาค-2-ของขวัญที่หายไป-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/56a53466ebd79131529505970925a12b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/56a53466ebd79131529505970925a12b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Paddington 1 (2014) แพดดิงตัน ภาค 1 คุณหมี หนีป่ามาป่วนเมือง",
     "url": "https://lk-hdx.com/paddington-1-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Paddington-1-2014-แพดดิงตัน-ภาค-1-คุณหมี-หนีป่ามาป่วนเมือง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Paddington-1-2014-แพดดิงตัน-ภาค-1-คุณหมี-หนีป่ามาป่วนเมือง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6c73b7cc36898e2413c1843244a98c31"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6c73b7cc36898e2413c1843244a98c31/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Rampage 2 Capital Punishment (2014) คนโหดล้างเมืองโฉด ภาค 2",
     "url": "https://lk-hdx.com/rampage-2-capital-punishment-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Rampage-2-Capital-Punishment-2014-คนโหดล้างเมืองโฉด-ภาค-2-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Rampage-2-Capital-Punishment-2014-คนโหดล้างเมืองโฉด-ภาค-2-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/EA_jgpHgUs"
+      }
+    ]
   },
   {
     "title": "Rampage 1 (2009) คนโหดล้างโคตรโลก ภาค 1",
