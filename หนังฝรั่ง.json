@@ -40860,152 +40860,428 @@
   {
     "title": "People There and Bah (2019) หอบใจไปซ่อมรัก",
     "url": "https://lk-hdx.com/people-there-and-bah-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/People-There-and-Bah-2019-หอบใจไปซ่อมรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/People-There-and-Bah-2019-หอบใจไปซ่อมรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/pmyLO15_b8"
+      }
+    ]
   },
   {
     "title": "Point Blank (2019) ชนแหลก",
     "url": "https://lk-hdx.com/point-blank-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Point-Blank-2019-ชนแหลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Point-Blank-2019-ชนแหลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/93b981c26be21bb21a9f2a9ca5eb0030"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/93b981c26be21bb21a9f2a9ca5eb0030/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Monsters of Man (2020) จักรกลพันธุ์เหี้ยม",
     "url": "https://lk-hdx.com/monsters-of-man-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Monsters-of-Man-2020-จักรกลพันธุ์เหี้ยม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Monsters-of-Man-2020-จักรกลพันธุ์เหี้ยม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3c6873f475f446c091088143fb43944d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3c6873f475f446c091088143fb43944d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Kajillionaire (2020) ลักเล็กพลิกล็อก",
     "url": "https://lk-hdx.com/kajillionaire-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Kajillionaire-2020-ลักเล็กพลิกล็อก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Kajillionaire-2020-ลักเล็กพลิกล็อก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4bb9e26931eda29a4234fb1b16a8709c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4bb9e26931eda29a4234fb1b16a8709c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Welcome to Sudden Death (2020) ฝ่าวิกฤตนาทีเป็นนาทีตาย",
     "url": "https://lk-hdx.com/welcome-to-sudden-death-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Welcome-to-Sudden-Death-2020-ฝ่าวิกฤตนาทีเป็นนาทีตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Welcome-to-Sudden-Death-2020-ฝ่าวิกฤตนาทีเป็นนาทีตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/729f1397a8d7caa6f666834b0f7ce68b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/729f1397a8d7caa6f666834b0f7ce68b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Triggered (2020) เกมแค้นติดระเบิด",
     "url": "https://lk-hdx.com/triggered-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Triggered-2020-เกมแค้นติดระเบิด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Triggered-2020-เกมแค้นติดระเบิด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a1df15bc1ed25920b2d2efa0e25e3bec"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a1df15bc1ed25920b2d2efa0e25e3bec/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Death of Me (2020) เกาะนรก หลอนลวงตาย",
     "url": "https://lk-hdx.com/death-of-me-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Death-of-Me-2020-เกาะนรก-หลอนลวงตาย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Death-of-Me-2020-เกาะนรก-หลอนลวงตาย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ad3254a673303e8a205e76465371438b"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ad3254a673303e8a205e76465371438b/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Space Pups (2023) สเปซปั๊บ",
     "url": "https://lk-hdx.com/space-pups-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Space-Pups-2023-สเปซปั๊บ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Space-Pups-2023-สเปซปั๊บ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3ed37cea3ecf4901d1eb84237a3d2d05"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3ed37cea3ecf4901d1eb84237a3d2d05/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Dry (2020) คืนถิ่นสืบ",
     "url": "https://lk-hdx.com/the-dry-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Dry-2020-คืนถิ่นสืบ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Dry-2020-คืนถิ่นสืบ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/0e2ba823d1e97346dde843bdc349cdb2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/0e2ba823d1e97346dde843bdc349cdb2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Still Here (2020) ล่าปมล่องหน",
     "url": "https://lk-hdx.com/still-here-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Still-Here-2020-ล่าปมล่องหน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Still-Here-2020-ล่าปมล่องหน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c9b416fc2f46ac8fa65befc3b9421b07"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c9b416fc2f46ac8fa65befc3b9421b07/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Big Short (2015) เกมฉวยโอกาสรวย",
     "url": "https://lk-hdx.com/the-big-short-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Big-Short-2015-เกมฉวยโอกาสรวย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Big-Short-2015-เกมฉวยโอกาสรวย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/29d12b4aaea750de5bbd74af10ace270"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/29d12b4aaea750de5bbd74af10ace270/master.m3u8"
+      }
+    ]
   },
   {
     "title": "We Are Not Alone (2016) พลังลับคืนหลอน",
     "url": "https://lk-hdx.com/we-are-not-alone-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/We-Are-Not-Alone-2016-พลังลับคืนหลอน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/We-Are-Not-Alone-2016-พลังลับคืนหลอน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a2f6ce0c4b3dbf570f0225287925f4ea"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a2f6ce0c4b3dbf570f0225287925f4ea/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Warcraft (The Beginning) (2016) วอร์คราฟต์ กำเนิดศึกสองพิภพ",
     "url": "https://lk-hdx.com/warcraft-the-beginning-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Warcraft-The-Beginning-2016-วอร์คราฟต์-กำเนิดศึกสองพิภพ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Warcraft-The-Beginning-2016-วอร์คราฟต์-กำเนิดศึกสองพิภพ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/_hJZQ_Mf5o"
+      }
+    ]
   },
   {
     "title": "Savage Dog (2017) คืนเดือดคนคลั่ง",
     "url": "https://lk-hdx.com/savage-dog-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Savage-Dog-2017-คืนเดือดคนคลั่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Savage-Dog-2017-คืนเดือดคนคลั่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/057351f8d3e20e0717a6075888b89b2f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/057351f8d3e20e0717a6075888b89b2f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "American Assassin (2017) อหังการ์ ทีมฆ่า",
     "url": "https://lk-hdx.com/american-assassin-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/American-Assassin-2017-อหังการ์-ทีมฆ่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/American-Assassin-2017-อหังการ์-ทีมฆ่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8642b596881c5c2a0b75597a35a35f21"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8642b596881c5c2a0b75597a35a35f21/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Wife (2017) เมียโลกไม่จำ",
     "url": "https://lk-hdx.com/the-wife-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Wife-2017-เมียโลกไม่จำ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Wife-2017-เมียโลกไม่จำ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/v2_B634LzD"
+      }
+    ]
   },
   {
     "title": "A Cure for Wellness (2017) ชีพอมตะ",
     "url": "https://lk-hdx.com/a-cure-for-wellness-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/A-Cure-for-Wellness-2017-ชีพอมตะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/A-Cure-for-Wellness-2017-ชีพอมตะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/01d8b87c46343dcb45532973e3270c78"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/01d8b87c46343dcb45532973e3270c78/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Guilty (2018) เส้นตาย สายระทึก",
     "url": "https://lk-hdx.com/the-guilty-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Guilty-2018-เส้นตาย-สายระทึก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Guilty-2018-เส้นตาย-สายระทึก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4a122ed3b128ae73999f9e8f0a6be2f4"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4a122ed3b128ae73999f9e8f0a6be2f4/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Mystery of Michelle (2018) ความลึกลับของมิเชล",
     "url": "https://lk-hdx.com/the-mystery-of-michelle-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Mystery-of-Michelle-2018-ความลึกลับของมิเชล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Mystery-of-Michelle-2018-ความลึกลับของมิเชล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/mL_mGLBEAa"
+      }
+    ]
   },
   {
     "title": "The Unthinkable (2018) อุบัติการณ์ลับถล่มโลก",
     "url": "https://lk-hdx.com/the-unthinkable-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Unthinkable-2018-อุบัติการณ์ลับถล่มโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Unthinkable-2018-อุบัติการณ์ลับถล่มโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8bd46372713795812ebd8f9ed7f0aa11"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8bd46372713795812ebd8f9ed7f0aa11/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม",
     "url": "https://lk-hdx.com/spider-man-no-way-home-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/593c7c159f66034c56beb93add650091"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/593c7c159f66034c56beb93add650091/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Spider Man Far from Home (2019) สไปเดอร์ แมน ฟาร์ ฟรอม โฮม",
     "url": "https://lk-hdx.com/spider-man-far-from-home-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ec8196b96244fb98dbb236fb4bb62ced"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ec8196b96244fb98dbb236fb4bb62ced/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dracula Untold (2014) ตำนานลับโลกไม่รู้",
     "url": "https://lk-hdx.com/dracula-untold-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Dracula-Untold-2014-ตำนานลับโลกไม่รู้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Dracula-Untold-2014-ตำนานลับโลกไม่รู้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/GCESGlCE_0"
+      }
+    ]
   },
   {
     "title": "Everly (2014) ดี ออกสาวปืนโหด",
     "url": "https://lk-hdx.com/everly-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Everly-2014-ดี-ออกสาวปืนโหด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Everly-2014-ดี-ออกสาวปืนโหด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/85c9213d90dbded6f1e22170681d238c"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/85c9213d90dbded6f1e22170681d238c/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fury (2014) วันปฐพีเดือด",
     "url": "https://lk-hdx.com/fury-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Fury-2014-วันปฐพีเดือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Fury-2014-วันปฐพีเดือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3cfb8462640fe64ac1b4391ea1b99634"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3cfb8462640fe64ac1b4391ea1b99634/master.m3u8"
+      }
+    ]
   },
   {
     "title": "I, Frankenstein (2014) สงครามล้างพันธุ์อมตะ",
     "url": "https://lk-hdx.com/i-frankenstein-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/I-Frankenstein-2014-สงครามล้างพันธุ์อมตะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/I-Frankenstein-2014-สงครามล้างพันธุ์อมตะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/o_9RbWreWH"
+      }
+    ]
   },
   {
     "title": "American Hustle (2013) โกงกระฉ่อนโลก",
     "url": "https://lk-hdx.com/american-hustle-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/American-Hustle-2013-โกงกระฉ่อนโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/American-Hustle-2013-โกงกระฉ่อนโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/70ea014d0cd3c2e560d361011813a922"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/70ea014d0cd3c2e560d361011813a922/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Alone for Christmas (2013) แก๊งน้องหมาโดดเดี่ยวผู้น่ารัก",
     "url": "https://lk-hdx.com/alone-for-christmas-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Alone-for-Christmas-2013-แก๊งน้องหมาโดดเดี่ยวผู้น่ารัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Alone-for-Christmas-2013-แก๊งน้องหมาโดดเดี่ยวผู้น่ารัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a3e0caabb40cb32d81eac3c163cc966d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a3e0caabb40cb32d81eac3c163cc966d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Apocalypse Earth (2013) สยองโลกมฤตยู",
     "url": "https://lk-hdx.com/apocalypse-earth-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Apocalypse-Earth-2013-สยองโลกมฤตยู-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Apocalypse-Earth-2013-สยองโลกมฤตยู-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9161f344c694ab95288b72102ba58d99"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9161f344c694ab95288b72102ba58d99/master.m3u8"
+      }
+    ]
   },
   {
     "title": "All Things to All Men (2013) ปล้นผ่ากลลวง",
     "url": "https://lk-hdx.com/all-things-to-all-men-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/All-Things-to-All-Men-2013-ปล้นผ่ากลลวง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/All-Things-to-All-Men-2013-ปล้นผ่ากลลวง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d79090b5560043f70f306bd76aefcfdc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d79090b5560043f70f306bd76aefcfdc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Argo (2012) อาร์โก้ แผนฉกฟ้าแลบลวงสะท้านโลก",
