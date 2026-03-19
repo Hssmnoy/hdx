@@ -1741,153 +1741,437 @@
   },
   {
     "title": "Sorority (2025)",
-    "url": "https://lk-hdx.com/sorority-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Sorority-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/bfb5f2c8c378048b8e7683aabd1e7598/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/bfb5f2c8c378048b8e7683aabd1e7598"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Sorority-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Keeper (2025) ดู เจ้าที่ปีศาจ",
-    "url": "https://lk-hdx.com/keeper-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Keeper-2025-เจ้าที่ปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_9ddoXsWjq"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Keeper-2025-เจ้าที่ปีศาจ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Maalikaya (2025)",
-    "url": "https://lk-hdx.com/maalikaya-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Maalikaya-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f121c5cfaf69fa94504c2383e18cb03c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f121c5cfaf69fa94504c2383e18cb03c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Maalikaya-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Mayumi (2025)",
-    "url": "https://lk-hdx.com/mayumi-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Mayumi-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c797b35376432bac2ec6feb14f1e7581/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c797b35376432bac2ec6feb14f1e7581"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Mayumi-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Primitive War (2025) สงครามโลกล้านปี",
-    "url": "https://lk-hdx.com/primitive-war-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Primitive-War-2025-สงครามโลกล้านปี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a494141780d66473909b89c34f67267b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a494141780d66473909b89c34f67267b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/Primitive-War-2025-สงครามโลกล้านปี-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Madulas (2025)",
-    "url": "https://lk-hdx.com/madulas-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Madulas-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/53e3a1ae35dd4e0a3a7a4d774b687c02/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/53e3a1ae35dd4e0a3a7a4d774b687c02"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Madulas-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Detective Conan One Eyed Flashback (2025) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 28 ปริศนาภาพติดตามรณะ",
-    "url": "https://lk-hdx.com/detective-conan-one-eyed-flashback-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Detective-Conan-One-Eyed-Flashback-2025-ยอดนักสืบจิ๋วโคนัน-เดอะมูฟวี่-28-ปริศนาภาพติดตามรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/402195ad333908d8d2fa6f47227086fc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/402195ad333908d8d2fa6f47227086fc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Detective-Conan-One-Eyed-Flashback-2025-ยอดนักสืบจิ๋วโคนัน-เดอะมูฟวี่-28-ปริศนาภาพติดตามรณะ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "M3GAN 2.0 เมแกน 2.0 (2025)",
-    "url": "https://lk-hdx.com/m3gan-2-0/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/M3GAN-2.0-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/28683f6d5449e5d86dc99a9b7dd4f94d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/28683f6d5449e5d86dc99a9b7dd4f94d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/06/M3GAN-2.0-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "One Battle After Another (2025) หนึ่งศึกครั้งแล้วครั้งเล่า",
-    "url": "https://lk-hdx.com/one-battle-after-another-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/One-Battle-After-Another-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/03c9795f50b8b19d0dd85431f9636666/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/03c9795f50b8b19d0dd85431f9636666"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/One-Battle-After-Another-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "No Other Choice (2025) งานนี้..ฆ่าเอา",
-    "url": "https://lk-hdx.com/no-other-choice-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/No-Other-Choice-2025-งานนี้.ฆ่าเอา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/60312cd0298561a64b08d331d358a125/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/60312cd0298561a64b08d331d358a125"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/No-Other-Choice-2025-งานนี้.ฆ่าเอา-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Kapag Tumayo Ang Testigo (2025)",
-    "url": "https://lk-hdx.com/kapag-tumayo-ang-testigo-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Kapag-Tumayo-Ang-Testigo-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ac532be72d384533a5e3c1646575743d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ac532be72d384533a5e3c1646575743d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Kapag-Tumayo-Ang-Testigo-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Bigay hilig Sexual Fetish (2025)",
-    "url": "https://lk-hdx.com/bigay-hilig-sexual-fetish-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Bigay-hilig-Sexual-Fetish-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d9f4098bef9ba40d8138d5d8b887dfbb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d9f4098bef9ba40d8138d5d8b887dfbb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Bigay-hilig-Sexual-Fetish-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Hunting Jessica Brok (2025)",
-    "url": "https://lk-hdx.com/hunting-jessica-brok-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Hunting-Jessica-Brok-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ui_eBfij5F"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Hunting-Jessica-Brok-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "“เดอะ คอนเจอริ่ง คนเรียกผี พิธีกรรมครั้งสุดท้าย” (The Conjuring Last Rites) 2025",
-    "url": "https://lk-hdx.com/the-conjuring-last-rites-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/608a62a82aae229a9fdd12da614aaa67/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/608a62a82aae229a9fdd12da614aaa67"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "กำเนิดตำนานงูเขียว (2025) Green Snake The Origin",
-    "url": "https://lk-hdx.com/green-snake-the-origin-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/03/กำเนิดตำนานงูเขียว-2025-Green-Snake-The-Origin-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cf80ebd88f66779e16535154427c7673/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cf80ebd88f66779e16535154427c7673"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/03/กำเนิดตำนานงูเขียว-2025-Green-Snake-The-Origin-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "OH WHAT FUN (2025) โอ้วอทฟัน คริสต์มาสนี้ แม่ล่ะเพลีย",
-    "url": "https://lk-hdx.com/oh-what-fun-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/OH-WHAT-FUN-2025-โอ้วอทฟัน-คริสต์มาสนี้-แม่ล่ะเพลีย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cef72ad7d67427448c25b088209c2605/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cef72ad7d67427448c25b088209c2605"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/OH-WHAT-FUN-2025-โอ้วอทฟัน-คริสต์มาสนี้-แม่ล่ะเพลีย-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Jay Kelly (2025) เจย์ เคลลี | Netflix",
-    "url": "https://lk-hdx.com/jay-kelly-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Jay-Kelly-2025-เจย์-เคลลี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9468d1483e3a2986f6e754744e44a968/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9468d1483e3a2986f6e754744e44a968"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Jay-Kelly-2025-เจย์-เคลลี-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The First Snow of Fraggle Rock (2025)",
-    "url": "https://lk-hdx.com/the-first-snow-of-fraggle-rock-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-First-Snow-of-Fraggle-Rock-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f02b41128172a885c2fa728d2644b349/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f02b41128172a885c2fa728d2644b349"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/The-First-Snow-of-Fraggle-Rock-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Family Plan 2 (2025)",
-    "url": "https://lk-hdx.com/the-family-plan-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Family-Plan-2-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c0bca350f1aeea3bb6f6452fe8deab8a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c0bca350f1aeea3bb6f6452fe8deab8a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/The-Family-Plan-2-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Five Nights at Freddys 2 (2025) 5 คืนสยองที่ร้านเฟรดดี้ 2",
-    "url": "https://lk-hdx.com/five-nights-at-freddys-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Five-Nights-at-Freddys-2-2025-5-คืนสยองที่ร้านเฟรดดี้-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/320de52d408c7c491f8dc8bac2ffd5a9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/320de52d408c7c491f8dc8bac2ffd5a9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Five-Nights-at-Freddys-2-2025-5-คืนสยองที่ร้านเฟรดดี้-2-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "My Secret Santa (2025) เมื่อคุณแม่ปลอมเป็นซานตาคลอส",
-    "url": "https://lk-hdx.com/my-secret-santa-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/My-Secret-Santa-2025-เมื่อคุณแม่ปลอมเป็นซานตาคลอส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/13d81d7660b4a1691a8c63e3af01b377/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/13d81d7660b4a1691a8c63e3af01b377"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/My-Secret-Santa-2025-เมื่อคุณแม่ปลอมเป็นซานตาคลอส-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Left Handed Girl (2025) เด็กมือซ้าย",
-    "url": "https://lk-hdx.com/left-handed-girl-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Left-Handed-Girl-2025-เด็กมือซ้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/m_pVbrA_Tr"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/Left-Handed-Girl-2025-เด็กมือซ้าย-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Troll 2 (2025) โทรลล์ ภาค 2",
-    "url": "https://lk-hdx.com/troll-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Troll-2-2025-โทรลล์-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f961e55e66b126c636481c79379bf644/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f961e55e66b126c636481c79379bf644"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Troll-2-2025-โทรลล์-2-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "She Rides Shotgun (2025) เธอต้องรอด",
-    "url": "https://lk-hdx.com/she-rides-shotgun-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/She-Rides-Shotgun-2025-เธอต้องรอด-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/43_moy6cyT"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/She-Rides-Shotgun-2025-เธอต้องรอด-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Jingle Bell Heist (2025) โจรกรรมจิงเกิลเบล",
-    "url": "https://lk-hdx.com/jingle-bell-heist-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Jingle-Bell-Heist-2025-โจรกรรมจิงเกิลเบล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/55969c633616b40b0d22102848a7df44/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/55969c633616b40b0d22102848a7df44"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/Jingle-Bell-Heist-2025-โจรกรรมจิงเกิลเบล-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Death of a Unicorn (2025) เดธ ออฟ อะ ยูนิคอร์น",
-    "url": "https://lk-hdx.com/death-of-a-unicorn-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/Death-of-a-Unicorn-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4e36b5328b670f5461d01fd7f2dfeb39/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e36b5328b670f5461d01fd7f2dfeb39"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/Death-of-a-Unicorn-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Follies (2025) วันหนักของคนหน่วง Netflix",
-    "url": "https://lk-hdx.com/the-follies-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Follies-2025-วันหนักของคนหน่วง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/fe54450493d6a0c3e2789180cda031c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fe54450493d6a0c3e2789180cda031c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Follies-2025-วันหนักของคนหน่วง-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "In Your Dreams (2025) ผจญภัยในฝัน Netflix",
-    "url": "https://lk-hdx.com/in-your-dreams-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-ผจญภัยในฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/0da80505689ea21b51c86be8d0e5cb13/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0da80505689ea21b51c86be8d0e5cb13"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-ผจญภัยในฝัน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Train Dreams (2025) ทางรถไฟสายฝัน",
-    "url": "https://lk-hdx.com/train-dreams-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Train-Dreams-2025-ทางรถไฟสายฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b685c1f0daf9ac7adafb81a11ef3767b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b685c1f0daf9ac7adafb81a11ef3767b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/Train-Dreams-2025-ทางรถไฟสายฝัน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Shelby Oaks (2025) เชลบี้ โอคส์ คลิปเฮี้ยน คดีหลอน",
-    "url": "https://lk-hdx.com/shelby-oaks-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Shelby-Oaks-2025-เชลบี้-โอคส์-คลิปเฮี้ยน-คดีหลอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/16044fb43a1e9699b3b2c4493d47d487/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/16044fb43a1e9699b3b2c4493d47d487"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/Shelby-Oaks-2025-เชลบี้-โอคส์-คลิปเฮี้ยน-คดีหลอน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Flower Girl (2025) อลวนสาวกลีบหาย",
