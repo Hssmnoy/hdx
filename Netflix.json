@@ -857,153 +857,437 @@
   },
   {
     "title": "Caramelo (2025) คาราเมโล",
-    "url": "https://lk-hdx.com/caramelo-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Caramelo-2025-คาราเมโล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b09a38ac3350fad1d6a77ef3fca93dd4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b09a38ac3350fad1d6a77ef3fca93dd4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Caramelo-2025-คาราเมโล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Steve (2025) สตีฟ",
-    "url": "https://lk-hdx.com/steve-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3a61e32a44eab81e74a381fed9f4a323/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3a61e32a44eab81e74a381fed9f4a323"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "French Lover (2025) พบรักซูเปอร์สตาร์",
-    "url": "https://lk-hdx.com/french-lover-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/French-Lover-2025-พบรักซูเปอร์สตาร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a777e680d68083d3064565d7652f8d3f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a777e680d68083d3064565d7652f8d3f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/French-Lover-2025-พบรักซูเปอร์สตาร์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Mantis (2025) ตั้กแตนนักฆ่า",
-    "url": "https://lk-hdx.com/mantis-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Mantis-2025-ตั้กแตนนักฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/152dfe701377cfc6807cd2bc4f3074da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/152dfe701377cfc6807cd2bc4f3074da"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Mantis-2025-ตั้กแตนนักฆ่า-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "She Said Maybe (2025) เมื่อเธอตอบว่า…ไม่แน่",
-    "url": "https://lk-hdx.com/she-said-maybe-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/She-Said-Maybe-2025-เมื่อเธอตอบว่า…ไม่แน่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/282a3b8bd7aa230a596481f12af86b58/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/282a3b8bd7aa230a596481f12af86b58"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/She-Said-Maybe-2025-เมื่อเธอตอบว่า…ไม่แน่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ซ้ำวัน กับ Someone (2025) Same Day with Someone",
-    "url": "https://lk-hdx.com/same-day-with-someone-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Same-Day-with-Someone-2025-ซ้ำวัน-กับ-Someone-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9b85a4fbb21c6de2a21d4736bdf001f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9b85a4fbb21c6de2a21d4736bdf001f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Same-Day-with-Someone-2025-ซ้ำวัน-กับ-Someone-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Rebel Royals An Unlikely Love Story (2025) รักเหลือเชื่อของเชื้อพระวงศ์หัวขบถ",
-    "url": "https://lk-hdx.com/rebel-royals-an-unlikely-love-story-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Rebel-Royals-An-Unlikely-Love-Story-2025-รักเหลือเชื่อของเชื้อพระวงศ์หัวขบถ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/af864032569a863e86384e5b4f349c7c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/af864032569a863e86384e5b4f349c7c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Rebel-Royals-An-Unlikely-Love-Story-2025-รักเหลือเชื่อของเชื้อพระวงศ์หัวขบถ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล",
-    "url": "https://lk-hdx.com/the-wrong-paris-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Wrong-Paris-2025-ปารีสนี้ไม่มีหอไอเฟล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3cfb0d48f0697bc81a7b9e86fb78d490/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3cfb0d48f0697bc81a7b9e86fb78d490"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/The-Wrong-Paris-2025-ปารีสนี้ไม่มีหอไอเฟล-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Kontrabida Academy (Netflix 2025) สถาบันนางร้าย",
-    "url": "https://lk-hdx.com/kontrabida-academy-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Kontrabida-Academy-2025-สถาบันนางร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/2adb58ac703413faa0cd801df5c45b77/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/2adb58ac703413faa0cd801df5c45b77"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Kontrabida-Academy-2025-สถาบันนางร้าย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "“สุสานคนเป็น” (Tomb Watcher) 2025 – Netflix ",
-    "url": "https://lk-hdx.com/tomb-watcher-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/สุสานคนเป็น-Tomb-Watcher-2025-Netflix--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5b84c0b1c51b82170fadde7407ab2183/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5b84c0b1c51b82170fadde7407ab2183"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/สุสานคนเป็น-Tomb-Watcher-2025-Netflix--165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "“สารวัตรซ่าปะทะทรชน” Inspector Zende (Netflix 2025)",
-    "url": "https://lk-hdx.com/inspector-zende-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/09/Inspector-Zende-2025-สารวัตรซ่าปะทะทรชน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5d0d8d368d2c7eeac6b1fe62dad48475/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5d0d8d368d2c7eeac6b1fe62dad48475"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Inspector-Zende-2025-สารวัตรซ่าปะทะทรชน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love in the Big City (2024) เธอเหงาเราเผลอ",
-    "url": "https://lk-hdx.com/love-in-the-big-city-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Love-in-the-Big-City-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4b83a20c0c9e76a4adaf0220d104a963/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4b83a20c0c9e76a4adaf0220d104a963"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Love-in-the-Big-City-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Bad Guys Haunted Heist (2023) วายร้ายพันธุ์ดี ปล้นป่วนฮาโลวีน",
-    "url": "https://lk-hdx.com/the-bad-guys-haunted-heist-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-2023-วายร้ายพันธุ์ดี-ปล้นป่วนฮาโลวีน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/23ba0617d7791035099b173aa5580d8d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/23ba0617d7791035099b173aa5580d8d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-2023-วายร้ายพันธุ์ดี-ปล้นป่วนฮาโลวีน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Unknown Number NETFLIX (2025) ข้อความลวงเด็กมัธยมปลาย",
-    "url": "https://lk-hdx.com/unknown-number-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Unknown-Number-2025-ข้อความลวงเด็กมัธยมปลาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/fc5e40a29b01c7fbf288334871ca0e9a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fc5e40a29b01c7fbf288334871ca0e9a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Unknown-Number-2025-ข้อความลวงเด็กมัธยมปลาย-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Love Untangled (2025) สาวผมยุ่งหัวใจว้าวุ่น",
-    "url": "https://lk-hdx.com/love-untangled-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Love-Untangled-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ydS7jPr_so"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Love-Untangled-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Thursday Murder Club (2025) ชมรมไขคดีฆาตกรรมวันพฤหัส",
-    "url": "https://lk-hdx.com/the-thursday-murder-club-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/The-Thursday-Murder-Club-2025-ชมรมไขคดีฆาตกรรมวันพฤหัส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3aed74eaaf498d023a0b1e2c0f084a6f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3aed74eaaf498d023a0b1e2c0f084a6f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/The-Thursday-Murder-Club-2025-ชมรมไขคดีฆาตกรรมวันพฤหัส-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Planet Single Greek Adventure (2025) เกาะรักพักโสด ผจญภัยในกรีซ",
-    "url": "https://lk-hdx.com/planet-single-greek-adventure-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Planet-Single-Greek-Adventure-2025-เกาะรักพักโสด-ผจญภัยในกรีซ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cae51d22d38e96fe43526cc8b167c07e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cae51d22d38e96fe43526cc8b167c07e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Planet-Single-Greek-Adventure-2025-เกาะรักพักโสด-ผจญภัยในกรีซ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fantasy Football Ruined Our Lives (2025) แฟนตาซีฟุตบอลพังชีวิต",
-    "url": "https://lk-hdx.com/fantasy-football-ruined-our-lives-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Fantasy-Football-Ruined-Our-Lives-2025-แฟนตาซีฟุตบอลพังชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jG_L8oaS9b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Fantasy-Football-Ruined-Our-Lives-2025-แฟนตาซีฟุตบอลพังชีวิต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "เขาชุมทอง คะนองชุมโจร เต็มเรื่องจบ (2025) Gold Rush Gang",
-    "url": "https://lk-hdx.com/gold-rush-gang-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Gold-Rush-Gang-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3eb96a6fb79ca7962f9d0732b213ff0c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3eb96a6fb79ca7962f9d0732b213ff0c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Gold-Rush-Gang-2025-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Abandoned Man (Netflix 2025) ชายผู้ถูกทอดทิ้ง",
-    "url": "https://lk-hdx.com/abandoned-man-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Abandoned-Man-2025-ชายผู้ถูกทอดทิ้ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ea05e62f5333e4d2ff94392b6092e95c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ea05e62f5333e4d2ff94392b6092e95c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Abandoned-Man-2025-ชายผู้ถูกทอดทิ้ง-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "One Hit Wonder (2025) บทเพลงนี้ ไม่ลืมเธอ",
-    "url": "https://lk-hdx.com/one-hit-wonder-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/One-Hit-Wonder-2025-บทเพลงนี้-ไม่ลืมเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d341571c977ee54b76df869d20698393/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d341571c977ee54b76df869d20698393"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/One-Hit-Wonder-2025-บทเพลงนี้-ไม่ลืมเธอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fall for Me (2025) ลวงรักทรยศ",
-    "url": "https://lk-hdx.com/fall-for-me-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Fall-for-Me-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6c91393282ee6942c513dcf8419481b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6c91393282ee6942c513dcf8419481b9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Fall-for-Me-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "โมโนโนเกะ เดอะ มูฟวี่ บทที่ 2 | เถ้าธุลีแห่งความแค้น (2025)",
-    "url": "https://lk-hdx.com/mononoke-the-movie-chapter-ii/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Mononoke-the-Movie-Chapter-II-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_v3pQvvufb"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Mononoke-the-Movie-Chapter-II-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Night Always Comes คืนวันอันตราย (2025 Netflix)",
-    "url": "https://lk-hdx.com/night-always-comes-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Night-Always-Comes-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/393513d98881119cd9096ce18239bf8c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/393513d98881119cd9096ce18239bf8c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Night-Always-Comes-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Fixed | ภารกิจก่อนถูกตอน (2025)",
-    "url": "https://lk-hdx.com/fixed-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Fixed-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/608c34acb4e9496a0cbf802227a89681/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/608c34acb4e9496a0cbf802227a89681"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Fixed-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ฮาลาบาลา ป่าจิตหลุด : Halabala (2025)",
-    "url": "https://lk-hdx.com/halabala-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Halabala-movie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/2c62e3ce6d9def04cb1e97e649a92988/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/2c62e3ce6d9def04cb1e97e649a92988"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Halabala-movie-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Red Notice (2021) โคตรคน 3 คม",
-    "url": "https://lk-hdx.com/red-notice-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Red-Notice-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/MNYcH9_DOk"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Red-Notice-2021-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "My Oxford Year อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน (2025)",
-    "url": "https://lk-hdx.com/my-oxford-year-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/My-Oxford-Year-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7b48b872a2310e310bd8050f1c946a26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7b48b872a2310e310bd8050f1c946a26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/My-Oxford-Year-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ซีซั่น 2 เว้นส์เดย์ Wednesday Season 2 (2025) Ep.4",
-    "url": "https://lk-hdx.com/wednesday-ep-4/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Wednesday-Season-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/041a2ce2bea31dcd0da4b9e325b8b092/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/041a2ce2bea31dcd0da4b9e325b8b092"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Wednesday-Season-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Wednesday Season 2 (2025) เว้นส์เดย์ ซีซั่น 2 พากย์ไทย Ep.3",
-    "url": "https://lk-hdx.com/wednesday-ep-3/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/08/Wednesday-Season-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8fb31f537d32dee4463631fc2a6bf7b8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8fb31f537d32dee4463631fc2a6bf7b8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/08/Wednesday-Season-2-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "ดูซีรี่ย์ Wednesday Season 2 (2025) เว้นส์เดย์ ซีซั่น2 Ep.2",
