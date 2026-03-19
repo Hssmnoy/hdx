@@ -1307,153 +1307,429 @@
   },
   {
     "title": "Greenland (2020) นาทีระทึก วันสิ้นโลก",
-    "url": "https://lk-hdx.com/greenland-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Greenland-2020-นาทีระทึก-วันสิ้นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7a0b624f661527fd8fe6b6d26694e6e1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a0b624f661527fd8fe6b6d26694e6e1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Greenland-2020-นาทีระทึก-วันสิ้นโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kursk (2018) คูร์ส หนีตายโคตรนรกรัสเซีย",
-    "url": "https://lk-hdx.com/kursk-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Kursk-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef24af2314dd381341dc3683d6a61d93/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef24af2314dd381341dc3683d6a61d93"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Kursk-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Rip (2026) เงินบาปกระชากคน",
-    "url": "https://lk-hdx.com/the-rip-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Rip-2026-เงินบาปกระชากคน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Pakq_PN81e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Rip-2026-เงินบาปกระชากคน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dust Bunny (2025)",
-    "url": "https://lk-hdx.com/dust-bunny-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Dust-Bunny-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f0551e3245a67b38e4efbe3255ba4c9e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f0551e3245a67b38e4efbe3255ba4c9e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Dust-Bunny-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "District 9 (2009) ยึดแผ่นดินเปลี่ยนพันธุ์มนุษย์",
-    "url": "https://lk-hdx.com/district-9-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/District-9-2009-ยึดแผ่นดินเปลี่ยนพันธุ์มนุษย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/dabeab2cff8fbc28803dae67e25a6737/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dabeab2cff8fbc28803dae67e25a6737"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/District-9-2009-ยึดแผ่นดินเปลี่ยนพันธุ์มนุษย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Her (2013) รักดังฟังชัด",
-    "url": "https://lk-hdx.com/her-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Her-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b1bbb27ae5ca76231f6959e80d45f6ea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1bbb27ae5ca76231f6959e80d45f6ea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Her-2013-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Dark Tower (2017) หอคอยทมิฬ",
-    "url": "https://lk-hdx.com/the-dark-tower-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Dark-Tower-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/YbRl34_YIF"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Dark-Tower-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Real Steel (2011) ศึกหุ่นเหล็กกำปั้นถล่มปฐพี",
-    "url": "https://lk-hdx.com/real-steel-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Real-Steel-2011-ศึกหุ่นเหล็กกำปั้นถล่มปฐพี-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/U2Igly8_cU"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/Real-Steel-2011-ศึกหุ่นเหล็กกำปั้นถล่มปฐพี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Overlord (2018) ปฏิบัติการโอเวอร์ลอร์ด",
-    "url": "https://lk-hdx.com/overlord-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Overlord-2018-ปฏิบัติการโอเวอร์ลอร์ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2fc0de565ca81726f9c3a41a2c49967a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2fc0de565ca81726f9c3a41a2c49967a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Overlord-2018-ปฏิบัติการโอเวอร์ลอร์ด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jesus Revolution (2023)",
-    "url": "https://lk-hdx.com/jesus-revolution-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Jesus-Revolution-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7919acff8a2a5cb2a6f255b8dfe4ab1d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7919acff8a2a5cb2a6f255b8dfe4ab1d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Jesus-Revolution-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "People We Meet on Vacation (2026) เราพบกัน ณ วันพักใจ",
-    "url": "https://lk-hdx.com/people-we-meet-on-vacation-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ab1b61c51a8ab639c8cc3f35a1bdc144/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ab1b61c51a8ab639c8cc3f35a1bdc144"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Housemaid (2025) ความลับแม่บ้านร้าย",
-    "url": "https://lk-hdx.com/the-housemaid-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Housemaid-2025-ความลับแม่บ้านร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3c8ac36dacb87a361b77acdb83f1e5e3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3c8ac36dacb87a361b77acdb83f1e5e3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Housemaid-2025-ความลับแม่บ้านร้าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "วิคเค็ด 2 (2025) Wicked For Good",
-    "url": "https://lk-hdx.com/wicked-for-good/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Wicked-For-Good-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5cd4e21d5188eb03d1f903d5a371b475/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5cd4e21d5188eb03d1f903d5a371b475"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Wicked-For-Good-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Alma and The Wolf (2025) อัลมาและมนุษย์หมาป่า",
-    "url": "https://lk-hdx.com/alma-and-the-wolf-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Alma-and-The-Wolf-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/842b3910feea4a05bba22be84b28572b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/842b3910feea4a05bba22be84b28572b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Alma-and-The-Wolf-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Good Boy (2025) มะหมาเห็นผี",
-    "url": "https://lk-hdx.com/good-boy-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/Good-Boy-2025-มะหมาเห็นผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8bd98cb1aed6abc18609d206ab2424f0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8bd98cb1aed6abc18609d206ab2424f0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/Good-Boy-2025-มะหมาเห็นผี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tron Ares (2025) ทรอน แอรีส",
-    "url": "https://lk-hdx.com/tron-are/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/10/Tron-Ares-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5992e246db772d79ecf8e2fc516dc432/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5992e246db772d79ecf8e2fc516dc432"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/Tron-Ares-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nuremberg (2025)",
-    "url": "https://lk-hdx.com/nuremberg-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Nuremberg-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/hL_GfRHpjv"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Nuremberg-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Rats A Witcher Tale (2025) พวกแรทส์ ตำนานนักล่าจอมอสูร",
-    "url": "https://lk-hdx.com/the-rats-a-witcher-tale-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Rats-A-Witcher-Tale-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c16f136c5c97cd7b979f03165bfec020/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c16f136c5c97cd7b979f03165bfec020"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Rats-A-Witcher-Tale-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "All Out with AJ Raval (2025)",
-    "url": "https://lk-hdx.com/all-out-with-aj-raval-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/All-Out-with-AJ-Raval-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_aeHbIS_oZ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/All-Out-with-AJ-Raval-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gowok Javanese Kamasutra (2025)",
-    "url": "https://lk-hdx.com/gowok-javanese-kamasutra-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Gowok-Javanese-Kamasutra-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/fc96f8b59a2abb30f26788a08a660b25/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fc96f8b59a2abb30f26788a08a660b25"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Gowok-Javanese-Kamasutra-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Tank (2025) รถถังเจ้าพยัคฆ์",
-    "url": "https://lk-hdx.com/the-tank-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Tank-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4452ac76b25c069a38299ce227b99188/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4452ac76b25c069a38299ce227b99188"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Tank-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trap House (2025) ดักแผนล่า ท้าทรชน",
-    "url": "https://lk-hdx.com/trap-house-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Trap-House-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8196edd5def56589a507d4645308d3ba/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8196edd5def56589a507d4645308d3ba"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Trap-House-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Only the Brave (2017) คนกล้าไฟนรก",
-    "url": "https://lk-hdx.com/only-the-brave-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/Only-the-Brave-2017-คนกล้าไฟนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3923387167dcc7b908cb5f25bc2503ea/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3923387167dcc7b908cb5f25bc2503ea"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/Only-the-Brave-2017-คนกล้าไฟนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kalakal (2025) 18+ ซับไทย",
-    "url": "https://lk-hdx.com/kalakal-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Kalakal-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/cqwi__KPNJ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Kalakal-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bangkera (2025) 18+ ซับไทย ",
-    "url": "https://lk-hdx.com/bangkera-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Bangkera-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3fa5b3b662b71fafbe2c1746bb7b235c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3fa5b3b662b71fafbe2c1746bb7b235c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Bangkera-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Las ilusyunadas (2025)",
-    "url": "https://lk-hdx.com/las-ilusyunadas-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Las-ilusyunadas-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4522303c12a5954a7c5d82152f73bfb9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4522303c12a5954a7c5d82152f73bfb9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Las-ilusyunadas-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Walker (2025)",
-    "url": "https://lk-hdx.com/walker-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Walker-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/98bfa89194b940b4112ecbcf3cb53af5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/98bfa89194b940b4112ecbcf3cb53af5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Walker-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Running Man (2025) เดอะ รันนิ่ง แมน",
-    "url": "https://lk-hdx.com/the-running-man-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Running-Man-2025-เดอะ-รันนิ่ง-แมน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b3a81a7f2e23ba2616f31eb223b82224/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b3a81a7f2e23ba2616f31eb223b82224"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/11/The-Running-Man-2025-เดอะ-รันนิ่ง-แมน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Obsesyon (2025)",
-    "url": "https://lk-hdx.com/obsesyon-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/Obsesyon-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/781dfd6f1eece17d03f375c5f278ec00/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/781dfd6f1eece17d03f375c5f278ec00"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/Obsesyon-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "L2 Lakad (2025)",
-    "url": "https://lk-hdx.com/l2-lakad-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/12/L2-Lakad-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b50abfe323a1d9bc2cd11686c9b5830b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b50abfe323a1d9bc2cd11686c9b5830b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/12/L2-Lakad-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Infinitely Polar Bear (2014) พ่อคนนี้ ดีที่สุด",
