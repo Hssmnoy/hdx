@@ -20223,153 +20223,429 @@
   },
   {
     "title": "A Quiet Place Part 2 (2020) ดินแดนไร้เสียง ภาค 2",
-    "url": "https://lk-hdx.com/a-quiet-place-part-2-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Quiet-Place-Part-2-2020-ดินแดนไร้เสียง-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f3c6439ed2f9b9c1c6b41c150c1ca512/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f3c6439ed2f9b9c1c6b41c150c1ca512"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Quiet-Place-Part-2-2020-ดินแดนไร้เสียง-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Quiet Place 1 (2018) ดินแดนไร้เสียง ภาค 1",
-    "url": "https://lk-hdx.com/a-quiet-place-1-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Quiet-Place-1-2018-ดินแดนไร้เสียง-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b773c07be5bc54d59a7641da6574259f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b773c07be5bc54d59a7641da6574259f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Quiet-Place-1-2018-ดินแดนไร้เสียง-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kingdom of Heaven (2005) มหาศึกกู้แผ่นดิน",
-    "url": "https://lk-hdx.com/kingdom-of-heaven-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Kingdom-of-Heaven-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d362637ed2368fee2f7fd60f49ade53/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d362637ed2368fee2f7fd60f49ade53"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Kingdom-of-Heaven-2005-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Gentlemen (2020) สุภาพบุรุษมาหากัญ",
-    "url": "https://lk-hdx.com/the-gentlemen-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Gentlemen-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/290d13f944dc120b5a0101b8177d7c8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/290d13f944dc120b5a0101b8177d7c8f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/01/The-Gentlemen-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง",
-    "url": "https://lk-hdx.com/the-shawshank-redemption-1994/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Shawshank-Redemption-1994-ชอว์แชงค์-มิตรภาพ-ความหวัง-ความรุนแรง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_T83IxCxHp"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Shawshank-Redemption-1994-ชอว์แชงค์-มิตรภาพ-ความหวัง-ความรุนแรง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Call Me by Your Name (2017) เรียกฉันด้วยชื่อฉัน",
-    "url": "https://lk-hdx.com/call-me-by-your-name-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Call-Me-by-Your-Name-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/157433d0026f12cca5c131436022c92d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/157433d0026f12cca5c131436022c92d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Call-Me-by-Your-Name-2017-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Forrest Gump (1994) ฟอร์เรสท์ กัมพ์ อัจฉริยะปัญญานิ่ม",
-    "url": "https://lk-hdx.com/forrest-gump-1994/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Forrest-Gump-1994-ฟอร์เรสท์-กัมพ์-อัจฉริยะปัญญานิ่ม-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/pE20b_CSvQ"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Forrest-Gump-1994-ฟอร์เรสท์-กัมพ์-อัจฉริยะปัญญานิ่ม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rush Hour 3 (2007) คู่ใหญ่ฟัดเต็มสปีด ภาค 3",
-    "url": "https://lk-hdx.com/rush-hour-3-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Rush-Hour-3-2007--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b3dcd0abac2cd606e9b7e69bf64c182e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b3dcd0abac2cd606e9b7e69bf64c182e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Rush-Hour-3-2007--165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rush Hour 2 (2001) คู่ใหญ่ฟัดเต็มสปีด ภาค 2",
-    "url": "https://lk-hdx.com/rush-hour-2-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Rush-Hour-2-2001-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/DTnb9_ALDY"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Rush-Hour-2-2001-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rush Hour 1 (1998) คู่ใหญ่ฟัดเต็มสปีด ภาค 1",
-    "url": "https://lk-hdx.com/rush-hour-1-1998/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Rush-Hour-1-1998-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0013e52f3ad61be24c7343a7c092c95f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0013e52f3ad61be24c7343a7c092c95f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Rush-Hour-1-1998-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Call of the Wild (2020) เสียงเพรียกจากพงไพร",
-    "url": "https://lk-hdx.com/the-call-of-the-wild-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Call-of-the-Wild-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/74d63e8f7efdb98cc100edd588192660/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74d63e8f7efdb98cc100edd588192660"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Call-of-the-Wild-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beverly Hills Cop Axel F (2024) โปลิศจับตำรวจ เอ็กเซล เอฟ",
-    "url": "https://lk-hdx.com/beverly-hills-cop-axel-f-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3bbcbc8b943e84740be17ef9bee3f25c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3bbcbc8b943e84740be17ef9bee3f25c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Life After Fighting (2024)",
-    "url": "https://lk-hdx.com/life-after-fighting-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Life-After-Fighting-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/LL_oCJOUpI"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Life-After-Fighting-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pacific Rim 1 (2013) แปซิฟิค ริม สงครามอสูรเหล็ก",
-    "url": "https://lk-hdx.com/pacific-rim-1-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Pacific-Rim-1-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b5fddaf17b9210f7a7ab0481c9a7d15e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5fddaf17b9210f7a7ab0481c9a7d15e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Pacific-Rim-1-2013-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shame (2011) ดับไม่ไหว ไฟอารมณ์",
-    "url": "https://lk-hdx.com/shame-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Shame-2011-ดับไม่ไหว-ไฟอารมณ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7e23752f2110a2e7341708c8cdaa2449/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e23752f2110a2e7341708c8cdaa2449"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Shame-2011-ดับไม่ไหว-ไฟอารมณ์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beauty And The Beast (2017) โฉมงามกับเจ้าชายอสูร",
-    "url": "https://lk-hdx.com/beauty-and-the-beast-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/152ae19ba554ae2b6a947cddba3e6a7a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/152ae19ba554ae2b6a947cddba3e6a7a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jailbait (2014) ผู้หญิงขังโหด",
-    "url": "https://lk-hdx.com/jailbait-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Jailbait-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d0e898f0aee7550529091c6b23373f65/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d0e898f0aee7550529091c6b23373f65"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Jailbait-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Unfaithful (2002) อันเฟธฟูล ชู้มรณะ",
-    "url": "https://lk-hdx.com/unfaithful-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Unfaithful-2002-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/716ab1591abc62ffdcb4fe7b8767d41e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/716ab1591abc62ffdcb4fe7b8767d41e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Unfaithful-2002-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Little Mermaid (2018) เงือกน้อยผจญภัย",
-    "url": "https://lk-hdx.com/the-little-mermaid-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Little-Mermaid-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/268339f16a37e0de038120d6f9d2ce0a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/268339f16a37e0de038120d6f9d2ce0a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Little-Mermaid-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Tomorrow War (2021) ข้ามเวลา หยุดโลกวินาศ",
-    "url": "https://lk-hdx.com/the-tomorrow-war-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Tomorrow-War-2021-ข้ามเวลา-หยุดโลกวินาศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fa1c016542c3e9f430b10455c47130db/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa1c016542c3e9f430b10455c47130db"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/The-Tomorrow-War-2021-ข้ามเวลา-หยุดโลกวินาศ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Deathly Hallows Part 1 (2010) แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมฑูต ภาค 7.1",
-    "url": "https://lk-hdx.com/harry-potter-and-the-deathly-hallows-part-1-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Deathly-Hallows-Part-1-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4503d9aad5178055817d825efcef4aa8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4503d9aad5178055817d825efcef4aa8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Deathly-Hallows-Part-1-2010-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Half Blood Prince (2009) แฮร์รี่ พอตเตอร์กับเจ้าชายเลือดผสม ภาค 6",
-    "url": "https://lk-hdx.com/harry-potter-and-the-half-blood-prince-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Half-Blood-Prince-2009-แฮร์รี่-พอตเตอร์กับเจ้าชายเลือดผสม-ภาค-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4ea8733a20389efda4dccfdc9492f191/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4ea8733a20389efda4dccfdc9492f191"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Half-Blood-Prince-2009-แฮร์รี่-พอตเตอร์กับเจ้าชายเลือดผสม-ภาค-6-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Order of the Phoenix (2007) แฮร์รี่ พอตเตอร์กับภาคีนกฟีนิกซ์ ภาค 5",
-    "url": "https://lk-hdx.com/harry-potter-and-the-order-of-the-phoenix-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Order-of-the-Phoenix-2007-แฮร์รี่-พอตเตอร์กับภาคีนกฟีนิกซ์-ภาค-5-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/401cd4f2e99a4e50f0474f1c665eda2f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/401cd4f2e99a4e50f0474f1c665eda2f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Order-of-the-Phoenix-2007-แฮร์รี่-พอตเตอร์กับภาคีนกฟีนิกซ์-ภาค-5-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Goblet of Fire (2005) แฮร์รี่ พอตเตอร์กับถ้วยอัคนี ภาค 4",
-    "url": "https://lk-hdx.com/harry-potter-and-the-goblet-of-fire-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Goblet-of-Fire-2005-แฮร์รี่-พอตเตอร์กับถ้วยอัคนี-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_kbtrm7slx"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Goblet-of-Fire-2005-แฮร์รี่-พอตเตอร์กับถ้วยอัคนี-ภาค-4-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Prisoner of Azkaban (2004) แฮร์รี่ พอตเตอร์กับนักโทษแห่งอัซคาบัน ภาค 3",
-    "url": "https://lk-hdx.com/harry-potter-and-the-prisoner-of-azkaban-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Prisoner-of-Azkaban-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/liIyZ52t_Q"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Prisoner-of-Azkaban-2004-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter 2 and the Chamber of Secrets (2002) แฮร์รี่ พอตเตอร์ ภาค 2 กับห้องแห่งความลับ",
-    "url": "https://lk-hdx.com/harry-potter-2-and-the-chamber-of-secrets/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-2-and-the-Chamber-of-Secrets-2002-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/20d5d52e9d9b7817d1463a6b2ef2c04f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/20d5d52e9d9b7817d1463a6b2ef2c04f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-2-and-the-Chamber-of-Secrets-2002-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Sorcerer’s Stone (2001) แฮร์รี่ พอตเตอร์กับศิลาอาถรรพ์ ภาค 1",
-    "url": "https://lk-hdx.com/harry-potter-and-the-sorcerers-stone-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Sorcerers-Stone-2001-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/786fd0aca7868c44de809ac0a4f15639/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/786fd0aca7868c44de809ac0a4f15639"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Harry-Potter-and-the-Sorcerers-Stone-2001-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ocean’s Thirteen (2007) 13 เซียนปล้นเหนือเมฆ",
-    "url": "https://lk-hdx.com/oceans-thirteen-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Oceans-Thirteen-2007--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b5977bc352fd87ef0381bf38da56ad06/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5977bc352fd87ef0381bf38da56ad06"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Oceans-Thirteen-2007--165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ocean’s Twelve (2004) 12 มงกุฎ ปล้นสุดโลก",
-    "url": "https://lk-hdx.com/oceans-twelve-2004/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Oceans-Twelve-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9e11f8b16ac3d9a16f92222676e279c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9e11f8b16ac3d9a16f92222676e279c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Oceans-Twelve-2004-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ocean’s Eleven (2001) 11 คนเหนือเมฆปล้นลอกคราบเมือง",
-    "url": "https://lk-hdx.com/oceans-eleven-2001/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Oceans-Eleven-2001--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7b7063f9ad049a9093ee7d72c67df531/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7b7063f9ad049a9093ee7d72c67df531"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Oceans-Eleven-2001--165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Intouchables (2011) ด้วยใจแห่งมิตร พิชิตทุกสิ่ง",
