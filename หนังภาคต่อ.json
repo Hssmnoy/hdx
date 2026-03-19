@@ -1315,153 +1315,441 @@
   },
   {
     "title": "The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2",
-    "url": "https://lk-hdx.com/the-old-guard-2-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/730eb2b6136d0e87838655fa760eb86b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/730eb2b6136d0e87838655fa760eb86b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Old Guard (2020) ดิ โอลด์ การ์ด",
-    "url": "https://lk-hdx.com/the-old-guard-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Old-Guard-2020-ดิ-โอลด์-การ์ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8f6fab3faa892be96ee19fcd22aed12c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8f6fab3faa892be96ee19fcd22aed12c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Old-Guard-2020-ดิ-โอลด์-การ์ด-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "M3gan (2023) เมแกน",
-    "url": "https://lk-hdx.com/m3gan-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/M3gan-2023-เมแกน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1448c666401b4544ac0fba3814b87159/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1448c666401b4544ac0fba3814b87159"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/M3gan-2023-เมแกน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "อัจฉริยะคนบัญชีเพชฌฆาต ภาค 2 The Accountant 2 (2025)",
-    "url": "https://lk-hdx.com/the-accountant-2/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/04/The-Accountant-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a30b8805d37647e3986f168d8995c47a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a30b8805d37647e3986f168d8995c47a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/04/The-Accountant-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "28 Weeks Later (2007) มหันตภัยเชื้อนรกถล่มเมือง",
-    "url": "https://lk-hdx.com/28-weeks-later-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/28-Weeks-Later-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8403496c14d5f08809df3357ab044b51/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8403496c14d5f08809df3357ab044b51"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/28-Weeks-Later-2007-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",
-    "url": "https://lk-hdx.com/28-days-later-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/05/28-Days-Later-2002-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/63525f7e0e327de873eaaa836d87f80d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63525f7e0e327de873eaaa836d87f80d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/05/28-Days-Later-2002-165x248.jpeg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Final Destination Bloodlines (2025) ไฟนอล เดสติเนชั่น ทายาทโกงตาย",
-    "url": "https://lk-hdx.com/final-destination-bloodlines-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/fbf1e9bf25ba3d9ec4e8538a1acefe9f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fbf1e9bf25ba3d9ec4e8538a1acefe9f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Justice League Crisis on Infinite Earths – Part Two (2024)",
-    "url": "https://lk-hdx.com/justice-league-crisis-on-infinite-earths-part-two-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Justice-League-Crisis-on-Infinite-Earths-–-Part-Two-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/abfd52d0f09d91e25bfa527287223a29/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/abfd52d0f09d91e25bfa527287223a29"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/06/Justice-League-Crisis-on-Infinite-Earths-–-Part-Two-2024-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Justice League Crisis on Infinite Earths – Part One (2024)",
-    "url": "https://lk-hdx.com/justice-league-crisis-on-infinite-earths-part-one-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/06/Justice-League-Crisis-on-Infinite-Earths-–-Part-One-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/112eb981787c72309ff731c5524b7636/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/112eb981787c72309ff731c5524b7636"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/06/Justice-League-Crisis-on-Infinite-Earths-–-Part-One-2024-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lake Placid Legacy (2018) โคตรเคี่ยมบึงนรก ภาค 6",
-    "url": "https://lk-hdx.com/lake-placid-legacy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-Legacy-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0704bce967ad5df7777dc45821585d94/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0704bce967ad5df7777dc45821585d94"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-Legacy-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lake Placid vs. Anaconda (2015) โคตรเคี่ยม ปะทะ อนาคอนด้า ภาค 5",
-    "url": "https://lk-hdx.com/lake-placid-vs-anaconda-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-vs.-Anaconda-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ac044f1615234935265928befb3292c3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac044f1615234935265928befb3292c3"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-vs.-Anaconda-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lake Placid 4 The Final Chapter (2012) โคตรเคี่ยมบึงนรก ภาค 4",
-    "url": "https://lk-hdx.com/lake-placid-4-the-final-chapter-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-4-The-Final-Chapter-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ac87cf7df5f72634b1585e8df0e4e347/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac87cf7df5f72634b1585e8df0e4e347"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-4-The-Final-Chapter-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lake Placid 3 (2010) โคตรเคี่ยมบึงนรก ภาค 3",
-    "url": "https://lk-hdx.com/lake-placid-3-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Ea_eKVXAE5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lake Placid 2 (2007) โคตรเคี้ยมบึงนรก ภาค 2",
-    "url": "https://lk-hdx.com/lake-placid-2-2007/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/50a4bcc4cb956ed9e85c1e4c7db27b7e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/50a4bcc4cb956ed9e85c1e4c7db27b7e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Lake Placid 1 (1999) แลคตาซิด โคตรเคี่ยม ภาค 1",
-    "url": "https://lk-hdx.com/lake-placid-1-1999/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d4173db1fd80e1e9304d1d7ed83e8fe7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d4173db1fd80e1e9304d1d7ed83e8fe7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Journey 2 The Mysterious Island (2012) เจอร์นีย์ ภาค 2 พิชิตเกาะพิศวงอัศจรรย์สุดโลก",
-    "url": "https://lk-hdx.com/journey-2-the-mysterious-island-2012/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6b6b4c092fe95b9932645499041bdc47/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b6b4c092fe95b9932645499041bdc47"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Journey 1 to the Center of the Earth (2008) เจอร์นีย์ ภาค 1 ดิ่งทะลุสะดือโลก",
-    "url": "https://lk-hdx.com/journey-1-to-the-center-of-the-earth-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/160428758700fc132080a9aa6b6616a0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/160428758700fc132080a9aa6b6616a0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Fear Street Prom Queen (2025) ถนนอาถรรพ์ ราชินีงานพรอม",
-    "url": "https://lk-hdx.com/fear-street-prom-queen-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Fear-Street-Prom-Queen-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9c781a5cc937f3e64ff756be9865d54c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c781a5cc937f3e64ff756be9865d54c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Fear-Street-Prom-Queen-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Final Destination 5 (2011) โกงตายสุดขีด ภาค 5",
-    "url": "https://lk-hdx.com/final-destination-5-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-5-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/GN_JP4oey9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-5-2011-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Final Destination 4 (2009) โกงตาย ทะลุตาย ภาค 4",
-    "url": "https://lk-hdx.com/the-final-destination-4-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Final-Destination-4-2009-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/625bbe6c70d9d0a0263f1a57d4f12a85/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/625bbe6c70d9d0a0263f1a57d4f12a85"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/The-Final-Destination-4-2009-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Final Destination 3 (2006) โกงความตาย เย้ยความตาย ภาค 3",
-    "url": "https://lk-hdx.com/final-destination-3-2006/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-3-2006-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/84af368e960cf8c71de46faf2d7f5d3e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/84af368e960cf8c71de46faf2d7f5d3e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-3-2006-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Final Destination 2 (2003) โกงความตาย แล้วต้องตาย ภาค 2",
-    "url": "https://lk-hdx.com/final-destination-2-2003/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-2-2003-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/06da7ef61dec126182fd531efbe16745/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/06da7ef61dec126182fd531efbe16745"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-2-2003-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Final Destination 1 (2000) เจ็ดต้องตาย โกงความตาย ภาค 1",
-    "url": "https://lk-hdx.com/final-destination-1-2000/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-1-2000-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/106fa1104db830ce122040af1035178b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/106fa1104db830ce122040af1035178b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/06/Final-Destination-1-2000-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิเบิ้ล ภาค 7 ล่าพิกัดมรณะ ตอนที่หนึ่ง",
-    "url": "https://lk-hdx.com/mission-impossible-7-dead-reckoning-part-one/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Mission-Impossible-7-Dead-Reckoning-Part-One-2023-มิชชั่น-อิมพอสซิเบิ้ล-ภาค-7-ล่าพิกัดมรณะ-ตอนที่หนึ่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_uvs4btyu6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Mission-Impossible-7-Dead-Reckoning-Part-One-2023-มิชชั่น-อิมพอสซิเบิ้ล-ภาค-7-ล่าพิกัดมรณะ-ตอนที่หนึ่ง-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "The Hitman’s Wife’s Bodyguard (2021) แสบ ซ่าส์ แบบว่าบอดี้การ์ด ภาค 2",
-    "url": "https://lk-hdx.com/the-hitmans-wifes-bodyguard/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hitmans-Wifes-Bodyguard-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7dd9a2162069e97e2338b6a9fb06b9bc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7dd9a2162069e97e2338b6a9fb06b9bc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/The-Hitmans-Wifes-Bodyguard-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Avengers 3 Infinity War (2018) อเวนเจอร์ส ภาค 3 มหาสงครามล้างจักรวาล",
-    "url": "https://lk-hdx.com/avengers-3-infinity-war-2018-%e0%b8%ad%e0%b9%80%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-%e0%b8%a0%e0%b8%b2%e0%b8%84-3/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Avengers-3-Infinity-War-2018-อเวนเจอร์ส-ภาค-3-มหาสงครามล้างจักรวาล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e8e686a8e7be13f2969ca722b054da0d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e8e686a8e7be13f2969ca722b054da0d"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Avengers-3-Infinity-War-2018-อเวนเจอร์ส-ภาค-3-มหาสงครามล้างจักรวาล-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา",
-    "url": "https://lk-hdx.com/detective-chinatown-1900-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Detective-Chinatown-1900-2025-แก๊งม่วนป่วนอเมริกา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f6d99e8f756a27dca9907513b6f272aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f6d99e8f756a27dca9907513b6f272aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Detective-Chinatown-1900-2025-แก๊งม่วนป่วนอเมริกา-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Feast III The Happy Finish (2009) พันธุ์ขย้ำเขี้ยวเขมือบโลก ภาค 3",
-    "url": "https://lk-hdx.com/feast-iii-the-happy-finish-2009/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Feast-III-The-Happy-Finish-2009-พันธุ์ขย้ำเขี้ยวเขมือบโลก-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aedb5e08fa27d9e2e9fe7d218d011878/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aedb5e08fa27d9e2e9fe7d218d011878"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Feast-III-The-Happy-Finish-2009-พันธุ์ขย้ำเขี้ยวเขมือบโลก-ภาค-3-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Feast II Sloppy Seconds (2008) พันธุ์ขย้ำเขี้ยวเขมือบโลก ภาค 2",
-    "url": "https://lk-hdx.com/feast-ii-sloppy-seconds-2008/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/05/Feast-II-Sloppy-Seconds-2008-พันธุ์ขย้ำเขี้ยวเขมือบโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9f30cee7800a4fef77d1267d7623b870/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9f30cee7800a4fef77d1267d7623b870"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/05/Feast-II-Sloppy-Seconds-2008-พันธุ์ขย้ำเขี้ยวเขมือบโลก-ภาค-2-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Feast (2005) พันธุ์ขย้ำ เขี้ยวเขมือบโลก",
-    "url": "https://lk-hdx.com/feast-2005/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/04/Feast-2005-พันธุ์ขย้ำ-เขี้ยวเขมือบโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/954053c41fa0a5c9318d613be9607555/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/954053c41fa0a5c9318d613be9607555"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2024/04/Feast-2005-พันธุ์ขย้ำ-เขี้ยวเขมือบโลก-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "Frozen 2 (2019) โฟรเซ่น ภาค 2 ผจญภัยปริศนาราชินีหิมะ",
