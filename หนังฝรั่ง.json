@@ -29214,152 +29214,440 @@
   {
     "title": "Oxygen (2021) ออกซิเจน",
     "url": "https://lk-hdx.com/oxygen-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Oxygen-2021-ออกซิเจน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Oxygen-2021-ออกซิเจน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6a90d198ab3572018bae43458c57481e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6a90d198ab3572018bae43458c57481e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Final Shot (2018) นัดสุดท้าย",
     "url": "https://lk-hdx.com/final-shot-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Final-Shot-2018-นัดสุดท้าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Final-Shot-2018-นัดสุดท้าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e50412cfb27d74632d51bbed19d51885"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e50412cfb27d74632d51bbed19d51885/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Love (2015) ความรัก",
     "url": "https://lk-hdx.com/love-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Love-2015-ความรัก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Love-2015-ความรัก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5f7caf10fb0fd9f364624c68c617756f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5f7caf10fb0fd9f364624c68c617756f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Never Back Down No Surrender (2016) เจ้าสังเวียน",
     "url": "https://lk-hdx.com/never-back-down-no-surrender-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1b0031651b09efe6e36b5ec0ba6c527e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1b0031651b09efe6e36b5ec0ba6c527e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Fahrenheit 451 (2018) ฟาเรนไฮต์",
     "url": "https://lk-hdx.com/fahrenheit-451-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fahrenheit-451-2018-ฟาเรนไฮต์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Fahrenheit-451-2018-ฟาเรนไฮต์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9453e3b58117f9405a5802f737002ab3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9453e3b58117f9405a5802f737002ab3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Race (2016) ต้องกล้าวิ่ง",
     "url": "https://lk-hdx.com/race-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Race-2016-ต้องกล้าวิ่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Race-2016-ต้องกล้าวิ่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/56e95dcb08543f7a1ffeffde931cb709"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/56e95dcb08543f7a1ffeffde931cb709/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Risen (2016) กำเนิดใหม่แห่งศรัทธา",
     "url": "https://lk-hdx.com/risen-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Risen-2016-กำเนิดใหม่แห่งศรัทธา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Risen-2016-กำเนิดใหม่แห่งศรัทธา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/fe95c4d1665a00bdf244e0ad2973fbb2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/fe95c4d1665a00bdf244e0ad2973fbb2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Lost in the Sun (2015) เพื่อนแท้บนทางเถื่อน",
     "url": "https://lk-hdx.com/lost-in-the-sun-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lost-in-the-Sun-2015-เพื่อนแท้บนทางเถื่อน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Lost-in-the-Sun-2015-เพื่อนแท้บนทางเถื่อน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ef5e073907b748077e4b9cdcbaf06786"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ef5e073907b748077e4b9cdcbaf06786/master.m3u8"
+      }
+    ]
   },
   {
     "title": "She Said (2022) เสียงเงียบของเธอ",
     "url": "https://lk-hdx.com/she-said-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/She-Said-2022-เสียงเงียบของเธอ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/She-Said-2022-เสียงเงียบของเธอ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/707b45e91e3fc749df5356f1be7baa78"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/707b45e91e3fc749df5356f1be7baa78/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Spin Me Round (2022)",
     "url": "https://lk-hdx.com/spin-me-round-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Spin-Me-Round-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Spin-Me-Round-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ac1d82e5dddbb2ffcd206b86c4fea0ac"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ac1d82e5dddbb2ffcd206b86c4fea0ac/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Summertime Dropouts (2022)",
     "url": "https://lk-hdx.com/summertime-dropouts-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Summertime-Dropouts-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Summertime-Dropouts-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/688f63d4c230d209f4d06060e0e31dac"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/688f63d4c230d209f4d06060e0e31dac/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Chris Watts Confessions of a Killer (2020)",
     "url": "https://lk-hdx.com/chris-watts-confessions-of-a-killer-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Chris-Watts-Confessions-of-a-Killer-2020-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Chris-Watts-Confessions-of-a-Killer-2020-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6b1b7f598ad0dd1e9d73562b0feb2750"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6b1b7f598ad0dd1e9d73562b0feb2750/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Double Life (2023)",
     "url": "https://lk-hdx.com/double-life-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Double-Life-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Double-Life-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a95735809eedd5d5cafad88cbaf4afde"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a95735809eedd5d5cafad88cbaf4afde/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Project Almanac (2015) กล้า ซ่าส์ ท้าเวลา",
     "url": "https://lk-hdx.com/project-almanac-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Project-Almanac-2015-กล้า-ซ่าส์-ท้าเวลา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Project-Almanac-2015-กล้า-ซ่าส์-ท้าเวลา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a795e73b2a78212f45bc60b02aa18442"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a795e73b2a78212f45bc60b02aa18442/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Anti Life (2020)",
     "url": "https://lk-hdx.com/anti-life-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Anti-Life-2020-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Anti-Life-2020-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a93dba8d9f8b920863fe86b74a00c98a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a93dba8d9f8b920863fe86b74a00c98a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Badland (2019) แบดแลนด์",
     "url": "https://lk-hdx.com/badland-2019/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Badland-2019-แบดแลนด์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Badland-2019-แบดแลนด์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/912a3ca2bc2fa772572feda84448e972"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/912a3ca2bc2fa772572feda84448e972/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Section 8 (2022)",
     "url": "https://lk-hdx.com/section-8-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Section-8-2022-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Section-8-2022-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/11c6a883c5d4a6ada027e6f16f643228"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/11c6a883c5d4a6ada027e6f16f643228/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Dolittle (2020) ด็อกเตอร์ ดูลิตเติ้ล",
     "url": "https://lk-hdx.com/dolittle-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dolittle-2020-ด็อกเตอร์-ดูลิตเติ้ล-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Dolittle-2020-ด็อกเตอร์-ดูลิตเติ้ล-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/R1J4Nb8_5B"
+      }
+    ]
   },
   {
     "title": "Through My Window 3 Looking at You (2024) รักผ่านหน้าต่าง ดวงตาจ้องมองเธอ",
     "url": "https://lk-hdx.com/through-my-window-3-looking-at-you-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Qwi_mYlnVk"
+      }
+    ]
   },
   {
     "title": "Mea Culpa (2024) ทนายคดีฆ่า",
     "url": "https://lk-hdx.com/mea-culpa-2024/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mea-Culpa-2024-ทนายคดีฆ่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Mea-Culpa-2024-ทนายคดีฆ่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/3e037a73a7532dedca5d0c24f443d2a1"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/3e037a73a7532dedca5d0c24f443d2a1/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Hideo Kojima Connecting Worlds (2023)",
     "url": "https://lk-hdx.com/hideo-kojima-connecting-worlds-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hideo-Kojima-Connecting-Worlds-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Hideo-Kojima-Connecting-Worlds-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b7c9e16a6938d9a246050e6a1ba5a3b9"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b7c9e16a6938d9a246050e6a1ba5a3b9/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Greyhound (2020) เกรย์ฮาวด",
     "url": "https://lk-hdx.com/greyhound-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Greyhound-2020-เกรย์ฮาวด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Greyhound-2020-เกรย์ฮาวด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b68c403882c006a58daf73b1d5e3ef65"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b68c403882c006a58daf73b1d5e3ef65/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Imitation Game (2014) ถอดรหัสลับ อัจฉริยะพลิกโลก",
     "url": "https://lk-hdx.com/the-imitation-game-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Imitation-Game-2014-ถอดรหัสลับ-อัจฉริยะพลิกโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Imitation-Game-2014-ถอดรหัสลับ-อัจฉริยะพลิกโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/59acf506ab377249fdcbf1d690188ad6"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/59acf506ab377249fdcbf1d690188ad6/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Numbers Station (2013) รหัสลับดับหัวจารชน",
     "url": "https://lk-hdx.com/the-numbers-station-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Numbers-Station-2013-รหัสลับดับหัวจารชน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Numbers-Station-2013-รหัสลับดับหัวจารชน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b04decc30bd5b3cc579019e681e532dc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b04decc30bd5b3cc579019e681e532dc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Last Man Down (2021)",
     "url": "https://lk-hdx.com/last-man-down-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Last-Man-Down-2021-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Last-Man-Down-2021-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/1f72a8fde814c86f09c3d74adb998b83"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/1f72a8fde814c86f09c3d74adb998b83/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Wolf Of Wall Street (2013) คนจะรวย ช่วยไม่ได้",
     "url": "https://lk-hdx.com/the-wolf-of-wall-street-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Wolf-Of-Wall-Street-2013-คนจะรวย-ช่วยไม่ได้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/The-Wolf-Of-Wall-Street-2013-คนจะรวย-ช่วยไม่ได้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/5020af297201eb19e9cd37d9232e2197"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/5020af297201eb19e9cd37d9232e2197/master.m3u8"
+      }
+    ]
   },
   {
     "title": "No Habra Paz Para Los Malvados (2011) ภารกิจเพชรเด็ดหัวมือระเบิด",
     "url": "https://lk-hdx.com/no-habra-paz-para-los-malvados-2011/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/No-Habra-Paz-Para-Los-Malvados-2011-ภารกิจเพชรเด็ดหัวมือระเบิด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/No-Habra-Paz-Para-Los-Malvados-2011-ภารกิจเพชรเด็ดหัวมือระเบิด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f804d3a5ed08052499218a184acbb136"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f804d3a5ed08052499218a184acbb136/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Cut Throat City (2020)",
     "url": "https://lk-hdx.com/cut-throat-city-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Cut-Throat-City-2020-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Cut-Throat-City-2020-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/OKyHgajW_B"
+      }
+    ]
   },
   {
     "title": "Infinite (2021) อินฟินิท",
     "url": "https://lk-hdx.com/infinite-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Infinite-2021-อินฟินิท-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2024/02/Infinite-2021-อินฟินิท-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/8b941ad18f26a0fc5b530a7ae92dec65"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/8b941ad18f26a0fc5b530a7ae92dec65/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Machine (2023)",
     "url": "https://lk-hdx.com/the-machine-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Machine-2023-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Machine-2023-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f7e0484a1e1b94263d9ab4144c1805fd"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f7e0484a1e1b94263d9ab4144c1805fd/master.m3u8"
+      }
+    ]
   },
   {
     "title": "9 Bullets (2022) 9 บลูเลท",
