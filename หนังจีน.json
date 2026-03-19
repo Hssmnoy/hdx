@@ -9916,152 +9916,424 @@
   {
     "title": "Dream Hunting (2020) นักล่าฆ่าฝัน",
     "url": "https://lk-hdx.com/dream-hunting-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dream-Hunting-2020-นักล่าฆ่าฝัน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Dream-Hunting-2020-นักล่าฆ่าฝัน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/b53d035d32dea8d52852623a38f41cc0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/b53d035d32dea8d52852623a38f41cc0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Chasing The Dragon (2020) ตามล่ามังกรตอนสารวัตรพันล้านดอลลาร์",
     "url": "https://lk-hdx.com/chasing-the-dragon-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Chasing-The-Dragon-2020-ตามล่ามังกรตอนสารวัตรพันล้านดอลลาร์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Chasing-The-Dragon-2020-ตามล่ามังกรตอนสารวัตรพันล้านดอลลาร์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/981f084c0e6d7273079d272102c66c2d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/981f084c0e6d7273079d272102c66c2d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bounty Hunters (2016) โอปป้า ล่าค่าหัว",
     "url": "https://lk-hdx.com/bounty-hunters-2016/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bounty-Hunters-2016-โอปป้า-ล่าค่าหัว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bounty-Hunters-2016-โอปป้า-ล่าค่าหัว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/DAZlz_MNzP"
+      }
+    ]
   },
   {
     "title": "Always Be with You (2017) สัมผัสมรณะ",
     "url": "https://lk-hdx.com/always-be-with-you-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Always-Be-with-You-2017-สัมผัสมรณะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Always-Be-with-You-2017-สัมผัสมรณะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/vIc4c_owCM"
+      }
+    ]
   },
   {
     "title": "A Journey to Tang (2018) ฝ่ามิติทะลุต้าถัง",
     "url": "https://lk-hdx.com/a-journey-to-tang-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Journey-to-Tang-2018-ฝ่ามิติทะลุต้าถัง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Journey-to-Tang-2018-ฝ่ามิติทะลุต้าถัง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/d8995423591ab20b1918a114fcb7a981"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/d8995423591ab20b1918a114fcb7a981/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Big Talk God Catcher (2021) มือปราบผี",
     "url": "https://lk-hdx.com/big-talk-god-catcher-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Big-Talk-God-Catcher-2021-มือปราบผี-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Big-Talk-God-Catcher-2021-มือปราบผี-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6ad324ea34a3ff937d6c92cbd0571b01"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6ad324ea34a3ff937d6c92cbd0571b01/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Beauty Of Tang Men (2021) จอมนางแห่งถังเหมิน",
     "url": "https://lk-hdx.com/beauty-of-tang-men-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Beauty-Of-Tang-Men-2021-จอมนางแห่งถังเหมิน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Beauty-Of-Tang-Men-2021-จอมนางแห่งถังเหมิน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/ae97dc69698459a174471a7907680f3f"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/ae97dc69698459a174471a7907680f3f/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Awakened Demon (2021) มารน้อยไซอิ๋ว",
     "url": "https://lk-hdx.com/awakened-demon-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Awakened-Demon-2021-มารน้อยไซอิ๋ว-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Awakened-Demon-2021-มารน้อยไซอิ๋ว-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c7099db4163b109ef31c454830b66a8a"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c7099db4163b109ef31c454830b66a8a/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The King of Sniper in Northeast (2022) มือปืนแห่งหูหยา",
     "url": "https://lk-hdx.com/the-king-of-sniper-in-northeast-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-King-of-Sniper-in-Northeast-2022-มือปืนแห่งหูหยา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-King-of-Sniper-in-Northeast-2022-มือปืนแห่งหูหยา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/a7a4ee28f79fa422f379f50fc5542aac"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/a7a4ee28f79fa422f379f50fc5542aac/master.m3u8"
+      }
+    ]
   },
   {
     "title": "A Piggy Love Story (2021) รักแรกของตือโป๊ยก่าย",
     "url": "https://lk-hdx.com/a-piggy-love-story-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Piggy-Love-Story-2021-รักแรกของตือโป๊ยก่าย-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/A-Piggy-Love-Story-2021-รักแรกของตือโป๊ยก่าย-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6652980404b323f6171aaa6a8942c326"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6652980404b323f6171aaa6a8942c326/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Zombie Chickadee (2022) นกซอมบี้",
     "url": "https://lk-hdx.com/zombie-chickadee-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombie-Chickadee-2022-นกซอมบี้-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Zombie-Chickadee-2022-นกซอมบี้-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e51453b3661cf42ef42ace61918cfa57"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e51453b3661cf42ef42ace61918cfa57/master.m3u8"
+      }
+    ]
   },
   {
     "title": "The Town of Ghosts (2022) เมืองผีห่า",
     "url": "https://lk-hdx.com/the-town-of-ghosts-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Town-of-Ghosts-2022-เมืองผีห่า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/The-Town-of-Ghosts-2022-เมืองผีห่า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/QoVv_Jomhk"
+      }
+    ]
   },
   {
     "title": "Revenge Girl (2022) สวยมรณะ",
     "url": "https://lk-hdx.com/revenge-girl-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Revenge-Girl-2022-สวยมรณะ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Revenge-Girl-2022-สวยมรณะ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c3ca8d9e18882aef14a324ff06132fdc"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c3ca8d9e18882aef14a324ff06132fdc/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Rising Boas In A Girls School (2022) เลื้อยสยอง อสรพิษบุก",
     "url": "https://lk-hdx.com/rising-boas-in-a-girls-school-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Rising-Boas-In-A-Girls-School-2022-เลื้อยสยอง-อสรพิษบุก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Rising-Boas-In-A-Girls-School-2022-เลื้อยสยอง-อสรพิษบุก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e65c28fad877d2b8bd84088359041b97"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e65c28fad877d2b8bd84088359041b97/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Escape of Shark (2021) โคตรฉลามคลั่ง",
     "url": "https://lk-hdx.com/escape-of-shark-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Escape-of-Shark-2021-โคตรฉลามคลั่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Escape-of-Shark-2021-โคตรฉลามคลั่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/Gh7_MiQqCw"
+      }
+    ]
   },
   {
     "title": "As God (2020) สงครามวีรบุรุษสยบทมิฬ",
     "url": "https://lk-hdx.com/as-god-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/As-God-2020-สงครามวีรบุรุษสยบทมิฬ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/As-God-2020-สงครามวีรบุรุษสยบทมิฬ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f6667f64e898406edfdf5f5df75105a2"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f6667f64e898406edfdf5f5df75105a2/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Ameera (2014) สวยพันธุ์ดุ",
     "url": "https://lk-hdx.com/ameera-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ameera-2014-สวยพันธุ์ดุ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Ameera-2014-สวยพันธุ์ดุ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/9668e8a3c2a7e6a1b9f111c88e0512b3"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/9668e8a3c2a7e6a1b9f111c88e0512b3/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bloody Weishan Island (2021) เกาะเว่ยซานกระหายเลือด",
     "url": "https://lk-hdx.com/bloody-weishan-island-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bloody-Weishan-Island-2021-เกาะเว่ยซานกระหายเลือด-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Bloody-Weishan-Island-2021-เกาะเว่ยซานกระหายเลือด-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/tJPk_Xc8Sk"
+      }
+    ]
   },
   {
     "title": "Crazy Tsunami (2021) อสูรทะเลคลั่ง",
     "url": "https://lk-hdx.com/crazy-tsunami-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Crazy-Tsunami-2021-อสูรทะเลคลั่ง-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Crazy-Tsunami-2021-อสูรทะเลคลั่ง-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/4badc2fb4d7901f8f01cf7ed06e56d06"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/4badc2fb4d7901f8f01cf7ed06e56d06/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Devil CEO’s Contract Lover (2017) ซีอีโอปีศาจ คนรักสัญญา",
     "url": "https://lk-hdx.com/devil-ceos-contract-lover-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Devil-CEOs-Contract-Lover-2021-ซีอีโอปีศาจ-คนรักสัญญา-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Devil-CEOs-Contract-Lover-2021-ซีอีโอปีศาจ-คนรักสัญญา-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/HkVpOx_tY2"
+      }
+    ]
   },
   {
     "title": "Counterattack (2021) พยัคฆ์ระห่ำทวงแค้น",
     "url": "https://lk-hdx.com/counterattack-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Counterattack-2021-พยัคฆ์ระห่ำทวงแค้น-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Counterattack-2021-พยัคฆ์ระห่ำทวงแค้น-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7fe0efb1c8076cac2b86844c3d440356"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7fe0efb1c8076cac2b86844c3d440356/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Black White The Dawn of Justice (2014) คู่มหาประลัย ไวรัสล้างโลก",
     "url": "https://lk-hdx.com/black-white-the-dawn-of-justice-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Black-White-The-Dawn-of-Justice-2014-คู่มหาประลัย-ไวรัสล้างโลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Black-White-The-Dawn-of-Justice-2014-คู่มหาประลัย-ไวรัสล้างโลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/960c0048ba6ba4a1f4e28ae4bfc0e79e"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/960c0048ba6ba4a1f4e28ae4bfc0e79e/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Break Through (2021) ฝ่าแดนสงครามนรก",
     "url": "https://lk-hdx.com/break-through-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Break-Through-2021-ฝ่าแดนสงครามนรก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Break-Through-2021-ฝ่าแดนสงครามนรก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/6ab2489c76d8b0279d7684e3ecaad19d"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/6ab2489c76d8b0279d7684e3ecaad19d/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Break Through the Darkness (2021) ล่าระห่ำ กวาดล้างทรชน",
     "url": "https://lk-hdx.com/break-through-the-darkness-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Break-Through-the-Darkness-2021-ล่าระห่ำ-กวาดล้างทรชน-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Break-Through-the-Darkness-2021-ล่าระห่ำ-กวาดล้างทรชน-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/c8f4c6a5251231043b5b00a4ae427c09"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/c8f4c6a5251231043b5b00a4ae427c09/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Detective Chinatown 3 (2021) แก๊งม่วนป่วนโตเกียว ภาค 3",
     "url": "https://lk-hdx.com/detective-chinatown-3-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Detective-Chinatown-3-2021-แก๊งม่วนป่วนโตเกียว-ภาค-3-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Detective-Chinatown-3-2021-แก๊งม่วนป่วนโตเกียว-ภาค-3-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/7b2d11fd0082923411b8b3c4d0756678"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/7b2d11fd0082923411b8b3c4d0756678/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Detective Chinatown 1 (2015) แก๊งค์ม่วนป่วนเยาวราช ภาค 1",
     "url": "https://lk-hdx.com/detective-chinatown-1-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Detective-Chinatown-1-2015-แก๊งค์ม่วนป่วนเยาวราช-ภาค-1-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Detective-Chinatown-1-2015-แก๊งค์ม่วนป่วนเยาวราช-ภาค-1-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/e7403ab3ea103f2d03a21cd521d27f07"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/e7403ab3ea103f2d03a21cd521d27f07/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Animal World (2018) เจิ้งไค ฮีโร่เกรียนกู้โลก",
     "url": "https://lk-hdx.com/animal-world-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Animal-World-2018-เจิ้งไค-ฮีโร่เกรียนกู้โลก-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Animal-World-2018-เจิ้งไค-ฮีโร่เกรียนกู้โลก-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://player.enjoy24cdn.com/embed/j4svBlMO_f"
+      }
+    ]
   },
   {
     "title": "Detective Dee The Sly Red eye (2021) ตี๋เหรินเจี๋ย นักสืบจอมเจ้าเล่ห์",
     "url": "https://lk-hdx.com/detective-dee-the-sly-red-eye-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Detective-Dee-The-Sly-Red-eye-2021-ตี๋เหรินเจี๋ย-นักสืบจอมเจ้าเล่ห์-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Detective-Dee-The-Sly-Red-eye-2021-ตี๋เหรินเจี๋ย-นักสืบจอมเจ้าเล่ห์-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/72f0fc4103c68689cf3687fab995a3e0"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/72f0fc4103c68689cf3687fab995a3e0/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Chi Zha Feng Yun (2021) ซิ่งให้สุดหยุดที่เธอ",
     "url": "https://lk-hdx.com/chi-zha-feng-yun-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Chi-Zha-Feng-Yun-2021-ซิ่งให้สุดหยุดที่เธอ-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Chi-Zha-Feng-Yun-2021-ซิ่งให้สุดหยุดที่เธอ-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/f3b7d9bb003652a12c1c46ef6753a009"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/f3b7d9bb003652a12c1c46ef6753a009/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Legend of the Ancient Sword (2018) อภินิหารแหวนครองพิภพสยบฟ้า",
     "url": "https://lk-hdx.com/legend-of-the-ancient-sword-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Legend-of-the-Ancient-Sword-2018-อภินิหารแหวนครองพิภพสยบฟ้า-165x248.jpg"
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Legend-of-the-Ancient-Sword-2018-อภินิหารแหวนครองพิภพสยบฟ้า-165x248.jpg",
+    "servers": [
+      {
+        "type": "embed",
+        "embed": "https://enjoy24cdn.com/p2p/965b53d41658d4a873e6d77b47cbabae"
+      },
+      {
+        "type": "m3u8",
+        "m3u8": "https://enjoy24cdn.com/hlsr2/965b53d41658d4a873e6d77b47cbabae/master.m3u8"
+      }
+    ]
   },
   {
     "title": "Bad Education (2023) บทเรียน​ชั่ว",
