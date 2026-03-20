@@ -20400,5 +20400,323 @@
     ],
     "logo": "https://lk-hdx.com/wp-content/uploads/2023/08/Big-Mack-Gangsters-and-Gold-2023-lk-hd-165x248.jpg",
     "group": "Netflix"
+  },
+  {
+    "title": "The Monkey King (2023) พญาวานร",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/52333cd3ee17e6325f46325282aedfb5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/52333cd3ee17e6325f46325282aedfb5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Monkey-King-2023-พญาวานร-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Love Sex and 30 Candles (2023) รัก เซ็กส์ และเทียน 30 เล่ม",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/34adce891fabfa3b2159fd88cb5182f9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/34adce891fabfa3b2159fd88cb5182f9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Love-Sex-and-30-Candles-2023-รัก-เซ็กส์-และเทียน-30-เล่ม-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Killer Book Club (2023) ชมรมหนังสือฆาตกร",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d12684497958c054d3848d1bb227501b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d12684497958c054d3848d1bb227501b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Killer-Book-Club-2023-ชมรมหนังสือฆาตกร-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Gold Brick (2023) โกลด์บริค",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ad7aed315844fe42388531daf23cbb6c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ad7aed315844fe42388531daf23cbb6c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Gold-Brick-2023-โกลด์บริค-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Gumraah (2023) คนหน้าเหมือน",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/i_wVVbprBM"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Gumraah-2023-คนหน้าเหมือน-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Fanfik (2023)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0d8965d4fd224f28208ac4929d4d4acd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d8965d4fd224f28208ac4929d4d4acd"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Fanfik-2023-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Furies (2023) ผู้หญิงแค้นนรก",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9c93795a183f63bf3d1408bea5f8fde0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c93795a183f63bf3d1408bea5f8fde0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Furies-2023-ผู้หญิงแค้นนรก-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Faraway (2023) ไกลสุดกู่",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8cfc9bda73fae350739283001b0263ac/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8cfc9bda73fae350739283001b0263ac"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Faraway-2023-ไกลสุดกู่-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Elrorado Everything The Nazis Hate (2023) เอลโดราโด สิ่งที่นาซีเกลียด",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/07a0669c4feeacb80799faf7ca244d17/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/07a0669c4feeacb80799faf7ca244d17"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Elrorado-Everything-The-Nazis-Hate-2023-เอลโดราโด-สิ่งที่นาซีเกลียด-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Do You Do (2023) เธอเป็นเธอ ฉันเป็นฉัน",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/H5_o_LWR2Z"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Do-You-Do-2023-เธอเป็นเธอ-ฉันเป็นฉัน-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Dear David (2023) เดวิดที่รัก",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a70dd629829debce3742a6f0ae1f8a75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a70dd629829debce3742a6f0ae1f8a75"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Dear-David-2023-เดวิดที่รัก-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Disconnect The Wedding Planner (2023) ต่อไม่ติด วิวาห์พาวุ่น",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1b715c8983163ae1acd01138df44d916/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b715c8983163ae1acd01138df44d916"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Disconnect-The-Wedding-Planner-2023-ต่อไม่ติด-วิวาห์พาวุ่น-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Dog Gone (2023) หมาหลง",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/803fcbee1916698a6ec5cbeb34d88704/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/803fcbee1916698a6ec5cbeb34d88704"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Dog-Gone-2023-หมาหลง-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "ChokeHold (2023) คนจนตรอก",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2cecfc722013f7d5962b59e6caf43f8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2cecfc722013f7d5962b59e6caf43f8f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/ChokeHold-2023-คนจนตรอก-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Chupa (2023) ชูปาเพื่อนฉัน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f225d05095ce62a71fa039ba6740a2c6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f225d05095ce62a71fa039ba6740a2c6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Chupa-2023-ชูปาเพื่อนฉัน-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Chor Nikal Ke Bhaga (2023) ปล้น กลางอากาศ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0e177156ac32358927639eb639ba05aa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e177156ac32358927639eb639ba05aa"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Chor-Nikal-Ke-Bhaga-2023-ปล้น-กลางอากาศ-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Caught Out (2023) คดีความ คอรัปชั่น คริกเกต",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e3ed97b8939ccdc16aee39b57a850c2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e3ed97b8939ccdc16aee39b57a850c2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Caught-Out-2023-คดีความ-คอรัปชั่น-คริกเกต-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Call Me Chihiro (2023) ฉันชื่อจิฮิโระ",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PLNA5TT_nV"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Call-Me-Chihiro-2023-ฉันชื่อจิฮิโระ-165x248.jpg",
+    "group": "Netflix"
+  },
+  {
+    "title": "Big Nunu’s Little Heist (2023) ขาใหญ่ปล้นเล็กๆ",
+    "url": "https://lk-hdx.com/big-nunus-little-heist-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Big-Nunus-Little-Heist-2023-ขาใหญ่ปล้นเล็กๆ-165x248.jpg"
+  },
+  {
+    "title": "A Beautiful Life (2023) ชีวิตที่สวยงาม",
+    "url": "https://lk-hdx.com/a-beautiful-life-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Beautiful-Life-2023-ชีวิตที่สวยงาม-165x248.jpg"
+  },
+  {
+    "title": "Anna Nicole Smith (2023) แอนนา นิโคล สมิธ",
+    "url": "https://lk-hdx.com/anna-nicole-smith-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Anna-Nicole-Smith-2023-แอนนา-นิโคล-สมิธ-165x248.jpg"
+  },
+  {
+    "title": "AKA (2023) เจ้าหน้าที่เงา",
+    "url": "https://lk-hdx.com/aka-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/AKA-2023-เจ้าหน้าที่เงา-165x248.jpg"
+  },
+  {
+    "title": "A Tourist’s Guide to Love (2023) คู่มือรักฉบับนักท่องเที่ยว",
+    "url": "https://lk-hdx.com/a-tourists-guide-to-love-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Tourists-Guide-to-Love-2023-คู่มือรักฉบับนักท่องเที่ยว-165x248.jpg"
+  },
+  {
+    "title": "A Whole Lifetime (2023) เวลาทั้งชีวิตกับเจมี่ เดเมทรีอู",
+    "url": "https://lk-hdx.com/a-whole-lifetime-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Whole-Lifetime-2023-เวลาทั้งชีวิตกับเจมี่-เดเมทรีอู-165x248.jpg"
+  },
+  {
+    "title": "All The Places (2023) ทุกที่ในความทรงจำ",
+    "url": "https://lk-hdx.com/all-the-places-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/All-The-Places-2023-ทุกที่ในความทรงจำ-165x248.jpg"
+  },
+  {
+    "title": "A Sunday Affair (2023) มีรักกับซันเดย์",
+    "url": "https://lk-hdx.com/a-sunday-affair-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/A-Sunday-Affair-2023-มีรักกับซันเดย์-165x248.jpg"
+  },
+  {
+    "title": "Bird Box Barcelona (2023) มอง อย่าให้เห็น (บาร์เซโลนา)",
+    "url": "https://lk-hdx.com/bird-box-barcelona-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Bird-Box-Barcelona-2023-มอง-อย่าให้เห็น-บาร์เซโลนา-165x248.jpg"
+  },
+  {
+    "title": "Black Clover Sword of the Wizard King (2023) แบล็คโคลเวอร์ ดาบแห่งจักรพรรดิเวทมนตร์",
+    "url": "https://lk-hdx.com/black-clover-sword-of-the-wizard-king-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Black-Clover-Sword-of-the-Wizard-King-2023-แบล็คโคลเวอร์-ดาบแห่งจักรพรรดิเวทมนตร์-lk-hd-165x248.jpg"
+  },
+  {
+    "title": "Blood & Gold (2023) ทองเปื้อนเลือด",
+    "url": "https://lk-hdx.com/blood-gold-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Blood-Gold-2023-ทองเปื้อนเลือด-lk-hd-165x248.jpg"
+  },
+  {
+    "title": "Big Mack Gangsters and Gold (2023)",
+    "url": "https://lk-hdx.com/big-mack-gangsters-and-gold-2023/",
+    "poster": "https://lk-hdx.com/wp-content/uploads/2023/08/Big-Mack-Gangsters-and-Gold-2023-lk-hd-165x248.jpg"
   }
 ]
