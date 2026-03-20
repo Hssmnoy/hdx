@@ -4703,132 +4703,368 @@
   },
   {
     "title": "Down Low (2023) กิ๊กไม่กั๊ก ทางรักสีรุ้ง",
-    "url": "https://lk-hdx.com/down-low-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Down-Low-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/L2CBlN7_el"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Down-Low-2023-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Sanctuary (2023) ที่หลบภัย",
-    "url": "https://lk-hdx.com/sanctuary-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Sanctuary-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/07ce11d888cc28529e1b47fb996dd6d0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/07ce11d888cc28529e1b47fb996dd6d0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Sanctuary-2023-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Fifty Shades 3 Freed (2018) ฟิฟตี้เชดส์ฟรีด",
-    "url": "https://lk-hdx.com/fifty-shades-3-freed-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-3-Freed-2018-ฟิฟตี้เชดส์ฟรีด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d3b112e2ecb075714ff2223a9e26a187/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d3b112e2ecb075714ff2223a9e26a187"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-3-Freed-2018-ฟิฟตี้เชดส์ฟรีด-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Fifty Shades 2 Darker (2017) ฟิฟตี้ เชดส์ ดาร์กเกอร์",
-    "url": "https://lk-hdx.com/fifty-shades-2-darker-2017/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-2-Darker-2017-ฟิฟตี้-เชดส์-ดาร์กเกอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe252e27e668a6c95981d278fb65c52c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe252e27e668a6c95981d278fb65c52c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-2-Darker-2017-ฟิฟตี้-เชดส์-ดาร์กเกอร์-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Fifty Shades 1 Of Grey (2015) ฟิฟตี้ เชดส์ ออฟ เกรย์",
-    "url": "https://lk-hdx.com/fifty-shades-1-of-grey-2015/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-1-Of-Grey-2015-ฟิฟตี้-เชดส์-ออฟ-เกรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2e0e8a3601e8fe211527eb2ca358eb70/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e0e8a3601e8fe211527eb2ca358eb70"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Fifty-Shades-1-Of-Grey-2015-ฟิฟตี้-เชดส์-ออฟ-เกรย์-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Alpha House (2014) หอแซ่บแสบยกก๊วน",
-    "url": "https://lk-hdx.com/alpha-house-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Alpha-House-2014-หอแซ่บแสบยกก๊วน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ab76d85385d675424fc662a416cbf764/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab76d85385d675424fc662a416cbf764"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Alpha-House-2014-หอแซ่บแสบยกก๊วน-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Girls to Buy (2021) ผู้หญิงบริการสุข",
-    "url": "https://lk-hdx.com/girls-to-buy-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/Girls-to-Buy-2021-ผู้หญิงบริการสุข-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/04b09066241087d4b06cdbd1c59dc640/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/04b09066241087d4b06cdbd1c59dc640"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/Girls-to-Buy-2021-ผู้หญิงบริการสุข-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "X (2022) เอ็กซ์",
-    "url": "https://lk-hdx.com/x-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/11/X-2022-เอ็กซ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/eaa190ac904689622468176d86707aca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eaa190ac904689622468176d86707aca"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/11/X-2022-เอ็กซ์-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Burning Betrayal (2023) ไฟทรยศ",
-    "url": "https://lk-hdx.com/burning-betrayal-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d398003b6f14d170808e53080f9cb805/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d398003b6f14d170808e53080f9cb805"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Sin Sisters 2 (2010) ผู้หญิง 5 บาป ภาค 2",
-    "url": "https://lk-hdx.com/sin-sisters-2-2010/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-2-2010-ผู้หญิง-5-บาป-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8d79138e5f80ab09932c2c7949141461/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8d79138e5f80ab09932c2c7949141461"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-2-2010-ผู้หญิง-5-บาป-ภาค-2-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Sin Sisters 1 (2002) ผู้หญิง 5 บาป ภาค 1",
-    "url": "https://lk-hdx.com/sin-sisters-1-2002/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-1-2002-ผู้หญิง-5-บาป-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b6e90169645524c97d3702d9f4d8c282/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6e90169645524c97d3702d9f4d8c282"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Sin-Sisters-1-2002-ผู้หญิง-5-บาป-ภาค-1-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Call Boy (2018) หนุ่มตามสายคลายเหงา",
-    "url": "https://lk-hdx.com/call-boy-2018/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Call-Boy-2018-หนุ่มตามสายคลายเหงา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8e0c875e8d6e2413886fe1c0fad51af6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e0c875e8d6e2413886fe1c0fad51af6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Call-Boy-2018-หนุ่มตามสายคลายเหงา-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Obsessed (2014) แรงรักมรณะ",
-    "url": "https://lk-hdx.com/obsessed-2014/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Obsessed-2014-แรงรักมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5f67a40e6c798848ead1a940afcb7749/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f67a40e6c798848ead1a940afcb7749"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Obsessed-2014-แรงรักมรณะ-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Pleasure (2021) เพลิงเพลิน",
-    "url": "https://lk-hdx.com/pleasure-2021/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Pleasure-2021-เพลิงเพลิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e4968a88596cb156ae97100155d213e6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e4968a88596cb156ae97100155d213e6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Pleasure-2021-เพลิงเพลิน-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Nymphomaniac Vol. II (2013) ผู้หญิงร้อนสวาท ปัจฉิมบท",
-    "url": "https://lk-hdx.com/nymphomaniac-vol-ii-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-II-2013-ผู้หญิงร้อนสวาท-ปัจฉิมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/975e21d5a22b43dcac31103f2b606868/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/975e21d5a22b43dcac31103f2b606868"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-II-2013-ผู้หญิงร้อนสวาท-ปัจฉิมบท-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Nymphomaniac Vol. I (2013) ผู้หญิงร้อนสวาท ปฐมบท",
-    "url": "https://lk-hdx.com/nymphomaniac-vol-i-2013/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-I-2013-ผู้หญิงร้อนสวาท-ปฐมบท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/46dcdde8f7796a1cb8995a5cafd5128c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/46dcdde8f7796a1cb8995a5cafd5128c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Nymphomaniac-Vol.-I-2013-ผู้หญิงร้อนสวาท-ปฐมบท-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "My Next Doll (2023) ยัยตุ๊กตาซ้อมรักยกกำลังสอง",
-    "url": "https://lk-hdx.com/my-next-doll-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Next-Doll-2023-ยัยตุ๊กตาซ้อมรักยกกำลังสอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ff5a590b860822970aa4ccd46f633120/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ff5a590b860822970aa4ccd46f633120"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Next-Doll-2023-ยัยตุ๊กตาซ้อมรักยกกำลังสอง-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "My Sexdoll (2020) พร้อมรุก ยัยตุ๊กตาซ้อมรัก",
-    "url": "https://lk-hdx.com/my-sexdoll-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Sexdoll-2020-พร้อมรุก-ยัยตุ๊กตาซ้อมรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/0rn_b3egBD"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/My-Sexdoll-2020-พร้อมรุก-ยัยตุ๊กตาซ้อมรัก-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Fair Play (2023)",
-    "url": "https://lk-hdx.com/fair-play-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/10/Fair-Play-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v_fgXYwXjr"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/10/Fair-Play-2023-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Lady Chatterley’s Lover (2022) ชู้รักเลดี้แชตเตอร์เลย์",
-    "url": "https://lk-hdx.com/lady-chatterleys-lover-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Lady-Chatterleys-Lover-2022-ชู้รักเลดี้แชตเตอร์เลย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4d1b3677681157bde3d0e5d79f0121f1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4d1b3677681157bde3d0e5d79f0121f1"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Lady-Chatterleys-Lover-2022-ชู้รักเลดี้แชตเตอร์เลย์-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "365 Days This Day (2022) 365 วัน วันนี้",
-    "url": "https://lk-hdx.com/365-days-this-day-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/365-Days-This-Day-2022-365-วัน-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/06fc21ad7de8418a930c38bac97cfcbc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/06fc21ad7de8418a930c38bac97cfcbc"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/365-Days-This-Day-2022-365-วัน-165x248.jpeg",
+    "group": "หนัง18+"
   },
   {
     "title": "365 Days (2020) 365 วัน",
-    "url": "https://lk-hdx.com/365-days-2020/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/365-Days-2020-365-วัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e7b28dd6dc3a3223f74616c9b7e5d21f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e7b28dd6dc3a3223f74616c9b7e5d21f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/365-Days-2020-365-วัน-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "The Next 365 Days (2022) อีก 365 วัน",
-    "url": "https://lk-hdx.com/the-next-365-days-2022/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Next-365-Days-2022-อีก-365-วัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/94b203dcd3cb2cf38542405c162e0fa4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/94b203dcd3cb2cf38542405c162e0fa4"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/The-Next-365-Days-2022-อีก-365-วัน-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Judy Blume Forever (2023)",
-    "url": "https://lk-hdx.com/judy-blume-forever-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Judy-Blume-Forever-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_WbnPP9UCB"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Judy-Blume-Forever-2023-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Pornhub (2023) เว็บโป๊พันล้าน",
-    "url": "https://lk-hdx.com/pornhub-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Pornhub-2023-เว็บโป๊พันล้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/RXo_agYqzD"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Pornhub-2023-เว็บโป๊พันล้าน-165x248.jpg",
+    "group": "หนัง18+"
   },
   {
     "title": "Resemblance (2023) ปรากฏการณ์",
-    "url": "https://lk-hdx.com/resemblance-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Resemblance-2023-ปรากฏการณ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_PWQ6E8Rum"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Resemblance-2023-ปรากฏการณ์-165x248.jpg",
+    "group": "หนัง18+"
   }
 ]
