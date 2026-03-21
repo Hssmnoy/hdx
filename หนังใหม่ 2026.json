@@ -1701,17 +1701,39 @@
   },
   {
     "title": "Taiping Zhen Strange Tales (2026) เรื่องเล่าลึกลับตำบลไท่ผิง",
-    "url": "https://lk-hdx.com/taiping-zhen-strange-tales-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qh_xHVQNaN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Thunder Rescue (2026) ภารกิจช่วยเหลือเหนือสายฟ้า",
-    "url": "https://lk-hdx.com/thunder-rescue-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/Thunder-Rescue-2026-ภารกิจช่วยเหลือเหนือสายฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PM_zIT8kiW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Thunder-Rescue-2026-ภารกิจช่วยเหลือเหนือสายฟ้า-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "People We Meet on Vacation (2026) เราพบกัน ณ วันพักใจ",
-    "url": "https://lk-hdx.com/people-we-meet-on-vacation-2026/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ab1b61c51a8ab639c8cc3f35a1bdc144/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ab1b61c51a8ab639c8cc3f35a1bdc144"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   }
 ]
