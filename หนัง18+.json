@@ -5547,7 +5547,13 @@
   },
   {
     "title": "Resemblance (2023) ปรากฏการณ์",
-    "url": "https://lk-hdx.com/resemblance-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Resemblance-2023-ปรากฏการณ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_PWQ6E8Rum"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Resemblance-2023-ปรากฏการณ์-165x248.jpg",
+    "group": "หนัง18+"
   }
 ]
