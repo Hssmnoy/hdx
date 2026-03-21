@@ -3,6 +3,32 @@ const cheerio = require("cheerio");
 const fs = require("fs").promises;
 const { exec } = require("child_process");
 
+// =========================
+// 🔥 GENERATE M3U
+// =========================
+async function generateM3U(filename, movies) {
+  let lines = ["#EXTM3U"];
+
+  for (const movie of movies) {
+    if (!movie.servers || movie.servers.length === 0) continue;
+
+    // ✅ เอาเฉพาะ M3U8 (ลื่นสุด)
+    const server = movie.servers.find(s => s.name === "M3U8");
+    if (!server?.url) continue;
+
+    const title = movie.title || "No Title";
+    const group = movie.group || "Movies";
+    const logo = movie.logo || "";
+
+    lines.push(
+      `#EXTINF:-1 group-title="${group}" tvg-logo="${logo}",${title}`
+    );
+    lines.push(server.url);
+  }
+
+  await fs.writeFile(filename, lines.join("\n"), "utf-8");
+  console.log("📺 M3U CREATED:", filename);
+}
 const PROGRESS_FILE = "progress.json";
 const TEST_MODE = false;
 const COMMIT_EVERY = 30;
@@ -384,7 +410,7 @@ async function commitChanges(message) {
 // 🔥 MAIN
 // =========================
 async function run() {
-  let allMovies = [];
+
   let progress = await loadProgress();
 
   // 🔥 INIT CONFIG
@@ -520,10 +546,11 @@ delete movie.url;
 console.log("📦 COMMIT END CATEGORY:", cat.name);
 await commitChanges(`finish ${cat.name}`);
 
-allMovies.push(...catMovies);
+// 🔥 สร้าง M3U ของหมวดนี้
+await generateM3U(`${cat.name}.m3u`, catMovies);
+
   }
 
-  await fs.writeFile("movies.json", JSON.stringify(allMovies, null, 2));
   await commitChanges("auto update");
 }
 
