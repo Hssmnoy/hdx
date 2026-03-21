@@ -1735,5 +1735,158 @@
     ],
     "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg",
     "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "The Big Fake (2026) จอมปลอม",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/eb85e82282197ee629716f8dd2f16d9c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eb85e82282197ee629716f8dd2f16d9c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Big-Fake-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Angkinin mo ako (2026)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4041ef65d225596a944e9fe37e2082c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4041ef65d225596a944e9fe37e2082c9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Angkinin-mo-ako-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Cosmic Princess Kaguya! (2026) เจ้าหญิงกระบอกไม้ไผ่",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a33e76db9447ba209697d3814a770b18/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a33e76db9447ba209697d3814a770b18"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "From the Ashes The Pit (2026) จากเถ้าถ่าน นรกใต้ดิน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a2e12d47e8552b3efa55e5dacfc7e1ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a2e12d47e8552b3efa55e5dacfc7e1ee"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Sulutan (2026)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/fe69d1a1ad5ce6c3e9ee9db45719c183/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fe69d1a1ad5ce6c3e9ee9db45719c183"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Sulutan-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Killer Whale (2026)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5969fefe7a6e6fcbd8f428372caeb8d5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5969fefe7a6e6fcbd8f428372caeb8d5"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Killer-Whale-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "The Rip (2026) เงินบาปกระชากคน",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Pakq_PN81e"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/The-Rip-2026-เงินบาปกระชากคน-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Breast Friends Forever (2026)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a30e91ace738c16c35c4dfe6f461a964/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a30e91ace738c16c35c4dfe6f461a964"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Breast-Friends-Forever-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Taiping Zhen Strange Tales (2026) เรื่องเล่าลึกลับตำบลไท่ผิง",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qh_xHVQNaN"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Thunder Rescue (2026) ภารกิจช่วยเหลือเหนือสายฟ้า",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PM_zIT8kiW"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Thunder-Rescue-2026-ภารกิจช่วยเหลือเหนือสายฟ้า-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "People We Meet on Vacation (2026) เราพบกัน ณ วันพักใจ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ab1b61c51a8ab639c8cc3f35a1bdc144/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ab1b61c51a8ab639c8cc3f35a1bdc144"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   }
 ]
