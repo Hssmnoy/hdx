@@ -20825,12 +20825,32 @@
   },
   {
     "title": "Die Hart The Movie (2023)",
-    "url": "https://lk-hdx.com/die-hart-the-movie-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/Die-Hart-The-Movie-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2d414a697da1065fe85605a34a713b4c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2d414a697da1065fe85605a34a713b4c"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/Die-Hart-The-Movie-2023-165x248.jpg",
+    "group": "หนังภาคต่อ"
   },
   {
     "title": "An Unforgettable Year Summer (2023) ปีที่ไม่อาจลืมเลือน ฤดูร้อน",
-    "url": "https://lk-hdx.com/an-unforgettable-year-summer-2023/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Summer-2023-ปีที่ไม่อาจลืมเลือน-ฤดูร้อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/975e7e9d52757db894d66b7608b97abe/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/975e7e9d52757db894d66b7608b97abe"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Summer-2023-ปีที่ไม่อาจลืมเลือน-ฤดูร้อน-165x248.jpg",
+    "group": "หนังภาคต่อ"
   }
 ]
