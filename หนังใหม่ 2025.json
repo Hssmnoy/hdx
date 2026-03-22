@@ -11325,27 +11325,73 @@
   },
   {
     "title": "บ้านผีอิหยังวะ (2025) House of Sayuri",
-    "url": "https://lk-hdx.com/house-of-sayuri-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/บ้านผีอิหยังวะ-2025-House-of-Sayuri-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f227e2f0a2650a4ebe18f46c6b3f6c80/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f227e2f0a2650a4ebe18f46c6b3f6c80"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/บ้านผีอิหยังวะ-2025-House-of-Sayuri-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "แสนสนั่น พันธุ์สั่นสู้ (2025) Mauy Thai Hustle",
-    "url": "https://lk-hdx.com/mauy-thai-hustle-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/แสนสนั่น-พันธุ์สั่นสู้-2025-Mauy-Thai-Hustle-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/92247b2cbe6d1a2189bc39305c199202/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/92247b2cbe6d1a2189bc39305c199202"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/แสนสนั่น-พันธุ์สั่นสู้-2025-Mauy-Thai-Hustle-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "ชายผู้อยากเป็นอมตะ (2025) Don’t Die The Man Who Wants to Live Forever",
-    "url": "https://lk-hdx.com/dont-die-the-man-who-wants-to-live-forever-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/ชายผู้อยากเป็นอมตะ-2025-Dont-Die-The-Man-Who-Wants-to-Live-Forever-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/830f7e3416dc94b2dfa935433be37a50/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/830f7e3416dc94b2dfa935433be37a50"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/ชายผู้อยากเป็นอมตะ-2025-Dont-Die-The-Man-Who-Wants-to-Live-Forever-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "มองชีวิตผ่านคังค์ (2025) Cunk on Life",
-    "url": "https://lk-hdx.com/cunk-on-life-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/มองชีวิตผ่านคังค์-2025-Cunk-on-Life-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0a240708b8d2ca6ace238c57c6866fb6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a240708b8d2ca6ace238c57c6866fb6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/มองชีวิตผ่านคังค์-2025-Cunk-on-Life-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "แผนรักฉุดใจ (2025) The Love Scam",
-    "url": "https://lk-hdx.com/the-love-scam-2025/",
-    "poster": "https://lk-hdx.com/wp-content/uploads/2025/01/แผนรักฉุดใจ-2025-The-Love-Scam-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_8mIwKrkKB"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/01/แผนรักฉุดใจ-2025-The-Love-Scam-165x248.webp",
+    "group": "หนังใหม่ 2025"
   }
 ]
