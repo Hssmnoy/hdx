@@ -431,9 +431,9 @@ async function run() {
       console.log("♻️ old:", catMovies.length);
     } catch {}
 
-    let page = progress[cat.name] || 1;
+    let page = 1;
 
-    while (true) {
+    while (page <= 3) {
       console.log("📄 PAGE:", page);
 
       const movies = await scrapePageAjax(cat, page, ajaxConfigs[cat.name]);
@@ -444,15 +444,15 @@ async function run() {
         break;
       }
 
-      const exist = new Set(catMovies.map(m => m.url));
-      const fresh = movies.filter(m => !exist.has(m.url));
+      const exist = new Set(catMovies.map(m => `${m.title}`));
+      const fresh = movies.filter(m => !exist.has(`${m.title}`));
 
       if (fresh.length === 0) {
-        console.log("🛑 DUP → STOP");
-        break;
+        console.log("🛑 เจอหน้าที่ไม่มีของใหม่ → STOP");
+         break;
       }
 
-      catMovies.push(...fresh);
+      catMovies.unshift(...fresh.reverse());
 
       progress[cat.name] = page;
       await saveProgress(progress);
@@ -470,7 +470,7 @@ async function run() {
     for (let i = 0; i < catMovies.length; i++) {
       const movie = catMovies[i];
 
-      if (movie.servers) continue;
+      if (movie.servers || !movie.url) continue;
 
       console.log(`🎬 ${i + 1}/${catMovies.length}`);
 
