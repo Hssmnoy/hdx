@@ -1,5 +1,20 @@
 [
   {
+    "title": "The Legend Of Phi-Ta-Khon-Mask (2025) ตำนานหน้ากากผีตาโขน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/53cf68588e56a7575e80ad93b04061c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/53cf68588e56a7575e80ad93b04061c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Legend-Of-Phi-Ta-Khon-Mask-2025-ตำนานหน้ากากผีตาโขน-165x248.jpg",
+    "group": "หนังไทย"
+  },
+  {
     "title": "เสือ (2025) 4 Tigers",
     "servers": [
       {
