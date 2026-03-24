@@ -1,5 +1,117 @@
 [
   {
+    "title": "Christy (2025) คริสตี้",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/98844fd59722a2a0f85cee2cac6c1e2a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/98844fd59722a2a0f85cee2cac6c1e2a"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Christy-2025-คริสตี้-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "Near Death (2025) ใกล้ตาย",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cc0f4c16f73589ece129e8ff462bc4c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cc0f4c16f73589ece129e8ff462bc4c8"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Near-Death-2025-ใกล้ตาย-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "Dangerous Animals (2025)",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/8wBaEgYch_"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Dangerous-Animals-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "Dead to Rights (2025) บันทึก หนานจิง",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9e0360245cd0413b47795012fe32431b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9e0360245cd0413b47795012fe32431b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Dead-to-Rights-2025-บันทึก-หนานจิง-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "Mieruko Chan (2025) ใครว่าหนูเห็นผี",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d16d01c314f1324490eef945b7e411f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d16d01c314f1324490eef945b7e411f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Mieruko-Chan-2025-ใครว่าหนูเห็นผี-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "The Astronaut (2025)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d99e2dd28f9667f5657d1ba823510b86/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d99e2dd28f9667f5657d1ba823510b86"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Astronaut-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "Kowloon Generic Romance (2025) เกาลูน อุบัติรักปริศนาลับ",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/bHHTcSqC_J"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Kowloon-Generic-Romance-2025-เกาลูน-อุบัติรักปริศนาลับ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "The Legend Of Phi-Ta-Khon-Mask (2025) ตำนานหน้ากากผีตาโขน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/53cf68588e56a7575e80ad93b04061c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/53cf68588e56a7575e80ad93b04061c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/10/The-Legend-Of-Phi-Ta-Khon-Mask-2025-ตำนานหน้ากากผีตาโขน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
     "title": "The Carpenters Son (2025)",
     "servers": [
       {
