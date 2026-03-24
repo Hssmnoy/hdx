@@ -1,5 +1,35 @@
 [
   {
+    "title": "Saiyaara (2025) สองเราจะสู้เพื่อฝัน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/264400f0dafd060cb009004b31eaa367/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/264400f0dafd060cb009004b31eaa367"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2025/09/Saiyaara-2025-สองเราจะสู้เพื่อฝัน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "The Mortuary Assistant (2025) คืนสยองห้องดับจิต",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/1ee78366fc9cc0011473328a91265d26/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/1ee78366fc9cc0011473328a91265d26"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/The-Mortuary-Assistant-2025-คืนสยองห้องดับจิต-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
     "title": "Christy (2025) คริสตี้",
     "servers": [
       {
