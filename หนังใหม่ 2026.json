@@ -1,5 +1,50 @@
 [
   {
+    "title": "A Good Child (2026) เด็กดี",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b464581c015c672a7f15f20685cfd0c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b464581c015c672a7f15f20685cfd0c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/A-Good-Child-2026-เด็กดี-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Kidnapped Elizabeth Smart (2026) คดีลักพาตัว เอลิซาเบธ สมาร์ท",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/94bf02af711f0b9f5c092325afc0fcd0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/94bf02af711f0b9f5c092325afc0fcd0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Kidnapped-Elizabeth-Smart-2026-คดีลักพาตัว-เอลิซาเบธ-สมาร์ท-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Peaky Blinders The Immortal Man (2026) พีกี้ ไบลน์เดอร์ส ชายผู้เป็นอมตะ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cc08b71b637f24a3a4e1744d783ea64f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cc08b71b637f24a3a4e1744d783ea64f"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Peaky-Blinders-The-Immortal-Man-2026-พีกี้-ไบลน์เดอร์ส-ชายผู้เป็นอมตะ-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
     "title": "Geomancer (2026) กระถางศักดิ์สิทธิ์แห่งดินแดน",
     "servers": [
       {
