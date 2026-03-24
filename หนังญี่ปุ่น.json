@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mieruko Chan (2025) ใครว่าหนูเห็นผี",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d16d01c314f1324490eef945b7e411f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d16d01c314f1324490eef945b7e411f7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Mieruko-Chan-2025-ใครว่าหนูเห็นผี-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
+    "title": "Kowloon Generic Romance (2025) เกาลูน อุบัติรักปริศนาลับ",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/bHHTcSqC_J"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Kowloon-Generic-Romance-2025-เกาลูน-อุบัติรักปริศนาลับ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
     "title": "The Exit 8 (2025) ทางออกหมายเลข 8",
     "servers": [
       {
