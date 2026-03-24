@@ -1,5 +1,35 @@
 [
   {
+    "title": "A Good Child (2026) เด็กดี",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b464581c015c672a7f15f20685cfd0c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b464581c015c672a7f15f20685cfd0c7"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/A-Good-Child-2026-เด็กดี-165x248.jpg",
+    "group": "หนังจีน"
+  },
+  {
+    "title": "Dead to Rights (2025) บันทึก หนานจิง",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9e0360245cd0413b47795012fe32431b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9e0360245cd0413b47795012fe32431b"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/01/Dead-to-Rights-2025-บันทึก-หนานจิง-165x248.jpg",
+    "group": "หนังจีน"
+  },
+  {
     "title": "Geomancer (2026) กระถางศักดิ์สิทธิ์แห่งดินแดน",
     "servers": [
       {
