@@ -1,5 +1,31 @@
 [
   {
+    "title": "เส้นตาย สายลวง The Red Line (2026)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c1c2663c0ea53422e4048f1e6a19c0c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c1c2663c0ea53422e4048f1e6a19c0c9"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/The-Red-Line-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "หน้าสวย สังหาร Pretty Lethal (2026)",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/RoT_7Qd1Qh"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Pretty-Lethal-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
     "title": "BREAK THROUGH (2026) ฝ่าแดนสงครามนรก",
     "servers": [
       {
