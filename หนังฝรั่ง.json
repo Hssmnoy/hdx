@@ -1,5 +1,20 @@
 [
   {
+    "title": "Him (2025) ตำนานคนจริง",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/545c9865333b0d4de12beaeff7e44d21/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/545c9865333b0d4de12beaeff7e44d21"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
     "title": "Agent Zeta (2026) เซต้า ปริศนาจารชน",
     "servers": [
       {
