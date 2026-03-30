@@ -1,5 +1,35 @@
 [
   {
+    "title": "GARO Taiga (2025) กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/0eecd4a3301095379f895f99c4237e42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0eecd4a3301095379f895f99c4237e42"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/GARO-Taiga-2025-กาโร่-ไทกะ-กำเนิดอัศวินหมาป่าทองคำ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "Him (2025) ตำนานคนจริง",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/545c9865333b0d4de12beaeff7e44d21/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/545c9865333b0d4de12beaeff7e44d21"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
     "title": "Saiyaara (2025) สองเราจะสู้เพื่อฝัน",
     "servers": [
       {
