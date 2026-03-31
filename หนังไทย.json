@@ -1,5 +1,20 @@
 [
   {
+    "title": "พี่วรรณมาสอน (2025) The Tutor",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/11c86f5ef8c5ccb6c3e59410f55d03c0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/11c86f5ef8c5ccb6c3e59410f55d03c0"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/03/The-Tutor-2025-พี่วรรณมาสอน-165x248.webp",
+    "group": "หนังไทย"
+  },
+  {
     "title": "เส้นตาย สายลวง The Red Line (2026)",
     "servers": [
       {
