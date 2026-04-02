@@ -1,5 +1,31 @@
 [
   {
+    "title": "It Takes a Village (2026) หมู่เฮารวมใจ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ed2f3e14d4e3a149bf96920cfc282fa6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ed2f3e14d4e3a149bf96920cfc282fa6"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/04/It-Takes-a-Village-2026-หมู่เฮารวมใจ-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
+    "title": "Eat Pray Bark (2026)",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/oe06bB5_A2"
+      }
+    ],
+    "logo": "https://lk-hdx.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
     "title": "Him (2025) ตำนานคนจริง",
     "servers": [
       {
