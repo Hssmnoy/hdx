@@ -1,5 +1,50 @@
 [
   {
+    "title": "Underdog (2007) อันเดอร์ด็อก ยอดสุนัขพิทักษ์โลก",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f2a732999dd3428d148de47e274cdce2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f2a732999dd3428d148de47e274cdce2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Underdog-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
+    "title": "The Spy Next Door (2010) วิ่งโขยงฟัด",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/b3b127ded743fc131ca8f40bdd324a4f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b3b127ded743fc131ca8f40bdd324a4f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Spy-Next-Door-2010-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
+    "title": "Feel My Voice (2026) สัมผัสแห่งเสียง",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d9fd9708397de8f24d8b24faa7e99034/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d9fd9708397de8f24d8b24faa7e99034"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Feel-My-Voice-2026-สัมผัสแห่งเสียง-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
     "title": "It Takes a Village (2026) หมู่เฮารวมใจ",
     "servers": [
       {
