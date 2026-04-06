@@ -1,5 +1,20 @@
 [
   {
+    "title": "The Housemaid (2010) แรงปรารถนา..อย่าห้าม",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/80d12a0875c9e2882b768b9531e22f7f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/80d12a0875c9e2882b768b9531e22f7f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/The-Housemaid-2010-165x248.jpg",
+    "group": "หนัง18+"
+  },
+  {
     "title": "The Handmaiden (2016) ล้วงเล่ห์ลวงรัก",
     "servers": [
       {
