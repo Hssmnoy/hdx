@@ -71,14 +71,14 @@ async function saveProgress(progress) {
 // =========================
 async function getAjaxConfig(cat) {
   const url = cat.type === "tag"
-    ? `https://lk-hdx.com/?tag_id=${cat.id}`
-    : `https://lk-hdx.com/?cat=${cat.id}`;
+    ? `https://lk-hds.com/?tag_id=${cat.id}`
+    : `https://lk-hds.com/?cat=${cat.id}`;
 
   const res = await axios.get(url, {
     headers: {
       "User-Agent": "Mozilla/5.0",
       "Accept": "text/html",
-      "Referer": "https://lk-hdx.com/"
+      "Referer": "https://lk-hds.com/"
     }
   });
 
@@ -154,9 +154,9 @@ if (cat.type === "tag") {
           "Content-Type": "application/x-www-form-urlencoded",
           "X-Requested-With": "XMLHttpRequest",
           "Referer": cat.type === "tag"
-  ? `https://lk-hdx.com/?tag_id=${cat.id}`
-  : `https://lk-hdx.com/?cat=${cat.id}`,
-          "Origin": "https://lk-hdx.com",
+  ? `https://lk-hds.com/?tag_id=${cat.id}`
+  : `https://lk-hds.com/?cat=${cat.id}`,
+          "Origin": "https://lk-hds.com",
           "Cookie": ajaxConfig.cookies
         },
         timeout: 15000
