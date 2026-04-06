@@ -2,8 +2,8 @@ name: HDX
 
 on:
   schedule:
-    - cron: '0 0 * * *' # รันทุกวันเที่ยงคืน UTC (ปรับตามต้องการ)
-  workflow_dispatch: # เพิ่ม option manual run
+    - cron: "0 14 * * *"
+  workflow_dispatch: 
 
 permissions:
    contents: write
