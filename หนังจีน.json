@@ -1,5 +1,20 @@
 [
   {
+    "title": "The Forbidden Kingdom (2008) หนึ่งฟัดหนึ่ง ใหญ่ต่อใหญ่",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/289075fdf920e2c6c1bd71589ea42348/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/289075fdf920e2c6c1bd71589ea42348"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Forbidden-Kingdom-2008-165x248.jpg",
+    "group": "หนังจีน"
+  },
+  {
     "title": "Knights Of Valour (2021) ดาบชิงหลงยั้นเยว่",
     "servers": [
       {
