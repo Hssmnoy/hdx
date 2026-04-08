@@ -1,5 +1,20 @@
 [
   {
+    "title": "Mr. Brooks (2007) สุภาพบุรุษอำมหิต",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c6598707e17dd4a079037cb0ef04a6d6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c6598707e17dd4a079037cb0ef04a6d6"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Mr.-Brooks-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
     "title": "Underdog (2007) อันเดอร์ด็อก ยอดสุนัขพิทักษ์โลก",
     "servers": [
       {
