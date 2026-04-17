@@ -1,5 +1,50 @@
 [
   {
+    "title": "Roommates (2026) รูมเมท",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/38174b603e41d7e2051d22316ad51d11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/38174b603e41d7e2051d22316ad51d11"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Roommates-2026-รูมเมท-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
+    "title": "A Gorilla Story (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์ เซอร์เดวิด",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f026f5819b4f1562c347fcf15b05a877/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f026f5819b4f1562c347fcf15b05a877"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/A-Gorilla-Story-2026-เล่าเรื่องกอริลลา-โดยเดวิด-แอทเทนเบอเรอห์-เซอร์เดวิด-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
+    "title": "180 (2026)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6bd63d49e5ea254bb154767a559dd0f4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6bd63d49e5ea254bb154767a559dd0f4"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/180-2026-165x248.jpg",
+    "group": "หนังฝรั่ง"
+  },
+  {
     "title": "Locked (2025) ล็อก ล่อมาตาย",
     "servers": [
       {
