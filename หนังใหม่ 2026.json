@@ -1,5 +1,76 @@
 [
   {
+    "title": "Tu Yaa Main (2026) ไม่เธอ…ก็ฉัน",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/vhskAAW46_"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Tu-Yaa-Main-2026-ไม่เธอ…ก็ฉัน-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Toaster (2026) ปิง ปิ่ง ปิ้ง",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3f6b24c8a818b9bff4d0a6c0ac004379/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3f6b24c8a818b9bff4d0a6c0ac004379"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Toaster-2026-ปิง-ปิ่ง-ปิ้ง-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "Roommates (2026) รูมเมท",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/38174b603e41d7e2051d22316ad51d11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/38174b603e41d7e2051d22316ad51d11"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Roommates-2026-รูมเมท-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "A Gorilla Story (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์ เซอร์เดวิด",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f026f5819b4f1562c347fcf15b05a877/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f026f5819b4f1562c347fcf15b05a877"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/A-Gorilla-Story-2026-เล่าเรื่องกอริลลา-โดยเดวิด-แอทเทนเบอเรอห์-เซอร์เดวิด-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
+    "title": "180 (2026)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6bd63d49e5ea254bb154767a559dd0f4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6bd63d49e5ea254bb154767a559dd0f4"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/180-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
+  },
+  {
     "title": "Diva La Vie​ (2026) ดีว่าราวี",
     "servers": [
       {
