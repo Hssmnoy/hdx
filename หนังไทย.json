@@ -1,5 +1,20 @@
 [
   {
+    "title": "ตาโขน (2025) Ta Khon",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8569d5c2b0e5025a997b8d10d9ea36f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8569d5c2b0e5025a997b8d10d9ea36f7"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Ta-Khon-2025-ตาโขน-165x248.jpg",
+    "group": "หนังไทย"
+  },
+  {
     "title": "Diva La Vie​ (2026) ดีว่าราวี",
     "servers": [
       {
