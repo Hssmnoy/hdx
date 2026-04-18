@@ -1,5 +1,35 @@
 [
   {
+    "title": "Malena (2000) มาเลน่า ผู้หญิงสะกดโลก",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/19a3bc2e9c92d97bcc01b8e900fe2810/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19a3bc2e9c92d97bcc01b8e900fe2810"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Malena-165x248.jpg",
+    "group": "หนัง18+"
+  },
+  {
+    "title": "The Reader (2008) เดอะ รีดเดอร์ ในอ้อมกอดรักไม่ลืมเลือน",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/17db8e194305bcdd411585a60fcfa943/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17db8e194305bcdd411585a60fcfa943"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Reader-2008-165x248.jpg",
+    "group": "หนัง18+"
+  },
+  {
     "title": "Female teacher closing the door (2021)",
     "servers": [
       {
