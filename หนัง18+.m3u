@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="หนัง18+" tvg-logo="https://lk-hds.com/wp-content/uploads/2024/06/Malena-165x248.jpg",Malena (2000) มาเลน่า ผู้หญิงสะกดโลก
+https://enjoy24cdn.com/hlsr2/19a3bc2e9c92d97bcc01b8e900fe2810/master.m3u8
+#EXTINF:-1 group-title="หนัง18+" tvg-logo="https://lk-hds.com/wp-content/uploads/2024/06/The-Reader-2008-165x248.jpg",The Reader (2008) เดอะ รีดเดอร์ ในอ้อมกอดรักไม่ลืมเลือน
+https://enjoy24cdn.com/hlsr2/17db8e194305bcdd411585a60fcfa943/master.m3u8
 #EXTINF:-1 group-title="หนัง18+" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/Female-teacher-closing-the-door-2021-165x248.jpg",Female teacher closing the door (2021)
 https://original.enjoy24cdn.com/hlsr2/c1aa420cb7eb23b7b9ad1dae16da82b9/master.m3u8
 #EXTINF:-1 group-title="หนัง18+" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/The-Housemaid-2010-165x248.jpg",The Housemaid (2010) แรงปรารถนา..อย่าห้าม
