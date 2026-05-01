@@ -1,5 +1,61 @@
 [
   {
+    "title": "มือปืน (2025) The Last Shot",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/93506e79172f30c4fe68a4923eb39228/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/93506e79172f30c4fe68a4923eb39228"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/The-Last-Shot-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "Kiss/Kiss (2025)",
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/GSzpfRI_lH"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Kiss-Kiss-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "ข้างบ้าน Our House (2025)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7f14e6d8435fcac4c6e5e8e849f2d207/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7f14e6d8435fcac4c6e5e8e849f2d207"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/Our-House-2025-ข้างบ้าน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
+    "title": "No One Like Me (2025) ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่งภาคพิเศษ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/e4e6632f46854eaf49cd617fe680167b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e4e6632f46854eaf49cd617fe680167b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/No-One-Like-Me-2025-ผู้พิทักษ์รัตติกาลแห่งต้าเฟิ่งภาคพิเศษ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
+  },
+  {
     "title": "Regretting You (2025) รอยรักปมร้าว",
     "servers": [
       {
