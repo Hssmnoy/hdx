@@ -1,5 +1,65 @@
 [
   {
+    "title": "คืนบาป พรหมพิราม (2003) Macabre Case of Prom Pi Ram",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1de4819830d7e0f78b37646a259df594/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1de4819830d7e0f78b37646a259df594"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/05/คืนบาป-พรหมพิราม-2003-Macabre-Case-of-Prom-Pi-Ram-165x248.jpg",
+    "group": "หนังไทย"
+  },
+  {
+    "title": "มือปืน (2025) The Last Shot",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/93506e79172f30c4fe68a4923eb39228/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/93506e79172f30c4fe68a4923eb39228"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/The-Last-Shot-165x248.jpg",
+    "group": "หนังไทย"
+  },
+  {
+    "title": "Ko Ga Loak Village หมู่บ้านโคกะโหลก (2025)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ab1832080f3741afed9958f110e22957/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ab1832080f3741afed9958f110e22957"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Ko-Ga-Loak-Village-165x248.jpg",
+    "group": "หนังไทย"
+  },
+  {
+    "title": "ข้างบ้าน Our House (2025)",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7f14e6d8435fcac4c6e5e8e849f2d207/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7f14e6d8435fcac4c6e5e8e849f2d207"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/Our-House-2025-ข้างบ้าน-165x248.jpg",
+    "group": "หนังไทย"
+  },
+  {
     "title": "ตาโขน (2025) Ta Khon",
     "servers": [
       {

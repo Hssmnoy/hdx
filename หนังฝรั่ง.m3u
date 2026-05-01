@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2024/03/Collateral-Beauty-2016-คอลแลทเทอรัล-บิวตี้-165x248.jpg",Collateral Beauty (2016) คอลแลทเทอรัล บิวตี้
+https://enjoy24cdn.com/hlsr2/aedf124f87a37154ba8137ac870fbe7b/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2024/06/The-Departed-165x248.jpg",The Departed (2006) ภารกิจโหด แฝงตัวโค่นเจ้าพ่อ
+https://enjoy24cdn.com/hlsr2/d7bb1693ed0482e66daee542d8b04aa7/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/Apex-2026-165x248.jpg",Apex (2026) ห่วงโซ่สังหาร
+https://original.enjoy24cdn.com/hlsr2/52f170e67be6c3c9c7460fa143aa21aa/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/Normal-2026-เมืองธรรมดานรกเรียกพ่อ-165x248.jpg",Normal (2026) เมืองธรรมดานรกเรียกพ่อ
+https://original.enjoy24cdn.com/hlsr2/ae0504a4ef1ad046c19670363e0c8110/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/05/They-Will-Kill-You-2026-พวกมันจะฆ่าแก-165x248.jpg",They Will Kill You (2026) พวกมันจะฆ่าแก
+https://original.enjoy24cdn.com/hlsr2/5aa9348a9ad4f014be32fd03d8012bed/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2024/06/Malena-165x248.jpg",Malena (2000) มาเลน่า ผู้หญิงสะกดโลก
 https://enjoy24cdn.com/hlsr2/19a3bc2e9c92d97bcc01b8e900fe2810/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/Regretting-You-2025-รอยรักปมร้าว-165x248.jpg",Regretting You (2025) รอยรักปมร้าว
