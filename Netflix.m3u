@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/The-Last-Shot-165x248.jpg",มือปืน (2025) The Last Shot
+https://original.enjoy24cdn.com/hlsr2/93506e79172f30c4fe68a4923eb39228/master.m3u8
+#EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/Apex-2026-165x248.jpg",Apex (2026) ห่วงโซ่สังหาร
+https://original.enjoy24cdn.com/hlsr2/52f170e67be6c3c9c7460fa143aa21aa/master.m3u8
+#EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/05/Our-House-2025-ข้างบ้าน-165x248.jpg",ข้างบ้าน Our House (2025)
+https://original.enjoy24cdn.com/hlsr2/7f14e6d8435fcac4c6e5e8e849f2d207/master.m3u8
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/Toaster-2026-ปิง-ปิ่ง-ปิ้ง-165x248.jpg",Toaster (2026) ปิง ปิ่ง ปิ้ง
 https://original.enjoy24cdn.com/hlsr2/3f6b24c8a818b9bff4d0a6c0ac004379/master.m3u8
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/Roommates-2026-รูมเมท-165x248.jpg",Roommates (2026) รูมเมท
