@@ -1,5 +1,20 @@
 [
   {
+    "title": "5 Centimeters Per Second (2026) ยามซากุระร่วงโรย",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/bfd03b24a21c32561c8e63d1d2a2a972/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/bfd03b24a21c32561c8e63d1d2a2a972"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/5-Centimeters-Per-Second-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
+  },
+  {
     "title": "Kamen Rider Gavv Invaders of the Candy House (2025) มาสค์ไรเดอร์ กาบุ เดอะมูฟวี่ ศึกบุกบ้านขนมหวาน",
     "servers": [
       {
