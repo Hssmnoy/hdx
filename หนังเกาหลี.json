@@ -1,5 +1,20 @@
 [
   {
+    "title": "Happy End (1999) รัก ทรยศ หายนะ",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d32bbcf31c79ab9a34a75900cb689daa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d32bbcf31c79ab9a34a75900cb689daa"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/Happy-End-1999-รัก-ทรยศ-หายนะ-165x248.jpg",
+    "group": "หนังเกาหลี"
+  },
+  {
     "title": "Pretty Crazy (2025) เดี๋ยวสวย เดี๋ยวแสบ ผมแทบจะเครซี่",
     "servers": [
       {
