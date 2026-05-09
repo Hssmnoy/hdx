@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/02/F-ck-Valentines-Day-2026-165x248.jpg",F*ck Valentines Day (2026)
-https://original.enjoy24cdn.com/hlsr2/963acc4de6e8525d6fa7e83f4d2bdc5b/master.m3u8
-#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/02/Dracula-A-Love-Tale-2026-165x248.jpg",Dracula A Love Tale (2026)
-https://original.enjoy24cdn.com/hlsr2/fa10d43fb6b21d60ff15d35ca52b8974/master.m3u8
-#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2025/06/Ballerina-2025-บัลเลรินา-แค้นกว่านรก-165x248.jpg",From the World of John Wick Ballerina (2025) จักรวาลของ จอห์น วิค บัลเลรินา แค้นกว่านรก
-https://original.enjoy24cdn.com/hlsr2/2d97292665ee657f78a4e5fbd7b11251/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/02/Marty-Supreme-2025-165x248.jpg",Marty Supreme (2025)
 https://original.enjoy24cdn.com/hlsr2/d7adb8a9af3d13af26a9fe9e42fb6d39/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/02/Pillion-2026-คนข้างหลัง-165x248.jpg",Pillion (2026) คนข้างหลัง
@@ -169,3 +163,9 @@ https://original.enjoy24cdn.com/hlsr2/5aa9348a9ad4f014be32fd03d8012bed/master.m3
 https://original.enjoy24cdn.com/hlsr2/c5356a1cec842517aa9116fae1fc5040/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2025/03/นรกหยุดนรก-2025-A-Working-Man-165x248.jpg",นรกหยุดนรก (2025) A Working Man 
 https://enjoy24cdn.com/hlsr2/97ef0f768bf1e34129529d4ea7795897/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",Journey 1 to the Center of the Earth (2008) เจอร์นีย์ ภาค 1 ดิ่งทะลุสะดือโลก
+https://enjoy24cdn.com/hlsr2/160428758700fc132080a9aa6b6616a0/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",Journey 2 The Mysterious Island (2012) เจอร์นีย์ ภาค 2 พิชิตเกาะพิศวงอัศจรรย์สุดโลก
+https://enjoy24cdn.com/hlsr2/6b6b4c092fe95b9932645499041bdc47/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",Beauty And The Beast (2017) โฉมงามกับเจ้าชายอสูร
+https://enjoy24cdn.com/hlsr2/152ae19ba554ae2b6a947cddba3e6a7a/master.m3u8

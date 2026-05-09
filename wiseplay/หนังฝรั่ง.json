@@ -5,60 +5,6 @@
   "url": "https://lk-hds.com",
   "groups": [
     {
-      "name": "F*ck Valentines Day (2026)",
-      "image": "https://lk-hds.com/wp-content/uploads/2026/02/F-ck-Valentines-Day-2026-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/02/F-ck-Valentines-Day-2026-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/hlsr2/963acc4de6e8525d6fa7e83f4d2bdc5b/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/02/F-ck-Valentines-Day-2026-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/play/963acc4de6e8525d6fa7e83f4d2bdc5b",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
-    {
-      "name": "Dracula A Love Tale (2026)",
-      "image": "https://lk-hds.com/wp-content/uploads/2026/02/Dracula-A-Love-Tale-2026-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/02/Dracula-A-Love-Tale-2026-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/hlsr2/fa10d43fb6b21d60ff15d35ca52b8974/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/02/Dracula-A-Love-Tale-2026-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/play/fa10d43fb6b21d60ff15d35ca52b8974",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
-    {
-      "name": "From the World of John Wick Ballerina (2025) จักรวาลของ จอห์น วิค บัลเลรินา แค้นกว่านรก",
-      "image": "https://lk-hds.com/wp-content/uploads/2025/06/Ballerina-2025-บัลเลรินา-แค้นกว่านรก-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2025/06/Ballerina-2025-บัลเลรินา-แค้นกว่านรก-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/hlsr2/2d97292665ee657f78a4e5fbd7b11251/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2025/06/Ballerina-2025-บัลเลรินา-แค้นกว่านรก-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/play/2d97292665ee657f78a4e5fbd7b11251",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
-    {
       "name": "Gabby’s Dollhouse The Movie (2025)",
       "image": "https://lk-hds.com/wp-content/uploads/2026/02/Gabbys-Dollhouse-The-Movie-2025-165x248.jpg",
       "stations": [
@@ -1806,6 +1752,60 @@
           "name": "Embed",
           "image": "https://lk-hds.com/wp-content/uploads/2025/03/นรกหยุดนรก-2025-A-Working-Man-165x248.jpg",
           "url": "https://enjoy24cdn.com/p2p/97ef0f768bf1e34129529d4ea7795897",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "Journey 1 to the Center of the Earth (2008) เจอร์นีย์ ภาค 1 ดิ่งทะลุสะดือโลก",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/hlsr2/160428758700fc132080a9aa6b6616a0/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/p2p/160428758700fc132080a9aa6b6616a0",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "Journey 2 The Mysterious Island (2012) เจอร์นีย์ ภาค 2 พิชิตเกาะพิศวงอัศจรรย์สุดโลก",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/hlsr2/6b6b4c092fe95b9932645499041bdc47/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/p2p/6b6b4c092fe95b9932645499041bdc47",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "Beauty And The Beast (2017) โฉมงามกับเจ้าชายอสูร",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",
+          "url": "https://enjoy24cdn.com/hlsr2/152ae19ba554ae2b6a947cddba3e6a7a/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",
+          "url": "https://enjoy24cdn.com/p2p/152ae19ba554ae2b6a947cddba3e6a7a",
           "referer": "https://lk-hds.com"
         }
       ]
