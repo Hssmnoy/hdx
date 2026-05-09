@@ -1,6 +1,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const fs = require("fs/promises")
+const fs = require("fs"); 
+const fsp = require("fs/promises"); 
 const { exec } = require("child_process");
 const WISEPLAY_DIR = "wiseplay";
 
@@ -27,7 +28,7 @@ async function generateM3U(filename, movies) {
     lines.push(server.url);
   }
 
-  await fs.writeFile(filename, lines.join("\n"), "utf-8");
+  await fsp.writeFile(filename, lines.join("\n"), "utf-8");
   console.log("📺 M3U CREATED:", filename);
 }
 const PROGRESS_FILE = "progress.json";
@@ -59,12 +60,12 @@ function sleep(ms) {
 
 // progress
 async function loadProgress() {
-  try { return JSON.parse(await fs.readFile(PROGRESS_FILE, "utf-8")); }
+  try { return JSON.parse(await fsp.readFile(PROGRESS_FILE, "utf-8")); }
   catch { return {}; }
 }
 
 async function saveProgress(progress) {
-  await fs.writeFile(PROGRESS_FILE, JSON.stringify(progress, null, 2));
+  await fsp.writeFile(PROGRESS_FILE, JSON.stringify(progress, null, 2));
 }
 
 // =========================
@@ -489,9 +490,7 @@ async function run() {
     ajaxConfigs[cat.name] = await getAjaxConfig(cat);
   }
   
-  if (!fs.existsSync(WISEPLAY_DIR)) {
-  fs.mkdirSync(WISEPLAY_DIR);
-}
+  await fsp.mkdir(WISEPLAY_DIR, { recursive: true });
   
   for (const cat of categories) {
     console.log("📁 SCRAPING:", cat.name);
@@ -609,7 +608,7 @@ delete movie.poster;
 delete movie.url;
 
       // 🔥 บันทึกไฟล์ JSON ระหว่างทาง
-      await fs.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
+      await fsp.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
 
       // 🔥 commit ระหว่างทาง
       if (COMMIT_EVERY > 0 && (i + 1) % COMMIT_EVERY === 0) {
