@@ -865,153 +865,433 @@
   },
   {
     "title": "Hamnet (2025) แฮมเน็ต",
-    "url": "https://lk-hds.com/hamnet-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Hamnet-2025-แฮมเน็ต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6aeeaaed78e0b7abe705f0bf60e82c7e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6aeeaaed78e0b7abe705f0bf60e82c7e"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Hamnet-2025-แฮมเน็ต-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Exit 8 (2025) ทางออกหมายเลข 8",
-    "url": "https://lk-hds.com/the-exit-8-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/The-Exit-8-2025-ทางออกหมายเลข-8-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/1e86f4a7006550aff2b762ec81b868b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/1e86f4a7006550aff2b762ec81b868b9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/The-Exit-8-2025-ทางออกหมายเลข-8-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Close Ur Kopitiam (2025)",
-    "url": "https://lk-hds.com/close-ur-kopitiam-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Close-Ur-Kopitiam-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4edd0701e9220c5851f41af49f315ed8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4edd0701e9220c5851f41af49f315ed8"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Close-Ur-Kopitiam-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Desert Lone Hero (2025) ฮีโร่ทะเลทราย",
-    "url": "https://lk-hds.com/desert-lone-hero-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/04/Desert-Lone-Hero-2025-ฮีโร่ทะเลทราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f7cee7cd6838e68951c0a814420ca7a6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f7cee7cd6838e68951c0a814420ca7a6"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/04/Desert-Lone-Hero-2025-ฮีโร่ทะเลทราย-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Mercy (2025) 90 นาทีสั่งตาย",
-    "url": "https://lk-hds.com/mercy-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Mercy-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_KBbisVQhI"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Mercy-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Blind Murder (2025) นักฆ่าตาบอด",
-    "url": "https://lk-hds.com/blind-murder-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Blind-Murder-2025-นักฆ่าตาบอด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/22667723ea58b11d7c7c609617f959e4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/22667723ea58b11d7c7c609617f959e4"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Blind-Murder-2025-นักฆ่าตาบอด-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Salvageland (2025) ผู้พิทักษ์แดนเดือด",
-    "url": "https://lk-hds.com/salvageland-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Salvageland-2025-ผู้พิทักษ์แดนเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/1c6bbfea97808254ef6964fa83a7d788/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/1c6bbfea97808254ef6964fa83a7d788"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Salvageland-2025-ผู้พิทักษ์แดนเดือด-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "นครสัตว์มหาสนุก 2 (Zootopia 2) 2025",
-    "url": "https://lk-hds.com/%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%aa%e0%b8%b1%e0%b8%95%e0%b8%a7%e0%b9%8c%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81-2-zootopia-2/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Zootopia-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/95af623019db6989a8516a0c0c115f6d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/95af623019db6989a8516a0c0c115f6d"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Zootopia-2-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Avatar Fire and Ash (2025) อวตาร อัคนีและธุลีดิน",
-    "url": "https://lk-hds.com/avatar-fire-and-ash/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Avatar-Fire-and-Ash-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/ad9BGtqRgr"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Avatar-Fire-and-Ash-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "เสือ (2025) 4 Tigers",
-    "url": "https://lk-hds.com/4-tigers-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/11/เสือ-2025-4-Tigers-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f01f3987a3f4630543b8b65819c95f74/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f01f3987a3f4630543b8b65819c95f74"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/11/เสือ-2025-4-Tigers-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "A Knights War (2025)",
-    "url": "https://lk-hds.com/a-knights-war-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/A-Knights-War-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/beb01506fe90844a4f6e60bb1a3a9f2b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/beb01506fe90844a4f6e60bb1a3a9f2b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/A-Knights-War-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Champion (2025) แชมเปี้ยน ล่าฝันเปลี่ยนชีวิต",
-    "url": "https://lk-hds.com/champion-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Champion-2025-แชมเปี้ยน-ล่าฝันเปลี่ยนชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4afb520b8d572078feeb9da688f16230/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4afb520b8d572078feeb9da688f16230"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Champion-2025-แชมเปี้ยน-ล่าฝันเปลี่ยนชีวิต-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Carpenters Son (2025)",
-    "url": "https://lk-hds.com/the-carpenters-son-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/The-Carpenters-Son-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/b0111f3cd33ad328652e20f9912fc85c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b0111f3cd33ad328652e20f9912fc85c"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/The-Carpenters-Son-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Christy (2025) คริสตี้",
-    "url": "https://lk-hds.com/christy-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Christy-2025-คริสตี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/98844fd59722a2a0f85cee2cac6c1e2a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/98844fd59722a2a0f85cee2cac6c1e2a"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Christy-2025-คริสตี้-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Near Death (2025) ใกล้ตาย",
-    "url": "https://lk-hds.com/near-death-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Near-Death-2025-ใกล้ตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cc0f4c16f73589ece129e8ff462bc4c8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cc0f4c16f73589ece129e8ff462bc4c8"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Near-Death-2025-ใกล้ตาย-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Dangerous Animals (2025)",
-    "url": "https://lk-hds.com/dangerous-animals-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Dangerous-Animals-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/8wBaEgYch_"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Dangerous-Animals-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Dead to Rights (2025) บันทึก หนานจิง",
-    "url": "https://lk-hds.com/dead-to-rights-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Dead-to-Rights-2025-บันทึก-หนานจิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9e0360245cd0413b47795012fe32431b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9e0360245cd0413b47795012fe32431b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Dead-to-Rights-2025-บันทึก-หนานจิง-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Mieruko Chan (2025) ใครว่าหนูเห็นผี",
-    "url": "https://lk-hds.com/mieruko-chan-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Mieruko-Chan-2025-ใครว่าหนูเห็นผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d16d01c314f1324490eef945b7e411f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d16d01c314f1324490eef945b7e411f7"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Mieruko-Chan-2025-ใครว่าหนูเห็นผี-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "โคตรนรกปล้นเหนือเมฆ แพนเธอรา (2025) Den of Thieves 2 Pantera",
-    "url": "https://lk-hds.com/den-of-thieves-2-pantera/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9c804edb79aec9f13b14ab058a8fe803/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9c804edb79aec9f13b14ab058a8fe803"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Astronaut (2025)",
-    "url": "https://lk-hds.com/the-astronaut-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/The-Astronaut-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d99e2dd28f9667f5657d1ba823510b86/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d99e2dd28f9667f5657d1ba823510b86"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/The-Astronaut-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Kowloon Generic Romance (2025) เกาลูน อุบัติรักปริศนาลับ",
-    "url": "https://lk-hds.com/kowloon-generic-romance-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Kowloon-Generic-Romance-2025-เกาลูน-อุบัติรักปริศนาลับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/bHHTcSqC_J"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Kowloon-Generic-Romance-2025-เกาลูน-อุบัติรักปริศนาลับ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Legend Of Phi-Ta-Khon-Mask (2025) ตำนานหน้ากากผีตาโขน",
-    "url": "https://lk-hds.com/the-legend-of-phi-ta-khon-mask-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/The-Legend-Of-Phi-Ta-Khon-Mask-2025-ตำนานหน้ากากผีตาโขน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/53cf68588e56a7575e80ad93b04061c7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/53cf68588e56a7575e80ad93b04061c7"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/The-Legend-Of-Phi-Ta-Khon-Mask-2025-ตำนานหน้ากากผีตาโขน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Saiyaara (2025) สองเราจะสู้เพื่อฝัน",
-    "url": "https://lk-hds.com/saiyaara-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/09/Saiyaara-2025-สองเราจะสู้เพื่อฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/264400f0dafd060cb009004b31eaa367/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/264400f0dafd060cb009004b31eaa367"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/09/Saiyaara-2025-สองเราจะสู้เพื่อฝัน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
-    "url": "https://lk-hds.com/play-dirty-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7c1cf835bfe67decdcf23bcad3dd15cf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7c1cf835bfe67decdcf23bcad3dd15cf"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "GARO Taiga (2025) กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ",
-    "url": "https://lk-hds.com/garo-taiga-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/GARO-Taiga-2025-กาโร่-ไทกะ-กำเนิดอัศวินหมาป่าทองคำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/0eecd4a3301095379f895f99c4237e42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0eecd4a3301095379f895f99c4237e42"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/GARO-Taiga-2025-กาโร่-ไทกะ-กำเนิดอัศวินหมาป่าทองคำ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "พี่วรรณมาสอน (2025) The Tutor",
-    "url": "https://lk-hds.com/the-tutor-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/The-Tutor-2025-พี่วรรณมาสอน-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/11c86f5ef8c5ccb6c3e59410f55d03c0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/11c86f5ef8c5ccb6c3e59410f55d03c0"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/The-Tutor-2025-พี่วรรณมาสอน-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "นรกยึดไฟลต์ (2025) Flight Risk",
-    "url": "https://lk-hds.com/flight-risk-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/01/นรกยึดไฟลต์-2025-Flight-Risk-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/61631b06286dd5d315c687012a63ed70/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/61631b06286dd5d315c687012a63ed70"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/01/นรกยึดไฟลต์-2025-Flight-Risk-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Housemaid (2025) ความลับแม่บ้านร้าย",
-    "url": "https://lk-hds.com/the-housemaid-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/The-Housemaid-2025-ความลับแม่บ้านร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/pBsnkQAc_M"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/The-Housemaid-2025-ความลับแม่บ้านร้าย-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Mortuary Assistant (2025) คืนสยองห้องดับจิต",
-    "url": "https://lk-hds.com/the-mortuary-assistant-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/The-Mortuary-Assistant-2025-คืนสยองห้องดับจิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/bf990e05c060169a9af9fa89e2a45243/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/bf990e05c060169a9af9fa89e2a45243"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/The-Mortuary-Assistant-2025-คืนสยองห้องดับจิต-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Him (2025) ตำนานคนจริง",
-    "url": "https://lk-hds.com/him-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/545c9865333b0d4de12beaeff7e44d21/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/545c9865333b0d4de12beaeff7e44d21"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Pretty Crazy (2025) เดี๋ยวสวย เดี๋ยวแสบ ผมแทบจะเครซี่",
