@@ -49,7 +49,6 @@ const categories = [
   { name: "หนังญี่ปุ่น", type: "category", id: "9" },
   { name: "Netflix", type: "category", id: "11" },
   { name: "Marvel", type: "category", id: "221" },
-  { name: "หนัง18+", type: "category", id: "49" },
   { name: "หนังภาคต่อ", type: "category", id: "10" }
 ];
 
