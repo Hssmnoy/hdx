@@ -1295,92 +1295,264 @@
   },
   {
     "title": "Ransomed (2023) คู่ระห่ำ ไถ่ข้ามโลก",
-    "url": "https://lk-hds.com/ransomed-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Ransomed-2023-คู่ระห่ำ-ไถ่ข้ามโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/db4ff397c3f5dfae73ecc6492ce2a5f8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db4ff397c3f5dfae73ecc6492ce2a5f8"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Ransomed-2023-คู่ระห่ำ-ไถ่ข้ามโลก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hi Five (2025)",
-    "url": "https://lk-hds.com/hi-five-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Hi-Five-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5f56ff573537a3083000a1725614dc1d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5f56ff573537a3083000a1725614dc1d"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Hi-Five-2025-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Volcano High (2001) ศึกป่วนฟ้า โรงเรียนมหาเวทย์",
-    "url": "https://lk-hds.com/volcano-high-2001/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/05/Volcano-High-2001-ศึกป่วนฟ้า-โรงเรียนมหาเวทย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d27ab480d750662a5433be2ac89e1e37/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d27ab480d750662a5433be2ac89e1e37"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/05/Volcano-High-2001-ศึกป่วนฟ้า-โรงเรียนมหาเวทย์-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Murderer Report (2025)",
-    "url": "https://lk-hds.com/murderer-report-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Murderer-Report-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/2a87309a5772ebaa24172c858ed75fff/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/2a87309a5772ebaa24172c858ed75fff"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Murderer-Report-2025-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Metamorphosis (2019) ปีศาจเปลี่ยนหน้า",
-    "url": "https://lk-hds.com/metamorphosis-2019/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Metamorphosis-2019-ปีศาจเปลี่ยนหน้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/502ec57dbbd82d280cc66315b76cfb82/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/502ec57dbbd82d280cc66315b76cfb82"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Metamorphosis-2019-ปีศาจเปลี่ยนหน้า-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Following (2024)",
-    "url": "https://lk-hds.com/following-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/11/Following-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/e7540485661e8e6defc645e7443b275a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e7540485661e8e6defc645e7443b275a"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/11/Following-2024-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Way Home (2002) คุณยายผม ดีที่สุดในโลก",
-    "url": "https://lk-hds.com/the-way-home-2002/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/05/The-Way-Home-2002-คุณยายผม-ดีที่สุดในโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d7623275fbc2f0185a08ade9b9da5569/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7623275fbc2f0185a08ade9b9da5569"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/05/The-Way-Home-2002-คุณยายผม-ดีที่สุดในโลก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Cursed Insatiable Desires (2025) เรื่องผีสาป",
-    "url": "https://lk-hds.com/the-cursed-insatiable-desires-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/The-Cursed-Insatiable-Desires-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a79f9fddad0a72521dd60127ffcecb83/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a79f9fddad0a72521dd60127ffcecb83"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/The-Cursed-Insatiable-Desires-2025-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Streaming (2025)",
-    "url": "https://lk-hds.com/streaming-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Streaming-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/28aa95db3942de0da50f8b8fde516046/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/28aa95db3942de0da50f8b8fde516046"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Streaming-2025-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "My Daughter Is a Zombie (2025) ลูกสาวผมเป็นซอมบี้",
-    "url": "https://lk-hds.com/my-daughter-is-a-zombie-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/My-Daughter-Is-a-Zombie-2025-ลูกสาวผมเป็นซอมบี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8776f5b7f1f54fea479239742a7fe043/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8776f5b7f1f54fea479239742a7fe043"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/My-Daughter-Is-a-Zombie-2025-ลูกสาวผมเป็นซอมบี้-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Pavane (2026) เมื่อใจบ่มรัก",
-    "url": "https://lk-hds.com/pavane-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Pavane-2026-เมื่อใจบ่มรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/257bb7487030b50325a455b620d91e8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/257bb7487030b50325a455b620d91e8f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Pavane-2026-เมื่อใจบ่มรัก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Handmaiden (2016) ล้วงเล่ห์ลวงรัก",
-    "url": "https://lk-hds.com/the-handmaiden-2016/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/The-Handmaiden-2016-ล้วงเล่ห์ลวงรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d641e1e0052fec8a01f38628d83bbc11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d641e1e0052fec8a01f38628d83bbc11"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/The-Handmaiden-2016-ล้วงเล่ห์ลวงรัก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Servant (2010) พลีรัก ลิขิตหัวใจ",
-    "url": "https://lk-hds.com/the-servant-2010/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/The-Servant-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/383e78835f9830d924fb443023170d7a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/383e78835f9830d924fb443023170d7a"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Servant-2010-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Housemaid (2010) แรงปรารถนา..อย่าห้าม",
-    "url": "https://lk-hds.com/the-housemaid-2010/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/The-Housemaid-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/80d12a0875c9e2882b768b9531e22f7f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/80d12a0875c9e2882b768b9531e22f7f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/The-Housemaid-2010-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Humint (2026) เกมจารชนคนในเงา",
-    "url": "https://lk-hds.com/humint-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Humint-2026-เกมจารชนคนในเงา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/530d573c42bc8c109224df0400f0567b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/530d573c42bc8c109224df0400f0567b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Humint-2026-เกมจารชนคนในเงา-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Pretty Crazy (2025) เดี๋ยวสวย เดี๋ยวแสบ ผมแทบจะเครซี่",
-    "url": "https://lk-hds.com/pretty-crazy-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Pretty-Crazy-2025-เดี๋ยวสวย-เดี๋ยวแสบ-ผมแทบจะเครซี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/jT_XJxcyoo"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Pretty-Crazy-2025-เดี๋ยวสวย-เดี๋ยวแสบ-ผมแทบจะเครซี่-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Omniscient Reader The Prophecy (2025) ดู อ่านชะตาวันสิ้นโลก",
-    "url": "https://lk-hds.com/omniscient-reader-the-prophecy-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/08/Omniscient-Reader-The-Prophecy-2025-อ่านชะตาวันสิ้นโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_201fn7NQd"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/08/Omniscient-Reader-The-Prophecy-2025-อ่านชะตาวันสิ้นโลก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Happy End (1999) รัก ทรยศ หายนะ",
-    "url": "https://lk-hds.com/happy-end-1999/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/05/Happy-End-1999-รัก-ทรยศ-หายนะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d32bbcf31c79ab9a34a75900cb689daa/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d32bbcf31c79ab9a34a75900cb689daa"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/Happy-End-1999-รัก-ทรยศ-หายนะ-165x248.jpg",
+    "group": "หนังเกาหลี"
   }
 ]
