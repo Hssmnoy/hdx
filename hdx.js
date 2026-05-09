@@ -38,18 +38,18 @@ let savedCategories = {};
 
 const categories = [
   // 🔥 TAG
-  { name: "หนังใหม่ 2026", type: "tag", id: "268" },
-  { name: "หนังใหม่ 2025", type: "tag", id: "230" },
+  { name: "หนังใหม่ 2026", type: "tag", id: "268", file: "หนังใหม่ 2026" },
+  { name: "หนังใหม่ 2025", type: "tag", id: "230", file: "หนังใหม่ 2025" },
 
   // 🔥 CATEGORY
-  { name: "หนังฝรั่ง", type: "category", id: "5" },
-  { name: "หนังไทย", type: "category", id: "7" },
-  { name: "หนังจีน", type: "category", id: "8" },
-  { name: "หนังเกาหลี", type: "category", id: "6" },
-  { name: "หนังญี่ปุ่น", type: "category", id: "9" },
-  { name: "Netflix", type: "category", id: "11" },
-  { name: "Marvel", type: "category", id: "221" },
-  { name: "หนังภาคต่อ", type: "category", id: "10" }
+  { name: "หนังฝรั่ง", type: "category", id: "5", file: "หนังฝรั่ง" },
+  { name: "หนังไทย", type: "category", id: "7", file: "หนังไทย" },
+  { name: "หนังจีน", type: "category", id: "8", file: "หนังจีน" },
+  { name: "หนังเกาหลี", type: "category", id: "6", file: "หนังเกาหลี" },
+  { name: "หนังญี่ปุ่น", type: "category", id: "9", file: "หนังญี่ปุ่น" },
+  { name: "Netflix", type: "category", id: "11", file: "Netflix" },
+  { name: "Marvel", type: "category", id: "221", file: "Marvel" },
+  { name: "หนังภาคต่อ", type: "category", id: "10", file: "หนังภาคต่อ" }
 ];
 
 // delay
@@ -622,7 +622,11 @@ await commitChanges(`finish ${cat.name}`);
 
   await generateM3U(`${cat.name}.m3u`, catMovies);
  
-  await generateWiseplay(`${cat.file}.json`, catMovies, cat.name);
+  await generateWiseplay(
+  (cat.file || cat.name).replace(/\s+/g, "-") + ".json",
+  catMovies,
+  cat.name
+);
  
   await commitChanges(`finish ${cat.name}`);
 }
