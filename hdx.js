@@ -4,7 +4,7 @@ const fs = require("fs");
 const fsp = require("fs/promises"); 
 const { exec } = require("child_process");
 const WISEPLAY_DIR = "wiseplay";
-
+const DOMAIN = "https://lk-hds.com";
 // =========================
 // 🔥 GENERATE M3U
 // =========================
