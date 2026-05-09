@@ -1,0 +1,58 @@
+{
+  "name": "LK-HDS",
+  "author": "อัพเดตล่าสุด 9/5/2569",
+  "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+  "url": "https://lk-hds.com/",
+  "groups": [
+    {
+      "name": "หนังใหม่ 2026",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังใหม่ 2026.json"
+    },
+    {
+      "name": "หนังใหม่ 2025",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังใหม่ 2025.json"
+    },
+    {
+      "name": "หนังฝรั่ง",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังฝรั่ง.json"
+    },
+    {
+      "name": "หนังไทย",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังไทย.json"
+    },
+    {
+      "name": "หนังจีน",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังจีน.json"
+    },
+    {
+      "name": "หนังเกาหลี",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังเกาหลี.json"
+    },
+    {
+      "name": "หนังญี่ปุ่น",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังญี่ปุ่น.json"
+    },
+    {
+      "name": "Netflix",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/Netflix.json"
+    },
+    {
+      "name": "Marvel",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/Marvel.json"
+    },
+    {
+      "name": "หนังภาคต่อ",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/หนังภาคต่อ.json"
+    }
+  ]
+}
