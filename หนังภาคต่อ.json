@@ -1,35 +1,5 @@
 [
   {
-    "title": "Lake Placid 1 (1999) แลคตาซิด โคตรเคี่ยม ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/d4173db1fd80e1e9304d1d7ed83e8fe7/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/d4173db1fd80e1e9304d1d7ed83e8fe7"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
-  },
-  {
-    "title": "Lake Placid 2 (2007) โคตรเคี้ยมบึงนรก ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/50a4bcc4cb956ed9e85c1e4c7db27b7e/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/50a4bcc4cb956ed9e85c1e4c7db27b7e"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
-  },
-  {
     "title": "Lake Placid 3 (2010) โคตรเคี่ยมบึงนรก ภาค 3",
     "servers": [
       {
@@ -473,1102 +443,392 @@
   },
   {
     "title": "Happy Gilmore (1996) กิลมอร์ พลังช้าง",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/d00419c926a55e2a8058f6907e0c7cf9/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/d00419c926a55e2a8058f6907e0c7cf9"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/07/Happy-Gilmore-1996-กิลมอร์-พลังช้าง-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/happy-gilmore-1996/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/07/Happy-Gilmore-1996-กิลมอร์-พลังช้าง-165x248.jpg"
   },
   {
     "title": "Figth Break Sphere 4 (2025) สัประยุทธ์ทะลุฟ้า ภาค 4",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/5c8b14e55fd6e18f7cb232678c9f3140/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/5c8b14e55fd6e18f7cb232678c9f3140"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-ภาค-4-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/figth-break-sphere-4-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-ภาค-4-165x248.jpg"
   },
   {
     "title": "เดอะ ก็อดฟาเธอร์ ภาค 1 (The Godfather)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/ab04fe25c7e21860887cfb446e746416/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/ab04fe25c7e21860887cfb446e746416"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/The-Godfather-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-godfather-1/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/The-Godfather-1-165x248.jpg"
   },
   {
     "title": "เดอะ ก็อดฟาเธอร์ ภาค 2 (The Godfather 2)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/be970b283c4f9ae74043bc488752457f/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/be970b283c4f9ae74043bc488752457f"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/The-Godfather-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-godfather-2-1974/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/The-Godfather-2-165x248.jpg"
   },
   {
     "title": "Happy Gilmore 2 Netflix (2025) แฮปปี้ กิลมอร์ 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/978963355e454d4737b2dcbc484fd5e8/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/978963355e454d4737b2dcbc484fd5e8"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/07/Happy-Gilmore-2-2025-แฮปปี้-กิลมอร์-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/happy-gilmore-2-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/07/Happy-Gilmore-2-2025-แฮปปี้-กิลมอร์-2-165x248.jpg"
   },
   {
     "title": "Veteran (2015) ขอโทษทีปืนพี่มันลั่น",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/cb11d1a37454bddbedee0dd75a5e52ac/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/cb11d1a37454bddbedee0dd75a5e52ac"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/Veteran-2015-ขอโทษทีปืนพี่มันลั่น-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/veteran-2015/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/Veteran-2015-ขอโทษทีปืนพี่มันลั่น-165x248.jpg"
   },
   {
     "title": "I the Executioner (Veteran 2) (2024) คู่เดือดนรกต้องกราบ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/90509100f71e9c8aabf0fd25b1a5f719/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/90509100f71e9c8aabf0fd25b1a5f719"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/12/I-the-Executioner-Veteran-2-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/i-the-executioner-veteran-2-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/12/I-the-Executioner-Veteran-2-1-165x248.jpg"
   },
   {
     "title": "Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/qe7uRd3_lF"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Batman-v-Superman-Dawn-of-Justice-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/batman-v-superman-dawn-of-justice/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Batman-v-Superman-Dawn-of-Justice-165x248.jpg"
   },
   {
     "title": "Creation of the Gods II Demon Force “กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ” (2025)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/c16cfd21bb9bbca235ab9800a14a696e/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/c16cfd21bb9bbca235ab9800a14a696e"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/08/Creation-of-the-Gods-II-Demon-Force-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/creation-of-the-gods-ii-demon-force-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/08/Creation-of-the-Gods-II-Demon-Force-165x248.jpg"
   },
   {
     "title": "Freakier Friday (DISNEY+ 2025) ศุกร์สยอง สี่ร่างสลับรุ่น",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/5f5fac5f1d4623ca2fd47477fb93bcf4/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/5f5fac5f1d4623ca2fd47477fb93bcf4"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/08/Freakier-Friday-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/freakier-friday-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/08/Freakier-Friday-165x248.jpg"
   },
   {
     "title": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/861810ecad302cc916e3173d34590ccd/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/861810ecad302cc916e3173d34590ccd"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/jurassic-world-rebirth-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่-165x248.jpg"
   },
   {
     "title": "โมโนโนเกะ เดอะ มูฟวี่ บทที่ 2 | เถ้าธุลีแห่งความแค้น (2025)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/_v3pQvvufb"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/08/Mononoke-the-Movie-Chapter-II-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/mononoke-the-movie-chapter-ii/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/08/Mononoke-the-Movie-Chapter-II-165x248.jpg"
   },
   {
     "title": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/e35a9e0f96bc86230bc75daa25d9cca3/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/e35a9e0f96bc86230bc75daa25d9cca3"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/mission-impossible-8-the-final-reckoning-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-165x248.jpg"
   },
   {
     "title": "Shanghai Knights (2003) คู่ใหญ่ ฟัดทลายโลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/fbcfce4ae03ba818072202ce9eb6ca41/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/fbcfce4ae03ba818072202ce9eb6ca41"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Shanghai-Knights-2003-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/shanghai-knights-2003/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Shanghai-Knights-2003-165x248.jpg"
   },
   {
     "title": "The Conjuring 1 (2013) คนเรียกผี ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/d2945f50b51d63a63d778b4e464c2fe9/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/d2945f50b51d63a63d778b4e464c2fe9"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/The-Conjuring-1-2013-คนเรียกผี-ภาค-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-conjuring-1-2013/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/The-Conjuring-1-2013-คนเรียกผี-ภาค-1-165x248.jpg"
   },
   {
     "title": "The Conjuring 2 (2016) คนเรียกผี ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/71ea3443790b2adc1350b23c024de968/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/71ea3443790b2adc1350b23c024de968"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/The-Conjuring-2-2016-คนเรียกผี-ภาค-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-conjuring-2-2016/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/The-Conjuring-2-2016-คนเรียกผี-ภาค-2-165x248.jpg"
   },
   {
     "title": "The Conjuring 3 The Devil Made Me Do It (2021) คนเรียกผี ภาค 3",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/602ce5883fa981edb2f370d31f3a73f5/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/602ce5883fa981edb2f370d31f3a73f5"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/The-Conjuring-3-The-Devil-Made-Me-Do-It-2021-คนเรียกผี-ภาค-3-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-conjuring-3-the-devil-made-me-do-it-2021/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/The-Conjuring-3-The-Devil-Made-Me-Do-It-2021-คนเรียกผี-ภาค-3-165x248.jpg"
   },
   {
     "title": "Maleficent 1 (2014) มาเลฟิเซนท์ ภาค 1 กำเนิดนางฟ้าปีศาจ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/4553d100f531c158e3a101e5833be0ec/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/4553d100f531c158e3a101e5833be0ec"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Maleficent-1-2014-มาเลฟิเซนท์-ภาค-1-กำเนิดนางฟ้าปีศาจ-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/maleficent-1-2014/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Maleficent-1-2014-มาเลฟิเซนท์-ภาค-1-กำเนิดนางฟ้าปีศาจ-165x248.jpg"
   },
   {
     "title": "Maleficent 2 Mistress of Evil (2019) มาเลฟิเซนต์ ภาค 2 นางพญาปีศาจ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/4b789275cc5ed73414697300ac354073/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/4b789275cc5ed73414697300ac354073"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Maleficent-2-Mistress-of-Evil-2019-มาเลฟิเซนต์-ภาค-2-นางพญาปีศาจ-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/maleficent-2-mistress-of-evil-2019/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Maleficent-2-Mistress-of-Evil-2019-มาเลฟิเซนต์-ภาค-2-นางพญาปีศาจ-165x248.jpg"
   },
   {
     "title": "Confidential Assignment 1 (2017) คู่จารชน คนอึนมึน ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/56bfd8a183f6338b1f5368a23cf932a6/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/56bfd8a183f6338b1f5368a23cf932a6"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Confidential-Assignment-คู่จารชน-คนอึนมึน-ภาค-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/confidential-assignment-1-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Confidential-Assignment-คู่จารชน-คนอึนมึน-ภาค-1-165x248.jpg"
   },
   {
     "title": "Confidential Assignment 2 International (2022) จารชนโอปป้า รั่วส์ข้ามโลก ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/e688eacfad7b3d4b847e1c7ebddca87e/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/e688eacfad7b3d4b847e1c7ebddca87e"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Confidential-Assignment-2-International-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/confidential-assignment-2-international-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Confidential-Assignment-2-International-165x248.jpg"
   },
   {
     "title": "นาจา ภาค 2 (2025) Ne Zha 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/ef84c36c490089570ebb7a9fe15144a5/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/ef84c36c490089570ebb7a9fe15144a5"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/นาจา-ภาค-2-2025-Ne-Zha-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/ne-zha-2-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/นาจา-ภาค-2-2025-Ne-Zha-2-165x248.jpg"
   },
   {
     "title": "Venom The Last Dance (2024) เวน่อม มหาศึกอสูรอหังการ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/503caa7da803114af65d74bb27c8111f/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/503caa7da803114af65d74bb27c8111f"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-2024-เวน่อม-มหาศึกอสูรอหังการ-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/venom-the-last-dance/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-2024-เวน่อม-มหาศึกอสูรอหังการ-165x248.jpg"
   },
   {
     "title": "My Fault (2023) คำขอโทษ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/32da4b11042ced1639495c2f32d4baca/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/32da4b11042ced1639495c2f32d4baca"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/My-Fault-2023-คำขอโทษ-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/my-fault-2023/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/My-Fault-2023-คำขอโทษ-165x248.jpg"
   },
   {
     "title": "คำขอโทษ 2 (2024) Your Fault",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/R_P09LMIC6"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/12/คำขอโทษ-2-2024-Your-Fault-165x248.webp",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/your-fault-2024/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/12/คำขอโทษ-2-2024-Your-Fault-165x248.webp"
   },
   {
     "title": "Our Fault (2025) คำขอโทษ 3",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/d1b11cc8cc89c990ad04f518f02974b3/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/d1b11cc8cc89c990ad04f518f02974b3"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/Our-Fault-2025-คำขอโทษ-3-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/our-fault-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/Our-Fault-2025-คำขอโทษ-3-165x248.jpg"
   },
   {
     "title": "Now You See Me 1 (2013) อาชญากลปล้นโลก ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/2f409326fc502cc543a7e03ce49162c9/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/2f409326fc502cc543a7e03ce49162c9"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Now-You-See-Me-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/now-you-see-me-1-2013/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Now-You-See-Me-1-165x248.jpg"
   },
   {
     "title": "Now You See Me 2 (2016) อาชญากลปล้นโลก ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/167ae1ea413c1bb9410a40fa9595b242/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/167ae1ea413c1bb9410a40fa9595b242"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Now-You-See-Me-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/now-you-see-me-2-2016/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Now-You-See-Me-2-165x248.jpg"
   },
   {
     "title": "Troll (2022) โทรลล์",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/fec8aa7790198013a48f0fba969f8175/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/fec8aa7790198013a48f0fba969f8175"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Troll-2022-โทรลล์-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/troll-2022/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Troll-2022-โทรลล์-165x248.jpg"
   },
   {
     "title": "Troll 2 (2025) โทรลล์ ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/f961e55e66b126c636481c79379bf644/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/f961e55e66b126c636481c79379bf644"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Troll-2-2025-โทรลล์-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/troll-2-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Troll-2-2025-โทรลล์-2-165x248.jpg"
   },
   {
     "title": "Sisu (2022) สิสู้…เฒ่ามหากาฬ",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/fsMeP3Wh_H"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Sisu-2022-165x248.jpeg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/sisu/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Sisu-2022-165x248.jpeg"
   },
   {
     "title": "Five Nights at Freddy’s (2023) 5 คืนสยองที่ร้านเฟรดดี้",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/dzOh3or4_L"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Five-Nights-at-Freddys-2023-5-คืนสยองที่ร้านเฟรดดี้-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/five-nights-at-freddys-2023/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Five-Nights-at-Freddys-2023-5-คืนสยองที่ร้านเฟรดดี้-165x248.jpg"
   },
   {
     "title": "Five Nights at Freddys 2 (2025) 5 คืนสยองที่ร้านเฟรดดี้ 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/320de52d408c7c491f8dc8bac2ffd5a9/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/320de52d408c7c491f8dc8bac2ffd5a9"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Five-Nights-at-Freddys-2-2025-5-คืนสยองที่ร้านเฟรดดี้-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/five-nights-at-freddys-2-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Five-Nights-at-Freddys-2-2025-5-คืนสยองที่ร้านเฟรดดี้-2-165x248.jpg"
   },
   {
     "title": "The Family Plan (2023)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/44a735a58b7bfb9fc807875832926fa2/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/44a735a58b7bfb9fc807875832926fa2"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/ดูหนัง-The-Family-Plan-2023-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-family-plan/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/ดูหนัง-The-Family-Plan-2023-165x248.jpg"
   },
   {
     "title": "The Family Plan 2 (2025)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/c0bca350f1aeea3bb6f6452fe8deab8a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/c0bca350f1aeea3bb6f6452fe8deab8a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/The-Family-Plan-2-2025-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-family-plan-2-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/The-Family-Plan-2-2025-165x248.jpg"
   },
   {
     "title": "“เดอะ คอนเจอริ่ง คนเรียกผี พิธีกรรมครั้งสุดท้าย” (The Conjuring Last Rites) 2025",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/608a62a82aae229a9fdd12da614aaa67/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/608a62a82aae229a9fdd12da614aaa67"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-conjuring-last-rites-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites-165x248.jpg"
   },
   {
     "title": "M3GAN 2.0 เมแกน 2.0 (2025)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/28683f6d5449e5d86dc99a9b7dd4f94d/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/28683f6d5449e5d86dc99a9b7dd4f94d"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/M3GAN-2.0-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/m3gan-2-0/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/M3GAN-2.0-165x248.jpg"
   },
   {
     "title": "Zootopia (2016) นครสัตว์มหาสนุก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/502531e80883117cf04e8347178ff489/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/502531e80883117cf04e8347178ff489"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Zootopia-2016-นครสัตว์มหาสนุก-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/zootopia-2016/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Zootopia-2016-นครสัตว์มหาสนุก-165x248.jpg"
   },
   {
     "title": "แบล็ค แพนเธอร์ (2018) Black Panther",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/wEr1ztO9_w"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-165x248.webp",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/black-panther-2018/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-165x248.webp"
   },
   {
     "title": "แบล็ค แพนเธอร์ วาคานด้าจงเจริญ (2022) Black Panther Wakanda Forever",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/422304ecff349d5060552eeb8ea2f019/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/422304ecff349d5060552eeb8ea2f019"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-Wakanda-Forever-165x248.webp",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/black-panther-wakanda-forever/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-Wakanda-Forever-165x248.webp"
   },
   {
     "title": "Now You See Me 3 Now You Don’t (2025) อาชญากลปล้นโลก ภาค 3",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/f56847642d33675b75204294c8056416/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/f56847642d33675b75204294c8056416"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/11/Now-You-See-Me-3-Now-You-Dont-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/now-you-see-me-3/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/11/Now-You-See-Me-3-Now-You-Dont-165x248.jpg"
   },
   {
     "title": "28 Years Later (2025) ดู 28 ปีให้หลัง เชื้อเขมือบคน ภาค 3",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/983f6261e23934f4748d02b1aab8fb14/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/983f6261e23934f4748d02b1aab8fb14"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/07/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/28-years-later-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/07/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน-165x248.jpg"
   },
   {
     "title": "Happy Feet (2006) แฮปปี้ฟีต เพนกวินกลมปุ๊กลุกขึ้นมาเต้น",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/1b449ccdd310366eadae73632512dee7/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/1b449ccdd310366eadae73632512dee7"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Happy-Feet-2006--165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/happy-feet-2006/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Happy-Feet-2006--165x248.jpg"
   },
   {
     "title": "Happy Feet Two (2011) แฮปปี้ฟีต เพนกวินกลมปุ๊กลุกขึ้นมาเต้น 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/b29539305d0a914ab44951e37c9ec774/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/b29539305d0a914ab44951e37c9ec774"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Happy-Feet-Two-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/happy-feet-two-2011/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Happy-Feet-Two-165x248.jpg"
   },
   {
     "title": "วิคเค็ด 2 (2025) Wicked For Good",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/5cd4e21d5188eb03d1f903d5a371b475/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/5cd4e21d5188eb03d1f903d5a371b475"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Wicked-For-Good-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/wicked-for-good/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Wicked-For-Good-165x248.jpg"
   },
   {
     "title": "Greenland (2020) นาทีระทึก วันสิ้นโลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/7a0b624f661527fd8fe6b6d26694e6e1/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/7a0b624f661527fd8fe6b6d26694e6e1"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Greenland-2020-นาทีระทึก-วันสิ้นโลก-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/greenland-2020/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Greenland-2020-นาทีระทึก-วันสิ้นโลก-165x248.jpg"
   },
   {
     "title": "Nobody (2021) คนธรรมดานรกเรียกพี่",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/f4c1844dafb04fffa119e2d4db8f318b/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/f4c1844dafb04fffa119e2d4db8f318b"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/02/Nobody-2021-คนธรรมดานรกเรียกพี่-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/nobody-2021/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/02/Nobody-2021-คนธรรมดานรกเรียกพี่-165x248.jpg"
   },
   {
     "title": "300 (2006) ขุนศึกพันธุ์สะท้านโลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/b0fd467b7234b69accf06292dd05cbf1/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/b0fd467b7234b69accf06292dd05cbf1"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/300-2006-ขุนศึกพันธุ์สะท้านโลก-ภาค-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/300-2006/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/300-2006-ขุนศึกพันธุ์สะท้านโลก-ภาค-1-165x248.jpg"
   },
   {
     "title": "300 Rise of an Empire (2014) 300 มหาศึกกำเนิดอาณาจักร",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/74f41ed921c9202e6e40b44da4593329/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/74f41ed921c9202e6e40b44da4593329"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/300-Rise-of-an-Empire-2014-300-มหาศึกกำเนิดอาณาจักร-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/300-rise-of-an-empire-2014/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/300-Rise-of-an-Empire-2014-300-มหาศึกกำเนิดอาณาจักร-165x248.jpg"
   },
   {
     "title": "Kingsman 1 The Secret Service (2014) คิงส์แมน 1 โคตรพิทักษ์บ่มพยัคฆ์",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/f051f98a55398056c14e3d459f3ceae8/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/f051f98a55398056c14e3d459f3ceae8"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Kingsman-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/kingsman-1-the-secret-service-2014/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Kingsman-165x248.jpg"
   },
   {
     "title": "Kingsman 2 The Golden Circle (2017) คิงส์แมน 2 รวมพลังโคตรพยัคฆ์",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/d6c8c6b84a2ef9fe0a2065942e014e0a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/d6c8c6b84a2ef9fe0a2065942e014e0a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Kingsman-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/kingsman-2-the-golden-circle-2017/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Kingsman-2-165x248.jpg"
   },
   {
     "title": "The King’s Man (2021) กำเนิดโคตรพยัคฆ์คิงส์แมน",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/db96fcbcce4ab04450c50180fd752b65/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/db96fcbcce4ab04450c50180fd752b65"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/The-Kings-Man-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/the-kings-man-2021/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/The-Kings-Man-165x248.jpg"
   },
   {
     "title": "Necromancer (2005) จอมขมังเวทย์",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/7b39f01c4b69f54d122b2025945b30ac/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/7b39f01c4b69f54d122b2025945b30ac"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Necromancer-2005-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/necromancer-2005/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Necromancer-2005-165x248.jpg"
   },
   {
     "title": "Necromancer 2020 (2019) จอมขมังเวทย์ 2020",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/f4b355e4d0e2aec3b77f0a600ce86ea9/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/f4b355e4d0e2aec3b77f0a600ce86ea9"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Necromancer-2020-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/necromancer-2020-2019/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Necromancer-2020-165x248.jpg"
   },
   {
     "title": "Greenland 2 Migration (2025) ฝ่าชะตา โลกาวินาศ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/c251dc9f035f314bdd502adc6f21465d/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/c251dc9f035f314bdd502adc6f21465d"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Greenland-2-Migration-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/greenland-2-migration-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Greenland-2-Migration-165x248.jpg"
   },
   {
     "title": "Sisu 2 (2025) สิสู้…เฒ่ามหากาฬ ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/7b33ff99ec3a2521ca37ef3b6615b0be/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/7b33ff99ec3a2521ca37ef3b6615b0be"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Sisu-2-2025-สิสู้…เฒ่ามหากาฬ-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/sisu-2-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Sisu-2-2025-สิสู้…เฒ่ามหากาฬ-2-165x248.jpg"
   },
   {
     "title": "ธี่หยด 3 (2025) Death Whisperer 3",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/336c275860a2286d7c66714797648ff4/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/336c275860a2286d7c66714797648ff4"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-ธี่หยด-3-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/death-whisperer-3-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-ธี่หยด-3-165x248.jpg"
   },
   {
     "title": "Nobody 2 (2025) คนธรรมดานรกเรียกพี่ 2",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/zk3a_BmdAd"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Nobody-2-2025-คนธรรมดานรกเรียกพี่-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/nobody-2-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Nobody-2-2025-คนธรรมดานรกเรียกพี่-2-165x248.jpg"
   },
   {
     "title": "One Mile Chapter Two (2026)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/k7_NTqWZe3"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/One-Mile-Chapter-Two-2026-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/one-mile-chapter-two-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/One-Mile-Chapter-Two-2026-165x248.jpg"
   },
   {
     "title": "One Mile Chapter One (2026)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/1734d1510a7cd1efd30bcf0294ff642c/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/1734d1510a7cd1efd30bcf0294ff642c"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/One-Mile-Chapter-One-2026-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/one-mile-chapter-one-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/One-Mile-Chapter-One-2026-165x248.jpg"
   },
   {
     "title": "28 Years Later The Bone Temple (2026) 28 ปีให้หลัง เชื้อเขมือบคน วิหารซากกะโหลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/5b4047bc711fc3ab5d3d5600721f43a0/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/5b4047bc711fc3ab5d3d5600721f43a0"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/28-Years-Later-The-Bone-Temple-2026-28-ปีให้หลัง-เชื้อเขมือบคน-วิหารซากกะโหลก-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/28-years-later-the-bone-temple-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/28-Years-Later-The-Bone-Temple-2026-28-ปีให้หลัง-เชื้อเขมือบคน-วิหารซากกะโหลก-165x248.jpg"
   },
   {
     "title": "Spider Man 1 (2002) ไอ้แมงมุม ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/4130ed8828a5f51e222c94edda4a5d3e/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/4130ed8828a5f51e222c94edda4a5d3e"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-1-2002-ไอ้แมงมุม-ภาค-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/spider-man-1-2002/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-1-2002-ไอ้แมงมุม-ภาค-1-165x248.jpg"
   },
   {
     "title": "Spider Man 2 (2004) ไอ้แมงมุม ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/c4e99650f1d46744b2eb9bcc52c7c339/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/c4e99650f1d46744b2eb9bcc52c7c339"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-2-2004-ไอ้แมงมุม-ภาค-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/spider-man-2-2004-%e0%b9%84%e0%b8%ad%e0%b9%89%e0%b9%81%e0%b8%a1%e0%b8%87%e0%b8%a1%e0%b8%b8%e0%b8%a1-%e0%b8%a0%e0%b8%b2%e0%b8%84-2/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-2-2004-ไอ้แมงมุม-ภาค-2-165x248.jpg"
   },
   {
     "title": "Spider Man 3 (2007) ไอ้แมงมุม ภาค 3",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/e02c9bf929cc706343c5c790333c42cc/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/e02c9bf929cc706343c5c790333c42cc"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-3-2007-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/spider-man-3-2007-%e0%b9%84%e0%b8%ad%e0%b9%89%e0%b9%81%e0%b8%a1%e0%b8%87%e0%b8%a1%e0%b8%b8%e0%b8%a1-%e0%b8%a0%e0%b8%b2%e0%b8%84-3/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-3-2007-165x248.jpg"
   },
   {
     "title": "นครสัตว์มหาสนุก 2 (Zootopia 2) 2025",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/95af623019db6989a8516a0c0c115f6d/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/95af623019db6989a8516a0c0c115f6d"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Zootopia-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%aa%e0%b8%b1%e0%b8%95%e0%b8%a7%e0%b9%8c%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81-2-zootopia-2/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Zootopia-2-165x248.jpg"
   },
   {
     "title": "Avatar 1 (2009) อวตาร ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/6b09b04824a7a7c785bf07b665307430/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/6b09b04824a7a7c785bf07b665307430"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-1-2009-อวตาร-ภาค-1-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/avatar-1-2009/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-1-2009-อวตาร-ภาค-1-165x248.jpg"
   },
   {
     "title": "Avatar 2 The Way Of Water (2022) อวตาร ภาค 2 วิถีแห่งสายน้ำ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/8761dc3fc8214d53a315e603a33ff54a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/8761dc3fc8214d53a315e603a33ff54a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-2-The-Way-Of-Water-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/avatar-2-the-way-of-water/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-2-The-Way-Of-Water-165x248.jpg"
   },
   {
     "title": "Avatar Fire and Ash (2025) อวตาร อัคนีและธุลีดิน",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/ad9BGtqRgr"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Avatar-Fire-and-Ash-2025-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/avatar-fire-and-ash/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Avatar-Fire-and-Ash-2025-165x248.jpg"
   },
   {
     "title": "Spider Man Homecoming (2017) สไปเดอร์แมน โฮมคัมมิ่ง",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/8c01b5f437393bca823c757c533e48fb/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/8c01b5f437393bca823c757c533e48fb"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/spider-man-homecoming/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-165x248.jpg"
   },
   {
     "title": "Spider Man Far from Home (2019) สไปเดอร์ แมน ฟาร์ ฟรอม โฮม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/ec8196b96244fb98dbb236fb4bb62ced/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/ec8196b96244fb98dbb236fb4bb62ced"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/spider-man-far-from-home-2019/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg"
   },
   {
     "title": "Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/593c7c159f66034c56beb93add650091/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/593c7c159f66034c56beb93add650091"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/spider-man-no-way-home-2021/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg"
   },
   {
     "title": "โคตรนรกปล้นเหนือเมฆ แพนเธอรา (2025) Den of Thieves 2 Pantera",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/9c804edb79aec9f13b14ab058a8fe803/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/9c804edb79aec9f13b14ab058a8fe803"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/den-of-thieves-2-pantera/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp"
   },
   {
     "title": "Ready or Not (2019) เกมพร้อมตาย",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/9d8d7fe9ba542eb234de8dab9c30dd43/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/9d8d7fe9ba542eb234de8dab9c30dd43"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/Ready-or-Not-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/ready-or-not-2019/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/Ready-or-Not-165x248.jpg"
   },
   {
     "title": "Ready or Not 2 Here I Come (2026) เกมพร้อมตาย ภาค 2",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/FYEITzqUKa"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-เกมพร้อมตาย-ภาค-2-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/ready-or-not-2-here-i-come-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-เกมพร้อมตาย-ภาค-2-165x248.jpg"
   },
   {
     "title": "Scream 7 (2026) หวีดสุดขีด 7",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/5218453af0d273908a932de644f0e180/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/5218453af0d273908a932de644f0e180"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Scream-7-2026-หวีดสุดขีด-7-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/scream-7-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Scream-7-2026-หวีดสุดขีด-7-165x248.jpg"
   },
   {
     "title": "Return to Silent Hill (2026) เมืองห่าผี นครคืนชีพ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/0d1643253316c7900f500504fe8a6997/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/0d1643253316c7900f500504fe8a6997"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-165x248.jpg",
-    "group": "หนังภาคต่อ"
+    "url": "https://lk-hds.com/return-to-silent-hill-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-165x248.jpg"
+  },
+  {
+    "title": "Journey 1 to the Center of the Earth (2008) เจอร์นีย์ ภาค 1 ดิ่งทะลุสะดือโลก",
+    "url": "https://lk-hds.com/journey-1-to-the-center-of-the-earth-2008/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg"
+  },
+  {
+    "title": "Journey 2 The Mysterious Island (2012) เจอร์นีย์ ภาค 2 พิชิตเกาะพิศวงอัศจรรย์สุดโลก",
+    "url": "https://lk-hds.com/journey-2-the-mysterious-island-2012/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg"
   }
 ]
