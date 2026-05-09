@@ -443,153 +443,429 @@
   },
   {
     "title": "A Family (2021) ตระกูลยากูซ่า",
-    "url": "https://lk-hds.com/a-family-2021/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/08/A-Family-2021-ตระกูลยากูซ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/18ffafda40c400c523220afcf9fa31a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/18ffafda40c400c523220afcf9fa31a3"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/08/A-Family-2021-ตระกูลยากูซ่า-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Attack on Titan Part 1 (2015) ผ่าพิภพไททัน",
-    "url": "https://lk-hds.com/attack-on-titan-part-1-2015/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Attack-on-Titan-Part-1-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/17ff4b18f391d87c6337cfffce84ba4a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17ff4b18f391d87c6337cfffce84ba4a"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Attack-on-Titan-Part-1-2015-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Attack on Titan Part 2 End of the World (2015) ศึกอวสานพิภพไททัน",
-    "url": "https://lk-hds.com/attack-on-titan-part-2-end-of-the-world-2015/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/08/Attack-on-Titan-Part-2-End-of-the-World-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6ebd9a6a3f75318df623a7a8ec9c2179/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6ebd9a6a3f75318df623a7a8ec9c2179"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/08/Attack-on-Titan-Part-2-End-of-the-World-2015-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Romance Doll (2020) ตุ๊กตารัก",
-    "url": "https://lk-hds.com/romance-doll-2020/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Romance-Doll-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6f6b6b777961222bd2d05e9401d51a25/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6f6b6b777961222bd2d05e9401d51a25"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Romance-Doll-2020-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Our Little Sister (2015) เพราะเราพี่น้องกัน",
-    "url": "https://lk-hds.com/our-little-sister-2015/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Our-Little-Sister-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fe414c2ed0a9cb45ec4140f0cff217bb/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe414c2ed0a9cb45ec4140f0cff217bb"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Our-Little-Sister-2015-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kyrie (2023) คิริเอะ เพลงรักคือเธอ",
-    "url": "https://lk-hds.com/kyrie-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/09/Kyrie-2023-คิริเอะ-เพลงรักคือเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef41cb5b67842e06d0db67a378b04a62/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef41cb5b67842e06d0db67a378b04a62"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/09/Kyrie-2023-คิริเอะ-เพลงรักคือเธอ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Missing (2024) หาย",
-    "url": "https://lk-hds.com/missing-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/09/Missing-2024-หาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/faa636205c81c8978d995849c286ebb0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/faa636205c81c8978d995849c286ebb0"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/09/Missing-2024-หาย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Previously Saved Version (2024) บันทึกความทรงจำข้ามดวงดาว",
-    "url": "https://lk-hds.com/previously-saved-version-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/10/Previously-Saved-Version-2024-บันทึกความทรงจำข้ามดวงดาว-165x248.png"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1eecf1de12cc7c4afd64fdbf541f4c55/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1eecf1de12cc7c4afd64fdbf541f4c55"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/10/Previously-Saved-Version-2024-บันทึกความทรงจำข้ามดวงดาว-165x248.png",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Silent Love (2024) สื่อภาษาใจไปถึงเธอ",
-    "url": "https://lk-hds.com/silent-love-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/10/Silent-Love-2024-สื่อภาษาใจไปถึงเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8796e5111c3a2b8b7b315cb7d56cd87c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8796e5111c3a2b8b7b315cb7d56cd87c"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/10/Silent-Love-2024-สื่อภาษาใจไปถึงเธอ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Memories of Matsuko (2006) เส้นทางฝันแห่งมัตสึโกะ",
-    "url": "https://lk-hds.com/memories-of-matsuko-2006/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/04/Memories-of-Matsuko-2006-เส้นทางฝันแห่งมัตสึโกะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2b0fa0eda89b626694f1d600ad34e5f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2b0fa0eda89b626694f1d600ad34e5f2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/04/Memories-of-Matsuko-2006-เส้นทางฝันแห่งมัตสึโกะ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Chronicle Of My Mother (2011) กราบหัวใจแม่ แด่หัวใจรัก",
-    "url": "https://lk-hds.com/chronicle-of-my-mother-2011/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Chronicle-Of-My-Mother-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/03ae2eb9e9926227a4cd262217cb6960/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/03ae2eb9e9926227a4cd262217cb6960"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Chronicle-Of-My-Mother-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Floor Plan (A Strange House) (2024) บ้านวิกล",
-    "url": "https://lk-hds.com/the-floor-plan-a-strange-house-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/10/The-Floor-Plan-A-Strange-House-2024-บ้านวิกล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/bde69cd79a3b50b3cfbee43876fae782/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bde69cd79a3b50b3cfbee43876fae782"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/10/The-Floor-Plan-A-Strange-House-2024-บ้านวิกล-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ju on 1 (2002) ผี ดุ ภาค 1",
-    "url": "https://lk-hds.com/ju-on-1-2002/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Ju-on-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/JHTdsJ_ld4"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Ju-on-1-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ju on 2 (2003) ผี ดุ ภาค 2  ",
-    "url": "https://lk-hds.com/ju-on-2-2003/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/07/Ju-on-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/aa2176d2011364b486b0d3442d468a3d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/aa2176d2011364b486b0d3442d468a3d"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Ju-on-2-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ju on Begining of the End (2014) จูออน ผีดุ กำเนิดมรณะ",
-    "url": "https://lk-hds.com/ju-on-begining-of-the-end-2014/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Ju-on-Begining-of-the-End-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/874e0201c949caeb21210b9382e53171/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/874e0201c949caeb21210b9382e53171"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Ju-on-Begining-of-the-End-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ju On 4 The Final Curse (2015) จูออน ผีดุ ภาค 4 ปิดตำนานโคตรดุ ",
-    "url": "https://lk-hds.com/ju-on-4-the-final-curse-2015/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/07/Ju-On-4-The-Final-Curse-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/S_COnOLi4I"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Ju-On-4-The-Final-Curse-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Evil Does Not Exist (2023) ที่นี่ไม่มีปีศาจ",
-    "url": "https://lk-hds.com/evil-does-not-exist-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/07/Evil-Does-Not-Exist-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/TZ53a_YTZf"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Evil-Does-Not-Exist-2023-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Snakes and Earrings (2008) แด่ความรักด้วยความเจ็บปวด",
-    "url": "https://lk-hds.com/snakes-and-earrings-2008/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/04/Snakes-and-Earrings-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/991d622bc338dfd935e53a435371af51/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/991d622bc338dfd935e53a435371af51"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/04/Snakes-and-Earrings-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Akaneiro Ni Yakareru (2021)",
-    "url": "https://lk-hds.com/akaneiro-ni-yakareru-2021/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Akaneiro-Ni-Yakareru-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d2345eb0d384e5f15611f1945e707fb9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d2345eb0d384e5f15611f1945e707fb9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Akaneiro-Ni-Yakareru-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Bungo Stray Dogs the Movie: BEAST (2022) คำสาปมนุษย์อสูร",
-    "url": "https://lk-hds.com/bungo-stray-dogs-the-movie-beast-2022/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/10/Bungo-Stray-Dogs-the-Movie-BEAST-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/9c13e0d5a229d861a3a64cf94a9c7b37/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c13e0d5a229d861a3a64cf94a9c7b37"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/10/Bungo-Stray-Dogs-the-Movie-BEAST-2022-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Rape (1982)",
-    "url": "https://lk-hds.com/the-rape-1982/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/11/The-Rape-1982-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73db9076cb0c2a162209bcb83eedcbde/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73db9076cb0c2a162209bcb83eedcbde"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/11/The-Rape-1982-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Wet Woman in the Wind (2016) ผู้หญิงในสายลม",
-    "url": "https://lk-hds.com/wet-woman-in-the-wind-2016/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/11/Wet-Woman-in-the-Wind-2016-ผู้หญิงในสายลม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/527ebf7db8a8ef056e25738600cb67cc/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/527ebf7db8a8ef056e25738600cb67cc"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/11/Wet-Woman-in-the-Wind-2016-ผู้หญิงในสายลม-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Oba The Last Samurai (2011) โอบะ ร้อยเอกซามูไร",
-    "url": "https://lk-hds.com/oba-the-last-samurai-2011/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/12/Oba-The-Last-Samurai-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/393727b82c910eedb04e0e1b70c5e6c5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/393727b82c910eedb04e0e1b70c5e6c5"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/12/Oba-The-Last-Samurai-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kamen Rider The First (2005) มาสค์ไรเดอร์ เดอะ เฟิร์ส",
-    "url": "https://lk-hds.com/kamen-rider-the-first-2005/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/12/Kamen-Rider-The-First-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v8eROv_ylE"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/12/Kamen-Rider-The-First-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Perfect Education (1999)",
-    "url": "https://lk-hds.com/the-perfect-education-1999/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/11/The-Perfect-Education-1999-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c479afa519291581e4ce4efb84307bda/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c479afa519291581e4ce4efb84307bda"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/11/The-Perfect-Education-1999-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Minna no Uta (2023) เทปผีดุ",
-    "url": "https://lk-hds.com/minna-no-uta-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/Minna-no-Uta-2023-เทปผีดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/uA_1mgVd8l"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/Minna-no-Uta-2023-เทปผีดุ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "April Come She Will (2024) เมษายน พาใครบางคนกลับมา",
-    "url": "https://lk-hds.com/april-come-she-will-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/12/April-Come-She-Will-2024-เมษายน-พาใครบางคนกลับมา-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/y_dFgn2f3f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/12/April-Come-She-Will-2024-เมษายน-พาใครบางคนกลับมา-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Wandering Moon (2022) “รัก”พาตัว",
-    "url": "https://lk-hds.com/the-wandering-moon-2022/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/The-Wandering-Moon-2022-รักพาตัว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2ece6162a6561cf9be8981ec33371a92/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2ece6162a6561cf9be8981ec33371a92"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/The-Wandering-Moon-2022-รักพาตัว-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "มาย โฮม ฮีโร่ เดอะมูฟวี่ (2024) My Home Hero the Movie",
-    "url": "https://lk-hds.com/my-home-hero-the-movie/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/af9617881265c1695efe2da73ccf381a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/af9617881265c1695efe2da73ccf381a"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/My-Home-Hero-the-Movie-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "จดหมายรักฉบับสุดท้าย (2020) Last Letter",
-    "url": "https://lk-hds.com/last-letter-2020/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Last-Letter-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1e30fc8f8d739b3bf7d1b37f95e646c4/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1e30fc8f8d739b3bf7d1b37f95e646c4"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Last-Letter-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "บ้านผีอิหยังวะ (2025) House of Sayuri",
