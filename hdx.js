@@ -38,8 +38,8 @@ let savedCategories = {};
 
 const categories = [
   // 🔥 TAG
-  { name: "หนังใหม่ 2026", type: "tag", id: "268", file: "หนังใหม่ 2026" },
-  { name: "หนังใหม่ 2025", type: "tag", id: "230", file: "หนังใหม่ 2025" },
+  { name: "หนังใหม่ 2026", type: "tag", id: "268", file: "หนังใหม่-2026" },
+  { name: "หนังใหม่ 2025", type: "tag", id: "230", file: "หนังใหม่-2025" },
 
   // 🔥 CATEGORY
   { name: "หนังฝรั่ง", type: "category", id: "5", file: "หนังฝรั่ง" },
