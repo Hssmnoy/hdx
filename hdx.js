@@ -1,7 +1,8 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const fs = require("fs").promises;
+const fs = require("fs")
 const { exec } = require("child_process");
+const WISEPLAY_DIR = "wiseplay";
 
 // =========================
 // 🔥 GENERATE M3U
@@ -32,8 +33,8 @@ async function generateM3U(filename, movies) {
 const PROGRESS_FILE = "progress.json";
 const TEST_MODE = false;
 const COMMIT_EVERY = 30;
+let savedCategories = {};
 
-// 🔥 เพิ่มหมวดได้ตรงนี้
 const categories = [
   // 🔥 TAG
   { name: "หนังใหม่ 2026", type: "tag", id: "268" },
@@ -406,6 +407,74 @@ async function commitChanges(message) {
   });
 }
 
+async function generateWiseplay(filename, movies, groupName) {
+
+  let output = {
+    name: groupName,
+    author: new Date().toLocaleDateString("th-TH"),
+    image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+    url: DOMAIN,
+    groups: []
+  };
+
+  for (const movie of movies) {
+
+    if (!movie.servers) continue;
+
+    let group = {
+      name: movie.title,
+      image: movie.logo,
+      stations: []
+    };
+
+    for (const s of movie.servers) {
+      group.stations.push({
+        name: s.name,
+        image: movie.logo,
+        url: s.url,
+        referer: DOMAIN
+      });
+    }
+
+    if (group.stations.length > 0) {
+      output.groups.push(group);
+    }
+  }
+
+  fs.writeFileSync(
+    `${WISEPLAY_DIR}/${filename}`,
+    JSON.stringify(output, null, 2)
+  );
+
+  console.log("📺 WISEPLAY:", filename);
+}
+
+function generateIndex(jsonOutput) {
+  const baseRaw = "https://raw.githubusercontent.com/Hssmnoy/hdx/main/wiseplay/";
+
+  const index = {
+    name: "LK-HDS",
+    author: new Date().toLocaleDateString("th-TH"),
+    image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+    url: "https://lk-hds.com/",
+    groups: []
+  };
+
+  for (const group in jsonOutput) {
+    index.groups.push({
+      name: group,
+      image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      url: `${baseRaw}${group}.json`
+    });
+  }
+
+  const file = `${WISEPLAY_DIR}/index.json`;
+
+  fs.writeFileSync(file, JSON.stringify(index, null, 2));
+
+  console.log("📦 index.json created");
+}
+
 // =========================
 // 🔥 MAIN
 // =========================
@@ -419,10 +488,18 @@ async function run() {
     console.log("🔑 INIT:", cat.name);
     ajaxConfigs[cat.name] = await getAjaxConfig(cat);
   }
-
+  
+  if (!fs.existsSync(WISEPLAY_DIR)) {
+  fs.mkdirSync(WISEPLAY_DIR);
+}
+  
   for (const cat of categories) {
     console.log("📁 SCRAPING:", cat.name);
-
+savedCategories[cat.name] = {
+  name: cat.name,
+  file: `${cat.file}.json`
+};
+    
     let catMovies = [];
 
     try {
@@ -527,8 +604,7 @@ if (movie.servers.length === 0 && movie.url) {
 // ✅ map field ให้ frontend ใช้ได้
 movie.logo = movie.poster;
 movie.group = cat.name;
-
-// ❌ ลบของเก่า
+movie.title = movie.title || movie.name;      
 delete movie.poster;
 delete movie.url;
 
@@ -541,17 +617,21 @@ delete movie.url;
   await commitChanges(`auto update ${cat.name} - ${i + 1}/${catMovies.length}`);
 }
     }
-
-    // 🔥 commit ตอนจบหมวด
+    
 console.log("📦 COMMIT END CATEGORY:", cat.name);
 await commitChanges(`finish ${cat.name}`);
 
-// 🔥 สร้าง M3U ของหมวดนี้
-await generateM3U(`${cat.name}.m3u`, catMovies);
 
-  }
-
-  await commitChanges("auto update");
+  await generateM3U(`${cat.name}.m3u`, catMovies);
+ 
+  await generateWiseplay(`${cat.file}.json`, catMovies, cat.name);
+ 
+  await commitChanges(`finish ${cat.name}`);
 }
 
-run();
+await commitChanges("auto update");
+}
+
+run().then(() => {
+  generateIndex(savedCategories);
+});
