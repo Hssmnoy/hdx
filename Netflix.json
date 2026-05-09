@@ -865,153 +865,429 @@
   },
   {
     "title": "People We Meet on Vacation (2026) เราพบกัน ณ วันพักใจ",
-    "url": "https://lk-hds.com/people-we-meet-on-vacation-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ab1b61c51a8ab639c8cc3f35a1bdc144/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ab1b61c51a8ab639c8cc3f35a1bdc144"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Rip (2026) เงินบาปกระชากคน",
-    "url": "https://lk-hds.com/the-rip-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/The-Rip-2026-เงินบาปกระชากคน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Pakq_PN81e"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/The-Rip-2026-เงินบาปกระชากคน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Nobody (2021) คนธรรมดานรกเรียกพี่",
-    "url": "https://lk-hds.com/nobody-2021/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/02/Nobody-2021-คนธรรมดานรกเรียกพี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f4c1844dafb04fffa119e2d4db8f318b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f4c1844dafb04fffa119e2d4db8f318b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/02/Nobody-2021-คนธรรมดานรกเรียกพี่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "From the Ashes The Pit (2026) จากเถ้าถ่าน นรกใต้ดิน",
-    "url": "https://lk-hds.com/from-the-ashes-the-pit-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a2e12d47e8552b3efa55e5dacfc7e1ee/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a2e12d47e8552b3efa55e5dacfc7e1ee"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Cosmic Princess Kaguya! (2026) เจ้าหญิงกระบอกไม้ไผ่",
-    "url": "https://lk-hds.com/cosmic-princess-kaguya-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/a33e76db9447ba209697d3814a770b18/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a33e76db9447ba209697d3814a770b18"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Big Fake (2026) จอมปลอม",
-    "url": "https://lk-hds.com/the-big-fake-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/The-Big-Fake-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/eb85e82282197ee629716f8dd2f16d9c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eb85e82282197ee629716f8dd2f16d9c"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/The-Big-Fake-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "96 Minutes (2025) 96 นาทีชีวิต",
-    "url": "https://lk-hds.com/96-minutes-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/96-Minutes-2025-96-นาทีชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/caa2f23017b6825896e723e991674fcf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/caa2f23017b6825896e723e991674fcf"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/96-Minutes-2025-96-นาทีชีวิต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "เดี่ยว สตีล อะไลฟ์ (2026) Deaw Still Alive",
-    "url": "https://lk-hds.com/deaw-still-alive-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/เดี่ยว-สตีล-อะไลฟ์-2026-Deaw-Still-Alive-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/64d9497cfd8afb6e759053203665c4ca/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/64d9497cfd8afb6e759053203665c4ca"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/เดี่ยว-สตีล-อะไลฟ์-2026-Deaw-Still-Alive-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Yoh! Bestie (2026)",
-    "url": "https://lk-hds.com/yoh-bestie-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Yoh-Bestie-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/240875cdaf96ed83fcd8758580e0c520/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/240875cdaf96ed83fcd8758580e0c520"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Yoh-Bestie-2026-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Even if This Love Disappears from the World Tonight (2025) คืนฝันก่อนฉันลืมเธอ",
-    "url": "https://lk-hds.com/even-if-this-love-disappears-from-the-world-tonight-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Even-if-This-Love-Disappears-from-the-World-Tonight-2025-คืนฝันก่อนฉันลืมเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/2796ffc565e1ed9e01f3dffb4167fcc1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/2796ffc565e1ed9e01f3dffb4167fcc1"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Even-if-This-Love-Disappears-from-the-World-Tonight-2025-คืนฝันก่อนฉันลืมเธอ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "State of Fear (2026)",
-    "url": "https://lk-hds.com/state-of-fear-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/State-of-Fear-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6c19c08a98d95a491030d0d1de821ae0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6c19c08a98d95a491030d0d1de821ae0"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/State-of-Fear-2026-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Joe’s College Road Trip (2026) โร้ดทริปป่วนกับคุณปู่โจ",
-    "url": "https://lk-hds.com/joes-college-road-trip-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Joes-College-Road-Trip-2026-โร้ดทริปป่วนกับคุณปู่โจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/eb29d188fbe47d8864832c2d5c60db09/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eb29d188fbe47d8864832c2d5c60db09"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Joes-College-Road-Trip-2026-โร้ดทริปป่วนกับคุณปู่โจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Singers (2026) ผู้ขับขานเพลงชีวิต",
-    "url": "https://lk-hds.com/the-singers-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/The-Singers-2026-ผู้ขับขานเพลงชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5e5e7ab5b68f21d7709f72650260e63d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5e5e7ab5b68f21d7709f72650260e63d"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/The-Singers-2026-ผู้ขับขานเพลงชีวิต-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Letter to My Youth (2026) จดหมายถึงฉันในวัยเยาว์",
-    "url": "https://lk-hds.com/a-letter-to-my-youth-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/A-Letter-to-My-Youth-2026-จดหมายถึงฉันในวัยเยาว์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/e7f2e28b63c64452c6bd31f78d870e46/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e7f2e28b63c64452c6bd31f78d870e46"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/A-Letter-to-My-Youth-2026-จดหมายถึงฉันในวัยเยาว์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Pavane (2026) เมื่อใจบ่มรัก",
-    "url": "https://lk-hds.com/pavane-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Pavane-2026-เมื่อใจบ่มรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/257bb7487030b50325a455b620d91e8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/257bb7487030b50325a455b620d91e8f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Pavane-2026-เมื่อใจบ่มรัก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "The Swedish Connection (2026) ใต้เงาสวีเดน",
-    "url": "https://lk-hds.com/the-swedish-connection-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/The-Swedish-Connection-2026-ใต้เงาสวีเดน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_rH1ePPrvw"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/The-Swedish-Connection-2026-ใต้เงาสวีเดน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Firebreak (2026) ดับไฟอารมณ์",
-    "url": "https://lk-hds.com/firebreak-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Firebreak-2026-ดับไฟอารมณ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/438Z9_eq5E"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Firebreak-2026-ดับไฟอารมณ์-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Accused (2026) ใต้เงาคำกล่าวหา",
-    "url": "https://lk-hds.com/accused-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Accused-2026-ใต้เงาคำกล่าวหา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/314863055928c5306778dddb37d2021b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/314863055928c5306778dddb37d2021b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Accused-2026-ใต้เงาคำกล่าวหา-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Street Flow 3 (2026) ทางแยก 3",
-    "url": "https://lk-hds.com/street-flow-3-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Street-Flow-3-2026-ทางแยก-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_1YIZYMFtx"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Street-Flow-3-2026-ทางแยก-3-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "อนงค์ 2..สามสี่ชาติ (2025) MY BOO 2",
-    "url": "https://lk-hds.com/my-boo-2-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/MY-BOO-2-2025-อนงค์-2.สามสี่ชาติ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v09P2w_jSA"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/MY-BOO-2-2025-อนงค์-2.สามสี่ชาติ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "War Machine (2026) สงครามจักรกลถล่มโลก",
-    "url": "https://lk-hds.com/war-machine-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/War-Machine-2026-สงครามจักรกลถล่มโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/81051108f058cae85703ae66df307bb5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/81051108f058cae85703ae66df307bb5"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/War-Machine-2026-สงครามจักรกลถล่มโลก-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Strangers in the Park (2026) คนแปลกหน้าในสวน",
-    "url": "https://lk-hds.com/strangers-in-the-park-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Strangers-in-the-Park-2026-คนแปลกหน้าในสวน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/df82a3a3323e38cba06065b51b9d9e11/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/df82a3a3323e38cba06065b51b9d9e11"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Strangers-in-the-Park-2026-คนแปลกหน้าในสวน-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Louis Theroux Inside the Manosphere (2026) หลุยส์ เทอโรซ์ เจาะโลกยุคใหม่ของชายนิยม",
-    "url": "https://lk-hds.com/louis-theroux-inside-the-manosphere-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Louis-Theroux-Inside-the-Manosphere-2026-หลุยส์-เทอโรซ์-เจาะโลกยุคใหม่ของชายนิยม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cc8d328f3f22c452f8859fe68513e269/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cc8d328f3f22c452f8859fe68513e269"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Louis-Theroux-Inside-the-Manosphere-2026-หลุยส์-เทอโรซ์-เจาะโลกยุคใหม่ของชายนิยม-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Made in Korea (2026) สร้างฝันในเกาหลี",
-    "url": "https://lk-hds.com/made-in-korea-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Made-in-Korea-2026-สร้างฝันในเกาหลี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c57a299601956a848c572fa747690149/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c57a299601956a848c572fa747690149"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Made-in-Korea-2026-สร้างฝันในเกาหลี-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "A Fathers Miracle (2026)",
-    "url": "https://lk-hds.com/a-fathers-miracle-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/A-Fathers-Miracle-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/672326e352fe7f4796fa8c00bb140900/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/672326e352fe7f4796fa8c00bb140900"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/A-Fathers-Miracle-2026-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Kidnapped Elizabeth Smart (2026) คดีลักพาตัว เอลิซาเบธ สมาร์ท",
-    "url": "https://lk-hds.com/kidnapped-elizabeth-smart-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Kidnapped-Elizabeth-Smart-2026-คดีลักพาตัว-เอลิซาเบธ-สมาร์ท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/94bf02af711f0b9f5c092325afc0fcd0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/94bf02af711f0b9f5c092325afc0fcd0"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Kidnapped-Elizabeth-Smart-2026-คดีลักพาตัว-เอลิซาเบธ-สมาร์ท-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Peaky Blinders The Immortal Man (2026) พีกี้ ไบลน์เดอร์ส ชายผู้เป็นอมตะ",
-    "url": "https://lk-hds.com/peaky-blinders-the-immortal-man-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Peaky-Blinders-The-Immortal-Man-2026-พีกี้-ไบลน์เดอร์ส-ชายผู้เป็นอมตะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cc08b71b637f24a3a4e1744d783ea64f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cc08b71b637f24a3a4e1744d783ea64f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Peaky-Blinders-The-Immortal-Man-2026-พีกี้-ไบลน์เดอร์ส-ชายผู้เป็นอมตะ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "It Takes a Village (2026) หมู่เฮารวมใจ",
-    "url": "https://lk-hds.com/it-takes-a-village-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/It-Takes-a-Village-2026-หมู่เฮารวมใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ed2f3e14d4e3a149bf96920cfc282fa6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ed2f3e14d4e3a149bf96920cfc282fa6"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/It-Takes-a-Village-2026-หมู่เฮารวมใจ-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Eat Pray Bark (2026)",
-    "url": "https://lk-hds.com/eat-pray-bark-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/oe06bB5_A2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "เส้นตาย สายลวง The Red Line (2026)",
-    "url": "https://lk-hds.com/the-red-line-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/The-Red-Line-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c1c2663c0ea53422e4048f1e6a19c0c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c1c2663c0ea53422e4048f1e6a19c0c9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/The-Red-Line-165x248.jpg",
+    "group": "Netflix"
   },
   {
     "title": "Feel My Voice (2026) สัมผัสแห่งเสียง",
