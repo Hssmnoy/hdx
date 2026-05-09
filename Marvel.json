@@ -431,230 +431,82 @@
   },
   {
     "title": "The Avengers 1 (2012) ดิ อเวนเจอร์ส ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/0952e57f63b153d0cb2f98077e2645a0/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/0952e57f63b153d0cb2f98077e2645a0"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/The-Avengers-1-2012-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/the-avengers-1-2012-%e0%b8%94%e0%b8%b4-%e0%b8%ad%e0%b9%80%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-%e0%b8%a0%e0%b8%b2%e0%b8%84-1/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/The-Avengers-1-2012-165x248.jpg"
   },
   {
     "title": "Thor 1 (2011) ธอร์ ภาค 1 เทพเจ้าสายฟ้า",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/c901928be0c5aefe7d924639d49d646c/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/c901928be0c5aefe7d924639d49d646c"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-1-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/thor-1-2011/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-1-165x248.jpg"
   },
   {
     "title": "Thor 2 The Dark World (2013) ธอร์ ภาค 2 เทพเจ้าสายฟ้าโลกาทมิฬ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/a3b53886395a53a73a487470f36d224d/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/a3b53886395a53a73a487470f36d224d"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-2-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/thor-2-the-dark-world-2013-%e0%b8%98%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%a0%e0%b8%b2%e0%b8%84-2-%e0%b9%80%e0%b8%97%e0%b8%9e%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%a2%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%82%e0%b8%a5%e0%b8%81%e0%b8%b2%e0%b8%97%e0%b8%a1%e0%b8%b4%e0%b8%ac/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-2-165x248.jpg"
   },
   {
     "title": "Thor 3 Ragnarok (2017) ธอร์ ภาค 3 ศึกอวสานเทพเจ้า",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/d985130d6b2e1316c9eb101af8f03a2d/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/d985130d6b2e1316c9eb101af8f03a2d"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-3-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/thor-3-ragnarok-2017-%e0%b8%98%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%a0%e0%b8%b2%e0%b8%84-3-%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%aa%e0%b8%b2%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%9e%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-3-165x248.jpg"
   },
   {
     "title": "Thor 4 Love and Thunder (2022) ธอร์ ภาค 4 ด้วยรักและอัสนี",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/ppU_InfXpX"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-4-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/thor-4-love-and-thunder-2022-%e0%b8%98%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%a0%e0%b8%b2%e0%b8%84-4-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%ad%e0%b8%b1%e0%b8%aa%e0%b8%99%e0%b8%b5/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Thor-4-165x248.jpg"
   },
   {
     "title": "Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ข้ามผ่านจักรวาล แมงมุม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/f56700eefa6568eba2e08bd0766e3d67/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/f56700eefa6568eba2e08bd0766e3d67"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Spider-Man-Across-the-Spider-Verse-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/spider-man-across-the-spider-verse/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Spider-Man-Across-the-Spider-Verse-165x248.jpg"
   },
   {
     "title": "Ant Man and the Wasp Quantumania (2023) แอนท์ แมน และ เดอะ วอสพ์ ตะลุยมิติควอนตัม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/2ee4ca832821df35f1ec866ae6192385/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/2ee4ca832821df35f1ec866ae6192385"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Ant-Man-and-the-Wasp-Quantumania-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/ant-man-and-the-wasp-quantumania/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Ant-Man-and-the-Wasp-Quantumania-165x248.jpg"
   },
   {
     "title": "Avengers 3 Infinity War (2018) อเวนเจอร์ส ภาค 3 มหาสงครามล้างจักรวาล",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/e8e686a8e7be13f2969ca722b054da0d/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/e8e686a8e7be13f2969ca722b054da0d"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Avengers-3-Infinity-War-2018-อเวนเจอร์ส-ภาค-3-มหาสงครามล้างจักรวาล-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/avengers-3-infinity-war-2018-%e0%b8%ad%e0%b9%80%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-%e0%b8%a0%e0%b8%b2%e0%b8%84-3/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Avengers-3-Infinity-War-2018-อเวนเจอร์ส-ภาค-3-มหาสงครามล้างจักรวาล-165x248.jpg"
   },
   {
     "title": "Thunderbolts* (2025) ธันเดอร์โบลต์ส*",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/8790222868425ddac04fc85b38559a5a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/8790222868425ddac04fc85b38559a5a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Thunderbolts-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/thunderbolts-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Thunderbolts-165x248.jpg"
   },
   {
     "title": "Shang Chi and the Legend of the Ten Rings (2021) ชาง ชี กับตำนานลับเท็นริงส์",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/3a9dd4fbc1705e619226781945758617/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/3a9dd4fbc1705e619226781945758617"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Shang-Chi-and-the-Legend-of-the-Ten-Rings-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/shang-chi-and-the-legend-of-the-ten-rings-2021-%e0%b8%8a%e0%b8%b2%e0%b8%87-%e0%b8%8a%e0%b8%b5-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%95%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b9%87%e0%b8%99%e0%b8%a3%e0%b8%b4%e0%b8%87%e0%b8%aa%e0%b9%8c/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Shang-Chi-and-the-Legend-of-the-Ten-Rings-165x248.jpg"
   },
   {
     "title": "The Fantastic Four First Steps เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐมบทใหม่ ",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/zQJiiZRIh_"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/the-fantastic-four-first-steps-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-165x248.jpg"
   },
   {
     "title": "แบล็ค แพนเธอร์ (2018) Black Panther",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/wEr1ztO9_w"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-165x248.webp",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/black-panther-2018/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-165x248.webp"
   },
   {
     "title": "แบล็ค แพนเธอร์ วาคานด้าจงเจริญ (2022) Black Panther Wakanda Forever",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/422304ecff349d5060552eeb8ea2f019/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/422304ecff349d5060552eeb8ea2f019"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-Wakanda-Forever-165x248.webp",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/black-panther-wakanda-forever/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Black-Panther-Wakanda-Forever-165x248.webp"
   },
   {
     "title": "Spider Man Homecoming (2017) สไปเดอร์แมน โฮมคัมมิ่ง",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/8c01b5f437393bca823c757c533e48fb/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/8c01b5f437393bca823c757c533e48fb"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/spider-man-homecoming/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-165x248.jpg"
   },
   {
     "title": "Spider Man Far from Home (2019) สไปเดอร์ แมน ฟาร์ ฟรอม โฮม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/ec8196b96244fb98dbb236fb4bb62ced/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/ec8196b96244fb98dbb236fb4bb62ced"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/spider-man-far-from-home-2019/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg"
   },
   {
     "title": "Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/593c7c159f66034c56beb93add650091/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/593c7c159f66034c56beb93add650091"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg",
-    "group": "Marvel"
+    "url": "https://lk-hds.com/spider-man-no-way-home-2021/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg"
   }
 ]
