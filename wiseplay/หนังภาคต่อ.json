@@ -5,42 +5,6 @@
   "url": "https://lk-hds.com",
   "groups": [
     {
-      "name": "Lake Placid 1 (1999) แลคตาซิด โคตรเคี่ยม ภาค 1",
-      "image": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg",
-          "url": "https://enjoy24cdn.com/hlsr2/d4173db1fd80e1e9304d1d7ed83e8fe7/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-1-165x248.jpg",
-          "url": "https://enjoy24cdn.com/p2p/d4173db1fd80e1e9304d1d7ed83e8fe7",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
-    {
-      "name": "Lake Placid 2 (2007) โคตรเคี้ยมบึงนรก ภาค 2",
-      "image": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg",
-          "url": "https://enjoy24cdn.com/hlsr2/50a4bcc4cb956ed9e85c1e4c7db27b7e/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-2-165x248.jpg",
-          "url": "https://enjoy24cdn.com/p2p/50a4bcc4cb956ed9e85c1e4c7db27b7e",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
-    {
       "name": "Lake Placid 3 (2010) โคตรเคี่ยมบึงนรก ภาค 3",
       "image": "https://lk-hds.com/wp-content/uploads/2024/07/Lake-Placid-3-165x248.jpg",
       "stations": [
@@ -1872,6 +1836,42 @@
           "name": "Embed",
           "image": "https://lk-hds.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-165x248.jpg",
           "url": "https://original.enjoy24cdn.com/play/0d1643253316c7900f500504fe8a6997",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "Journey 1 to the Center of the Earth (2008) เจอร์นีย์ ภาค 1 ดิ่งทะลุสะดือโลก",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/hlsr2/160428758700fc132080a9aa6b6616a0/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/p2p/160428758700fc132080a9aa6b6616a0",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "Journey 2 The Mysterious Island (2012) เจอร์นีย์ ภาค 2 พิชิตเกาะพิศวงอัศจรรย์สุดโลก",
+      "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/hlsr2/6b6b4c092fe95b9932645499041bdc47/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
+          "url": "https://enjoy24cdn.com/p2p/6b6b4c092fe95b9932645499041bdc47",
           "referer": "https://lk-hds.com"
         }
       ]
