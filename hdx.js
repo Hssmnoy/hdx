@@ -411,7 +411,7 @@ async function generateWiseplay(filename, movies, groupName) {
 
   let output = {
     name: groupName,
-    author: new Date().toLocaleDateString("th-TH"),
+    author: `อัพเดตล่าสุด ${new Date().toLocaleDateString("th-TH")}`,
     image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
     url: DOMAIN,
     groups: []
@@ -454,7 +454,7 @@ function generateIndex(jsonOutput) {
 
   const index = {
     name: "LK-HDS",
-    author: new Date().toLocaleDateString("th-TH"),
+    author: `อัพเดตล่าสุด ${new Date().toLocaleDateString("th-TH")}`,
     image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
     url: "https://lk-hds.com/",
     groups: []
