@@ -1,6 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const fs = require("fs")
+const fs = require("fs/promises")
 const { exec } = require("child_process");
 const WISEPLAY_DIR = "wiseplay";
 
