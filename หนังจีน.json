@@ -419,153 +419,417 @@
   },
   {
     "title": "To Be Immortal (2018) ตำนานเซียนขี่มังกร",
-    "url": "https://lk-hds.com/to-be-immortal-2018/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/11/To-Be-Immortal-2018-ตำนานเซียนขี่มังกร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/9cef846128c88ceb53fd360c19bccee2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9cef846128c88ceb53fd360c19bccee2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/11/To-Be-Immortal-2018-ตำนานเซียนขี่มังกร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Legend of Heijin Village (2025) ตำนานหมู่บ้านเฮยจิน",
-    "url": "https://lk-hds.com/the-legend-of-heijin-village-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/11/The-Legend-of-Heijin-Village-2025-ตำนานหมู่บ้านเฮยจิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/619e90c5c68332b70ee92178a4593fe8/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/619e90c5c68332b70ee92178a4593fe8"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/11/The-Legend-of-Heijin-Village-2025-ตำนานหมู่บ้านเฮยจิน-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Gold Digging Jade Tianxing Mausoleum (2025) ปล้นสุสานเทียนซิง",
-    "url": "https://lk-hds.com/gold-digging-jade-tianxing-mausoleum-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/Gold-Digging-Jade-Tianxing-Mausoleum-2025-ปล้นสุสานเทียนซิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/faa52dae2ba0c86c7d42859c3f126806/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/faa52dae2ba0c86c7d42859c3f126806"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/Gold-Digging-Jade-Tianxing-Mausoleum-2025-ปล้นสุสานเทียนซิง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Demon Wardens Convergence of Souls (2025) ตำนานปราบปีศาจ",
-    "url": "https://lk-hds.com/the-demon-wardens-convergence-of-souls-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/11/The-Demon-Wardens-Convergence-of-Souls-2025-ตำนานปราบปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5ff7853ea6f21fe3f93cb4177f7f6bf2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5ff7853ea6f21fe3f93cb4177f7f6bf2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/11/The-Demon-Wardens-Convergence-of-Souls-2025-ตำนานปราบปีศาจ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Black Dog (2024) สี่ขาหัวใจไม่ดำ",
-    "url": "https://lk-hds.com/black-dog-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Black-Dog-2024-สี่ขาหัวใจไม่ดำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ab6de6342d8a04ce09591b80c646e6a6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab6de6342d8a04ce09591b80c646e6a6"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Black-Dog-2024-สี่ขาหัวใจไม่ดำ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "A Legend (2024) พลิกตำนานฟัดทะลุเวลา",
-    "url": "https://lk-hds.com/a-legend-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/11/A-Legend-2024-พลิกตำนานฟัดทะลุเวลา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/13f8e8624dbf5ab23021210a49792230/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/13f8e8624dbf5ab23021210a49792230"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/11/A-Legend-2024-พลิกตำนานฟัดทะลุเวลา-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Left Handed Girl (2025) เด็กมือซ้าย",
-    "url": "https://lk-hds.com/left-handed-girl-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/11/Left-Handed-Girl-2025-เด็กมือซ้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/m_pVbrA_Tr"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/11/Left-Handed-Girl-2025-เด็กมือซ้าย-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "กำเนิดตำนานงูเขียว (2025) Green Snake The Origin",
-    "url": "https://lk-hds.com/green-snake-the-origin-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/กำเนิดตำนานงูเขียว-2025-Green-Snake-The-Origin-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cf80ebd88f66779e16535154427c7673/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cf80ebd88f66779e16535154427c7673"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/กำเนิดตำนานงูเขียว-2025-Green-Snake-The-Origin-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Er Lang God of the New Legend of Deification (2023) เอ้อหลางตำนานเทพบทใหม่",
-    "url": "https://lk-hds.com/er-lang-god-of-the-new-legend-of-deification-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Er-Lang-God-of-the-New-Legend-of-Deification-2023-เอ้อหลางตำนานเทพบทใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/12ecc88e8fc8d8d8076ebb70e2be7332/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/12ecc88e8fc8d8d8076ebb70e2be7332"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Er-Lang-God-of-the-New-Legend-of-Deification-2023-เอ้อหลางตำนานเทพบทใหม่-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Bodyguard (2023) บอดี้การ์ด",
-    "url": "https://lk-hds.com/bodyguard-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Bodyguard-2023-บอดี้การ์ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/72fb022d7ce6055994982302e46e84f2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/72fb022d7ce6055994982302e46e84f2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Bodyguard-2023-บอดี้การ์ด-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Mutation on Mars (2021) ดาวอังคาร วิกฤตการณ์กลายพันธุ์",
-    "url": "https://lk-hds.com/mutation-on-mars-2021/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Mutation-on-Mars-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6bdaaeef0ef6cc2a5afbfa96098b2b39/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6bdaaeef0ef6cc2a5afbfa96098b2b39"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Mutation-on-Mars-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "White Fox (2023) สัมพันธ์รักจิ้งจอกขาว",
-    "url": "https://lk-hds.com/white-fox-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/White-Fox-2023-สัมพันธ์รักจิ้งจอกขาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/814a54eeceeb552d6c17ac3b71df43a3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/814a54eeceeb552d6c17ac3b71df43a3"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/White-Fox-2023-สัมพันธ์รักจิ้งจอกขาว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Land of Women (2024) ในแดนราชินี",
-    "url": "https://lk-hds.com/the-land-of-women-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/02/The-Land-of-Women-2024-ในแดนราชินี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/cebe1f914eb54f01f6deb4cd25d85aa9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cebe1f914eb54f01f6deb4cd25d85aa9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/02/The-Land-of-Women-2024-ในแดนราชินี-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Exquisite bodyguard (2023) บอดี้การ์ดสาวสายบู๊",
-    "url": "https://lk-hds.com/exquisite-bodyguard-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/Exquisite-bodyguard-2023-บอดี้การ์ดสาวสายบู๊-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/NHILO7g_RP"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/Exquisite-bodyguard-2023-บอดี้การ์ดสาวสายบู๊-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Hard Guy Sniper (2024) มือปืนคนแกร่ง",
-    "url": "https://lk-hds.com/hard-guy-sniper-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/07/Hard-Guy-Sniper-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/NHILO7g_RP"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Hard-Guy-Sniper-2024-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Curbing Violence (2024) ปฏิบัติการช่วยเธอจากนรก",
-    "url": "https://lk-hds.com/curbing-violence-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/07/Curbing-Violence-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/6af67717705c33a757e7d96d6d37a658/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6af67717705c33a757e7d96d6d37a658"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Curbing-Violence-2024-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Thunder Rescue (2026) ภารกิจช่วยเหลือเหนือสายฟ้า",
-    "url": "https://lk-hds.com/thunder-rescue-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Thunder-Rescue-2026-ภารกิจช่วยเหลือเหนือสายฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/PM_zIT8kiW"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Thunder-Rescue-2026-ภารกิจช่วยเหลือเหนือสายฟ้า-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Taiping Zhen Strange Tales (2026) เรื่องเล่าลึกลับตำบลไท่ผิง",
-    "url": "https://lk-hds.com/taiping-zhen-strange-tales-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Qh_xHVQNaN"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Purge the World of Evil (2025) พิฆาตเงาชั่ว",
-    "url": "https://lk-hds.com/purge-the-world-of-evil-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Purge-the-World-of-Evil-2025-พิฆาตเงาชั่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/db58b0a5b886604a20ba41792cb7f3da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/db58b0a5b886604a20ba41792cb7f3da"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Purge-the-World-of-Evil-2025-พิฆาตเงาชั่ว-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "731 Evil Unbound (2025)",
-    "url": "https://lk-hds.com/731-evil-unbound-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/731-Evil-Unbound-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c98ca0f6f464d74228408fda5b840bf2/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c98ca0f6f464d74228408fda5b840bf2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/731-Evil-Unbound-2025-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Black Storm (2024) พายุทมิฬ",
-    "url": "https://lk-hds.com/black-storm-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/10/Black-Storm-2024-พายุทมิฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/49ad0aa861aeea91e410dc91b7e152d1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/49ad0aa861aeea91e410dc91b7e152d1"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/10/Black-Storm-2024-พายุทมิฬ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Ga la (2024) ไลฟ์ติดผี",
-    "url": "https://lk-hds.com/ga-la-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Ga-la-2024-ไลฟ์ติดผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/72a745c7df52314ee578236e5067a5c9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/72a745c7df52314ee578236e5067a5c9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Ga-la-2024-ไลฟ์ติดผี-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Sniper (2026) มือปืนเทพพระกาฬ",
-    "url": "https://lk-hds.com/the-sniper-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/The-Sniper-2026-มือปืนเทพพระกาฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/sOdsM_RZTR"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/The-Sniper-2026-มือปืนเทพพระกาฬ-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Haunted Mountains The Yellow Taboo (2025) คำสาปเสื้อกันฝน",
-    "url": "https://lk-hds.com/haunted-mountains-the-yellow-taboo-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Haunted-Mountains-The-Yellow-Taboo-2025-คำสาปเสื้อกันฝน-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_K8idYYMC4"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Haunted-Mountains-The-Yellow-Taboo-2025-คำสาปเสื้อกันฝน-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "96 Minutes (2025) 96 นาทีชีวิต",
-    "url": "https://lk-hds.com/96-minutes-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/96-Minutes-2025-96-นาทีชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/caa2f23017b6825896e723e991674fcf/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/caa2f23017b6825896e723e991674fcf"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/96-Minutes-2025-96-นาทีชีวิต-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Di Renjie Resurrection (2026) ตี๋เหรินเเจี๋ยกับคดีศพคืนชีพ",
-    "url": "https://lk-hds.com/di-renjie-resurrection-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Di-Renjie-Resurrection-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/83009a95f176e254b4c2c192b9371278/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/83009a95f176e254b4c2c192b9371278"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Di-Renjie-Resurrection-2026-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Anecdotes of Ape Mountain (2026) เรื่องเล่าประหลาดในหุบเขาวานร",
-    "url": "https://lk-hds.com/anecdotes-of-ape-mountain-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Anecdotes-of-Ape-Mountain-2026-เรื่องเล่าประหลาดในหุบเขาวานร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/39664a5fefbb5b57e39ec7ce0752ba8f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/39664a5fefbb5b57e39ec7ce0752ba8f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Anecdotes-of-Ape-Mountain-2026-เรื่องเล่าประหลาดในหุบเขาวานร-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "Strange things in Western Hunan (2023) คดีลึกลับเซียงซี",
-    "url": "https://lk-hds.com/strange-things-in-western-hunan-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Strange-things-in-Western-Hunan-2023-คดีลึกลับเซียงซี-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/dbuV6_bKnt"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Strange-things-in-Western-Hunan-2023-คดีลึกลับเซียงซี-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Demon Hunter (2025) นักล่าวิญญาณ",
-    "url": "https://lk-hds.com/the-demon-hunter-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/The-Demon-Hunter-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/wVApMUD_XY"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/The-Demon-Hunter-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "สายน้ำลับ 12 ชั่วโมงหลอน (2025) 12 Hours of Terror",
-    "url": "https://lk-hds.com/12-hours-of-terror-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/04/12-Hours-of-Terror-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/1b05adea298ec2840ef0fbf67ee8bc64/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/1b05adea298ec2840ef0fbf67ee8bc64"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/04/12-Hours-of-Terror-165x248.jpg",
+    "group": "หนังจีน"
   },
   {
     "title": "The Plot of Fire (2025)",
