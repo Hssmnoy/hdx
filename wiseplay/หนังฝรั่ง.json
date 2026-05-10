@@ -1,39 +1,9 @@
 {
   "name": "หนังฝรั่ง",
-  "author": "อัพเดตล่าสุด 9/5/2569",
+  "author": "อัพเดตล่าสุด 10/5/2569",
   "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
   "url": "https://lk-hds.com",
   "groups": [
-    {
-      "name": "Gabby’s Dollhouse The Movie (2025)",
-      "image": "https://lk-hds.com/wp-content/uploads/2026/02/Gabbys-Dollhouse-The-Movie-2025-165x248.jpg",
-      "stations": [
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/02/Gabbys-Dollhouse-The-Movie-2025-165x248.jpg",
-          "url": "https://player.enjoy24cdn.com/embed/q_nT_uUKsY",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
-    {
-      "name": "Marty Supreme (2025)",
-      "image": "https://lk-hds.com/wp-content/uploads/2026/02/Marty-Supreme-2025-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/02/Marty-Supreme-2025-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/hlsr2/d7adb8a9af3d13af26a9fe9e42fb6d39/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/02/Marty-Supreme-2025-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/play/d7adb8a9af3d13af26a9fe9e42fb6d39",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
     {
       "name": "Pillion (2026) คนข้างหลัง",
       "image": "https://lk-hds.com/wp-content/uploads/2026/02/Pillion-2026-คนข้างหลัง-165x248.jpg",
@@ -1806,6 +1776,42 @@
           "name": "Embed",
           "image": "https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",
           "url": "https://enjoy24cdn.com/p2p/152ae19ba554ae2b6a947cddba3e6a7a",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน",
+      "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/hlsr2/2dfde4fee30d0cf36d9e469fe5bd26dc/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/play/2dfde4fee30d0cf36d9e469fe5bd26dc",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "Tin Soldier (2025) องค์กรลับ/ลวง/พราง",
+      "image": "https://lk-hds.com/wp-content/uploads/2026/01/Tin-Soldier-2025-องค์กรลับ-ลวง-พราง-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/01/Tin-Soldier-2025-องค์กรลับ-ลวง-พราง-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/hlsr2/96f7e370e0942717050aa24752b17351/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/01/Tin-Soldier-2025-องค์กรลับ-ลวง-พราง-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/play/96f7e370e0942717050aa24752b17351",
           "referer": "https://lk-hds.com"
         }
       ]

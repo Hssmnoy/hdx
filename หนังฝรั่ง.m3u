@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/02/Marty-Supreme-2025-165x248.jpg",Marty Supreme (2025)
-https://original.enjoy24cdn.com/hlsr2/d7adb8a9af3d13af26a9fe9e42fb6d39/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/02/Pillion-2026-คนข้างหลัง-165x248.jpg",Pillion (2026) คนข้างหลัง
 https://original.enjoy24cdn.com/hlsr2/b60aa5b124d295d0cc91705d8baeb977/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/02/State-of-Fear-2026-165x248.jpg",State of Fear (2026)
@@ -169,3 +167,7 @@ https://enjoy24cdn.com/hlsr2/160428758700fc132080a9aa6b6616a0/master.m3u8
 https://enjoy24cdn.com/hlsr2/6b6b4c092fe95b9932645499041bdc47/master.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",Beauty And The Beast (2017) โฉมงามกับเจ้าชายอสูร
 https://enjoy24cdn.com/hlsr2/152ae19ba554ae2b6a947cddba3e6a7a/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน
+https://original.enjoy24cdn.com/hlsr2/2dfde4fee30d0cf36d9e469fe5bd26dc/master.m3u8
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/01/Tin-Soldier-2025-องค์กรลับ-ลวง-พราง-165x248.jpg",Tin Soldier (2025) องค์กรลับ/ลวง/พราง
+https://original.enjoy24cdn.com/hlsr2/96f7e370e0942717050aa24752b17351/master.m3u8
