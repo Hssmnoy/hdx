@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="หนังใหม่ 2026" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/01/Sulutan-165x248.jpg",Sulutan (2026)
-https://original.enjoy24cdn.com/hlsr2/fe69d1a1ad5ce6c3e9ee9db45719c183/master.m3u8
 #EXTINF:-1 group-title="หนังใหม่ 2026" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg",From the Ashes The Pit (2026) จากเถ้าถ่าน นรกใต้ดิน
 https://original.enjoy24cdn.com/hlsr2/a2e12d47e8552b3efa55e5dacfc7e1ee/master.m3u8
 #EXTINF:-1 group-title="หนังใหม่ 2026" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-165x248.jpg",Cosmic Princess Kaguya! (2026) เจ้าหญิงกระบอกไม้ไผ่
@@ -169,3 +167,5 @@ https://original.enjoy24cdn.com/hlsr2/5aa9348a9ad4f014be32fd03d8012bed/master.m3
 https://original.enjoy24cdn.com/hlsr2/c5356a1cec842517aa9116fae1fc5040/master.m3u8
 #EXTINF:-1 group-title="หนังใหม่ 2026" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/05/5-Centimeters-Per-Second-165x248.jpg",5 Centimeters Per Second (2026) ยามซากุระร่วงโรย
 https://original.enjoy24cdn.com/hlsr2/bfd03b24a21c32561c8e63d1d2a2a972/master.m3u8
+#EXTINF:-1 group-title="หนังใหม่ 2026" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน
+https://original.enjoy24cdn.com/hlsr2/2dfde4fee30d0cf36d9e469fe5bd26dc/master.m3u8

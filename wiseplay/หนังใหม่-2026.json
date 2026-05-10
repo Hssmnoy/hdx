@@ -1,27 +1,9 @@
 {
   "name": "หนังใหม่ 2026",
-  "author": "อัพเดตล่าสุด 9/5/2569",
+  "author": "อัพเดตล่าสุด 10/5/2569",
   "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
   "url": "https://lk-hds.com",
   "groups": [
-    {
-      "name": "Sulutan (2026)",
-      "image": "https://lk-hds.com/wp-content/uploads/2026/01/Sulutan-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/01/Sulutan-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/hlsr2/fe69d1a1ad5ce6c3e9ee9db45719c183/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2026/01/Sulutan-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/play/fe69d1a1ad5ce6c3e9ee9db45719c183",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
     {
       "name": "From the Ashes The Pit (2026) จากเถ้าถ่าน นรกใต้ดิน",
       "image": "https://lk-hds.com/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg",
@@ -1806,6 +1788,24 @@
           "name": "Embed",
           "image": "https://lk-hds.com/wp-content/uploads/2026/05/5-Centimeters-Per-Second-165x248.jpg",
           "url": "https://original.enjoy24cdn.com/play/bfd03b24a21c32561c8e63d1d2a2a972",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน",
+      "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/hlsr2/2dfde4fee30d0cf36d9e469fe5bd26dc/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/play/2dfde4fee30d0cf36d9e469fe5bd26dc",
           "referer": "https://lk-hds.com"
         }
       ]
