@@ -1307,92 +1307,256 @@
   },
   {
     "title": "My Special One (2025)",
-    "url": "https://lk-hds.com/my-special-one-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/09/My-Special-One-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/1eee87fb815b52cf32d5c5ad6f178a45/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/1eee87fb815b52cf32d5c5ad6f178a45"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/09/My-Special-One-2025-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Baban Baban Ban Vampire (2025) วะวะวะวะ แวมไพร์กับนายเวอร์จิ้น",
-    "url": "https://lk-hds.com/baban-baban-ban-vampire-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/09/Baban-Baban-Ban-Vampire-2025-วะวะวะวะ-แวมไพร์กับนายเวอร์จิ้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/3a233ce75beb53c1d4cfe3f37c0bdda3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3a233ce75beb53c1d4cfe3f37c0bdda3"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/09/Baban-Baban-Ban-Vampire-2025-วะวะวะวะ-แวมไพร์กับนายเวอร์จิ้น-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง (2025) Jujutsu Kaisen Execution",
-    "url": "https://lk-hds.com/jujutsu-kaisen-execution-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/4c74a5153c5b7bec8d836dd96e913098/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4c74a5153c5b7bec8d836dd96e913098"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ (2025) Jujutsu Kaisen Hidden Inventory Premature Death The Movie",
-    "url": "https://lk-hds.com/jujutsu-kaisen-hidden-inventory-premature-death-the-movie/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/65f628e381d80eb58f300b46570a4201/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/65f628e381d80eb58f300b46570a4201"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่",
-    "url": "https://lk-hds.com/chainsaw-man-the-movie-reze-arc/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/_0eVd4iTL2"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "After the Quake (2025) อาฟเตอร์เดอะเควก",
-    "url": "https://lk-hds.com/after-the-quake-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/After-the-Quake-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/7eb5c610155417b136e1006f9abf2251/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7eb5c610155417b136e1006f9abf2251"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/After-the-Quake-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Even if This Love Disappears from the World Tonight (2025) คืนฝันก่อนฉันลืมเธอ",
-    "url": "https://lk-hds.com/even-if-this-love-disappears-from-the-world-tonight-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Even-if-This-Love-Disappears-from-the-World-Tonight-2025-คืนฝันก่อนฉันลืมเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/2796ffc565e1ed9e01f3dffb4167fcc1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/2796ffc565e1ed9e01f3dffb4167fcc1"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Even-if-This-Love-Disappears-from-the-World-Tonight-2025-คืนฝันก่อนฉันลืมเธอ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "BAKAs Identity (2025) กับดักคนโง่",
-    "url": "https://lk-hds.com/bakas-identity-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/BAKAs-Identity-2025-กับดักคนโง่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/5d4ca25fb49dda8cabc317aa6781aac6/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5d4ca25fb49dda8cabc317aa6781aac6"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/BAKAs-Identity-2025-กับดักคนโง่-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Angel Flight The Movie (2026)",
-    "url": "https://lk-hds.com/angel-flight-the-movie-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Angel-Flight-The-Movie-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/yArDGr_MfO"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Angel-Flight-The-Movie-2026-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "About a Place in the Kinki Region (2025) อาถรรพ์คิงคิ",
-    "url": "https://lk-hds.com/about-a-place-in-the-kinki-region-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/About-a-Place-in-the-Kinki-Region-2025-อาถรรพ์คิงคิ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/45b8b2f7f12a6ffeef24613eeaeb61da/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/45b8b2f7f12a6ffeef24613eeaeb61da"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/About-a-Place-in-the-Kinki-Region-2025-อาถรรพ์คิงคิ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Last Night (2025) ตามล่าศพสยอง คืนสุดท้าย",
-    "url": "https://lk-hds.com/the-last-night-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/The-Last-Night-2025-ตามล่าศพสยอง-คืนสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/xd4X_qTKFc"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/The-Last-Night-2025-ตามล่าศพสยอง-คืนสุดท้าย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Exit 8 (2025) ทางออกหมายเลข 8",
-    "url": "https://lk-hds.com/the-exit-8-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/The-Exit-8-2025-ทางออกหมายเลข-8-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/1e86f4a7006550aff2b762ec81b868b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/1e86f4a7006550aff2b762ec81b868b9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/The-Exit-8-2025-ทางออกหมายเลข-8-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Mieruko Chan (2025) ใครว่าหนูเห็นผี",
-    "url": "https://lk-hds.com/mieruko-chan-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Mieruko-Chan-2025-ใครว่าหนูเห็นผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d16d01c314f1324490eef945b7e411f7/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d16d01c314f1324490eef945b7e411f7"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Mieruko-Chan-2025-ใครว่าหนูเห็นผี-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kowloon Generic Romance (2025) เกาลูน อุบัติรักปริศนาลับ",
-    "url": "https://lk-hds.com/kowloon-generic-romance-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Kowloon-Generic-Romance-2025-เกาลูน-อุบัติรักปริศนาลับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/bHHTcSqC_J"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Kowloon-Generic-Romance-2025-เกาลูน-อุบัติรักปริศนาลับ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "GARO Taiga (2025) กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ",
-    "url": "https://lk-hds.com/garo-taiga-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/GARO-Taiga-2025-กาโร่-ไทกะ-กำเนิดอัศวินหมาป่าทองคำ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/0eecd4a3301095379f895f99c4237e42/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0eecd4a3301095379f895f99c4237e42"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/GARO-Taiga-2025-กาโร่-ไทกะ-กำเนิดอัศวินหมาป่าทองคำ-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Kamen Rider Gavv Invaders of the Candy House (2025) มาสค์ไรเดอร์ กาบุ เดอะมูฟวี่ ศึกบุกบ้านขนมหวาน",
-    "url": "https://lk-hds.com/kamen-rider-gavv-invaders-of-the-candy-house/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Kamen-Rider-Gavv-Invaders-of-the-Candy-House-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f3d63720d361bba27aa6a9e0b6937176/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f3d63720d361bba27aa6a9e0b6937176"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Kamen-Rider-Gavv-Invaders-of-the-Candy-House-2025-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Female teacher closing the door (2021)",
-    "url": "https://lk-hds.com/female-teacher-closing-the-door-2021/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Female-teacher-closing-the-door-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c1aa420cb7eb23b7b9ad1dae16da82b9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c1aa420cb7eb23b7b9ad1dae16da82b9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Female-teacher-closing-the-door-2021-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "5 Centimeters Per Second (2026) ยามซากุระร่วงโรย",
-    "url": "https://lk-hds.com/5-centimeters-per-second-2026/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2026/05/5-Centimeters-Per-Second-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/bfd03b24a21c32561c8e63d1d2a2a972/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/bfd03b24a21c32561c8e63d1d2a2a972"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/5-Centimeters-Per-Second-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   }
 ]
