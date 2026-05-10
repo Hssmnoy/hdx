@@ -869,153 +869,441 @@
   },
   {
     "title": "บ้านผีอิหยังวะ (2025) House of Sayuri",
-    "url": "https://lk-hds.com/house-of-sayuri-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/01/บ้านผีอิหยังวะ-2025-House-of-Sayuri-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f227e2f0a2650a4ebe18f46c6b3f6c80/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f227e2f0a2650a4ebe18f46c6b3f6c80"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/01/บ้านผีอิหยังวะ-2025-House-of-Sayuri-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Show Me the Way to the Station (2019) ที่ตรงนั้นฉันจะรอเธอ",
-    "url": "https://lk-hds.com/show-me-the-way-to-the-station-2019/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Show-Me-the-Way-to-the-Station-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef85ccea954194fa6e41dfa463646520/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef85ccea954194fa6e41dfa463646520"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Show-Me-the-Way-to-the-Station-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "พร่ำหัวใจเพรียกหารักที่กลางโลก (2004) Crying Out Love in the Center of the World",
-    "url": "https://lk-hds.com/crying-out-love-in-the-center-of-the-world-2004/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/01/พร่ำหัวใจเพรียกหารักที่กลางโลก-2004-Crying-Out-Love-in-the-Center-of-the-World-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4fc76a9bfeda1c80a50a3fed24ccfa9f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4fc76a9bfeda1c80a50a3fed24ccfa9f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/01/พร่ำหัวใจเพรียกหารักที่กลางโลก-2004-Crying-Out-Love-in-the-Center-of-the-World-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "ไร้หน้า (2024) Faceless",
-    "url": "https://lk-hds.com/faceless-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/02/ไร้หน้า-2024-Faceless-165x248.webp"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/QDiGn0N_j4"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/02/ไร้หน้า-2024-Faceless-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Broken Rage (2024)",
-    "url": "https://lk-hds.com/broken-rage-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/02/Broken-Rage-2024-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/38488e5690ba4c04a5a21f96bead3bd0/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/38488e5690ba4c04a5a21f96bead3bd0"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/02/Broken-Rage-2024-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Lady Karuizawa (1982)",
-    "url": "https://lk-hds.com/lady-karuizawa-1982/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/02/Lady-Karuizawa-1982-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5d9bdca3239d205356016043431f0ac9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5d9bdca3239d205356016043431f0ac9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/02/Lady-Karuizawa-1982-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "เมืองอสูร (2025) Demon City",
-    "url": "https://lk-hds.com/demon-city-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/เมืองอสูร-2025-Demon-City-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cfc64d2a8a43c5e3def621a28dabca64/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cfc64d2a8a43c5e3def621a28dabca64"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/เมืองอสูร-2025-Demon-City-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "ราโชมอน (1950) Rashomon",
-    "url": "https://lk-hds.com/rashomon-1950/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/ราโชมอน-1950-Rashomon-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/88582379dc72c6631de019cd6769289f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/88582379dc72c6631de019cd6769289f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/ราโชมอน-1950-Rashomon-165x248.webp",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "บลูพีเรียด (2024) Blue Period",
-    "url": "https://lk-hds.com/blue-period-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/บลูพีเรียด-2024-Blue-Period-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6ddbaf3b72b34708f55e03811e2f4fa9/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6ddbaf3b72b34708f55e03811e2f4fa9"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/บลูพีเรียด-2024-Blue-Period-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "อุลตร้าแมนเบลซาร์ มหันตภัยเดือดถล่มโตเกียว (2024) Ultraman Blazar The Movie Tokyo Kaiju Showdown",
-    "url": "https://lk-hds.com/ultraman-blazar-the-movie-tokyo-kaiju-showdown-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/อุลตร้าแมนเบลซาร์-มหันตภัยเดือดถล่มโตเกียว-2024-Ultraman-Blazar-The-Movie-Tokyo-Kaiju-Showdown-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/43b323d3cc4c88be33382dae5787da6a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/43b323d3cc4c88be33382dae5787da6a"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/อุลตร้าแมนเบลซาร์-มหันตภัยเดือดถล่มโตเกียว-2024-Ultraman-Blazar-The-Movie-Tokyo-Kaiju-Showdown-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "มิวเซียม พิพิธภัณฑ์สยอง (2016) Museum ",
-    "url": "https://lk-hds.com/museum-2016/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/มิวเซียม-พิพิธภัณฑ์สยอง-2016-Museum-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0c1ec73b205c98c4e2fdf18a0d078845/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0c1ec73b205c98c4e2fdf18a0d078845"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/มิวเซียม-พิพิธภัณฑ์สยอง-2016-Museum-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "A Courtesan with Flowered Skin (2014) เกอิชาซากุระ",
-    "url": "https://lk-hds.com/a-courtesan-with-flowered-skin-2014/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/A-Courtesan-with-Flowered-Skin-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/v0XbGf_ICz"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/A-Courtesan-with-Flowered-Skin-2014-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ",
-    "url": "https://lk-hds.com/bullet-train-explosion-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/58d0c2b60e666fa981a30aecef3237af/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58d0c2b60e666fa981a30aecef3237af"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ganbatte Ikimasshoi (2025) สู้ด้วยกัน จนถึงที่สุด",
-    "url": "https://lk-hds.com/ganbatte-ikimasshoi-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/04/Ganbatte-Ikimasshoi-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Cf_C4F42O1"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/04/Ganbatte-Ikimasshoi-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Teasing Master Takagi san Movie (2024) แกล้งนัก (รัก)นะรู้ยัง",
-    "url": "https://lk-hds.com/teasing-master-takagi-san-movie-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/04/Teasing-Master-Takagi-san-Movie-2024-แกล้งนัก-รักนะรู้ยัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/45dd080857de64c3d8e17f09f751ec66/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/45dd080857de64c3d8e17f09f751ec66"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/04/Teasing-Master-Takagi-san-Movie-2024-แกล้งนัก-รักนะรู้ยัง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "GTO Revival (2024) คุณครูพันธุ์หายาก",
-    "url": "https://lk-hds.com/gto-revival-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/GTO-Revival-2024-คุณครูพันธุ์หายาก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/85f1b1892672d53a13f785d3c621b59b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/85f1b1892672d53a13f785d3c621b59b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/GTO-Revival-2024-คุณครูพันธุ์หายาก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Six Lying University Students (2025) ใครโกหกยกมือขึ้น",
-    "url": "https://lk-hds.com/six-lying-university-students-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Six-Lying-University-Students-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/ef522189394b24d9a2b538e13a5d2d2a/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef522189394b24d9a2b538e13a5d2d2a"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Six-Lying-University-Students-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Oshin (2013) โอชิน สาวน้อยหัวใจแกร่ง",
-    "url": "https://lk-hds.com/oshin-2013/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Oshin-2013-โอชิน-สาวน้อยหัวใจแกร่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/28c2a201cead20de54d6028f929456ce/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/28c2a201cead20de54d6028f929456ce"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Oshin-2013-โอชิน-สาวน้อยหัวใจแกร่ง-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Oshi no Ko The Final Act (2025) เกิดใหม่เป็นลูกโอชิ บทสุดท้าย",
-    "url": "https://lk-hds.com/oshi-no-ko-the-final-act-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Oshi-no-Ko-The-Final-Act-2025-เกิดใหม่เป็นลูกโอชิ-บทสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0130bd00a62ea8aa7255f2fd72f5b93e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0130bd00a62ea8aa7255f2fd72f5b93e"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Oshi-no-Ko-The-Final-Act-2025-เกิดใหม่เป็นลูกโอชิ-บทสุดท้าย-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Like Father Like Son พ่อครับ รักผมได้ไหม (2013)",
-    "url": "https://lk-hds.com/like-father-like-son-2013/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Like-Father-Like-Son-พ่อครับ-รักผมได้ไหม-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/1589e869a5b2d516bd76409a1d59def1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1589e869a5b2d516bd76409a1d59def1"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Like-Father-Like-Son-พ่อครับ-รักผมได้ไหม-2013-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Sunny (2018) วันนั้น วันนี้ เพื่อนกันตลอดไป",
-    "url": "https://lk-hds.com/sunny-2018/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/05/Sunny-2018-วันนั้น-วันนี้-เพื่อนกันตลอดไป-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d414d75781b178af9d70e0c360a89019/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d414d75781b178af9d70e0c360a89019"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/05/Sunny-2018-วันนั้น-วันนี้-เพื่อนกันตลอดไป-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "เซลล์ขยันพันธุ์เดือด (2024) Cells at Work",
-    "url": "https://lk-hds.com/cells-at-work-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/04/เซลล์ขยันพันธุ์เดือด-2024-Cells-at-Work-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/7d84d431a7b58db01dfd1a928f08e584/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7d84d431a7b58db01dfd1a928f08e584"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/04/เซลล์ขยันพันธุ์เดือด-2024-Cells-at-Work-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Shinichi Kudo and the Kyoto Shinsengumi Murder Case (2012) ยอดนักสืบจิ๋วโคนัน ชินอิจิกับปริศนาเกียวโตชินเซ็นกุมิ",
-    "url": "https://lk-hds.com/shinichi-kudo-and-the-kyoto-shinsengumi-murder-case-2012/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Shinichi-Kudo-and-the-Kyoto-Shinsengumi-Murder-Case-2012-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/fda618805294ec5e2b4b7d76b8150f85/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fda618805294ec5e2b4b7d76b8150f85"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Shinichi-Kudo-and-the-Kyoto-Shinsengumi-Murder-Case-2012-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "11 Rebels (2024)",
-    "url": "https://lk-hds.com/11-rebels-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/11-Rebels-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/d97b46039c8a7e636207b22b826c0f8c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d97b46039c8a7e636207b22b826c0f8c"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/11-Rebels-2024-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Audition (1999) ออดิชั่น เลือกเธอมาฆ่า",
-    "url": "https://lk-hds.com/audition-1999/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Audition-1999-ออดิชั่น-เลือกเธอมาฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/8c7771bff0067440a96a4698cd89837f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8c7771bff0067440a96a4698cd89837f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Audition-1999-ออดิชั่น-เลือกเธอมาฆ่า-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Ghost Killer (2024) ผีมือปืนยึดร่างสาวนักศึกษา",
-    "url": "https://lk-hds.com/ghost-killer-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/07/Ghost-Killer-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/eec1e270dbc6ecda2026aad8e7fa8af1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eec1e270dbc6ecda2026aad8e7fa8af1"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/07/Ghost-Killer-2024-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Under Ninja (2025) | นินจาสายลับ พากย์ไทยเต็มเรื่อง",
-    "url": "https://lk-hds.com/under-ninja-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/07/Under-Ninja-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/658aeb8a280bb094c6dd239adde3272f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/658aeb8a280bb094c6dd239adde3272f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/07/Under-Ninja-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Supernatural Sweet Shop The Movie (2025) เซนิเท็นโด ร้านลึกลับกับขนมวิเศษ เดอะมูฟวี่",
-    "url": "https://lk-hds.com/the-supernatural-sweet-shop-the-movie-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/08/The-Supernatural-Sweet-Shop-The-Movie-2025-เซนิเท็นโด-ร้านลึกลับกับขนมวิเศษ-เดอะมูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/c2ed97dbed512c3d3b83183cefba0b82/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c2ed97dbed512c3d3b83183cefba0b82"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/08/The-Supernatural-Sweet-Shop-The-Movie-2025-เซนิเท็นโด-ร้านลึกลับกับขนมวิเศษ-เดอะมูฟวี่-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "Saint Young Men Holy Men vs Demon Army (2024) ศาสดาลาพักร้อน เดอะมูฟวี่",
-    "url": "https://lk-hds.com/saint-young-men-holy-men-vs-demon-army-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/09/Saint-Young-Men-Holy-Men-vs-Demon-Army-2024-ศาสดาลาพักร้อน-เดอะมูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/bb6bfa398c4b0ab187b1ccb3dabfeaad/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/bb6bfa398c4b0ab187b1ccb3dabfeaad"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/09/Saint-Young-Men-Holy-Men-vs-Demon-Army-2024-ศาสดาลาพักร้อน-เดอะมูฟวี่-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "The Solitary Gourmet (2025) โกโร่ อร่อยฉายเดี่ยวตะลอนทั่วโลก",
-    "url": "https://lk-hds.com/the-solitary-gourmet-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/09/The-Solitary-Gourmet-2025-โกโร่-อร่อยฉายเดี่ยวตะลอนทั่วโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/f6ee31183a6e4513d54337adb435c244/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f6ee31183a6e4513d54337adb435c244"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/09/The-Solitary-Gourmet-2025-โกโร่-อร่อยฉายเดี่ยวตะลอนทั่วโลก-165x248.jpg",
+    "group": "หนังญี่ปุ่น"
   },
   {
     "title": "My Special One (2025)",
