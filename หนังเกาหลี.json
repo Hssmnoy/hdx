@@ -427,153 +427,445 @@
   },
   {
     "title": "Mission Cross (2024) ภารกิจลับพ่อบ้าน",
-    "url": "https://lk-hds.com/mission-cross-2024-%e0%b8%a0%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/08/Mission-Cross-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/3ee745a81f959387474450f245401578/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3ee745a81f959387474450f245401578"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/08/Mission-Cross-2024-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "R-Point (2004) อาร์-พอยท์ สมรภูมิผี",
-    "url": "https://lk-hds.com/r-point-2004/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/R-Point-2004-อาร์-พอยท์-สมรภูมิผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/IT5x_tlgTl"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/R-Point-2004-อาร์-พอยท์-สมรภูมิผี-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "A Tale of Two Sisters (2003) ตู้ซ่อนผี",
-    "url": "https://lk-hds.com/a-tale-of-two-sisters-2003/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/A-Tale-of-Two-Sisters-2003-ตู้ซ่อนผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/6084cfb025e725f2fd38e3ae1e9268d5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6084cfb025e725f2fd38e3ae1e9268d5"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/A-Tale-of-Two-Sisters-2003-ตู้ซ่อนผี-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hidden Face (2024) เล่ห์​ ร้อน​ ซ่อน​ ชู้",
-    "url": "https://lk-hds.com/hidden-face-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Hidden-Face-2024-เล่ห์​-ร้อน​-ซ่อน​-ชู้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/4329ae2a12665757ab795e4c6ae9f9ba/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4329ae2a12665757ab795e4c6ae9f9ba"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Hidden-Face-2024-เล่ห์​-ร้อน​-ซ่อน​-ชู้-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Shining of Modern History (2019) แสงแห่งประวัติศาตร์สมัยใหม่",
-    "url": "https://lk-hds.com/shining-of-modern-history-2019/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Shining-of-Modern-History-2019-แสงแห่งประวัติศาตร์สมัยใหม่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/20b809c20cde0e0b769fc2cbf6e7342c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/20b809c20cde0e0b769fc2cbf6e7342c"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Shining-of-Modern-History-2019-แสงแห่งประวัติศาตร์สมัยใหม่-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Unstoppable (2018) เมียพี่ใครอย่าแตะ",
-    "url": "https://lk-hds.com/unstoppable/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Unstoppable-2018-เมียพี่ใครอย่าแตะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/0752dd69a6b3975ebe210fd46585c1dd/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0752dd69a6b3975ebe210fd46585c1dd"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Unstoppable-2018-เมียพี่ใครอย่าแตะ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Plan Man (2014) ผู้ชายตามแผน",
-    "url": "https://lk-hds.com/the-plan-man-2014/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/The-Plan-Man-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/78b09e6156ed2b2975084147b7e2a709/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/78b09e6156ed2b2975084147b7e2a709"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Plan-Man-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Sympathy for Lady Vengeance (2005) เธอ! ฆ่าแบบชาติหน้าไม่ต้องเกิด",
-    "url": "https://lk-hds.com/sympathy-for-lady-vengeance-2005/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Sympathy-for-Lady-Vengeance-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/463b9587d8862dfafa8b12b7ac9eaba1/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/463b9587d8862dfafa8b12b7ac9eaba1"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Sympathy-for-Lady-Vengeance-2005-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Seven Days (2007) 7 วันอันตราย ขีดเส้นเป็นตาย",
-    "url": "https://lk-hds.com/seven-days-2007/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Seven-Days-2007-7-วันอันตราย-ขีดเส้นเป็นตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/d07167f3d919ab7e3c92ff997a5a5907/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d07167f3d919ab7e3c92ff997a5a5907"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Seven-Days-2007-7-วันอันตราย-ขีดเส้นเป็นตาย-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Love Clinic (2015) คลินิครัก",
-    "url": "https://lk-hds.com/love-clinic-2015/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Love-Clinic-2015-คลินิครัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/8a371a2675a3c7b5e916c650be8df35b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8a371a2675a3c7b5e916c650be8df35b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Love-Clinic-2015-คลินิครัก-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Rampant (2018) นครนรกซอมบี้คลั่ง",
-    "url": "https://lk-hds.com/rampant/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Rampant-2018-นครนรกซอมบี้คลั่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f08ca3bc1783c510f3408fb6a0a17a75/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f08ca3bc1783c510f3408fb6a0a17a75"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Rampant-2018-นครนรกซอมบี้คลั่ง-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Asura The City of Madness (2016) เมืองคนชั่ว",
-    "url": "https://lk-hds.com/asura-the-city-of-madness-2016/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Asura-The-City-of-Madness-2016-เมืองคนชั่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/90badc32872baf678dcca51368dea780/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/90badc32872baf678dcca51368dea780"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Asura-The-City-of-Madness-2016-เมืองคนชั่ว-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Montage (2013) สืบล่าฆ่าซ้อนแผน",
-    "url": "https://lk-hds.com/montage-2013/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Montage-2013-สืบล่าฆ่าซ้อนแผน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c2c87eecd611fc7cded76db0c5fd0615/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2c87eecd611fc7cded76db0c5fd0615"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Montage-2013-สืบล่าฆ่าซ้อนแผน-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Luck Key กุญแจเปลี่ยนชีวิต (2016)",
-    "url": "https://lk-hds.com/luck-key-2016/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/Luck-Key-กุญแจเปลี่ยนชีวิต-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/533a2bb45b236f50881844e26bba398f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/533a2bb45b236f50881844e26bba398f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/Luck-Key-กุญแจเปลี่ยนชีวิต-2016-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Goblin (2022)",
-    "url": "https://lk-hds.com/the-goblin-2022/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/ดูหนัง-The-Goblin-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/e35db8c43897aead19eda8077276ba32/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e35db8c43897aead19eda8077276ba32"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/ดูหนัง-The-Goblin-2022-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Dude in Me (2019) ใคร ในร่าง",
-    "url": "https://lk-hds.com/the-dude-in-me-2019/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/The-Dude-in-Me-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/be7678603fbd562436e34cb59b8bfc6f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/be7678603fbd562436e34cb59b8bfc6f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/The-Dude-in-Me-2019-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Scandal Makers (2008) ลูกหลานใครหว่า ป่วนซ่านายเจี๋ยมเจี้ยม",
-    "url": "https://lk-hds.com/scandal-makers-2008/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/04/Scandal-Makers-2008-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/25ff8d87505ac821475c67af2b9741b3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25ff8d87505ac821475c67af2b9741b3"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/04/Scandal-Makers-2008-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hear Me Our Summer (2024)",
-    "url": "https://lk-hds.com/hear-me-our-summer-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Hear-Me-Our-Summer-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/df697650aedb4f70ddc74ac65d541991/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df697650aedb4f70ddc74ac65d541991"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Hear-Me-Our-Summer-2024-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Gifted Hands (2013) ไซโครเมตทรี สืบพลังจิต",
-    "url": "https://lk-hds.com/the-gifted-hands-2013/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/The-Gifted-Hands-2013-ไซโครเมตทรี-สืบพลังจิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/00346e69c2748c5ae6f65940e637a643/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/00346e69c2748c5ae6f65940e637a643"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/The-Gifted-Hands-2013-ไซโครเมตทรี-สืบพลังจิต-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Secret Untold Melody (2023) ซีเคร็ท ทำนองรักข้ามเวลา",
-    "url": "https://lk-hds.com/secret-untold-melody-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Secret-Untold-Melody-2023-ซีเคร็ท-ทำนองรักข้ามเวลา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/f547d2456dd784ffe4a388e24baf37b3/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f547d2456dd784ffe4a388e24baf37b3"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Secret-Untold-Melody-2023-ซีเคร็ท-ทำนองรักข้ามเวลา-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Firefighters (2024)",
-    "url": "https://lk-hds.com/firefighters-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Firefighters-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/a10e21c0ead30deeca22b067fa3abe5d/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a10e21c0ead30deeca22b067fa3abe5d"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Firefighters-2024-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Punch Drunk Love (2023)",
-    "url": "https://lk-hds.com/punch-drunk-love-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Punch-Drunk-Love-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/2054978387f6459f946acde082f4d75b/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2054978387f6459f946acde082f4d75b"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Punch-Drunk-Love-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "A Reason to Live (2011)",
-    "url": "https://lk-hds.com/a-reason-to-live-2011/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/A-Reason-to-Live-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/5668b3abc8f531e9402108271a419804/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5668b3abc8f531e9402108271a419804"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/A-Reason-to-Live-2011-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hard Hit (2021)",
-    "url": "https://lk-hds.com/hard-hit-2021/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/02/Hard-Hit-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/c4d7bcdb8d76aaba4e9d7cec7d9a88c5/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4d7bcdb8d76aaba4e9d7cec7d9a88c5"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/02/Hard-Hit-2021-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "The Restless (2006) ศึกสามพิภพ รบ รัก พิทักษ์เธอ",
-    "url": "https://lk-hds.com/the-restless-2006/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/04/The-Restless-2006-ศึกสามพิภพ-รบ-รัก-พิทักษ์เธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/75052384c1482394337a04545ab5ad5f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/75052384c1482394337a04545ab5ad5f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/04/The-Restless-2006-ศึกสามพิภพ-รบ-รัก-พิทักษ์เธอ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Pilot (2024) ต้าวนักบิน จิ้นกันไหมจ๊ะ",
-    "url": "https://lk-hds.com/pilot-2024/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/09/Pilot-2024-ต้าวนักบิน-จิ้นกันไหมจ๊ะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/fb4c5f17612fc6250600eef9f100bf7e/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fb4c5f17612fc6250600eef9f100bf7e"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/09/Pilot-2024-ต้าวนักบิน-จิ้นกันไหมจ๊ะ-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Prison Chaos (2023) ซับไทย",
-    "url": "https://lk-hds.com/prison-chaos-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/06/Prison-Chaos-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/zENE6tJJ_0"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/06/Prison-Chaos-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Holy Night Demon Hunters (2025) ฅนต่อยผี",
-    "url": "https://lk-hds.com/holy-night-demon-hunters-2025/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-ฅนต่อยผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/hlsr2/ce68ba808d68931e10e9aeba87ef0d7c/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ce68ba808d68931e10e9aeba87ef0d7c"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-ฅนต่อยผี-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Hwang Jin-yi จอมนางสะท้านแผ่นดิน (2007)",
-    "url": "https://lk-hds.com/hwang-jin-yi-2007/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Hwang-Jin-yi-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/73aa22859a5867d03565913c988e0139/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/73aa22859a5867d03565913c988e0139"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Hwang-Jin-yi-2007-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "Love Reset (2023) 30 วันโคตร(เกลียด)เธอเลย",
-    "url": "https://lk-hds.com/love-reset-2023/",
-    "poster": "https://lk-hds.com/wp-content/uploads/2024/07/Love-Reset-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/hlsr2/cb2fae8d184803b32e8dd424750b5c1f/master.m3u8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cb2fae8d184803b32e8dd424750b5c1f"
+      }
+    ],
+    "logo": "https://lk-hds.com/wp-content/uploads/2024/07/Love-Reset-2023-165x248.jpg",
+    "group": "หนังเกาหลี"
   },
   {
     "title": "About Family (2024) ครอบครัวนี้ใหญ่มว๊ากกก",
