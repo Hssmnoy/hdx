@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2025/08/Fixed-165x248.jpg",Fixed | ภารกิจก่อนถูกตอน (2025)
-https://original.enjoy24cdn.com/hlsr2/608c34acb4e9496a0cbf802227a89681/master.m3u8
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2025/08/Night-Always-Comes-165x248.jpg",Night Always Comes คืนวันอันตราย (2025 Netflix)
 https://original.enjoy24cdn.com/hlsr2/393513d98881119cd9096ce18239bf8c/master.m3u8
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2025/08/Fall-for-Me-165x248.jpg",Fall for Me (2025) ลวงรักทรยศ
@@ -179,3 +177,5 @@ https://enjoy24cdn.com/hlsr2/ffef99b993a9a10a3ebfcaa7cba49070/master.m3u8
 https://original.enjoy24cdn.com/hlsr2/7f14e6d8435fcac4c6e5e8e849f2d207/master.m3u8
 #EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/05/My-Dearest-Senorita-165x248.jpg",My Dearest Señorita (2026) ซินญอริต้าที่รัก
 https://original.enjoy24cdn.com/hlsr2/c5356a1cec842517aa9116fae1fc5040/master.m3u8
+#EXTINF:-1 group-title="Netflix" tvg-logo="https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน
+https://original.enjoy24cdn.com/hlsr2/2dfde4fee30d0cf36d9e469fe5bd26dc/master.m3u8

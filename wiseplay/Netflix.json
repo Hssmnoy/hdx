@@ -1,27 +1,9 @@
 {
   "name": "Netflix",
-  "author": "อัพเดตล่าสุด 9/5/2569",
+  "author": "อัพเดตล่าสุด 10/5/2569",
   "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
   "url": "https://lk-hds.com",
   "groups": [
-    {
-      "name": "Fixed | ภารกิจก่อนถูกตอน (2025)",
-      "image": "https://lk-hds.com/wp-content/uploads/2025/08/Fixed-165x248.jpg",
-      "stations": [
-        {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2025/08/Fixed-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/hlsr2/608c34acb4e9496a0cbf802227a89681/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
-          "name": "Embed",
-          "image": "https://lk-hds.com/wp-content/uploads/2025/08/Fixed-165x248.jpg",
-          "url": "https://original.enjoy24cdn.com/play/608c34acb4e9496a0cbf802227a89681",
-          "referer": "https://lk-hds.com"
-        }
-      ]
-    },
     {
       "name": "Night Always Comes คืนวันอันตราย (2025 Netflix)",
       "image": "https://lk-hds.com/wp-content/uploads/2025/08/Night-Always-Comes-165x248.jpg",
@@ -1836,6 +1818,24 @@
           "name": "Embed",
           "image": "https://lk-hds.com/wp-content/uploads/2026/05/My-Dearest-Senorita-165x248.jpg",
           "url": "https://original.enjoy24cdn.com/play/c5356a1cec842517aa9116fae1fc5040",
+          "referer": "https://lk-hds.com"
+        }
+      ]
+    },
+    {
+      "name": "The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน",
+      "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+      "stations": [
+        {
+          "name": "M3U8",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/hlsr2/2dfde4fee30d0cf36d9e469fe5bd26dc/master.m3u8",
+          "referer": "https://lk-hds.com"
+        },
+        {
+          "name": "Embed",
+          "image": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg",
+          "url": "https://original.enjoy24cdn.com/play/2dfde4fee30d0cf36d9e469fe5bd26dc",
           "referer": "https://lk-hds.com"
         }
       ]
