@@ -1,31 +1,5 @@
 [
   {
-    "title": "Gabby’s Dollhouse The Movie (2025)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/q_nT_uUKsY"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Gabbys-Dollhouse-The-Movie-2025-165x248.jpg",
-    "group": "หนังฝรั่ง"
-  },
-  {
-    "title": "Marty Supreme (2025)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/d7adb8a9af3d13af26a9fe9e42fb6d39/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/d7adb8a9af3d13af26a9fe9e42fb6d39"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Marty-Supreme-2025-165x248.jpg",
-    "group": "หนังฝรั่ง"
-  },
-  {
     "title": "Pillion (2026) คนข้างหลัง",
     "servers": [
       {
@@ -449,1082 +423,392 @@
   },
   {
     "title": "Spider Man 1 (2002) ไอ้แมงมุม ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/4130ed8828a5f51e222c94edda4a5d3e/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/4130ed8828a5f51e222c94edda4a5d3e"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-1-2002-ไอ้แมงมุม-ภาค-1-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/spider-man-1-2002/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-1-2002-ไอ้แมงมุม-ภาค-1-165x248.jpg"
   },
   {
     "title": "Spider Man 2 (2004) ไอ้แมงมุม ภาค 2",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/c4e99650f1d46744b2eb9bcc52c7c339/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/c4e99650f1d46744b2eb9bcc52c7c339"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-2-2004-ไอ้แมงมุม-ภาค-2-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/spider-man-2-2004-%e0%b9%84%e0%b8%ad%e0%b9%89%e0%b9%81%e0%b8%a1%e0%b8%87%e0%b8%a1%e0%b8%b8%e0%b8%a1-%e0%b8%a0%e0%b8%b2%e0%b8%84-2/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-2-2004-ไอ้แมงมุม-ภาค-2-165x248.jpg"
   },
   {
     "title": "Spider Man 3 (2007) ไอ้แมงมุม ภาค 3",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/e02c9bf929cc706343c5c790333c42cc/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/e02c9bf929cc706343c5c790333c42cc"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-3-2007-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/spider-man-3-2007-%e0%b9%84%e0%b8%ad%e0%b9%89%e0%b9%81%e0%b8%a1%e0%b8%87%e0%b8%a1%e0%b8%b8%e0%b8%a1-%e0%b8%a0%e0%b8%b2%e0%b8%84-3/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Spider-Man-3-2007-165x248.jpg"
   },
   {
     "title": "Louis Theroux Inside the Manosphere (2026) หลุยส์ เทอโรซ์ เจาะโลกยุคใหม่ของชายนิยม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/cc8d328f3f22c452f8859fe68513e269/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/cc8d328f3f22c452f8859fe68513e269"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Louis-Theroux-Inside-the-Manosphere-2026-หลุยส์-เทอโรซ์-เจาะโลกยุคใหม่ของชายนิยม-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/louis-theroux-inside-the-manosphere-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Louis-Theroux-Inside-the-Manosphere-2026-หลุยส์-เทอโรซ์-เจาะโลกยุคใหม่ของชายนิยม-165x248.jpg"
   },
   {
     "title": "The Way to You (2026)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/67fcbfadf737146ddc56947ad7379c48/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/67fcbfadf737146ddc56947ad7379c48"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/The-Way-to-You-2026-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-way-to-you-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/The-Way-to-You-2026-165x248.jpg"
   },
   {
     "title": "Cast Away คนหลุดโลก (2000)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/87e05851984013da9401ef4f0de03b32/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/87e05851984013da9401ef4f0de03b32"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/09/Cast-Away-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/cast-away-2000/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/09/Cast-Away-165x248.jpg"
   },
   {
     "title": "Mercy (2025) 90 นาทีสั่งตาย",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/_KBbisVQhI"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Mercy-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/mercy-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Mercy-165x248.jpg"
   },
   {
     "title": "A Fathers Miracle (2026)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/672326e352fe7f4796fa8c00bb140900/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/672326e352fe7f4796fa8c00bb140900"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/A-Fathers-Miracle-2026-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/a-fathers-miracle-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/A-Fathers-Miracle-2026-165x248.jpg"
   },
   {
     "title": "In the Blink of an Eye (2026)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/ccb617e2fa211b0756843c1e2c48ec0a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/ccb617e2fa211b0756843c1e2c48ec0a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/In-the-Blink-of-an-Eye-2026-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/in-the-blink-of-an-eye-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/In-the-Blink-of-an-Eye-2026-165x248.jpg"
   },
   {
     "title": "Clika (2026) คลิกา ฝ่าชะตาล่าฝัน",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/a306609658689320a181068b7ad118e6/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/a306609658689320a181068b7ad118e6"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Clika-2026-คลิกา-ฝ่าชะตาล่าฝัน-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/clika-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Clika-2026-คลิกา-ฝ่าชะตาล่าฝัน-165x248.jpg"
   },
   {
     "title": "Avatar 1 (2009) อวตาร ภาค 1",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/6b09b04824a7a7c785bf07b665307430/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/6b09b04824a7a7c785bf07b665307430"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-1-2009-อวตาร-ภาค-1-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/avatar-1-2009/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-1-2009-อวตาร-ภาค-1-165x248.jpg"
   },
   {
     "title": "Avatar 2 The Way Of Water (2022) อวตาร ภาค 2 วิถีแห่งสายน้ำ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/8761dc3fc8214d53a315e603a33ff54a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/8761dc3fc8214d53a315e603a33ff54a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-2-The-Way-Of-Water-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/avatar-2-the-way-of-water/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/Avatar-2-The-Way-Of-Water-165x248.jpg"
   },
   {
     "title": "Avatar Fire and Ash (2025) อวตาร อัคนีและธุลีดิน",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/ad9BGtqRgr"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/12/Avatar-Fire-and-Ash-2025-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/avatar-fire-and-ash/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/12/Avatar-Fire-and-Ash-2025-165x248.jpg"
   },
   {
     "title": "A Knights War (2025)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/beb01506fe90844a4f6e60bb1a3a9f2b/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/beb01506fe90844a4f6e60bb1a3a9f2b"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/A-Knights-War-2025-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/a-knights-war-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/A-Knights-War-2025-165x248.jpg"
   },
   {
     "title": "The Strangers Chapter 3 (2026) กระชากหน้าอำมหิต",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/_LQ8TOVVtA"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/The-Strangers-Chapter-3-2026-กระชากหน้าอำมหิต-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-strangers-chapter-3-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/The-Strangers-Chapter-3-2026-กระชากหน้าอำมหิต-165x248.jpg"
   },
   {
     "title": "The Carpenters Son (2025)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/b0111f3cd33ad328652e20f9912fc85c/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/b0111f3cd33ad328652e20f9912fc85c"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/The-Carpenters-Son-2025-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-carpenters-son-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/The-Carpenters-Son-2025-165x248.jpg"
   },
   {
     "title": "Battle Los Angeles วันยึดโลก (2011)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/51a67f431fb95596f174b4bc10b6caa0/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/51a67f431fb95596f174b4bc10b6caa0"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/Battle-Los-Angeles-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/battle-los-angeles/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/Battle-Los-Angeles-165x248.jpg"
   },
   {
     "title": "Prometheus (2012) โพรมีธีอุส",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/dcaab48775101e8b2539c95eb099a86d/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/dcaab48775101e8b2539c95eb099a86d"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/03/Prometheus-2012-โพรมีธีอุส-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/prometheus-2012/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/03/Prometheus-2012-โพรมีธีอุส-165x248.jpg"
   },
   {
     "title": "Spider Man Homecoming (2017) สไปเดอร์แมน โฮมคัมมิ่ง",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/8c01b5f437393bca823c757c533e48fb/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/8c01b5f437393bca823c757c533e48fb"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/spider-man-homecoming/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-165x248.jpg"
   },
   {
     "title": "Spider Man Far from Home (2019) สไปเดอร์ แมน ฟาร์ ฟรอม โฮม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/ec8196b96244fb98dbb236fb4bb62ced/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/ec8196b96244fb98dbb236fb4bb62ced"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/spider-man-far-from-home-2019/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-Far-from-Home-2019-สไปเดอร์-แมน-ฟาร์-ฟรอม-โฮม-165x248.jpg"
   },
   {
     "title": "Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/593c7c159f66034c56beb93add650091/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/593c7c159f66034c56beb93add650091"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/spider-man-no-way-home-2021/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Spider-Man-No-Way-Home-2021-สไปเดอร์แมน-โน-เวย์-โฮม-165x248.jpg"
   },
   {
     "title": "Christy (2025) คริสตี้",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/98844fd59722a2a0f85cee2cac6c1e2a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/98844fd59722a2a0f85cee2cac6c1e2a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Christy-2025-คริสตี้-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/christy-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Christy-2025-คริสตี้-165x248.jpg"
   },
   {
     "title": "Brick Mansions (2014) พันธุ์โดด พันธุ์เดือด",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/5__YO9_jSC"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Brick-Mansions-2014-พันธุ์โดด-พันธุ์เดือด-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/brick-mansions-2014/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Brick-Mansions-2014-พันธุ์โดด-พันธุ์เดือด-165x248.jpg"
   },
   {
     "title": "Dangerous Animals (2025)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/8wBaEgYch_"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Dangerous-Animals-2025-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/dangerous-animals-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Dangerous-Animals-2025-165x248.jpg"
   },
   {
     "title": "Kidnapped Elizabeth Smart (2026) คดีลักพาตัว เอลิซาเบธ สมาร์ท",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/94bf02af711f0b9f5c092325afc0fcd0/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/94bf02af711f0b9f5c092325afc0fcd0"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Kidnapped-Elizabeth-Smart-2026-คดีลักพาตัว-เอลิซาเบธ-สมาร์ท-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/kidnapped-elizabeth-smart-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Kidnapped-Elizabeth-Smart-2026-คดีลักพาตัว-เอลิซาเบธ-สมาร์ท-165x248.jpg"
   },
   {
     "title": "Black Widow (2021) แบล็ควิโดว์",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/a6fa8f572052a427820b71580702573e/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/a6fa8f572052a427820b71580702573e"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/02/black-widow-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/black-widow/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/02/black-widow-165x248.jpg"
   },
   {
     "title": "Peaky Blinders The Immortal Man (2026) พีกี้ ไบลน์เดอร์ส ชายผู้เป็นอมตะ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/cc08b71b637f24a3a4e1744d783ea64f/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/cc08b71b637f24a3a4e1744d783ea64f"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Peaky-Blinders-The-Immortal-Man-2026-พีกี้-ไบลน์เดอร์ส-ชายผู้เป็นอมตะ-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/peaky-blinders-the-immortal-man-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Peaky-Blinders-The-Immortal-Man-2026-พีกี้-ไบลน์เดอร์ส-ชายผู้เป็นอมตะ-165x248.jpg"
   },
   {
     "title": "โคตรนรกปล้นเหนือเมฆ แพนเธอรา (2025) Den of Thieves 2 Pantera",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/9c804edb79aec9f13b14ab058a8fe803/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/9c804edb79aec9f13b14ab058a8fe803"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/den-of-thieves-2-pantera/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/02/โคตรนรกปล้นเหนือเมฆ-แพนเธอรา-2025-Den-of-Thieves-2-Pantera-165x248.webp"
   },
   {
     "title": "Whistle (2026) หวีดเรียกผี",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/3wAtsp2W_Z"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/02/Whistle-2026-หวีดเรียกผี-165x248.webp",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/whistle-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/02/Whistle-2026-หวีดเรียกผี-165x248.webp"
   },
   {
     "title": "The Astronaut (2025)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/d99e2dd28f9667f5657d1ba823510b86/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/d99e2dd28f9667f5657d1ba823510b86"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/The-Astronaut-2025-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-astronaut-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/The-Astronaut-2025-165x248.jpg"
   },
   {
     "title": "King Kong (2005) คิงคอง",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/c02b71a9ced9becc371498d8706ab7b4/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/c02b71a9ced9becc371498d8706ab7b4"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/04/king-kong-2005-165x248.jpeg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/king-kong-2005/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/04/king-kong-2005-165x248.jpeg"
   },
   {
     "title": "หน้าสวย สังหาร Pretty Lethal (2026)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/RoT_7Qd1Qh"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Pretty-Lethal-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/pretty-lethal-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Pretty-Lethal-165x248.jpg"
   },
   {
     "title": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/7c1cf835bfe67decdcf23bcad3dd15cf/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/7c1cf835bfe67decdcf23bcad3dd15cf"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/play-dirty-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-165x248.jpg"
   },
   {
     "title": "Agent Zeta (2026) เซต้า ปริศนาจารชน",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/b38ba98e19b0a51ca0bcf6639d9677d3/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/b38ba98e19b0a51ca0bcf6639d9677d3"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Agent-Zeta-2026-เซต้า-ปริศนาจารชน-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/agent-zeta-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Agent-Zeta-2026-เซต้า-ปริศนาจารชน-165x248.jpg"
   },
   {
     "title": "Ready or Not (2019) เกมพร้อมตาย",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/9d8d7fe9ba542eb234de8dab9c30dd43/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/9d8d7fe9ba542eb234de8dab9c30dd43"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/01/Ready-or-Not-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/ready-or-not-2019/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/01/Ready-or-Not-165x248.jpg"
   },
   {
     "title": "Ready or Not 2 Here I Come (2026) เกมพร้อมตาย ภาค 2",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/FYEITzqUKa"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-เกมพร้อมตาย-ภาค-2-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/ready-or-not-2-here-i-come-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-เกมพร้อมตาย-ภาค-2-165x248.jpg"
   },
   {
     "title": "The Black Demon (2023) เพชฌฆาตพันธุ์ทมิฬ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/1f3d3903918a200a5560ff0cc81b81bd/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/1f3d3903918a200a5560ff0cc81b81bd"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/09/The-Black-Demon-2023-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-black-demon-2023/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/09/The-Black-Demon-2023-165x248.jpg"
   },
   {
     "title": "It Takes a Village (2026) หมู่เฮารวมใจ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/ed2f3e14d4e3a149bf96920cfc282fa6/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/ed2f3e14d4e3a149bf96920cfc282fa6"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/It-Takes-a-Village-2026-หมู่เฮารวมใจ-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/it-takes-a-village-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/It-Takes-a-Village-2026-หมู่เฮารวมใจ-165x248.jpg"
   },
   {
     "title": "Eat Pray Bark (2026)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/oe06bB5_A2"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/eat-pray-bark-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-165x248.jpg"
   },
   {
     "title": "Underdog (2007) อันเดอร์ด็อก ยอดสุนัขพิทักษ์โลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/f2a732999dd3428d148de47e274cdce2/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/f2a732999dd3428d148de47e274cdce2"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Underdog-2007-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/underdog-2007/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Underdog-2007-165x248.jpg"
   },
   {
     "title": "The Spy Next Door (2010) วิ่งโขยงฟัด",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/b3b127ded743fc131ca8f40bdd324a4f/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/b3b127ded743fc131ca8f40bdd324a4f"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Spy-Next-Door-2010-1-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-spy-next-door-2010/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/The-Spy-Next-Door-2010-1-165x248.jpg"
   },
   {
     "title": "Cinderella (2015) ซินเดอเรลล่า",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/a5a2f5c506fda7dc972549d1f2a5bc82/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/a5a2f5c506fda7dc972549d1f2a5bc82"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Cinderella-2015-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/cinderella-2015/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Cinderella-2015-165x248.jpg"
   },
   {
     "title": "Feel My Voice (2026) สัมผัสแห่งเสียง",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/d9fd9708397de8f24d8b24faa7e99034/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/d9fd9708397de8f24d8b24faa7e99034"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Feel-My-Voice-2026-สัมผัสแห่งเสียง-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/feel-my-voice-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Feel-My-Voice-2026-สัมผัสแห่งเสียง-165x248.jpg"
   },
   {
     "title": "นรกยึดไฟลต์ (2025) Flight Risk",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/61631b06286dd5d315c687012a63ed70/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/61631b06286dd5d315c687012a63ed70"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/01/นรกยึดไฟลต์-2025-Flight-Risk-165x248.webp",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/flight-risk-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/01/นรกยึดไฟลต์-2025-Flight-Risk-165x248.webp"
   },
   {
     "title": "The Housemaid (2025) ความลับแม่บ้านร้าย",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/pBsnkQAc_M"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/The-Housemaid-2025-ความลับแม่บ้านร้าย-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-housemaid-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/The-Housemaid-2025-ความลับแม่บ้านร้าย-165x248.jpg"
   },
   {
     "title": "The Mortuary Assistant (2025) คืนสยองห้องดับจิต",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/bf990e05c060169a9af9fa89e2a45243/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/bf990e05c060169a9af9fa89e2a45243"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/The-Mortuary-Assistant-2025-คืนสยองห้องดับจิต-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-mortuary-assistant-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/The-Mortuary-Assistant-2025-คืนสยองห้องดับจิต-165x248.jpg"
   },
   {
     "title": "Scream 7 (2026) หวีดสุดขีด 7",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/5218453af0d273908a932de644f0e180/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/5218453af0d273908a932de644f0e180"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Scream-7-2026-หวีดสุดขีด-7-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/scream-7-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Scream-7-2026-หวีดสุดขีด-7-165x248.jpg"
   },
   {
     "title": "Return to Silent Hill (2026) เมืองห่าผี นครคืนชีพ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/0d1643253316c7900f500504fe8a6997/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/0d1643253316c7900f500504fe8a6997"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/return-to-silent-hill-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-165x248.jpg"
   },
   {
     "title": "Him (2025) ตำนานคนจริง",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/545c9865333b0d4de12beaeff7e44d21/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/545c9865333b0d4de12beaeff7e44d21"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/him-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-165x248.jpg"
   },
   {
     "title": "Mr. Brooks (2007) สุภาพบุรุษอำมหิต",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/c6598707e17dd4a079037cb0ef04a6d6/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/c6598707e17dd4a079037cb0ef04a6d6"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Mr.-Brooks-2007-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/mr-brooks-2007/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Mr.-Brooks-2007-165x248.jpg"
   },
   {
     "title": "18th Rose กุหลาบแรกแย้ม (2026)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/rh_uxz0Dp9"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/18th-Rose-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/18th-rose-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/18th-Rose-165x248.jpg"
   },
   {
     "title": "Thrash (2026) ฉลามคลั่ง ทะเลเดือด",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/31c89dcd2e059eafab3fe117f59c5bd1/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/31c89dcd2e059eafab3fe117f59c5bd1"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Thrash-2026-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/thrash-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Thrash-2026-165x248.jpg"
   },
   {
     "title": "ไต่ระทึกตึกนรก (2025) Cleaner",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/d6c82a330aea956e52d15dcfa7490b11/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/d6c82a330aea956e52d15dcfa7490b11"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/ไต่ระทึกตึกนรก-2025-Cleaner-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/cleaner-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/ไต่ระทึกตึกนรก-2025-Cleaner-165x248.jpg"
   },
   {
     "title": "Locked (2025) ล็อก ล่อมาตาย",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/_eFDaJ_g2o"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Locked-2025-ล็อก-ล่อมาตาย-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/locked-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Locked-2025-ล็อก-ล่อมาตาย-165x248.jpg"
   },
   {
     "title": "จ๋อจัดตาย (2025) The Monkey",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/2af567cbe008fdfd7c2a635c289b4ef0/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/2af567cbe008fdfd7c2a635c289b4ef0"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/จ๋อจัดตาย-2025-The-Monkey-165x248.webp",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-monkey-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/จ๋อจัดตาย-2025-The-Monkey-165x248.webp"
   },
   {
     "title": "Roommates (2026) รูมเมท",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/38174b603e41d7e2051d22316ad51d11/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/38174b603e41d7e2051d22316ad51d11"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Roommates-2026-รูมเมท-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/roommates-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Roommates-2026-รูมเมท-165x248.jpg"
   },
   {
     "title": "A Gorilla Story (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์ เซอร์เดวิด",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/f026f5819b4f1562c347fcf15b05a877/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/f026f5819b4f1562c347fcf15b05a877"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/A-Gorilla-Story-2026-เล่าเรื่องกอริลลา-โดยเดวิด-แอทเทนเบอเรอห์-เซอร์เดวิด-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/a-gorilla-story-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/A-Gorilla-Story-2026-เล่าเรื่องกอริลลา-โดยเดวิด-แอทเทนเบอเรอห์-เซอร์เดวิด-165x248.jpg"
   },
   {
     "title": "Malena (2000) มาเลน่า ผู้หญิงสะกดโลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/19a3bc2e9c92d97bcc01b8e900fe2810/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/19a3bc2e9c92d97bcc01b8e900fe2810"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/Malena-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/malena-2000/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/Malena-165x248.jpg"
   },
   {
     "title": "Regretting You (2025) รอยรักปมร้าว",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/b52fa5fc1b3f4299bb4450b79bb7d4b9/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/b52fa5fc1b3f4299bb4450b79bb7d4b9"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Regretting-You-2025-รอยรักปมร้าว-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/regretting-you-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Regretting-You-2025-รอยรักปมร้าว-165x248.jpg"
   },
   {
     "title": "The Reader (2008) เดอะ รีดเดอร์ ในอ้อมกอดรักไม่ลืมเลือน",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/17db8e194305bcdd411585a60fcfa943/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/17db8e194305bcdd411585a60fcfa943"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Reader-2008-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-reader-2008/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/The-Reader-2008-165x248.jpg"
   },
   {
     "title": "Collateral Beauty (2016) คอลแลทเทอรัล บิวตี้",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/aedf124f87a37154ba8137ac870fbe7b/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/aedf124f87a37154ba8137ac870fbe7b"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/03/Collateral-Beauty-2016-คอลแลทเทอรัล-บิวตี้-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/collateral-beauty-2016/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/03/Collateral-Beauty-2016-คอลแลทเทอรัล-บิวตี้-165x248.jpg"
   },
   {
     "title": "180 (2026)",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/6bd63d49e5ea254bb154767a559dd0f4/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/6bd63d49e5ea254bb154767a559dd0f4"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/180-2026-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/180-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/180-2026-165x248.jpg"
   },
   {
     "title": "The Departed (2006) ภารกิจโหด แฝงตัวโค่นเจ้าพ่อ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/d7bb1693ed0482e66daee542d8b04aa7/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/d7bb1693ed0482e66daee542d8b04aa7"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2024/06/The-Departed-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-departed-2006/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2024/06/The-Departed-165x248.jpg"
   },
   {
     "title": "Burning Betrayal (2023) ไฟทรยศ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/4547295fe8fbb0053ddffa95b7596ee8/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/4547295fe8fbb0053ddffa95b7596ee8"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/burning-betrayal-2023/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ-165x248.jpg"
   },
   {
     "title": "Apex (2026) ห่วงโซ่สังหาร",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/52f170e67be6c3c9c7460fa143aa21aa/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/52f170e67be6c3c9c7460fa143aa21aa"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Apex-2026-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/apex-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Apex-2026-165x248.jpg"
   },
   {
     "title": "World War Z (2013) มหาวิบัติสงคราม Z",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/_usJx0jDwv"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/World-War-Z-2013-มหาวิบัติสงคราม-Z-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/world-war-z-2013/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/World-War-Z-2013-มหาวิบัติสงคราม-Z-165x248.jpg"
   },
   {
     "title": "Army of Thieves (2021) แผนปล้นยุโรปเดือด",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/ffef99b993a9a10a3ebfcaa7cba49070/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/ffef99b993a9a10a3ebfcaa7cba49070"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/10/Army-of-Thieves-2021-แผนปล้นยุโรปเดือด-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/army-of-thieves-2021/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/10/Army-of-Thieves-2021-แผนปล้นยุโรปเดือด-165x248.jpg"
   },
   {
     "title": "Normal (2026) เมืองธรรมดานรกเรียกพ่อ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/ae0504a4ef1ad046c19670363e0c8110/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/ae0504a4ef1ad046c19670363e0c8110"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/Normal-2026-เมืองธรรมดานรกเรียกพ่อ-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/normal-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/Normal-2026-เมืองธรรมดานรกเรียกพ่อ-165x248.jpg"
   },
   {
     "title": "The Drama (2026) แต่งก็บ้า..ดราม่าเบอร์นี้",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/h_1aIdWKmo"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/04/The-Drama-2026-แต่งก็บ้า.ดราม่าเบอร์นี้-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/the-drama-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/The-Drama-2026-แต่งก็บ้า.ดราม่าเบอร์นี้-165x248.jpg"
   },
   {
     "title": "They Will Kill You (2026) พวกมันจะฆ่าแก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/5aa9348a9ad4f014be32fd03d8012bed/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/5aa9348a9ad4f014be32fd03d8012bed"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/They-Will-Kill-You-2026-พวกมันจะฆ่าแก-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/they-will-kill-you-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/05/They-Will-Kill-You-2026-พวกมันจะฆ่าแก-165x248.jpg"
   },
   {
     "title": "My Dearest Señorita (2026) ซินญอริต้าที่รัก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://original.enjoy24cdn.com/hlsr2/c5356a1cec842517aa9116fae1fc5040/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://original.enjoy24cdn.com/play/c5356a1cec842517aa9116fae1fc5040"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/My-Dearest-Senorita-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/my-dearest-senorita-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/05/My-Dearest-Senorita-165x248.jpg"
   },
   {
     "title": "Stepdaddy (2026)",
-    "servers": [
-      {
-        "name": "Embed",
-        "url": "https://player.enjoy24cdn.com/embed/5_EEVxSYSN"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2026/05/Stepdaddy-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/stepdaddy-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/05/Stepdaddy-165x248.jpg"
   },
   {
     "title": "นรกหยุดนรก (2025) A Working Man ",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/97ef0f768bf1e34129529d4ea7795897/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/97ef0f768bf1e34129529d4ea7795897"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2025/03/นรกหยุดนรก-2025-A-Working-Man-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/a-working-man-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2025/03/นรกหยุดนรก-2025-A-Working-Man-165x248.jpg"
   },
   {
     "title": "Journey 1 to the Center of the Earth (2008) เจอร์นีย์ ภาค 1 ดิ่งทะลุสะดือโลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/160428758700fc132080a9aa6b6616a0/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/160428758700fc132080a9aa6b6616a0"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/journey-1-to-the-center-of-the-earth-2008/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-1-to-the-Center-of-the-Earth-2008-เจอร์นีย์-ภาค-1-ดิ่งทะลุสะดือโลก-165x248.jpg"
   },
   {
     "title": "Journey 2 The Mysterious Island (2012) เจอร์นีย์ ภาค 2 พิชิตเกาะพิศวงอัศจรรย์สุดโลก",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/6b6b4c092fe95b9932645499041bdc47/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/6b6b4c092fe95b9932645499041bdc47"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/journey-2-the-mysterious-island-2012/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/12/Journey-2-The-Mysterious-Island-2012-เจอร์นีย์-ภาค-2-พิชิตเกาะพิศวงอัศจรรย์สุดโลก-165x248.jpg"
   },
   {
     "title": "Beauty And The Beast (2017) โฉมงามกับเจ้าชายอสูร",
-    "servers": [
-      {
-        "name": "M3U8",
-        "url": "https://enjoy24cdn.com/hlsr2/152ae19ba554ae2b6a947cddba3e6a7a/master.m3u8"
-      },
-      {
-        "name": "Embed",
-        "url": "https://enjoy24cdn.com/p2p/152ae19ba554ae2b6a947cddba3e6a7a"
-      }
-    ],
-    "logo": "https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg",
-    "group": "หนังฝรั่ง"
+    "url": "https://lk-hds.com/beauty-and-the-beast-2017/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2023/11/Beauty-And-The-Beast-2017-165x248.jpg"
+  },
+  {
+    "title": "The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน",
+    "url": "https://lk-hds.com/the-truth-and-tragedy-of-moriah-wilson-2026/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-165x248.jpg"
+  },
+  {
+    "title": "Tin Soldier (2025) องค์กรลับ/ลวง/พราง",
+    "url": "https://lk-hds.com/tin-soldier-2025/",
+    "poster": "https://lk-hds.com/wp-content/uploads/2026/01/Tin-Soldier-2025-องค์กรลับ-ลวง-พราง-165x248.jpg"
   }
 ]
