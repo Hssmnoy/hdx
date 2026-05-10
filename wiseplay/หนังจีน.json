@@ -1,6 +1,6 @@
 {
   "name": "หนังจีน",
-  "author": "อัพเดตล่าสุด 9/5/2569",
+  "author": "อัพเดตล่าสุด 10/5/2569",
   "image": "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
   "url": "https://lk-hds.com",
   "groups": [
@@ -195,15 +195,9 @@
       "image": "https://lk-hds.com/wp-content/uploads/2024/03/Er-Woo-Dong-Unattended-Flower-2015-บุปผาเลือด-165x248.jpg",
       "stations": [
         {
-          "name": "M3U8",
-          "image": "https://lk-hds.com/wp-content/uploads/2024/03/Er-Woo-Dong-Unattended-Flower-2015-บุปผาเลือด-165x248.jpg",
-          "url": "https://enjoy24cdn.com/hlsr2/a3f8b838a1c64f2b80aae7811630845a/master.m3u8",
-          "referer": "https://lk-hds.com"
-        },
-        {
           "name": "Embed",
           "image": "https://lk-hds.com/wp-content/uploads/2024/03/Er-Woo-Dong-Unattended-Flower-2015-บุปผาเลือด-165x248.jpg",
-          "url": "https://enjoy24cdn.com/p2p/a3f8b838a1c64f2b80aae7811630845a",
+          "url": "https://player.enjoy24cdn.com/embed/Zc98l9su8w",
           "referer": "https://lk-hds.com"
         }
       ]
