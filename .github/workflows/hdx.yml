@@ -25,7 +25,7 @@ jobs:
         run: npm ci
 
       - name: Run scraper
-        run: node hdx.js
+        run: node hdx_รันเก็บข้อมูล.js
 
       - name: Commit results
         run: |
