@@ -303,21 +303,28 @@ if (src) {
 }
 
 async function extractM3U8(embedUrl) {
+
   try {
-    // 🔹 1. ดึง vid
-    const vidMatch = embedUrl.match(/\/embed\/([a-zA-Z0-9]+)/);
-    if (!vidMatch) return null;
+
+    const vidMatch = embedUrl.match(
+      /\/embed\/([a-zA-Z0-9]+)/
+    );
+
+    if (!vidMatch) {
+      return null;
+    }
+
     const vid = vidMatch[1];
 
-    // 🔹 2. generate token (เหมือนหน้าเว็บ)
-    const token = Buffer.from(Date.now().toString()).toString("base64");
+    const token = Buffer
+      .from(Date.now().toString())
+      .toString("base64");
 
-    // 🔹 3. ยิง API จริง
     const { data } = await axios.post(
       "https://player.enjoy24cdn.com/ajax/get_video_streams/",
       {
-        vid: vid,
-        token: token
+        vid,
+        token
       },
       {
         headers: {
@@ -325,74 +332,48 @@ async function extractM3U8(embedUrl) {
           "Content-Type": "application/json",
           "Referer": embedUrl,
           "Origin": "https://player.enjoy24cdn.com"
-        }
+        },
+        timeout: 15000
       }
     );
 
-    if (!data || !data.streams) {
+    if (!data?.streams?.length) {
+
       console.log("❌ no streams");
+
       return null;
     }
 
-    // 🔥 หา stream ที่ใช้ได้
-    const stream = data.streams.find(s => s.status == "1");
+    const stream = data.streams.find(
+      s => s.status == "1"
+    );
 
-    if (stream && stream.link) {
-  const playUrl = stream.link;
+    if (!stream?.link) {
 
-  // 🔥 ยิง play page ต่อ
-  const { data: playData } = await axios.get(playUrl, {
-    headers: {
-      "User-Agent": "Mozilla/5.0",
-      "Referer": embedUrl
+      console.log("❌ no valid stream");
+
+      return null;
     }
-  });
 
-  // 🔥 หา m3u8
-  let match = null;
+    const playUrl = stream.link;
 
-// 🔥 แบบ 1: const url = "...m3u8"
-match = playData.match(/const\s+url\s*=\s*["']([^"']+\.m3u8[^"']*)/);
-if (match) {
-  console.log("🎯 FOUND m3u8:", match[1]);
-  return {
-    playUrl: playUrl,
-    m3u8: match[1]
-  };
-}
+    console.log("🎯 PLAY:", playUrl);
 
-// 🔥 แบบ 2: m3u8 ปกติ
-match = playData.match(/https?:\/\/[^"']+\.m3u8[^"']*/);
-if (match) {
-  console.log("🎯 FOUND m3u8:", match[0]);
-  return {
-  playUrl: playUrl,
-  m3u8: match[0]
-};
-}
-
-// 🔥 แบบ 3: filesr2 (IDM จับได้)
-match = playData.match(/https?:\/\/[^"']+\/filesr2\/[^"']+\/index/);
-if (match) {
-  console.log("🎯 FOUND filesr2:", match[0]);
-  return {
-  playUrl: playUrl,
-  m3u8: match[0]
-};
-}
-console.log("❌ no m3u8 in play page");
-return null;
-}
-
-    console.log("❌ no valid stream");
-    return null;
+    return {
+      playUrl,
+      m3u8: playUrl
+    };
 
   } catch (err) {
-    console.log("m3u8 error:", err.message);
+
+    console.log(
+      "m3u8 error:",
+      err.message
+    );
+
     return null;
   }
 }
-
 
 // commit
 async function commitChanges(message) {
