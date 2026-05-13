@@ -31003,153 +31003,453 @@
   },
   {
     "title": "Godmothered (2020) ตำนานนางฟ้าแม่ทูลหัว",
-    "url": "https://lk-hd.org/godmothered-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Godmothered-2020-ตำนานนางฟ้าแม่ทูลหัว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/08f0410a7c535b1b817d4fa2f0106628"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/08f0410a7c535b1b817d4fa2f0106628"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Godmothered-2020-ตำนานนางฟ้าแม่ทูลหัว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Manson Brothers Midnight Zombie Massacre (2021)",
-    "url": "https://lk-hd.org/the-manson-brothers-midnight-zombie-massacre-2021/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/The-Manson-Brothers-Midnight-Zombie-Massacre-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7f3672016b319938a35662ec6689ba91"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7f3672016b319938a35662ec6689ba91"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/The-Manson-Brothers-Midnight-Zombie-Massacre-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Undefiled (2024)",
-    "url": "https://lk-hd.org/undefiled-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Undefiled-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a9510bc93e9ccbf9ed0cd45769d6d458"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a9510bc93e9ccbf9ed0cd45769d6d458"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Undefiled-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Planetquake (2024)",
-    "url": "https://lk-hd.org/planetquake-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Planetquake-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/38bd3037a6fb47dcf9d83a5866b1ac10"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/38bd3037a6fb47dcf9d83a5866b1ac10"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Planetquake-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Revenant (2015) เดอะ เรเวแนนท์ ต้องรอด",
-    "url": "https://lk-hd.org/the-revenant-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/The-Revenant-2015-เดอะ-เรเวแนนท์-ต้องรอด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2e636d29703b931f1de4215ca260d275"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e636d29703b931f1de4215ca260d275"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/The-Revenant-2015-เดอะ-เรเวแนนท์-ต้องรอด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bitter Harvest (2017) รักในวันรบ",
-    "url": "https://lk-hd.org/bitter-harvest-2017/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Bitter-Harvest-2017-รักในวันรบ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/fc7508b2616f3569b5b7306a7d72e353"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fc7508b2616f3569b5b7306a7d72e353"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Bitter-Harvest-2017-รักในวันรบ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Made (2017) อเมริกัน เมด",
-    "url": "https://lk-hd.org/american-made-2017/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/American-Made-2017-อเมริกัน-เมด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e972976641ebfdfa29c92d99662c8335"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e972976641ebfdfa29c92d99662c8335"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/American-Made-2017-อเมริกัน-เมด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Burning Kentucky (2019) เบิร์นนิ่ง เคนทักกี้",
-    "url": "https://lk-hd.org/burning-kentucky-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Burning-Kentucky-2019-เบิร์นนิ่ง-เคนทักกี้-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9c20886c5104d5cc0e9e9eb9833d53ff"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c20886c5104d5cc0e9e9eb9833d53ff"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Burning-Kentucky-2019-เบิร์นนิ่ง-เคนทักกี้-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Clover (2020)",
-    "url": "https://lk-hd.org/clover-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Clover-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ed26ed6e6c59462213fdc0045d20ccda"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ed26ed6e6c59462213fdc0045d20ccda"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Clover-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I Carry You with Me (2020)",
-    "url": "https://lk-hd.org/i-carry-you-with-me-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/I-Carry-You-with-Me-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/12c44391ea7f0acfe94f5c3469485456"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/12c44391ea7f0acfe94f5c3469485456"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/I-Carry-You-with-Me-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dead in a Week (Or Your Money Back) (2018) มือปืนสายบ๊อง",
-    "url": "https://lk-hd.org/dead-in-a-week-or-your-money-back-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Dead-in-a-Week-Or-Your-Money-Back-2018-มือปืนสายบ๊อง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6b76ca24d5e7049b19a5dbd1675cd607"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b76ca24d5e7049b19a5dbd1675cd607"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Dead-in-a-Week-Or-Your-Money-Back-2018-มือปืนสายบ๊อง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Girl in the Basement (2021) หญิงสาวในห้องใต้ดิน",
-    "url": "https://lk-hd.org/girl-in-the-basement-2021/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Girl-in-the-Basement-2021-หญิงสาวในห้องใต้ดิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a2ca3878e70f7c56ad1dfab28664dae5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a2ca3878e70f7c56ad1dfab28664dae5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Girl-in-the-Basement-2021-หญิงสาวในห้องใต้ดิน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Oxygen (2021) ออกซิเจน",
-    "url": "https://lk-hd.org/oxygen-2021/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Oxygen-2021-ออกซิเจน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6a90d198ab3572018bae43458c57481e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a90d198ab3572018bae43458c57481e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Oxygen-2021-ออกซิเจน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Final Shot (2018) นัดสุดท้าย",
-    "url": "https://lk-hd.org/final-shot-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Final-Shot-2018-นัดสุดท้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e50412cfb27d74632d51bbed19d51885"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e50412cfb27d74632d51bbed19d51885"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Final-Shot-2018-นัดสุดท้าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Love (2015) ความรัก",
-    "url": "https://lk-hd.org/love-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Love-2015-ความรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5f7caf10fb0fd9f364624c68c617756f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f7caf10fb0fd9f364624c68c617756f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Love-2015-ความรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Never Back Down No Surrender (2016) เจ้าสังเวียน",
-    "url": "https://lk-hd.org/never-back-down-no-surrender-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/1b0031651b09efe6e36b5ec0ba6c527e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b0031651b09efe6e36b5ec0ba6c527e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Never-Back-Down-No-Surrender-2016-เจ้าสังเวียน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fahrenheit 451 (2018) ฟาเรนไฮต์",
-    "url": "https://lk-hd.org/fahrenheit-451-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Fahrenheit-451-2018-ฟาเรนไฮต์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9453e3b58117f9405a5802f737002ab3"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9453e3b58117f9405a5802f737002ab3"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Fahrenheit-451-2018-ฟาเรนไฮต์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Race (2016) ต้องกล้าวิ่ง",
-    "url": "https://lk-hd.org/race-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Race-2016-ต้องกล้าวิ่ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/56e95dcb08543f7a1ffeffde931cb709"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/56e95dcb08543f7a1ffeffde931cb709"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Race-2016-ต้องกล้าวิ่ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Risen (2016) กำเนิดใหม่แห่งศรัทธา",
-    "url": "https://lk-hd.org/risen-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Risen-2016-กำเนิดใหม่แห่งศรัทธา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/fe95c4d1665a00bdf244e0ad2973fbb2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fe95c4d1665a00bdf244e0ad2973fbb2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Risen-2016-กำเนิดใหม่แห่งศรัทธา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lost in the Sun (2015) เพื่อนแท้บนทางเถื่อน",
-    "url": "https://lk-hd.org/lost-in-the-sun-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Lost-in-the-Sun-2015-เพื่อนแท้บนทางเถื่อน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ef5e073907b748077e4b9cdcbaf06786"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef5e073907b748077e4b9cdcbaf06786"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Lost-in-the-Sun-2015-เพื่อนแท้บนทางเถื่อน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "She Said (2022) เสียงเงียบของเธอ",
-    "url": "https://lk-hd.org/she-said-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/She-Said-2022-เสียงเงียบของเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/707b45e91e3fc749df5356f1be7baa78"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/707b45e91e3fc749df5356f1be7baa78"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/She-Said-2022-เสียงเงียบของเธอ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Spin Me Round (2022)",
-    "url": "https://lk-hd.org/spin-me-round-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Spin-Me-Round-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ac1d82e5dddbb2ffcd206b86c4fea0ac"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ac1d82e5dddbb2ffcd206b86c4fea0ac"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Spin-Me-Round-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Summertime Dropouts (2022)",
-    "url": "https://lk-hd.org/summertime-dropouts-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Summertime-Dropouts-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/688f63d4c230d209f4d06060e0e31dac"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/688f63d4c230d209f4d06060e0e31dac"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Summertime-Dropouts-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Chris Watts Confessions of a Killer (2020)",
-    "url": "https://lk-hd.org/chris-watts-confessions-of-a-killer-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Chris-Watts-Confessions-of-a-Killer-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6b1b7f598ad0dd1e9d73562b0feb2750"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6b1b7f598ad0dd1e9d73562b0feb2750"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Chris-Watts-Confessions-of-a-Killer-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Double Life (2023)",
-    "url": "https://lk-hd.org/double-life-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Double-Life-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a95735809eedd5d5cafad88cbaf4afde"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a95735809eedd5d5cafad88cbaf4afde"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Double-Life-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Project Almanac (2015) กล้า ซ่าส์ ท้าเวลา",
-    "url": "https://lk-hd.org/project-almanac-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Project-Almanac-2015-กล้า-ซ่าส์-ท้าเวลา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a795e73b2a78212f45bc60b02aa18442"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a795e73b2a78212f45bc60b02aa18442"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Project-Almanac-2015-กล้า-ซ่าส์-ท้าเวลา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Anti Life (2020)",
-    "url": "https://lk-hd.org/anti-life-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Anti-Life-2020-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a93dba8d9f8b920863fe86b74a00c98a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a93dba8d9f8b920863fe86b74a00c98a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Anti-Life-2020-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Badland (2019) แบดแลนด์",
-    "url": "https://lk-hd.org/badland-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Badland-2019-แบดแลนด์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/912a3ca2bc2fa772572feda84448e972"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/912a3ca2bc2fa772572feda84448e972"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Badland-2019-แบดแลนด์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Section 8 (2022)",
-    "url": "https://lk-hd.org/section-8-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Section-8-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/11c6a883c5d4a6ada027e6f16f643228"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/11c6a883c5d4a6ada027e6f16f643228"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Section-8-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dolittle (2020) ด็อกเตอร์ ดูลิตเติ้ล",
-    "url": "https://lk-hd.org/dolittle-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Dolittle-2020-ด็อกเตอร์-ดูลิตเติ้ล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ae3ccfe454685f07d7607c31310b2b53"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ae3ccfe454685f07d7607c31310b2b53"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Dolittle-2020-ด็อกเตอร์-ดูลิตเติ้ล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Through My Window 3 Looking at You (2024) รักผ่านหน้าต่าง ดวงตาจ้องมองเธอ",
