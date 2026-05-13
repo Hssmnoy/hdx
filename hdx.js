@@ -637,31 +637,45 @@ savedCategories[cat.name] = {
       // 🔥 บันทึกไฟล์ JSON ระหว่างทาง
       await fsp.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
 
-      // 🔥 commit ระหว่างทาง
-      if (COMMIT_EVERY > 0 && (i + 1) % COMMIT_EVERY === 0) {
-  console.log("💾 COMMIT EVERY:", i + 1);
-  await commitChanges(`auto update ${cat.name} - ${i + 1}/${catMovies.length}`);
-}
+         // 🔥 commit ระหว่างทาง
+    if (COMMIT_EVERY > 0 && (i + 1) % COMMIT_EVERY === 0) {
+
+      console.log("💾 COMMIT EVERY:", i + 1);
+
+      await commitChanges(
+        `auto update ${cat.name} - ${i + 1}/${catMovies.length}`
+      );
     }
-    
-console.log("📦 COMMIT END CATEGORY:", cat.name);
-await commitChanges(`finish ${cat.name}`);
+  }
 
+  console.log("📦 COMMIT END CATEGORY:", cat.name);
 
-  await generateM3U(`${cat.name}.m3u`, catMovies);
- 
+  await generateM3U(
+    `${cat.name}.m3u`,
+    catMovies
+  );
+
   await generateWiseplay(
-  (cat.file || cat.name).replace(/\s+/g, "-") + ".json",
-  catMovies,
-  cat.name
-);
- 
+    (cat.file || cat.name).replace(/\s+/g, "-") + ".json",
+    catMovies,
+    cat.name
+  );
+
   await commitChanges(`finish ${cat.name}`);
 }
 
+// ✅ ยังอยู่ใน async run()
 await commitChanges("auto update");
+
 }
 
-run().then(() => {
-  generateIndex(savedCategories);
-});
+// ✅ นอก run()
+run()
+  .then(async () => {
+
+    await generateIndex(savedCategories);
+
+    await commitChanges("update index");
+
+  })
+  .catch(console.error);
