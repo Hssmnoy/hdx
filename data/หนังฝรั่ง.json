@@ -3139,153 +3139,453 @@
   },
   {
     "title": "The Family Plan (2023)",
-    "url": "https://lk-hd.org/the-family-plan/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/ดูหนัง-The-Family-Plan-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/44a735a58b7bfb9fc807875832926fa2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44a735a58b7bfb9fc807875832926fa2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/ดูหนัง-The-Family-Plan-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Five Nights at Freddys 2 (2025) 5 คืนสยองที่ร้านเฟรดดี้ 2",
-    "url": "https://lk-hd.org/five-nights-at-freddys-2-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/12/Five-Nights-at-Freddys-2-2025-5-คืนสยองที่ร้านเฟรดดี้-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/320de52d408c7c491f8dc8bac2ffd5a9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/320de52d408c7c491f8dc8bac2ffd5a9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/12/Five-Nights-at-Freddys-2-2025-5-คืนสยองที่ร้านเฟรดดี้-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Five Nights at Freddy’s (2023) 5 คืนสยองที่ร้านเฟรดดี้",
-    "url": "https://lk-hd.org/five-nights-at-freddys-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Five-Nights-at-Freddys-2023-5-คืนสยองที่ร้านเฟรดดี้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/dc8328d0015ae45d13d1611a6f5ece89"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dc8328d0015ae45d13d1611a6f5ece89"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Five-Nights-at-Freddys-2023-5-คืนสยองที่ร้านเฟรดดี้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sisu (2022) สิสู้…เฒ่ามหากาฬ",
-    "url": "https://lk-hd.org/sisu/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/Sisu-2022-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5b2765d7ca1c0907a031cb6d1d07d3d9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5b2765d7ca1c0907a031cb6d1d07d3d9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/Sisu-2022-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "My Secret Santa (2025) เมื่อคุณแม่ปลอมเป็นซานตาคลอส",
-    "url": "https://lk-hd.org/my-secret-santa-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/12/My-Secret-Santa-2025-เมื่อคุณแม่ปลอมเป็นซานตาคลอส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/13d81d7660b4a1691a8c63e3af01b377"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/13d81d7660b4a1691a8c63e3af01b377"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/12/My-Secret-Santa-2025-เมื่อคุณแม่ปลอมเป็นซานตาคลอส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "วิคเค็ด (2024) Wicked",
-    "url": "https://lk-hd.org/wicked/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/11/Wicked-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/44e59b6bd4dedac5421a2efcc685b5b8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44e59b6bd4dedac5421a2efcc685b5b8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/11/Wicked-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Walking Tall (2004) ไอ้ก้านยาว",
-    "url": "https://lk-hd.org/walking-tall-2004/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Walking-Tall-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/1b2a14cff0c1c695eeb7afc1606d8d07"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1b2a14cff0c1c695eeb7afc1606d8d07"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Walking-Tall-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Troll 2 (2025) โทรลล์ ภาค 2",
-    "url": "https://lk-hd.org/troll-2-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/12/Troll-2-2025-โทรลล์-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/f961e55e66b126c636481c79379bf644"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f961e55e66b126c636481c79379bf644"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/12/Troll-2-2025-โทรลล์-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Troll (2022) โทรลล์",
-    "url": "https://lk-hd.org/troll-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Troll-2022-โทรลล์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/fec8aa7790198013a48f0fba969f8175"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fec8aa7790198013a48f0fba969f8175"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Troll-2022-โทรลล์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "She Rides Shotgun (2025) เธอต้องรอด",
-    "url": "https://lk-hd.org/she-rides-shotgun-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/She-Rides-Shotgun-2025-เธอต้องรอด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/54cb8e44d5f087e932fc3551c56cea7f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/54cb8e44d5f087e932fc3551c56cea7f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/She-Rides-Shotgun-2025-เธอต้องรอด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jingle Bell Heist (2025) โจรกรรมจิงเกิลเบล",
-    "url": "https://lk-hd.org/jingle-bell-heist-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/Jingle-Bell-Heist-2025-โจรกรรมจิงเกิลเบล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/55969c633616b40b0d22102848a7df44"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/55969c633616b40b0d22102848a7df44"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/Jingle-Bell-Heist-2025-โจรกรรมจิงเกิลเบล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Year One ดู เยียร์ วัน คู่กวนป่วนยุคเก๋าส์ (2009)",
-    "url": "https://lk-hd.org/year-one-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Year-One-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/15848cbc4ef7468b667b4006fb350427"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15848cbc4ef7468b667b4006fb350427"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Year-One-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Finding Neverland (2004) ดู เนเวอร์แลนด์ แดนรักมหัศจรรย์",
-    "url": "https://lk-hd.org/finding-neverland-2004/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Finding-Neverland-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9c3de86e9df6f86d52486f9d1fb0b3db"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c3de86e9df6f86d52486f9d1fb0b3db"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Finding-Neverland-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Edge of Tomorrow (2014) ซูเปอร์นักรบดับทัพอสูร",
-    "url": "https://lk-hd.org/edge-of-tomorrow-2014/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Edge-of-Tomorrow-2014-ซูเปอร์นักรบดับทัพอสูร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/555c42f0b0ee648c3e815730da728a9c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/555c42f0b0ee648c3e815730da728a9c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Edge-of-Tomorrow-2014-ซูเปอร์นักรบดับทัพอสูร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "All Quiet on The Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง",
-    "url": "https://lk-hd.org/all-quiet-on-the-western-front-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/All-Quiet-on-The-Western-Front-2022-แนวรบด้านตะวันตก-เหตุการณ์ไม่เปลี่ยนแปลง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7a644ec545ad6f9490dde4a7a4ebf198"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a644ec545ad6f9490dde4a7a4ebf198"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/All-Quiet-on-The-Western-Front-2022-แนวรบด้านตะวันตก-เหตุการณ์ไม่เปลี่ยนแปลง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Death of a Unicorn (2025) เดธ ออฟ อะ ยูนิคอร์น",
-    "url": "https://lk-hd.org/death-of-a-unicorn-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Death-of-a-Unicorn-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4e36b5328b670f5461d01fd7f2dfeb39"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4e36b5328b670f5461d01fd7f2dfeb39"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Death-of-a-Unicorn-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Follies (2025) วันหนักของคนหน่วง Netflix",
-    "url": "https://lk-hd.org/the-follies-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/The-Follies-2025-วันหนักของคนหน่วง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/fe54450493d6a0c3e2789180cda031c7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fe54450493d6a0c3e2789180cda031c7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/The-Follies-2025-วันหนักของคนหน่วง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rampage (2018) แรมเพจ ใหญ่ชนยักษ์",
-    "url": "https://lk-hd.org/rampage-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/01/Rampage-2018-แรมเพจ-ใหญ่ชนยักษ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a530060e2c1387eb7236bd32471ed7a2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a530060e2c1387eb7236bd32471ed7a2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/01/Rampage-2018-แรมเพจ-ใหญ่ชนยักษ์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mulan (2020) มู่หลาน",
-    "url": "https://lk-hd.org/mulan-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Mulan-2020-มู่หลาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/995ef9034bc9aef1ffd48e99071e5600"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/995ef9034bc9aef1ffd48e99071e5600"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Mulan-2020-มู่หลาน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Train Dreams (2025) ทางรถไฟสายฝัน",
-    "url": "https://lk-hd.org/train-dreams-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/Train-Dreams-2025-ทางรถไฟสายฝัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/b685c1f0daf9ac7adafb81a11ef3767b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b685c1f0daf9ac7adafb81a11ef3767b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/Train-Dreams-2025-ทางรถไฟสายฝัน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Uncharted (2022) ผจญภัยล่าขุมทรัพย์สุดขอบโลก",
-    "url": "https://lk-hd.org/uncharted/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Uncharted-2022-ผจญภัยล่าขุมทรัพย์สุดขอบโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/12850fc6716d1632da69c7f7e2de5fd9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/12850fc6716d1632da69c7f7e2de5fd9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Uncharted-2022-ผจญภัยล่าขุมทรัพย์สุดขอบโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shelby Oaks (2025) เชลบี้ โอคส์ คลิปเฮี้ยน คดีหลอน",
-    "url": "https://lk-hd.org/shelby-oaks-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/Shelby-Oaks-2025-เชลบี้-โอคส์-คลิปเฮี้ยน-คดีหลอน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/16044fb43a1e9699b3b2c4493d47d487"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/16044fb43a1e9699b3b2c4493d47d487"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/Shelby-Oaks-2025-เชลบี้-โอคส์-คลิปเฮี้ยน-คดีหลอน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Playdate (2025)",
-    "url": "https://lk-hd.org/playdate-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/Playdate-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/f1d35340a579c6e7f4a7d8ac8744d657"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f1d35340a579c6e7f4a7d8ac8744d657"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/Playdate-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Champagne Problems (2025) แชมเปญรัก ปัญหาร้าย",
-    "url": "https://lk-hd.org/champagne-problems-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/Champagne-Problems-2025-แชมเปญรัก-ปัญหาร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/eeb6402a6c3ef9ae998c7f8885a857d6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eeb6402a6c3ef9ae998c7f8885a857d6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/Champagne-Problems-2025-แชมเปญรัก-ปัญหาร้าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Now You See Me 2 (2016) อาชญากลปล้นโลก ภาค 2",
-    "url": "https://lk-hd.org/now-you-see-me-2-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Now-You-See-Me-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/167ae1ea413c1bb9410a40fa9595b242"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/167ae1ea413c1bb9410a40fa9595b242"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Now-You-See-Me-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Now You See Me 1 (2013) อาชญากลปล้นโลก ภาค 1",
-    "url": "https://lk-hd.org/now-you-see-me-1-2013/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Now-You-See-Me-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2f409326fc502cc543a7e03ce49162c9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2f409326fc502cc543a7e03ce49162c9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Now-You-See-Me-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Very Jonas Christmas Movie (2025)",
-    "url": "https://lk-hd.org/a-very-jonas-christmas-movie-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/A-Very-Jonas-Christmas-Movie-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/0dc09a10b9c9ed57f729589f453d85aa"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0dc09a10b9c9ed57f729589f453d85aa"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/A-Very-Jonas-Christmas-Movie-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gunslingers (2025) มือปืนล้างนรก",
-    "url": "https://lk-hd.org/gunslingers-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/Gunslingers-2025-มือปืนล้างนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/82770824093c12079c3c6052783def4b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/82770824093c12079c3c6052783def4b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/Gunslingers-2025-มือปืนล้างนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "13 Hours (2016) 13 ชม ทหารลับแห่งเบนกาซี",
-    "url": "https://lk-hd.org/13-hours-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/13-Hours-2016-13-ชม-ทหารลับแห่งเบนกาซี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/da580a6444e869a02514cb3c60b0e0ae"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/da580a6444e869a02514cb3c60b0e0ae"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/13-Hours-2016-13-ชม-ทหารลับแห่งเบนกาซี-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Merry Little Ex-Mas (2025) คริสต์มาสป่วนรัก | Netflix",
-    "url": "https://lk-hd.org/a-merry-little-ex-mas-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/A-Merry-Little-Ex-Mas-2025-คริสต์มาสป่วนรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/e0c9033dc6c73d2d271bd5ccf93657ed"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e0c9033dc6c73d2d271bd5ccf93657ed"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/A-Merry-Little-Ex-Mas-2025-คริสต์มาสป่วนรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Witch Hunter (2015) เพชรฆาตแม่มด",
