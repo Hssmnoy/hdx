@@ -6739,153 +6739,453 @@
   },
   {
     "title": "I’m Your Venus (2024) ฉันคือวีนัส",
-    "url": "https://lk-hd.org/im-your-venus-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Im-Your-Venus-2024-ฉันคือวีนัส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/dfe05de222800746dccfce973cb63f44"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/dfe05de222800746dccfce973cb63f44"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Im-Your-Venus-2024-ฉันคือวีนัส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เดอะ บรูทัลลิสต์ (2024) The Brutalist",
-    "url": "https://lk-hd.org/the-brutalist-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/เดอะ-บรูทัลลิสต์-2024-The-Brutalist-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/89aaaafe80b29c6e2e21a0057bc8a7fd"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/89aaaafe80b29c6e2e21a0057bc8a7fd"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/เดอะ-บรูทัลลิสต์-2024-The-Brutalist-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Twenty One 21 (2008) เกมเดิมพันอัจฉริยะ | พากย์ไทย",
-    "url": "https://lk-hd.org/twenty-one-21-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Twenty-One-21-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4d65bcecb5050e2c811f11f8a88741f9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4d65bcecb5050e2c811f11f8a88741f9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Twenty-One-21-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bloodshot (2020) จักรกลเลือดดุ",
-    "url": "https://lk-hd.org/bloodshot-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Bloodshot-2020-จักรกลเลือดดุ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/711477f48a8ee86c606f70c5d02d6d8e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/711477f48a8ee86c606f70c5d02d6d8e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Bloodshot-2020-จักรกลเลือดดุ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Warfare (2025)",
-    "url": "https://lk-hd.org/warfare-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Warfare-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/39a8d5d48ca910fe390fe5b10f7c647e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/39a8d5d48ca910fe390fe5b10f7c647e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Warfare-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
-    "url": "https://lk-hd.org/late-night-with-the-devil-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/e75abf53902ce74da679a2560be9e9cf"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e75abf53902ce74da679a2560be9e9cf"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "อัจฉริยะคนบัญชีเพชฌฆาต ภาค 2 The Accountant 2 (2025)",
-    "url": "https://lk-hd.org/the-accountant-2/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/The-Accountant-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a30b8805d37647e3986f168d8995c47a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a30b8805d37647e3986f168d8995c47a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/The-Accountant-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "28 Weeks Later (2007) มหันตภัยเชื้อนรกถล่มเมือง",
-    "url": "https://lk-hd.org/28-weeks-later-2007/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/28-Weeks-Later-2007-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8403496c14d5f08809df3357ab044b51"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8403496c14d5f08809df3357ab044b51"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/28-Weeks-Later-2007-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",
-    "url": "https://lk-hd.org/28-days-later-2002/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/28-Days-Later-2002-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/63525f7e0e327de873eaaa836d87f80d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63525f7e0e327de873eaaa836d87f80d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/28-Days-Later-2002-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kraken (2025) คราเคน เลื้อยสยอง 20,000 โยชน์",
-    "url": "https://lk-hd.org/kraken-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Kraken-2025-คราเคน-เลื้อยสยอง-20000-โยชน์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/9d4eaccbb05effe074538dad0298145f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/9d4eaccbb05effe074538dad0298145f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Kraken-2025-คราเคน-เลื้อยสยอง-20000-โยชน์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Frozen The Hit Broadway Musical (2025)",
-    "url": "https://lk-hd.org/frozen-the-hit-broadway-musical-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Frozen-The-Hit-Broadway-Musical-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/2e5ad912f77d758db275e7b5bb379cb9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/2e5ad912f77d758db275e7b5bb379cb9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Frozen-The-Hit-Broadway-Musical-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Semi Soeter (2025) เรื่องรักกึ่งหวาน งานนี้บานปลาย",
-    "url": "https://lk-hd.org/semi-soeter-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Semi-Soeter-2025-เรื่องรักกึ่งหวาน-งานนี้บานปลาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/b2e0e93b6c80bdef538264fc2ae1878d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b2e0e93b6c80bdef538264fc2ae1878d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Semi-Soeter-2025-เรื่องรักกึ่งหวาน-งานนี้บานปลาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "GrenFell Uncovered (2025) ค้นความจริงเหตุเพลิงไหม้เกรมเฟลล์",
-    "url": "https://lk-hd.org/grenfell-uncovered-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/GrenFell-Uncovered-2025-ค้นความจริงเหตุเพลิงไหม้เกรมเฟลล์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/fa992b28346a16b9aad8c5ba312184cb"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fa992b28346a16b9aad8c5ba312184cb"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/GrenFell-Uncovered-2025-ค้นความจริงเหตุเพลิงไหม้เกรมเฟลล์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A King Like Me (2024) ราชาอย่างฉัน",
-    "url": "https://lk-hd.org/a-king-like-me-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/A-King-Like-Me-2024-ราชาอย่างฉัน-165x248.png"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/44503cbc7c91a0e763ba657ca8bea323"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/44503cbc7c91a0e763ba657ca8bea323"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/A-King-Like-Me-2024-ราชาอย่างฉัน-165x248.png",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Final Destination Bloodlines (2025) ไฟนอล เดสติเนชั่น ทายาทโกงตาย",
-    "url": "https://lk-hd.org/final-destination-bloodlines-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/fbf1e9bf25ba3d9ec4e8538a1acefe9f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fbf1e9bf25ba3d9ec4e8538a1acefe9f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Love & Other Drugs (2010) ยาวิเศษที่ไม่อาจรักษารัก",
-    "url": "https://lk-hd.org/love-other-drugs-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/Love-Other-Drugs-2010-ยาวิเศษที่ไม่อาจรักษารัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/74053cf35b6631da9b158dbbde2e286d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/74053cf35b6631da9b158dbbde2e286d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/Love-Other-Drugs-2010-ยาวิเศษที่ไม่อาจรักษารัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Original Sin (2001) ล่าฝันพิศวาส บาปปรารถนา กับดักมรณะ",
-    "url": "https://lk-hd.org/original-sin-2001/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Original-Sin-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b18c74ff351437507de8b4eb9bcb5d45"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b18c74ff351437507de8b4eb9bcb5d45"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Original-Sin-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trainwreck Mayor of Mayhem (2025) อภิมหาวายป่วง นายกเทศมนตรีแห่งความโกลาหล",
-    "url": "https://lk-hd.org/trainwreck-mayor-of-mayhem-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Trainwreck-Mayor-of-Mayhem-2025-อภิมหาวายป่วง-นายกเทศมนตรีแห่งความโกลาหล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a81dfaa889b15a7453d5a4d7ed54d1d7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a81dfaa889b15a7453d5a4d7ed54d1d7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Trainwreck-Mayor-of-Mayhem-2025-อภิมหาวายป่วง-นายกเทศมนตรีแห่งความโกลาหล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Homem com H (2025) เพลงชีวิตเนย์ มาโตกรอสโซ",
-    "url": "https://lk-hd.org/homem-com-h-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Homem-com-H-2025-เพลงชีวิตเนย์-มาโตกรอสโซ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/16e0489244d2d0b7fcee477f619f057a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/16e0489244d2d0b7fcee477f619f057a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Homem-com-H-2025-เพลงชีวิตเนย์-มาโตกรอสโซ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "45 Years (2015)",
-    "url": "https://lk-hd.org/45-years-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/45-Years-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/87172424b81808b8ab6c7d2bffefc399"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/87172424b81808b8ab6c7d2bffefc399"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/45-Years-2015-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Exorcism (2024) ดิ เอ็กซอร์ซิสม์ นรก สิง สาป",
-    "url": "https://lk-hd.org/the-exorcism-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/The-Exorcism-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7dfbcfcb97075ed5f1f5b3a1c59aca36"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7dfbcfcb97075ed5f1f5b3a1c59aca36"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/The-Exorcism-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Good Man (2014) โคตรคนดีเดือด",
-    "url": "https://lk-hd.org/a-good-man-2014/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/A-Good-Man-2014-โคตรคนดีเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a436b96ee2f8570fa58ea3e60ffb8fa9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a436b96ee2f8570fa58ea3e60ffb8fa9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/A-Good-Man-2014-โคตรคนดีเดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Legend of Zorro (2005) ศึกตำนานหน้ากากโซโร",
-    "url": "https://lk-hd.org/the-legend-of-zorro-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/The-Legend-of-Zorro-2005-ศึกตำนานหน้ากากโซโร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/72ee3851eeea21e88eb1d7f8454978b2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/72ee3851eeea21e88eb1d7f8454978b2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/The-Legend-of-Zorro-2005-ศึกตำนานหน้ากากโซโร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Studio 666 (2022) สตูดิโอ 666 ปลุกวิญญาณร็อก",
-    "url": "https://lk-hd.org/studio-666-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Studio-666-2022-สตูดิโอ-666-ปลุกวิญญาณร็อก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0e1b153a09055acae9b671a9b6bd1358"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e1b153a09055acae9b671a9b6bd1358"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Studio-666-2022-สตูดิโอ-666-ปลุกวิญญาณร็อก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Surfer (2024) กูจะเซิร์ฟ",
-    "url": "https://lk-hd.org/the-surfer-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/The-Surfer-2024-กูจะเซิร์ฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/219e9931c207f4eeb9fd8a34c1135c1f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/219e9931c207f4eeb9fd8a34c1135c1f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/The-Surfer-2024-กูจะเซิร์ฟ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Echo Valley (2025)",
-    "url": "https://lk-hd.org/echo-valley-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Echo-Valley-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/213614a4d97b669890e477f640716c14"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/213614a4d97b669890e477f640716c14"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Echo-Valley-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dirty Angels (2024) นางฟ้าพันธุ์ดุ",
-    "url": "https://lk-hd.org/dirty-angels-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/Dirty-Angels-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7e7d1c94ca6254363cd23856d12d4428"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7e7d1c94ca6254363cd23856d12d4428"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/Dirty-Angels-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Romance In Style (2022) โรแมนซ์ อิน สไตล์",
-    "url": "https://lk-hd.org/romance-in-style-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Romance-In-Style-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/44440544227666375be1346505bbe712"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/44440544227666375be1346505bbe712"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Romance-In-Style-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pet Sematary (2019) กลับจากป่าช้า",
-    "url": "https://lk-hd.org/pet-sematary-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/Pet-Sematary-2019-กลับจากป่าช้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0c73c23386a8c19f5a9e2f592aa877ed"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0c73c23386a8c19f5a9e2f592aa877ed"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/Pet-Sematary-2019-กลับจากป่าช้า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deep Cover (2025) ภารกิจด้นสด ปลดล็อกสกิลรั่ว",
-    "url": "https://lk-hd.org/deep-cover-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Deep-Cover-2025-ภารกิจด้นสด-ปลดล็อกสกิลรั่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0ee73c807ea16a7d3e4f07b4b1cbee75"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ee73c807ea16a7d3e4f07b4b1cbee75"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Deep-Cover-2025-ภารกิจด้นสด-ปลดล็อกสกิลรั่ว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Cheers to Life (2024) เชียร์ส ทู ไลฟ์",
