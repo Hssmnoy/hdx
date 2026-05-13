@@ -129,14 +129,14 @@ async function scrapePageAjax(cat, page, ajaxConfig) {
   "params[image_ratio]": "",
   "params[display_categories]": "no",
   "params[display_excerpt]": "off",
-
   "params[link_to]": "default",
   "params[sub_class]": "movie-grid",
+  "params[page]": String(page),
+  "params[paged]": String(page),
   "params[rnd_id]": ajaxConfig.rnd_id,
   "params[data_ajax]": "yes",
   "params[filter]": "0",
-  "params[tax]": "all",
-  "params[paged]": page
+  "params[tax]": cat.type,
 });
 
 if (cat.type === "tag") {
@@ -508,7 +508,7 @@ savedCategories[cat.name] = {
 
     let page = 1;
 
-    while (true) {
+    while (page <= 20) {
       console.log("📄 PAGE:", page);
 
       const movies = await scrapePageAjax(cat, page, ajaxConfigs[cat.name]);
