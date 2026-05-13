@@ -7651,153 +7651,453 @@
   },
   {
     "title": "Incoming (2024) มือใหม่ไฮสกูล",
-    "url": "https://lk-hd.org/incoming-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Incoming-2024-มือใหม่ไฮสกูล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f52d77efd22914beee0f6d86e198fa7b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f52d77efd22914beee0f6d86e198fa7b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Incoming-2024-มือใหม่ไฮสกูล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Retirement Plan (2023) โจ๋วัยเก๋า",
-    "url": "https://lk-hd.org/the-retirement-plan-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/The-Retirement-Plan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/db4647d8c3b51cc2ced79a3558d27261"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db4647d8c3b51cc2ced79a3558d27261"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/The-Retirement-Plan-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Man on the Run (2023) คนหนีคุก",
-    "url": "https://lk-hd.org/man-on-the-run-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Man-on-the-Run-2023-คนหนีคุก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/52d45789344796e2f13384f93b07dc3b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/52d45789344796e2f13384f93b07dc3b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Man-on-the-Run-2023-คนหนีคุก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Apartment (1960) ณ ห้องแห่งความลับ",
-    "url": "https://lk-hd.org/the-apartment-1960/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Apartment-1960-ณ-ห้องแห่งความลับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0a9301c4ddb15aec3b16ab70c1d80450"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a9301c4ddb15aec3b16ab70c1d80450"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Apartment-1960-ณ-ห้องแห่งความลับ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Untamed Royals (2024) แสบชั้นสูง",
-    "url": "https://lk-hd.org/untamed-royals-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Untamed-Royals-2024-แสบชั้นสูง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/96e1646d96e0fae4fc20e0f1b371c841"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/96e1646d96e0fae4fc20e0f1b371c841"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Untamed-Royals-2024-แสบชั้นสูง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Firebrand (2024)",
-    "url": "https://lk-hd.org/firebrand-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Firebrand-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0a98fbcef045e370bc533fa39c5aad72"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a98fbcef045e370bc533fa39c5aad72"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Firebrand-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Bikeriders (2023) เดอะ ไบค์ไรเดอร์ส",
-    "url": "https://lk-hd.org/the-bikeriders-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/The-Bikeriders-2023-เดอะ-ไบค์ไรเดอร์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4bec304ffdfeb849096f7967d1d962e3"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4bec304ffdfeb849096f7967d1d962e3"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/The-Bikeriders-2023-เดอะ-ไบค์ไรเดอร์ส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Deliverance (2024) บ้านปลดวิญญาณ",
-    "url": "https://lk-hd.org/the-deliverance-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/The-Deliverance-2024-บ้านปลดวิญญาณ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/24c4112eb7d199a4f52307461083a3c6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/24c4112eb7d199a4f52307461083a3c6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/The-Deliverance-2024-บ้านปลดวิญญาณ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kinds of Kindness (2024)",
-    "url": "https://lk-hd.org/kinds-of-kindness-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Kinds-of-Kindness-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/763d1e98d4ce3bd18c0f8b4fe9318343"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/763d1e98d4ce3bd18c0f8b4fe9318343"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Kinds-of-Kindness-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "(Un)lucky Sisters (2024) โชค(ไม่)ดี พี่กับน้อง",
-    "url": "https://lk-hd.org/unlucky-sisters-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/09/Unlucky-Sisters-2024-โชคไม่ดี-พี่กับน้อง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/14d87295917a6fa764fa67b1866b4b5f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/14d87295917a6fa764fa67b1866b4b5f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/09/Unlucky-Sisters-2024-โชคไม่ดี-พี่กับน้อง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "National Anthem (2024)",
-    "url": "https://lk-hd.org/national-anthem-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/09/National-Anthem-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/900361b2d5761993b810ed1dfece4e13"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/900361b2d5761993b810ed1dfece4e13"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/09/National-Anthem-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Any Bullet Will Do (2018)",
-    "url": "https://lk-hd.org/any-bullet-will-do-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Any-Bullet-Will-Do-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f9d4172814bd57664b795254e1679800"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f9d4172814bd57664b795254e1679800"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Any-Bullet-Will-Do-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "An Imperfect Murder (The Private Life of a Modern Woman) (2017)",
-    "url": "https://lk-hd.org/the-private-life-of-a-modern-woman-2017/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/An-Imperfect-Murder-The-Private-Life-of-a-Modern-Woman-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2a38824f3bd559cb1b8943eb143668e3"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a38824f3bd559cb1b8943eb143668e3"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/An-Imperfect-Murder-The-Private-Life-of-a-Modern-Woman-2017-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Sicario (2021)",
-    "url": "https://lk-hd.org/american-sicario-2021/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/American-Sicario-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/40fb1fa090e013459f3501d2eefefd51"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40fb1fa090e013459f3501d2eefefd51"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/American-Sicario-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Nothing to h-i-d-e (2018) เกมเร้นรัก",
-    "url": "https://lk-hd.org/nothing-to-h-i-d-e-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Nothing-to-h-i-d-e-2018-เกมเร้นรัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ec2f333fd8645927e6c8d66462604aa7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ec2f333fd8645927e6c8d66462604aa7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Nothing-to-h-i-d-e-2018-เกมเร้นรัก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Accident Man (2018) แอคซิเดนท์แมน นักฆ่าล่าแค้น",
-    "url": "https://lk-hd.org/accident-man-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Accident-Man-2018-แอคซิเดนท์แมน-นักฆ่าล่าแค้น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/be626874b2a3ab00e8cebf558467dbbc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/be626874b2a3ab00e8cebf558467dbbc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Accident-Man-2018-แอคซิเดนท์แมน-นักฆ่าล่าแค้น-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Heat (2013) คู่แสบสาว มือปราบเดือดระอุ",
-    "url": "https://lk-hd.org/the-heat-2013/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Heat-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c7a2b3705837038e769600178856e394"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c7a2b3705837038e769600178856e394"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Heat-2013-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fortress (1992) คุกศตวรรษนรก",
-    "url": "https://lk-hd.org/fortress-1992/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Fortress-1992-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/533676c5c8bb4ff08defcb4c10f4f0cb"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/533676c5c8bb4ff08defcb4c10f4f0cb"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Fortress-1992-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Vigil (2019)",
-    "url": "https://lk-hd.org/the-vigil-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/The-Vigil-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f0a2b900a647efa953e477df6468dfe7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0a2b900a647efa953e477df6468dfe7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/The-Vigil-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "American Beauty (1999) อเมริกัน บิวตี้",
-    "url": "https://lk-hd.org/american-beauty-1999/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/American-Beauty-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/80bbb214677d537a6bbce6911a282cc1"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/80bbb214677d537a6bbce6911a282cc1"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/American-Beauty-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Operation Seawolf (2022)",
-    "url": "https://lk-hd.org/operation-seawolf-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Operation-Seawolf-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/eaa1575374963aade0912b69b421888e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eaa1575374963aade0912b69b421888e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Operation-Seawolf-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Phantom Racer (2009) ซิ่งนรก รถปีศาจ",
-    "url": "https://lk-hd.org/phantom-racer-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Phantom-Racer-2009-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/65d1a28860242d1010cc87e3467be9da"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/65d1a28860242d1010cc87e3467be9da"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Phantom-Racer-2009-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Covenant (2006) สี่พลังมนต์ล้างโลก",
-    "url": "https://lk-hd.org/the-covenant-2006/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/The-Covenant-2006-สี่พลังมนต์ล้างโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e83cfa09ed4bbf399084c855d6cbd6fe"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e83cfa09ed4bbf399084c855d6cbd6fe"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/The-Covenant-2006-สี่พลังมนต์ล้างโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Unbearable Lightness of Being (1988) ปรารถนาต้องห้าม",
-    "url": "https://lk-hd.org/the-unbearable-lightness-of-being-1988/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/The-Unbearable-Lightness-of-Being-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c4a8af185f64a6fbc4ee6fac223dde29"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c4a8af185f64a6fbc4ee6fac223dde29"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/The-Unbearable-Lightness-of-Being-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Suki (2023) สุกี้",
-    "url": "https://lk-hd.org/suki/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/01/Suki-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/01121d71779ac7885ec22aecfb98d4b4"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01121d71779ac7885ec22aecfb98d4b4"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/01/Suki-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Wave (2016) มหาวิบัติสึนามิถล่มโลก",
-    "url": "https://lk-hd.org/the-wave-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Wave-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d5a98a2c8b9fab7b5cddae035e705dc9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5a98a2c8b9fab7b5cddae035e705dc9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Wave-2016-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sleepy Hollow (1999) คนหัวขาด ล่าหัวคน",
-    "url": "https://lk-hd.org/sleepy-hollow-1999/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Sleepy-Hollow-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/55b8aab42ea8b7c357477de1a05c07b0"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/55b8aab42ea8b7c357477de1a05c07b0"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Sleepy-Hollow-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "V/H/S/85 (2023)",
-    "url": "https://lk-hd.org/v-h-s-85-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/09/VHS85-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0b5bb3424c742c498881cfa0c7edb015"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b5bb3424c742c498881cfa0c7edb015"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/09/VHS85-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beetlejuice (1988) ผีขี้จุ๊ยส์ ภาค 1",
-    "url": "https://lk-hd.org/beetlejuice-1988/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/09/Beetlejuice-1988-ผีขี้จุ๊ยส์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9ed564546e2f4d39843586c5904b1dfd"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9ed564546e2f4d39843586c5904b1dfd"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/09/Beetlejuice-1988-ผีขี้จุ๊ยส์-ภาค-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Greedy People (2024)",
-    "url": "https://lk-hd.org/greedy-people-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/09/Greedy-People-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c626fe06334c8669aa515c4e00ef819e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c626fe06334c8669aa515c4e00ef819e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/09/Greedy-People-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rebel Ridge (2024) เรเบลริดจ์ ผ่าเมืองอยุติธรรม",
