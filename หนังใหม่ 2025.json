@@ -1315,153 +1315,441 @@
   },
   {
     "title": "มิกกี้ 17 (2025) Mickey 17",
-    "url": "https://lk-hd.org/mickey-17-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/มิกกี้-17-2025-Mickey-17-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f92e4b5983b58a0ee2301cfff27d33fd"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f92e4b5983b58a0ee2301cfff27d33fd"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/มิกกี้-17-2025-Mickey-17-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "iHostage (2025) จับตัวประกันสนั่นเมือง",
-    "url": "https://lk-hd.org/ihostage-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/iHostage-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2e5cffb1be3b40dfb4e8e36e85a7c1e8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e5cffb1be3b40dfb4e8e36e85a7c1e8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/iHostage-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่ (2025) The Legend of the Condor Heroes The Gallants",
-    "url": "https://lk-hd.org/the-legend-of-the-condor-heroes-the-gallants-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่-2025-The-Legend-of-the-Condor-Heroes-The-Gallants-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3c16899423365039d8e95e0d024634a1"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c16899423365039d8e95e0d024634a1"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่-2025-The-Legend-of-the-Condor-Heroes-The-Gallants-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Meet the Khumalos (2025) เปิดบ้านป่วนคูมาโล",
-    "url": "https://lk-hd.org/meet-the-khumalos-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Meet-the-Khumalos-2025-เปิดบ้านป่วนคูมาโล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9fde03835e60a2f61f1ef510d85e463c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9fde03835e60a2f61f1ef510d85e463c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Meet-the-Khumalos-2025-เปิดบ้านป่วนคูมาโล-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Sampung Utos Kay Josh (2025) ฉีกบัญญัติ แหวกศรัทธา",
-    "url": "https://lk-hd.org/sampung-utos-kay-josh-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Sampung-Utos-Kay-Josh-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d6c310fb1756272ad07e8cd3d064cc4f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d6c310fb1756272ad07e8cd3d064cc4f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Sampung-Utos-Kay-Josh-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Lifeline (2025)",
-    "url": "https://lk-hd.org/lifeline-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Lifeline-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/1e676cf896747e85561c4df2ab53da53"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1e676cf896747e85561c4df2ab53da53"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Lifeline-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ",
-    "url": "https://lk-hd.org/bullet-train-explosion-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Bullet-Train-Explosion-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/58d0c2b60e666fa981a30aecef3237af"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/58d0c2b60e666fa981a30aecef3237af"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Bullet-Train-Explosion-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Ganbatte Ikimasshoi (2025) สู้ด้วยกัน จนถึงที่สุด",
-    "url": "https://lk-hd.org/ganbatte-ikimasshoi-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Ganbatte-Ikimasshoi-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/Cf_C4F42O1"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Ganbatte-Ikimasshoi-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "สัตว์ประหลาดแห่งทะเลสาบเอ๋อหลง (2025) Monster of Er Long Lake",
-    "url": "https://lk-hd.org/monster-of-er-long-lake-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Monster-of-Er-Long-Lake-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f7b2320fe4ef89913e72364d01966236"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f7b2320fe4ef89913e72364d01966236"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Monster-of-Er-Long-Lake-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "แอช ดาวมฤตยู (2025) Ash",
-    "url": "https://lk-hd.org/ash-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Ash-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/40ff092d15e0e41519d139724adbf237"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40ff092d15e0e41519d139724adbf237"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Ash-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Violet (2025)",
-    "url": "https://lk-hd.org/violet-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Violet-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/592b0176f5de36159af31dba87c07676"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/592b0176f5de36159af31dba87c07676"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Violet-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "ฝ่าหายนะครองเมือง (2025) Havoc",
-    "url": "https://lk-hd.org/havoc-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Havoc-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6d4a7826be4c29345d24b9439251af4d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6d4a7826be4c29345d24b9439251af4d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Havoc-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Figth Break Sphere 3 (2025) สัประยุทธ์ทะลุฟ้า 3",
-    "url": "https://lk-hd.org/figth-break-sphere-3-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Figth-Break-Sphere-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/810539e7bbbd317000a15a8c2bb82f10"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/810539e7bbbd317000a15a8c2bb82f10"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Figth-Break-Sphere-3-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Money Games (2025) ขบวนการปราบเงินตุ๋น",
-    "url": "https://lk-hd.org/money-games-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Money-Games-2025-ขบวนการปราบเงินตุ๋น-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6c202b41b0fca147da360760d84fc185"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6c202b41b0fca147da360760d84fc185"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Money-Games-2025-ขบวนการปราบเงินตุ๋น-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "ฝ่านรกกองโจร (2025) Counterstrike",
-    "url": "https://lk-hd.org/counterstrike-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/ฝ่านรกกองโจร-2025-Counterstrike-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f0ecb1d324a52f7d41a318876f6ff2df"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f0ecb1d324a52f7d41a318876f6ff2df"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/ฝ่านรกกองโจร-2025-Counterstrike-165x248.webp",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Rose of Versailles (2025) กุหลาบแวร์ซายส์",
-    "url": "https://lk-hd.org/the-rose-of-versailles-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/The-Rose-of-Versailles-2025-กุหลาบแวร์ซายส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d7fa1cbc31f9848b724e2274ab733b47"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d7fa1cbc31f9848b724e2274ab733b47"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/The-Rose-of-Versailles-2025-กุหลาบแวร์ซายส์-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Biggest Fan (2025) แฟนพันธุ์แท้",
-    "url": "https://lk-hd.org/the-biggest-fan-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/The-Biggest-Fan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b6c713dcb650b71ed3154b300fe443d7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6c713dcb650b71ed3154b300fe443d7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/The-Biggest-Fan-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Guanshan grand guardian (2025) กวนซานไท่เป่า",
-    "url": "https://lk-hd.org/guanshan-grand-guardian-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Guanshan-grand-guardian-2025-กวนซานไท่เป่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9af1f3da0ae5949541755d3952a61db6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9af1f3da0ae5949541755d3952a61db6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Guanshan-grand-guardian-2025-กวนซานไท่เป่า-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Freaky Tales (2025)",
-    "url": "https://lk-hd.org/freaky-tales-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Freaky-Tales-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/803ce0ea2259ab15eb7e50d392a9c4ec"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/803ce0ea2259ab15eb7e50d392a9c4ec"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Freaky-Tales-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Wolf Girl (2025) หมาป่าสาว",
-    "url": "https://lk-hd.org/wolf-girl-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Wolf-Girl-2025-หมาป่าสาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/64140c99c8be8a3380cd3db12dc228f8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/64140c99c8be8a3380cd3db12dc228f8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Wolf-Girl-2025-หมาป่าสาว-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Britain and the Blitz (2025) ยุทธการเดอะบลิตซ์พิชิตอังกฤษ",
-    "url": "https://lk-hd.org/britain-and-the-blitz-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Britain-and-the-Blitz-2025-ยุทธการเดอะบลิตซ์พิชิตอังกฤษ-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/c_x9jCk_qg"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Britain-and-the-Blitz-2025-ยุทธการเดอะบลิตซ์พิชิตอังกฤษ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Six Lying University Students (2025) ใครโกหกยกมือขึ้น",
-    "url": "https://lk-hd.org/six-lying-university-students-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Six-Lying-University-Students-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ef522189394b24d9a2b538e13a5d2d2a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ef522189394b24d9a2b538e13a5d2d2a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Six-Lying-University-Students-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Exterritorial (2025) พลิกแผนลับลวงระทึก",
-    "url": "https://lk-hd.org/exterritorial-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Exterritorial-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0d193b140df9beabaa7be821baa865e7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0d193b140df9beabaa7be821baa865e7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Exterritorial-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Assessment (2025) ชีวิตลิขิตไม่ได้",
-    "url": "https://lk-hd.org/the-assessment-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/bef302e79555d08b50d49c5024bb077c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/bef302e79555d08b50d49c5024bb077c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Ligaw (2025)",
-    "url": "https://lk-hd.org/ligaw-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Ligaw-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/ea771e2238c24b96b6e66337d35cb55a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ea771e2238c24b96b6e66337d35cb55a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Ligaw-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Match (2025) เดอะ แมทช์",
-    "url": "https://lk-hd.org/the-match-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/The-Match-2025-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4f95fb2e35c7cd9426da4749d14758ac"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4f95fb2e35c7cd9426da4749d14758ac"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/The-Match-2025-165x248.jpeg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Chhaava (2025) มหาราชาหัวใจสิงห์",
-    "url": "https://lk-hd.org/chhaava-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Chhaava-2025-มหาราชาหัวใจสิงห์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5398ab23e85140895f64bebdc2686104"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5398ab23e85140895f64bebdc2686104"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Chhaava-2025-มหาราชาหัวใจสิงห์-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Nonnas (2025) รักนะย่ายายจ๋า",
-    "url": "https://lk-hd.org/nonnas-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/029d2fb422a625597df8a31ec56eca15"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/029d2fb422a625597df8a31ec56eca15"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Bad Influence (2025) วัยรักอันตราย",
-    "url": "https://lk-hd.org/bad-influence-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Bad-Influence-2025-วัยรักอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "Embed",
+        "url": "https://player.enjoy24cdn.com/embed/5aa0El1y_J"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Bad-Influence-2025-วัยรักอันตราย-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "A Deadly American Marriage (2025) ชีวิตคู่ถึงฆาต",
-    "url": "https://lk-hd.org/a-deadly-american-marriage-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/A-Deadly-American-Marriage-2025-ชีวิตคู่ถึงฆาต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c09fe180f7123139d52826ad86094bd7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c09fe180f7123139d52826ad86094bd7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/A-Deadly-American-Marriage-2025-ชีวิตคู่ถึงฆาต-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Untold Shooting Guards (2025) ชูตติงการ์ด",
