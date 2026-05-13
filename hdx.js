@@ -4,6 +4,7 @@ const fs = require("fs");
 const fsp = require("fs/promises"); 
 const { exec } = require("child_process");
 const WISEPLAY_DIR = "wiseplay";
+const DATA_DIR = "data";
 const DOMAIN = "https://lk-hd.org/";
 // =========================
 // 🔥 GENERATE M3U
@@ -469,6 +470,7 @@ async function run() {
   }
   
   await fsp.mkdir(WISEPLAY_DIR, { recursive: true });
+  await fsp.mkdir(DATA_DIR, { recursive: true });
   
   for (const cat of categories) {
     console.log("📁 SCRAPING:", cat.name);
@@ -480,7 +482,10 @@ savedCategories[cat.name] = {
     let catMovies = [];
 
     try {
-      const old = await fsp.readFile(`${cat.name}.json`, "utf-8");
+      const old = await fsp.readFile(
+  `${DATA_DIR}/${cat.name}.json`,
+  "utf-8"
+);
       catMovies = JSON.parse(old);
       console.log("♻️ old:", catMovies.length);
     } catch {}
@@ -510,7 +515,7 @@ savedCategories[cat.name] = {
   continue;
 }
 
-      catMovies.unshift(...fresh.reverse());
+      catMovies.push(...fresh);
 
       progress[cat.name] = page;
       await saveProgress(progress);
@@ -624,7 +629,7 @@ for (let i = 0; i < catMovies.length; i++) {
 
   // 🔥 save json ระหว่างทาง
   await fsp.writeFile(
-    `${cat.name}.json`,
+  `${DATA_DIR}/${cat.name}.json`,
     JSON.stringify(catMovies, null, 2)
   );
 
