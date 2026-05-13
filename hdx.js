@@ -443,7 +443,7 @@ function generateIndex(jsonOutput) {
     index.groups.push({
       name: group,
       image: "https://lk-hd.org//wp-content/uploads/2023/08/lk-hd-logo.png",
-      url: `${baseRaw}${group}.json`
+      url: `${baseRaw}${jsonOutput[group].file}`
     });
   }
 
