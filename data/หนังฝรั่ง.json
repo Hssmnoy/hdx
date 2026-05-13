@@ -8989,153 +8989,453 @@
   },
   {
     "title": "Meet the Khumalos (2025) เปิดบ้านป่วนคูมาโล",
-    "url": "https://lk-hd.org/meet-the-khumalos-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Meet-the-Khumalos-2025-เปิดบ้านป่วนคูมาโล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9fde03835e60a2f61f1ef510d85e463c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9fde03835e60a2f61f1ef510d85e463c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Meet-the-Khumalos-2025-เปิดบ้านป่วนคูมาโล-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คนล้างคนเลว ภาค 2 (2010) Elite Squad 2",
-    "url": "https://lk-hd.org/elite-squad-2-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/คนล้างคนเลว-ภาค-2-2010-Elite-Squad-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/54a15f9ba46d4f3a75e77049144e08fd"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54a15f9ba46d4f3a75e77049144e08fd"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/คนล้างคนเลว-ภาค-2-2010-Elite-Squad-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คนล้างคนเลว ภาค 1 (2007) Elite Squad 1",
-    "url": "https://lk-hd.org/elite-squad-1-2007/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/คนล้างคนเลว-ภาค-1-2007-Elite-Squad-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/983cd7a0fb5c92d2864dd839d89263ee"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/983cd7a0fb5c92d2864dd839d89263ee"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/คนล้างคนเลว-ภาค-1-2007-Elite-Squad-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "รีเวอร์ซี่ ย้อนชีวิตพลิกชะตา (2024) Reversi",
-    "url": "https://lk-hd.org/reversi-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Reversi-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5e55b8877243e54367de071e495467c3"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e55b8877243e54367de071e495467c3"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Reversi-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "iHostage (2025) จับตัวประกันสนั่นเมือง",
-    "url": "https://lk-hd.org/ihostage-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/iHostage-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2e5cffb1be3b40dfb4e8e36e85a7c1e8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2e5cffb1be3b40dfb4e8e36e85a7c1e8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/iHostage-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "มิกกี้ 17 (2025) Mickey 17",
-    "url": "https://lk-hd.org/mickey-17-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/มิกกี้-17-2025-Mickey-17-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f92e4b5983b58a0ee2301cfff27d33fd"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f92e4b5983b58a0ee2301cfff27d33fd"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/มิกกี้-17-2025-Mickey-17-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Moogai (2024) ผีลักลูกคน",
-    "url": "https://lk-hd.org/the-moogai-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/The-Moogai-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6a022edda12118617de533d914337e53"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6a022edda12118617de533d914337e53"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/The-Moogai-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "มิสเตอร์โคตรคนทรหด (2025) Novocaine ",
-    "url": "https://lk-hd.org/novocaine/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/มิสเตอร์โคตรคนทรหด-2025-Novocaine-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5176945f35d8aea37b81a2179dc4a943"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5176945f35d8aea37b81a2179dc4a943"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/มิสเตอร์โคตรคนทรหด-2025-Novocaine-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Alien Rubicon (2024)",
-    "url": "https://lk-hd.org/alien-rubicon-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Alien-Rubicon-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/df3123c4b3d9eb2c2c059c4ac154fdc4"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/df3123c4b3d9eb2c2c059c4ac154fdc4"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Alien-Rubicon-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Meander (2021)",
-    "url": "https://lk-hd.org/meander-2021/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Meander-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a73b1baa07f49c67701a2ebec4f14250"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a73b1baa07f49c67701a2ebec4f14250"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Meander-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Penelope (2006) รักแท้ ขอแค่ปาฏิหาริย์",
-    "url": "https://lk-hd.org/penelope-2006/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Penelope-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/843e5e775a774e55023c400a55b8b663"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/843e5e775a774e55023c400a55b8b663"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Penelope-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Perfume The Story of a Murderer (2006) น้ำหอมมนุษย์",
-    "url": "https://lk-hd.org/perfume-the-story-of-a-murderer-2006/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Perfume-The-Story-of-a-Murderer-2006-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/594791fb013a91a45b95ac4e37e9f7a6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/594791fb013a91a45b95ac4e37e9f7a6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Perfume-The-Story-of-a-Murderer-2006-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "All Is Lost (2013) ออล อีส ลอสต์",
-    "url": "https://lk-hd.org/all-is-lost-2013/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/All-Is-Lost-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/fabaf7a96f6f7a2aed859df0c3c55b84"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fabaf7a96f6f7a2aed859df0c3c55b84"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/All-Is-Lost-2013-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Hard Feelings (2023) วัยพลุ่งพล่าน",
-    "url": "https://lk-hd.org/hard-feelings/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Hard-Feelings-2023-วัยพลุ่งพล่าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d97742609cd914249ca86c07eb320410"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d97742609cd914249ca86c07eb320410"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Hard-Feelings-2023-วัยพลุ่งพล่าน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Parallel (2024)",
-    "url": "https://lk-hd.org/parallel-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Parallel-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e39a7f34e8eab69d5a08d8cf7cd617f0"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e39a7f34e8eab69d5a08d8cf7cd617f0"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Parallel-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Poseidon (2006) โพไซดอน มหาวิบัติเรือยักษ์",
-    "url": "https://lk-hd.org/poseidon-2006/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Poseidon-2006-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3ef861c4ef8a468768dfb3cad2bd4650"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3ef861c4ef8a468768dfb3cad2bd4650"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Poseidon-2006-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "In the Lost Lands (2025)",
-    "url": "https://lk-hd.org/in-the-lost-lands-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/In-the-Lost-Lands-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c2fc129eabee964263a04b5ad0787afd"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c2fc129eabee964263a04b5ad0787afd"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/In-the-Lost-Lands-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "ภารกิจคุณพ่อ (2025) The Dad Quest | NETFLIX",
-    "url": "https://lk-hd.org/the-dad-quest-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/The-Dad-Quest-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5515174179aa92d7895653e041b695a8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5515174179aa92d7895653e041b695a8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/The-Dad-Quest-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "คนโคตรระห่ำ (2012) Stolen",
-    "url": "https://lk-hd.org/stolen-2012/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/คนโคตรระห่ำ-2012-Stolen-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/01446f7bd60b8ed94c5c4f13349dd6d6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01446f7bd60b8ed94c5c4f13349dd6d6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/คนโคตรระห่ำ-2012-Stolen-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Larry Crowne (2011) รักกันไว้ หัวใจบานฉ่ำ",
-    "url": "https://lk-hd.org/larry-crowne-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Larry-Crowne-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/de83f619841d8b77746106af6def4813"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/de83f619841d8b77746106af6def4813"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Larry-Crowne-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Ides of March (2011) การเมืองกินคน",
-    "url": "https://lk-hd.org/the-ides-of-march-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Ides-of-March-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/619fa0f3339e26b254c3341df23e394f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/619fa0f3339e26b254c3341df23e394f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Ides-of-March-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mississippi Grind (2015) เกมเย้ยเซียน",
-    "url": "https://lk-hd.org/mississippi-grind-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Mississippi-Grind-2015-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d18a10c11cc02d947fdff2bc3078f1f7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d18a10c11cc02d947fdff2bc3078f1f7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Mississippi-Grind-2015-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mighty Joe Young (1998) ไมตี้ โจ ยัง สัญชาตญาณป่า ล่าถล่มเมือง",
-    "url": "https://lk-hd.org/mighty-joe-young-1998/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Mighty-Joe-Young-1998-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/cae3ef150be579304d83ff2ba4b0a731"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cae3ef150be579304d83ff2ba4b0a731"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Mighty-Joe-Young-1998-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Quarantine (2008) ปิดตึกสยอง",
-    "url": "https://lk-hd.org/quarantine-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Quarantine-2008-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c3d1851fa1a3de7772640e629adc95a0"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c3d1851fa1a3de7772640e629adc95a0"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Quarantine-2008-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "S.W.A.T. Firefight (2011) ส.ว.า.ท. หน่วยจู่โจมระห่ำโลก ภาค 2",
-    "url": "https://lk-hd.org/s-w-a-t-firefight-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/S.W.A.T.-Firefight-2011-ส.ว.า.ท.-หน่วยจู่โจมระห่ำโลก-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/276fc8dc8055b2596fcd7b4dfa93f93f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/276fc8dc8055b2596fcd7b4dfa93f93f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/S.W.A.T.-Firefight-2011-ส.ว.า.ท.-หน่วยจู่โจมระห่ำโลก-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "S.W.A.T. (2003) ส.ว.า.ท. หน่วยจู่โจมระห่ำโลก ภาค 1",
-    "url": "https://lk-hd.org/s-w-a-t-2003/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/S.W.A.T.-2003-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/cef16bccbea74c607ca038fd23aee31b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cef16bccbea74c607ca038fd23aee31b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/S.W.A.T.-2003-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Prey for the Devil (2022) สวดส่งไปลงนรก",
-    "url": "https://lk-hd.org/prey-for-the-devil-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Prey-for-the-Devil-2022-สวดส่งไปลงนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b345094db414a1b57c6921105df392f8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b345094db414a1b57c6921105df392f8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Prey-for-the-Devil-2022-สวดส่งไปลงนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "แชฟท์ ชื่อนี้มีไว้ล้างพันธุ์เจ้าพ่อ (2000) Shaft",
-    "url": "https://lk-hd.org/shaft-2000/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/แชฟท์-ชื่อนี้มีไว้ล้างพันธุ์เจ้าพ่อ-2000-Shaft-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/470f600344b98a6a8b597be6c104ff66"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/470f600344b98a6a8b597be6c104ff66"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/แชฟท์-ชื่อนี้มีไว้ล้างพันธุ์เจ้าพ่อ-2000-Shaft-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Morbius (2022) มอร์เบียส ฮีโร่พันธุ์กระหายเลือด",
-    "url": "https://lk-hd.org/morbius-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Morbius-2022-มอร์เบียส-ฮีโร่พันธุ์กระหายเลือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/55d122a97de7c499987dc5dce1fe0a9c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/55d122a97de7c499987dc5dce1fe0a9c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Morbius-2022-มอร์เบียส-ฮีโร่พันธุ์กระหายเลือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Wifelike (2022) เมเรดิธ มนุษย์เมียเทียม",
-    "url": "https://lk-hd.org/wifelike-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Wifelike-2022-เมเรดิธ-มนุษย์เมียเทียม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5f97f8c30cc3c94a39786b5ec4359f05"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5f97f8c30cc3c94a39786b5ec4359f05"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Wifelike-2022-เมเรดิธ-มนุษย์เมียเทียม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "อุบัติการณ์สวรรค์สั่ง (2014) Left Behind",
