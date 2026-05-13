@@ -5389,153 +5389,453 @@
   },
   {
     "title": "ชะตากรรมที่โลกไม่ลืม (Schindler’s List)",
-    "url": "https://lk-hd.org/schindlers-list/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Schindlers-List-1993-ชะตากรรมที่โลกไม่ลืม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/150cd3e17bad29340748b94ba99e8b86"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/150cd3e17bad29340748b94ba99e8b86"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Schindlers-List-1993-ชะตากรรมที่โลกไม่ลืม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fight Club (1999) ไฟท์ คลับ ดิบดวลดิบ",
-    "url": "https://lk-hd.org/fight-club-1999/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Fight-Club-1999-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/d8a2b8d077df558556897584fd780df9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d8a2b8d077df558556897584fd780df9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Fight-Club-1999-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Legend of Ochi (2025) โอชิ อสูรขี้อ้อน พา ‘น้อน’ กลับบ้าน",
-    "url": "https://lk-hd.org/the-legend-of-ochi-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/The-Legend-of-Ochi-2025-โอชิ-อสูรขี้อ้อน-พา-‘น้อน-กลับบ้าน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/d5ce0d2697ecc9ac36beaeee37ee36aa"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d5ce0d2697ecc9ac36beaeee37ee36aa"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/The-Legend-of-Ochi-2025-โอชิ-อสูรขี้อ้อน-พา-‘น้อน-กลับบ้าน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เดอะ ก็อดฟาเธอร์ ภาค 2 (The Godfather 2)",
-    "url": "https://lk-hd.org/the-godfather-2-1974/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/The-Godfather-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/be970b283c4f9ae74043bc488752457f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/be970b283c4f9ae74043bc488752457f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/The-Godfather-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เดอะ ก็อดฟาเธอร์ ภาค 1 (The Godfather)",
-    "url": "https://lk-hd.org/the-godfather-1/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/The-Godfather-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ab04fe25c7e21860887cfb446e746416"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab04fe25c7e21860887cfb446e746416"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/The-Godfather-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Emancipation (2022)",
-    "url": "https://lk-hd.org/emancipation/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Emancipation-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/788fee52203cb246be5a67b6f78257e4"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/788fee52203cb246be5a67b6f78257e4"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Emancipation-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-    "url": "https://lk-hd.org/the-last-voyage-of-the-demeter-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-การเดินทางครั้งสุดท้ายของเดอมิเทอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/da0a51c9794a4ed8797c39e44d603cf9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/da0a51c9794a4ed8797c39e44d603cf9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-การเดินทางครั้งสุดท้ายของเดอมิเทอร์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Happy Gilmore (1996) กิลมอร์ พลังช้าง",
-    "url": "https://lk-hd.org/happy-gilmore-1996/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Happy-Gilmore-1996-กิลมอร์-พลังช้าง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/d00419c926a55e2a8058f6907e0c7cf9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d00419c926a55e2a8058f6907e0c7cf9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Happy-Gilmore-1996-กิลมอร์-พลังช้าง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Angels & Demons เทวากับซาตาน",
-    "url": "https://lk-hd.org/angels-demons-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Angels-Demons-2009-เทวากับซาตาน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e412b70c6e12b748f4795a3a55f03237"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e412b70c6e12b748f4795a3a55f03237"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Angels-Demons-2009-เทวากับซาตาน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Monster Island (2024) เกาะอสูร",
-    "url": "https://lk-hd.org/monster-island-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Monster-Island-2024-เกาะอสูร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/90e0f8bd966bd3fd5b418754aa32b04a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/90e0f8bd966bd3fd5b418754aa32b04a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Monster-Island-2024-เกาะอสูร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Searching เสิร์ชหา สูญหาย",
-    "url": "https://lk-hd.org/searching-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Searching-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f6fb020dbd611b438bc6d3063360411c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f6fb020dbd611b438bc6d3063360411c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Searching-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "127 Hours (2010) 127 ชั่วโมง | ในหุบเขามรณะ",
-    "url": "https://lk-hd.org/127-hours-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/127-Hours-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/4d3378ba4c3657175ec93208f4678159"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4d3378ba4c3657175ec93208f4678159"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/127-Hours-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lilo & Stitch (2025) ลิโล่ & สติทช์",
-    "url": "https://lk-hd.org/lilo-stitch-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/Lilo-Stitch-2025-ลิโล่-สติทช์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/4c61e657ee0c84b656ad4016904f79d7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4c61e657ee0c84b656ad4016904f79d7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/Lilo-Stitch-2025-ลิโล่-สติทช์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "K-19 The Widowmaker ลึกมฤตยู นิวเคลียร์ล้างโลก",
-    "url": "https://lk-hd.org/k-19-the-widowmaker-2002/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/K-19-The-Widowmaker-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/54536c1684808362dc2a9d85aff61bbe"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54536c1684808362dc2a9d85aff61bbe"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/K-19-The-Widowmaker-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Green Zone โคตรคนระห่ำ ฝ่าโซนเดือด",
-    "url": "https://lk-hd.org/green-zone-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Green-Zone-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3287bc07d0ebe2b90b7e61b29d0649e5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3287bc07d0ebe2b90b7e61b29d0649e5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Green-Zone-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Unthinkable ล้วงแผนวินาศกรรมระเบิดเมือง",
-    "url": "https://lk-hd.org/unthinkable-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Unthinkable-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0b056f9aa2edfc67263a9fb4862a0741"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0b056f9aa2edfc67263a9fb4862a0741"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Unthinkable-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bandidas (2006) บุษบามหาโจร สองคู่หูสาวแสบ",
-    "url": "https://lk-hd.org/bandidas-2006/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Bandidas-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2c76ee2d04f0258b88ec115efdadbd19"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c76ee2d04f0258b88ec115efdadbd19"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Bandidas-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mortal Kombat (2021) มอร์ทัล คอมแบท | จากเกมสู่หนัง",
-    "url": "https://lk-hd.org/mortal-kombat-2021/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Mortal-Kombat-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/fbfcb8ad785ec2832b14611cbe193c40"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fbfcb8ad785ec2832b14611cbe193c40"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Mortal-Kombat-2021-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ghostbusters Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
-    "url": "https://lk-hd.org/ghostbusters-frozen-empire/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6db6cb0469ca607731cb19149844d626"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6db6cb0469ca607731cb19149844d626"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Ritual (2025) ไล่มันออกจากร่าง",
-    "url": "https://lk-hd.org/the-ritual-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/The-Ritual-2025-ไล่มันออกจากร่าง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/4ea4826e82e52a8200cf194ce752d72f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4ea4826e82e52a8200cf194ce752d72f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/The-Ritual-2025-ไล่มันออกจากร่าง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Green Book (2018) กรีนบุ๊ค",
-    "url": "https://lk-hd.org/green-book-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Green-Book-2018-กรีนบุ๊ค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ca5c36431662dcb95754d33b1a13c367"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ca5c36431662dcb95754d33b1a13c367"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Green-Book-2018-กรีนบุ๊ค-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Love, Rosie (2014) เพื่อนรักกั๊กเป็นแฟน",
-    "url": "https://lk-hd.org/love-rosie-2014/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Love-Rosie-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/381d3394516195ff35494599c968d15f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/381d3394516195ff35494599c968d15f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Love-Rosie-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "How to Train Your Dragon (2025) อภินิหารไวกิ้งพิชิตมังกร",
-    "url": "https://lk-hd.org/how-to-train-your-dragon-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/How-to-Train-Your-Dragon-2025-อภินิหารไวกิ้งพิชิตมังกร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/0ca8be7744a999ae5957d228c9334bfa"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0ca8be7744a999ae5957d228c9334bfa"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/How-to-Train-Your-Dragon-2025-อภินิหารไวกิ้งพิชิตมังกร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dora and the Search for Sol Dorado (2025) ดอร่ากับการตามหาพระอาทิตย์สีทอง",
-    "url": "https://lk-hd.org/dora-and-the-search-for-sol-dorado-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Dora-and-the-Search-for-Sol-Dorado-2025-ดอร่ากับการตามหาพระอาทิตย์สีทอง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/e5a5f50bd07a416847930e4a3e649a17"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e5a5f50bd07a416847930e4a3e649a17"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Dora-and-the-Search-for-Sol-Dorado-2025-ดอร่ากับการตามหาพระอาทิตย์สีทอง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Alarum (2025)",
-    "url": "https://lk-hd.org/alarum-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/Alarum-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a7b3085cad6c8a9c764a9f590712c0a8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a7b3085cad6c8a9c764a9f590712c0a8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/Alarum-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Another Simple Favor (2025) เพื่อนหาย อย่าหา ภาค 2",
-    "url": "https://lk-hd.org/another-simple-favor-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2c4a32cb2efbe78514b794c34a6702f4"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2c4a32cb2efbe78514b794c34a6702f4"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Smurfs 3 The Lost Village (2017) เดอะ สเมิร์ฟ ภาค 3 หมู่บ้านที่สาบสูญ",
-    "url": "https://lk-hd.org/the-smurfs-3-the-lost-village-2017/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/The-Smurfs-3-The-Lost-Village-2017-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0ae1ddfda18d32e2a10ea204404a6c02"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0ae1ddfda18d32e2a10ea204404a6c02"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/The-Smurfs-3-The-Lost-Village-2017-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Smurfs 2 (2013) เดอะ สเมิร์ฟ ภาค 2",
-    "url": "https://lk-hd.org/the-smurfs-2-2013/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/The-Smurfs-2-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0e8bba438cf95438865662ebbaed4fb5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0e8bba438cf95438865662ebbaed4fb5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/The-Smurfs-2-2013-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Smurfs 1 (2011) เดอะ สเมิร์ฟ ภาค 1",
-    "url": "https://lk-hd.org/the-smurfs-1-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/The-Smurfs-1-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b4fa4df99f3d768f837ae97932ded0cc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b4fa4df99f3d768f837ae97932ded0cc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/The-Smurfs-1-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Amateur (2025) ร้ายสมัครเล่น",
-    "url": "https://lk-hd.org/the-amateur-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/The-Amateur-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/e439b65f5e302c159c3ea73c4601f206"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e439b65f5e302c159c3ea73c4601f206"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/The-Amateur-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Game of Death (2010) หักแผนเดิมพันมหากาฬ",
