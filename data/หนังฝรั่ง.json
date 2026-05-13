@@ -21111,153 +21111,453 @@
   },
   {
     "title": "The Proposal (2009) ลุ้นรักวิวาห์ฟ้าแลบ",
-    "url": "https://lk-hd.org/the-proposal-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Proposal-2009-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/63fd3b19c6692d8a6d4bbd87d530d5e2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63fd3b19c6692d8a6d4bbd87d530d5e2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Proposal-2009-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Armageddon (1998) อาร์มาเก็ดดอน วันโลกาวินาศ",
-    "url": "https://lk-hd.org/armageddon-1998/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Armageddon-1998-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5597b5b513d7131b2fe4226a9f2764c2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5597b5b513d7131b2fe4226a9f2764c2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Armageddon-1998-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Twister (1996) ทวิสเตอร์ ทอร์นาโดมฤตยูถล่มโลก",
-    "url": "https://lk-hd.org/twister-1996/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Twister-1996-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c8e5e1ba51be8bcfaf14660fdc7a9c9b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c8e5e1ba51be8bcfaf14660fdc7a9c9b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Twister-1996-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fire Twister (2015) ทอร์นาโดเพลิงถล่มเมือง",
-    "url": "https://lk-hd.org/fire-twister-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Fire-Twister-2015-ทอร์นาโดเพลิงถล่มเมือง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/cd5e68b1531a57ef3ab59d13d6d47b20"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cd5e68b1531a57ef3ab59d13d6d47b20"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Fire-Twister-2015-ทอร์นาโดเพลิงถล่มเมือง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry brown (2009) อย่าแหย่ให้โก๋โหด",
-    "url": "https://lk-hd.org/harry-brown-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Harry-brown-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3d88175beaf7526f15700caf7685d4f7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3d88175beaf7526f15700caf7685d4f7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Harry-brown-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Colossal (2016) คอลอสซาน ทั้งจักรวาลเป็นของเธอ",
-    "url": "https://lk-hd.org/colossal-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Colossal-2016-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6169963b159ce382fdc89112e4e994c8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6169963b159ce382fdc89112e4e994c8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Colossal-2016-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Descendants The Rise of Red (2024)",
-    "url": "https://lk-hd.org/descendants-the-rise-of-red-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Descendants-The-Rise-of-Red-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/eedfd3d7e2385dc9b11f8b560498c495"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eedfd3d7e2385dc9b11f8b560498c495"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Descendants-The-Rise-of-Red-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tyler Perry’s Divorce in the Black (2024) รัก ร้าง ร้าว เรื่องราวของไทเลอร์ เพอร์รี่",
-    "url": "https://lk-hd.org/tyler-perrys-divorce-in-the-black-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/70f5fd30673c552ab999f04fe9bd0cbd"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/70f5fd30673c552ab999f04fe9bd0cbd"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Tyler-Perrys-Divorce-in-the-Black-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Blame the Game (2024) รักลุ้น วุ่นเพราะเกม",
-    "url": "https://lk-hd.org/blame-the-game-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Blame-the-Game-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2a6d7dc098ed3970a3846a93e5183ab6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2a6d7dc098ed3970a3846a93e5183ab6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Blame-the-Game-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Champion (2024) เดอะ แชมเปี้ยน",
-    "url": "https://lk-hd.org/the-champion-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/The-Champion-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ff2697dc6dfe5570c1c4cdeb8289b3ab"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ff2697dc6dfe5570c1c4cdeb8289b3ab"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/The-Champion-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lobola Man (2024) โลโบลา แมน",
-    "url": "https://lk-hd.org/lobola-man-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Lobola-Man-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4bcf80630ef1de1c6ffd1da80ee3a034"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4bcf80630ef1de1c6ffd1da80ee3a034"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Lobola-Man-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Handling the Undead (2024)",
-    "url": "https://lk-hd.org/handling-the-undead-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Handling-the-Undead-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d494c5cbf22cbee6776ebc4714927e7c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d494c5cbf22cbee6776ebc4714927e7c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Handling-the-Undead-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "We Bought a Zoo (2011) สวนสัตว์อัศจรรย์ ของขวัญให้ลูก",
-    "url": "https://lk-hd.org/we-bought-a-zoo-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/We-Bought-a-Zoo-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/eeef508926e055b953802288e39f7991"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eeef508926e055b953802288e39f7991"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/We-Bought-a-Zoo-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Nanny Diaries (2007) พี่เลี้ยงชิดซ้ายหัวใจยุ่งชะมัด",
-    "url": "https://lk-hd.org/the-nanny-diaries-2007/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/The-Nanny-Diaries-2007-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/89f1ff9b97566743d4a6af14f99476ad"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89f1ff9b97566743d4a6af14f99476ad"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/The-Nanny-Diaries-2007-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
-    "url": "https://lk-hd.org/freelance-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/Freelance-2023-จ็อบระห่ำ-คนถึกระทึกโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8e04014e2b73c7126f7d704060760c2e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8e04014e2b73c7126f7d704060760c2e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/Freelance-2023-จ็อบระห่ำ-คนถึกระทึกโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Vanished into the Night (2024) ค่ำคืนกลืนหาย",
-    "url": "https://lk-hd.org/vanished-into-the-night-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Vanished-into-the-Night-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3a35d53d8d58353c61a2b7a4a6e96588"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3a35d53d8d58353c61a2b7a4a6e96588"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Vanished-into-the-Night-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Arctic Blast (2010) มหาวินาศปฐพีขั้วโลก",
-    "url": "https://lk-hd.org/arctic-blast-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Arctic-Blast-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/01330412edc28193461431cfc5127c08"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/01330412edc28193461431cfc5127c08"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Arctic-Blast-2010-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Devil’s Knot (2013) คดีปริศนา ปมซ่อนปม",
-    "url": "https://lk-hd.org/devils-knot-2013/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Devils-Knot-2013-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/70366d98908f6757f93e602f476ac035"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/70366d98908f6757f93e602f476ac035"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Devils-Knot-2013-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Three Thousand Years of Longing (2022) สามพันปีแห่งความโหยหา",
-    "url": "https://lk-hd.org/three-thousand-years-of-longing-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Three-Thousand-Years-of-Longing-2022-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/abc00a872bf53751a3acf61377bfdf47"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/abc00a872bf53751a3acf61377bfdf47"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Three-Thousand-Years-of-Longing-2022-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "RED 2 (2013) คนอึดต้องกลับมาอึด ภาค 2",
-    "url": "https://lk-hd.org/red-2-2013/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/RED-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/70e22a6174feee67d6e37fd1c46efb5d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/70e22a6174feee67d6e37fd1c46efb5d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/RED-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Red 1 (2010) คนอึดต้องกลับมาอึด ภาค 1",
-    "url": "https://lk-hd.org/red-1-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Red-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5ce914e1830b031de5648a52d5d7676c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5ce914e1830b031de5648a52d5d7676c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Red-1-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Next Three Days (2010) แผนอัจฉริยะ แหกด่านหนีนรก",
-    "url": "https://lk-hd.org/the-next-three-days-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Next-Three-Days-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7786ff982a7227e32d76be21df93bc6b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7786ff982a7227e32d76be21df93bc6b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Next-Three-Days-2010-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Pearl Harbor (2001) เพิร์ล ฮาร์เบอร์",
-    "url": "https://lk-hd.org/pearl-harbor-2001/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Pearl-Harbor-2001-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/cdb0660a1ec1721889366a5ae35d0af3"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cdb0660a1ec1721889366a5ae35d0af3"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Pearl-Harbor-2001-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Saving Private Ryan (1998) เซฟวิ่ง ไพรเวท ไรอัน ฝ่าสมรภูมินรก",
-    "url": "https://lk-hd.org/saving-private-ryan-1998/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Saving-Private-Ryan-1998-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e03a9a0d47d369a5e6d18e8873cfdd84"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e03a9a0d47d369a5e6d18e8873cfdd84"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Saving-Private-Ryan-1998-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Notting Hill (1999) รักบานฉ่ำที่น็อตติ้งฮิลล์",
-    "url": "https://lk-hd.org/notting-hill-1999/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Notting-Hill-1999-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/42c5c3899337be29dba76f0d5706b9ac"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/42c5c3899337be29dba76f0d5706b9ac"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Notting-Hill-1999-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร",
-    "url": "https://lk-hd.org/kingdom-of-the-planet-of-the-apes/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes-2024-อาณาจักรแห่งพิภพวานร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/17b1efe05f73fe24ab4a061a1774e5b2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/17b1efe05f73fe24ab4a061a1774e5b2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes-2024-อาณาจักรแห่งพิภพวานร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Top Gun Maverick (2022) ท็อปกัน มาเวอริค",
-    "url": "https://lk-hd.org/top-gun-maverick-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Top-Gun-Maverick-2022-ท็อปกัน-มาเวอริค-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0319f8e37150bd515759d4adb0a644fe"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0319f8e37150bd515759d4adb0a644fe"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Top-Gun-Maverick-2022-ท็อปกัน-มาเวอริค-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Top Gun (1986) ท็อปกัน ฟ้าเหนือฟ้า",
-    "url": "https://lk-hd.org/top-gun-1986/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Top-Gun-1986-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/99d720e78c5cc4326ffd9b04a5a50570"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/99d720e78c5cc4326ffd9b04a5a50570"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Top-Gun-1986-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Karate Kid (2010) เดอะ คาราเต้ คิด",
-    "url": "https://lk-hd.org/the-karate-kid-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Karate-Kid-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f71cc5a6b5627d256fce321305e7fd18"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f71cc5a6b5627d256fce321305e7fd18"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Karate-Kid-2010-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Triple Frontier (2019) ปล้น ล่า ท้านรก",
-    "url": "https://lk-hd.org/triple-frontier-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Triple-Frontier-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a7bed62b798805588f882ffc1deb4e31"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a7bed62b798805588f882ffc1deb4e31"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Triple-Frontier-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Love and Monsters (2020) เลิฟ แอนด์ มอนสเตอร์",
