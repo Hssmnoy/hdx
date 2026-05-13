@@ -542,14 +542,15 @@ savedCategories[cat.name] = {
     }
 
     // =====================
-    // 🔥 DETAIL
-    // =====================
-    console.log("🎬 DETAIL START");
+// 🔥 DETAIL
+// =====================
+console.log("🎬 DETAIL START");
 
-    for (let i = 0; i < catMovies.length; i++) {
+for (let i = 0; i < catMovies.length; i++) {
 
   const movie = catMovies[i];
 
+  // ✅ ข้ามถ้ามี servers แล้ว หรือไม่มี url
   if (movie.servers || !movie.url) continue;
 
   console.log(`🎬 ${i + 1}/${catMovies.length}`);
@@ -558,6 +559,7 @@ savedCategories[cat.name] = {
 
   await sleep(800);
 
+  // ✅ เก็บ server เก่าไว้กันข้อมูลหาย
   const oldServers = Array.isArray(movie.servers)
     ? movie.servers
     : [];
@@ -573,12 +575,13 @@ savedCategories[cat.name] = {
     const vidMatch = movie.url.match(/\/([a-zA-Z0-9-]+)\/$/);
 
     if (vidMatch) {
-      firstEmbed = `https://original.enjoy24cdn.com/play/${vidMatch[1]}`;
+      firstEmbed =
+        `https://original.enjoy24cdn.com/play/${vidMatch[1]}`;
     }
 
   } else {
 
-    // ✅ เอาค่าจาก embeds
+    // ✅ ดึงค่าจาก embeds
     for (const e of embeds) {
 
       if (!firstM3U8 && e.m3u8) {
@@ -591,24 +594,27 @@ savedCategories[cat.name] = {
     }
   }
 
-  // ✅ Server 1: m3u8
+  // ✅ Server 1: M3U8
   if (firstM3U8) {
+
     newServers.push({
       name: "M3U8",
       url: firstM3U8
     });
   }
 
-  // ✅ Server 2: embed
+  // ✅ Server 2: Embed
   if (firstEmbed) {
+
     newServers.push({
       name: "Embed",
       url: firstEmbed
     });
   }
 
-  // ✅ fallback (กันไม่มี server)
+  // ✅ fallback กันไม่มี server
   if (newServers.length === 0 && movie.url) {
+
     newServers.push({
       name: "Default",
       url: movie.url
@@ -617,59 +623,73 @@ savedCategories[cat.name] = {
 
   // ✅ scrape สำเร็จ → ใช้ข้อมูลใหม่
   if (newServers.length > 0) {
+
     movie.servers = newServers;
+
   }
 
-  // ✅ scrape fail → เก็บของเก่าไว้
+  // ✅ scrape fail → ใช้ของเก่า
   else {
+
     movie.servers = oldServers;
+
   }
 
-  // ✅ map field ให้ frontend ใช้ได้
+  // ✅ map field ให้ frontend
   movie.logo = movie.poster;
   movie.group = cat.name;
   movie.title = movie.title || movie.name;
 
   delete movie.poster;
   delete movie.url;
-}
 
-      // 🔥 บันทึกไฟล์ JSON ระหว่างทาง
-      await fsp.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
+  // 🔥 save json ระหว่างทาง
+  await fsp.writeFile(
+    `${cat.name}.json`,
+    JSON.stringify(catMovies, null, 2)
+  );
 
-         // 🔥 commit ระหว่างทาง
-    if (COMMIT_EVERY > 0 && (i + 1) % COMMIT_EVERY === 0) {
+  // 🔥 commit ระหว่างทาง
+  if (
+    COMMIT_EVERY > 0 &&
+    (i + 1) % COMMIT_EVERY === 0
+  ) {
 
-      console.log("💾 COMMIT EVERY:", i + 1);
+    console.log("💾 COMMIT EVERY:", i + 1);
 
-      await commitChanges(
-        `auto update ${cat.name} - ${i + 1}/${catMovies.length}`
-      );
-    }
+    await commitChanges(
+      `auto update ${cat.name} - ${i + 1}/${catMovies.length}`
+    );
   }
-
-  console.log("📦 COMMIT END CATEGORY:", cat.name);
-
-  await generateM3U(
-    `${cat.name}.m3u`,
-    catMovies
-  );
-
-  await generateWiseplay(
-    (cat.file || cat.name).replace(/\s+/g, "-") + ".json",
-    catMovies,
-    cat.name
-  );
-
-  await commitChanges(`finish ${cat.name}`);
 }
 
-// ✅ ยังอยู่ใน async run()
+console.log("📦 COMMIT END CATEGORY:", cat.name);
+
+// 🔥 generate M3U
+await generateM3U(
+  `${cat.name}.m3u`,
+  catMovies
+);
+
+// 🔥 generate Wiseplay
+await generateWiseplay(
+  (cat.file || cat.name)
+    .replace(/\s+/g, "-") + ".json",
+  catMovies,
+  cat.name
+);
+
+// 🔥 commit หมวด
+await commitChanges(`finish ${cat.name}`);
+
+} // ✅ ปิด for (const cat of categories)
+
+// ✅ ท้าย run()
 await commitChanges("auto update");
 
-}
+} // ✅ ปิด async function run()
 
-// ✅ นอก run()
+// ✅ เริ่ม run
 run()
   .then(async () => {
 
