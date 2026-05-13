@@ -15,7 +15,9 @@ async function generateM3U(filename, movies) {
     if (!movie.servers || movie.servers.length === 0) continue;
 
     // ✅ เอาเฉพาะ M3U8 (ลื่นสุด)
-    const server = movie.servers.find(s => s.name === "M3U8");
+    const server =
+  movie.servers.find(s => s.name === "M3U8") ||
+  movie.servers.find(s => s.name === "Embed");
     if (!server?.url) continue;
 
     const title = movie.title || "No Title";
@@ -305,7 +307,7 @@ async function extractM3U8(embedUrl) {
   try {
 
     const vidMatch = embedUrl.match(
-      /\/embed\/([a-zA-Z0-9]+)/
+      /\/embed\/([a-zA-Z0-9_-]+)/
     );
 
     if (!vidMatch) {
@@ -336,24 +338,22 @@ async function extractM3U8(embedUrl) {
     );
 
     if (!data?.streams?.length) {
-
-      console.log("❌ no streams");
-
-      return null;
+       return null;
     }
 
     const stream = data.streams.find(
       s => s.status == "1"
     );
 
-    if (!stream?.link) {
+    const playUrl =
+  stream?.link ||
+  stream?.file ||
+  stream?.src ||
+  null;
 
-      console.log("❌ no valid stream");
-
-      return null;
-    }
-
-    const playUrl = stream.link;
+if (!playUrl) {
+  return null;
+}
 
     console.log("🎯 PLAY:", playUrl);
 
