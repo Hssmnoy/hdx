@@ -6289,153 +6289,453 @@
   },
   {
     "title": "K.O. (2025) น็อกเอาท์",
-    "url": "https://lk-hd.org/k-o-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/K.O.-2025-น็อกเอาท์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8b5163089ef7b2b9e3c1b78aa3cf29d7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8b5163089ef7b2b9e3c1b78aa3cf29d7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/K.O.-2025-น็อกเอาท์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Emilia Pérez (2024) เอมิเลีย เปเรซ",
-    "url": "https://lk-hd.org/emilia-perez-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/11/Emilia-Perez-2024-เอมิเลีย-เปเรซ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/8148a80606cb53de9af7b6fdad233433"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8148a80606cb53de9af7b6fdad233433"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/11/Emilia-Perez-2024-เอมิเลีย-เปเรซ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trainwreck The Real Project X (2025) อภิมหาวายป่วง คืนซ่าส์ปาร์ตี้หลุดโลก",
-    "url": "https://lk-hd.org/trainwreck-the-real-project-x-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Trainwreck-The-Real-Project-X-2025-อภิมหาวายป่วง-คืนซ่าส์ปาร์ตี้หลุดโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/eaf2ebcfb105dd1246ada449a0dc11ca"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eaf2ebcfb105dd1246ada449a0dc11ca"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Trainwreck-The-Real-Project-X-2025-อภิมหาวายป่วง-คืนซ่าส์ปาร์ตี้หลุดโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sinners (2025) ซินเนอร์ส",
-    "url": "https://lk-hd.org/sinners/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/04/Sinners-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/66f7922540daf03a8e519421937fc377"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/66f7922540daf03a8e519421937fc377"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/04/Sinners-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Tenet (2020) เทเน็ท | พากย์ไทย เต็มเรื่อง",
-    "url": "https://lk-hd.org/tenet-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Tenet-2020-เทเน็ท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4cc942101efa2aaac4afae46cfad7b0d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4cc942101efa2aaac4afae46cfad7b0d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Tenet-2020-เทเน็ท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "G20 (2025) พากย์ไทย",
-    "url": "https://lk-hd.org/g20-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/G20-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/c8e476c651458dd8baff6e3a1dd0ca7d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c8e476c651458dd8baff6e3a1dd0ca7d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/G20-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Perfect Storm (2000) มหาพายุคลั่งสะท้านโลก",
-    "url": "https://lk-hd.org/the-perfect-storm-2000/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/The-Perfect-Storm-2000-มหาพายุคลั่งสะท้านโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/d1a4d74090e3db6e1e63ba61eb3a43a5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d1a4d74090e3db6e1e63ba61eb3a43a5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/The-Perfect-Storm-2000-มหาพายุคลั่งสะท้านโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Land of the Dead (2005) ดินแดนแห่งความตาย",
-    "url": "https://lk-hd.org/land-of-the-dead-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/ดูหนัง-Land-of-the-Dead-2005-ดินแดนแห่งความตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/85a634462628609fd66c88673ff3e82c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/85a634462628609fd66c88673ff3e82c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/ดูหนัง-Land-of-the-Dead-2005-ดินแดนแห่งความตาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jurassic World 3 Dominion (2022) จูราสสิค เวิลด์ ภาค 3 ทวงคืนอาณาจักร",
-    "url": "https://lk-hd.org/jurassic-world-3-dominion-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Jurassic-World-3-Dominion-2022-จูราสสิค-เวิลด์-ภาค-3-ทวงคืนอาณาจักร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/40761409f575443a38ae99db51f104d8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/40761409f575443a38ae99db51f104d8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Jurassic-World-3-Dominion-2022-จูราสสิค-เวิลด์-ภาค-3-ทวงคืนอาณาจักร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jurassic World 2 Fallen Kingdom (2018) จูราสสิค เวิลด์ ภาค 2 อาณาจักรล่มสลาย",
-    "url": "https://lk-hd.org/jurassic-world-2-fallen-kingdom-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Jurassic-World-2-Fallen-Kingdom-2018-จูราสสิค-เวิลด์-ภาค-2-อาณาจักรล่มสลาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f74645951111ba27957c27587754d843"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f74645951111ba27957c27587754d843"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Jurassic-World-2-Fallen-Kingdom-2018-จูราสสิค-เวิลด์-ภาค-2-อาณาจักรล่มสลาย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jurassic World 1 (2015) จูราสสิค เวิลด์ ภาค 1 อาณาจักรไดโนเสาร์",
-    "url": "https://lk-hd.org/jurassic-world-1-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Jurassic-World-1-2015-จูราสสิค-เวิลด์-ภาค-1-อาณาจักรไดโนเสาร์-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b1e700b9158a2f39aa787389f0822b85"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b1e700b9158a2f39aa787389f0822b85"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Jurassic-World-1-2015-จูราสสิค-เวิลด์-ภาค-1-อาณาจักรไดโนเสาร์-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "High Rollers (2025) แผนปล้นคนหักเหลี่ยม ทะลวงกาสิโนเดือด",
-    "url": "https://lk-hd.org/high-rollers-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/High-Rollers-2025-แผนปล้นคนหักเหลี่ยม-ทะลวงกาสิโนเดือด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/55480c2a8060895aa9c535e9aca79a9c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/55480c2a8060895aa9c535e9aca79a9c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/High-Rollers-2025-แผนปล้นคนหักเหลี่ยม-ทะลวงกาสิโนเดือด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "On Swift Horses (2025) เกมรักซ้อนเงา",
-    "url": "https://lk-hd.org/on-swift-horses-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/On-Swift-Horses-2025-เกมรักซ้อนเงา-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/86f64703362ea12f1cb4ac6913a01d96"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/86f64703362ea12f1cb4ac6913a01d96"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/On-Swift-Horses-2025-เกมรักซ้อนเงา-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ice Road Vengeance (2025)",
-    "url": "https://lk-hd.org/ice-road-vengeance-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Ice-Road-Vengeance-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/4f15b97af1129fd1e1f56bf9f629c10c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4f15b97af1129fd1e1f56bf9f629c10c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Ice-Road-Vengeance-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bring Her Back (2025) ซับไทย",
-    "url": "https://lk-hd.org/bring-her-back-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Bring-Her-Back-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/d700c9774f3a58f708069fea9bad6adc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d700c9774f3a58f708069fea9bad6adc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Bring-Her-Back-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "เบรฟฮาร์ท วีรบุรุษหัวใจมหากาฬ (1995) Braveheart",
-    "url": "https://lk-hd.org/braveheart-1995/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/02/เบรฟฮาร์ท-วีรบุรุษหัวใจมหากาฬ-1995-Braveheart-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/206682fd10af71eada211cf860b66a51"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/206682fd10af71eada211cf860b66a51"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/02/เบรฟฮาร์ท-วีรบุรุษหัวใจมหากาฬ-1995-Braveheart-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2",
-    "url": "https://lk-hd.org/the-old-guard-2-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/730eb2b6136d0e87838655fa760eb86b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/730eb2b6136d0e87838655fa760eb86b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Old Guard (2020) ดิ โอลด์ การ์ด",
-    "url": "https://lk-hd.org/the-old-guard-2020/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/The-Old-Guard-2020-ดิ-โอลด์-การ์ด-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8f6fab3faa892be96ee19fcd22aed12c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8f6fab3faa892be96ee19fcd22aed12c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/The-Old-Guard-2020-ดิ-โอลด์-การ์ด-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Curious Case of Benjamin Button (2008) เบนจามิน บัตตัน อัศจรรย์ฅนโลกไม่เคยรู้",
-    "url": "https://lk-hd.org/the-curious-case-of-benjamin-button-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/The-Curious-Case-of-Benjamin-Button-2008-เบนจามิน-บัตตัน-อัศจรรย์ฅนโลกไม่เคยรู้-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/85441229b04da7f234b6bf5105ce80bf"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/85441229b04da7f234b6bf5105ce80bf"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/The-Curious-Case-of-Benjamin-Button-2008-เบนจามิน-บัตตัน-อัศจรรย์ฅนโลกไม่เคยรู้-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Lover (1992) กลัวทำไมถ้าใจเป็นของเธอ",
-    "url": "https://lk-hd.org/the-lover-1992/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/The-Lover-1992-กลัวทำไมถ้าใจเป็นของเธอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/08d068a8042c5f24511461423c4043e7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/08d068a8042c5f24511461423c4043e7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/The-Lover-1992-กลัวทำไมถ้าใจเป็นของเธอ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Shark Whisperer (2025) คนรักษ์ฉลาม",
-    "url": "https://lk-hd.org/shark-whisperer-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Shark-Whisperer-2025-คนรักษ์ฉลาม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/73993e9614900ed6882bb04711744ff1"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/73993e9614900ed6882bb04711744ff1"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Shark-Whisperer-2025-คนรักษ์ฉลาม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Something in the Water (2024) ครีบขย้ำคลั่งมหาสมุทร",
-    "url": "https://lk-hd.org/something-in-the-water-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Something-in-the-Water-2024-ครีบขย้ำคลั่งมหาสมุทร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a1527dca40764d54f2d40cd00c66e7a6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a1527dca40764d54f2d40cd00c66e7a6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Something-in-the-Water-2024-ครีบขย้ำคลั่งมหาสมุทร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Clown in a Cornfield (2025) คืนวิปลาสแห่งเคตเทิลสปริงส์",
-    "url": "https://lk-hd.org/clown-in-a-cornfield-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Clown-in-a-Cornfield-2025-คืนวิปลาสแห่งเคตเทิลสปริงส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/7e7c03ada8d0733ba4050b8dce11f32c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7e7c03ada8d0733ba4050b8dce11f32c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Clown-in-a-Cornfield-2025-คืนวิปลาสแห่งเคตเทิลสปริงส์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "M3gan (2023) เมแกน",
-    "url": "https://lk-hd.org/m3gan-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/M3gan-2023-เมแกน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/1448c666401b4544ac0fba3814b87159"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1448c666401b4544ac0fba3814b87159"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/M3gan-2023-เมแกน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "นอสเฟอราตู (2024) Nosferatu",
-    "url": "https://lk-hd.org/nosferatu-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/02/นอสเฟอราตู-2024-Nosferatu-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/987e2922313e76c1b7132662b6458493"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/987e2922313e76c1b7132662b6458493"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/02/นอสเฟอราตู-2024-Nosferatu-165x248.webp",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Friday the 13th ศุกร์ 13 ฝันหวาน (2009)",
-    "url": "https://lk-hd.org/friday-the-13th-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Friday-the-13th-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/163a48a413d831b01b809bc454700090"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/163a48a413d831b01b809bc454700090"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Friday-the-13th-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Summer of 69 (2025)",
-    "url": "https://lk-hd.org/summer-of-69-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Summer-of-69-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/76547764e0c8e9afff209fd291bf8432"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/76547764e0c8e9afff209fd291bf8432"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Summer-of-69-2025-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Widow’s Game (2025) กลเกมแม่ม่าย | Netflix",
-    "url": "https://lk-hd.org/a-widows-game-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/ba7efa907b36e7923d66676600df1282"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ba7efa907b36e7923d66676600df1282"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "แม่นักตุ๋น (2025) Con Mum",
-    "url": "https://lk-hd.org/con-mum-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/03/แม่นักตุ๋น-2025-Con-Mum-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/0d3a9d367b4b948485041a2550b16d5b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0d3a9d367b4b948485041a2550b16d5b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/03/แม่นักตุ๋น-2025-Con-Mum-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Trainwreck Poop Cruise (2025) อภิมหาวายป่วง เรือสำราญอุนจิ",
-    "url": "https://lk-hd.org/trainwreck-poop-cruise-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/06/Trainwreck-Poop-Cruise-2025-อภิมหาวายป่วง-เรือสำราญอุนจิ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/87caba84881531914dbb95555a7a782b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/87caba84881531914dbb95555a7a782b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/06/Trainwreck-Poop-Cruise-2025-อภิมหาวายป่วง-เรือสำราญอุนจิ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "I’m Your Venus (2024) ฉันคือวีนัส",
