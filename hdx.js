@@ -487,7 +487,7 @@ savedCategories[cat.name] = {
 
     let page = 1;
 
-    while (page <= 20) {
+    while (page <= 50) {
       console.log("📄 PAGE:", page);
 
       const movies = await scrapePageAjax(cat, page, ajaxConfigs[cat.name]);
