@@ -501,7 +501,7 @@ savedCategories[cat.name] = {
     let catMovies = [];
 
     try {
-      const old = await fs.readFile(`${cat.name}.json`, "utf-8");
+      const old = await fsp.readFile(`${cat.name}.json`, "utf-8");
       catMovies = JSON.parse(old);
       console.log("♻️ old:", catMovies.length);
     } catch {}
@@ -543,68 +543,92 @@ savedCategories[cat.name] = {
     console.log("🎬 DETAIL START");
 
     for (let i = 0; i < catMovies.length; i++) {
-      const movie = catMovies[i];
 
-      if (movie.servers || !movie.url) continue;
+  const movie = catMovies[i];
 
-      console.log(`🎬 ${i + 1}/${catMovies.length}`);
+  if (movie.servers || !movie.url) continue;
 
-      const embeds = await scrapeDetail(movie.url);
-await sleep(800);
+  console.log(`🎬 ${i + 1}/${catMovies.length}`);
 
-movie.servers = [];
+  const embeds = await scrapeDetail(movie.url);
 
-let firstM3U8 = null;
-let firstEmbed = null;
+  await sleep(800);
 
-if (embeds.length === 0) {
-  const vidMatch = movie.url.match(/\/([a-zA-Z0-9-]+)\/$/);
-  if (vidMatch) {
-    firstEmbed = `https://original.enjoy24cdn.com/play/${vidMatch[1]}`;
-  }
-} else {
-  for (const e of embeds) {
-    if (!firstM3U8 && e.m3u8) {
-      firstM3U8 = e.m3u8;
+  const oldServers = Array.isArray(movie.servers)
+    ? movie.servers
+    : [];
+
+  const newServers = [];
+
+  let firstM3U8 = null;
+  let firstEmbed = null;
+
+  // ✅ fallback ถ้า scrapeDetail ไม่เจอ
+  if (embeds.length === 0) {
+
+    const vidMatch = movie.url.match(/\/([a-zA-Z0-9-]+)\/$/);
+
+    if (vidMatch) {
+      firstEmbed = `https://original.enjoy24cdn.com/play/${vidMatch[1]}`;
     }
-    if (!firstEmbed && e.embed) {
-      firstEmbed = e.embed;
+
+  } else {
+
+    // ✅ เอาค่าจาก embeds
+    for (const e of embeds) {
+
+      if (!firstM3U8 && e.m3u8) {
+        firstM3U8 = e.m3u8;
+      }
+
+      if (!firstEmbed && e.embed) {
+        firstEmbed = e.embed;
+      }
     }
   }
+
+  // ✅ Server 1: m3u8
+  if (firstM3U8) {
+    newServers.push({
+      name: "M3U8",
+      url: firstM3U8
+    });
+  }
+
+  // ✅ Server 2: embed
+  if (firstEmbed) {
+    newServers.push({
+      name: "Embed",
+      url: firstEmbed
+    });
+  }
+
+  // ✅ fallback (กันไม่มี server)
+  if (newServers.length === 0 && movie.url) {
+    newServers.push({
+      name: "Default",
+      url: movie.url
+    });
+  }
+
+  // ✅ scrape สำเร็จ → ใช้ข้อมูลใหม่
+  if (newServers.length > 0) {
+    movie.servers = newServers;
+  }
+
+  // ✅ scrape fail → เก็บของเก่าไว้
+  else {
+    movie.servers = oldServers;
+  }
+
+  // ✅ map field ให้ frontend ใช้ได้
+  movie.logo = movie.poster;
+  movie.group = cat.name;
+  movie.title = movie.title || movie.name;
+
+  delete movie.poster;
+  delete movie.url;
 }
-
-movie.servers = [];
-
-// ✅ Server 1: m3u8
-if (firstM3U8) {
-  movie.servers.push({
-    name: "M3U8",
-    url: firstM3U8
-  });
-}
-
-// ✅ Server 2: embed
-if (firstEmbed) {
-  movie.servers.push({
-    name: "Embed",
-    url: firstEmbed
-  });
-}
-
-// ✅ fallback (กันไม่มี server)
-if (movie.servers.length === 0 && movie.url) {
-  movie.servers.push({
-    name: "Default",
-    url: movie.url
-  });
-}
-
-// ✅ map field ให้ frontend ใช้ได้
-movie.logo = movie.poster;
-movie.group = cat.name;
-movie.title = movie.title || movie.name;      
-delete movie.poster;
-delete movie.url;
 
       // 🔥 บันทึกไฟล์ JSON ระหว่างทาง
       await fsp.writeFile(`${cat.name}.json`, JSON.stringify(catMovies, null, 2));
