@@ -36,7 +36,7 @@ async function generateM3U(filename, movies) {
 }
 const PROGRESS_FILE = "progress.json";
 const TEST_MODE = false;
-const COMMIT_EVERY = 30;
+const COMMIT_EVERY = 300;
 let savedCategories = {};
 
 const categories = [
@@ -492,7 +492,9 @@ savedCategories[cat.name] = {
 
     let page = 1;
 
-    while (page <= 100) {
+    let noNewCount = 0;
+
+while (page <= 100) {
       console.log("📄 PAGE:", page);
 
       const movies = await scrapePageAjax(cat, page, ajaxConfigs[cat.name]);
@@ -503,17 +505,43 @@ savedCategories[cat.name] = {
         break;
       }
 
-      const exist = new Set(catMovies.map(m => `${m.title}`));
-      const fresh = movies.filter(m => !exist.has(`${m.title}`));
+      // ✅ เช็คหนังซ้ำด้วย URL
+const exist = new Set(
+  catMovies.map(m =>
+    (m.url || m.embed || m.title || "")
+      .trim()
+      .toLowerCase()
+  )
+);
+
+const fresh = movies.filter(m => {
+
+  const key = (m.url || m.title || "")
+    .trim()
+    .toLowerCase();
+
+  return !exist.has(key);
+
+});
 
       if (fresh.length === 0) {
 
   console.log("⏩ หน้านี้ไม่มีของใหม่");
 
-  page++;
+  noNewCount++;
 
+  // ✅ ถ้า 3 หน้าไม่มีใหม่ → หยุด
+  if (noNewCount >= 3) {
+    console.log("🛑 ไม่มีหนังใหม่แล้ว");
+    break;
+  }
+
+  page++;
   continue;
 }
+
+// ✅ รีเซ็ตถ้ามีของใหม่
+noNewCount = 0;
 
       catMovies.push(...fresh);
 
