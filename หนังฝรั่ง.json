@@ -4501,153 +4501,453 @@
   },
   {
     "title": "The Bank Job (2008) เปิดตำนานปล้นบันลือโลก",
-    "url": "https://lk-hd.org/the-bank-job-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Bank-Job-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b014fe974e4cd2fc78849c53cbf970e8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b014fe974e4cd2fc78849c53cbf970e8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Bank-Job-2008-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Magnificent Seven (1960) 7 สิงห์แดนเสือ",
-    "url": "https://lk-hd.org/the-magnificent-seven-1960/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Magnificent-Seven-1960-7-สิงห์แดนเสือ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d193935873787e9a07a8c78155688d04"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d193935873787e9a07a8c78155688d04"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Magnificent-Seven-1960-7-สิงห์แดนเสือ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Magnificent Seven (2016) 7 สิงห์แดนเสือ",
-    "url": "https://lk-hd.org/the-magnificent-seven-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/The-Magnificent-Seven-2016-7-สิงห์แดนเสือ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c672333b2e2d1db402b86b5365ee0526"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c672333b2e2d1db402b86b5365ee0526"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/The-Magnificent-Seven-2016-7-สิงห์แดนเสือ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Code 8 (2019) ล่าคนโคตรพลัง",
-    "url": "https://lk-hd.org/code-8-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Code-8-2019-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d32257bf743e48fe0434c4f4638bc102"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d32257bf743e48fe0434c4f4638bc102"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Code-8-2019-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Code 8 Part 2 (2024) ล่าคนโคตรพลัง ภาค 2",
-    "url": "https://lk-hd.org/code-8-part-2-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Code-8-Part-2-2024-ล่าคนโคตรพลัง-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/667bf187ebbae3b812caf9313f4e62e9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/667bf187ebbae3b812caf9313f4e62e9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Code-8-Part-2-2024-ล่าคนโคตรพลัง-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Fool’s Gold (2008) ฟูลส์ โกลด์ ตามล่าตามรัก ขุมทรัพย์มหาภัย",
-    "url": "https://lk-hd.org/fools-gold-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Fools-Gold-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/992f94939c7faef2cf5417ac45243182"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/992f94939c7faef2cf5417ac45243182"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Fools-Gold-2008-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "100 Feet (2008) 100 ฟุต เขตผีกระชากวิญญาณ",
-    "url": "https://lk-hd.org/100-feet-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/100-Feet-2008-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a00e3977f3bd48c015d2a1754d82f6b6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a00e3977f3bd48c015d2a1754d82f6b6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/100-Feet-2008-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Girl With The Dragon Tattoo (2009) พยัคฆ์สาวรอยสักมังกร",
-    "url": "https://lk-hd.org/the-girl-with-the-dragon-tattoo-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-With-The-Dragon-Tattoo-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3586e49a483573466abbc04850ba082b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3586e49a483573466abbc04850ba082b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-With-The-Dragon-Tattoo-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Girl Who Played with Fire (2009) ขบถสาวโค่นทรชน โหมไฟสังหาร",
-    "url": "https://lk-hd.org/the-girl-who-played-with-fire-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-Who-Played-with-Fire-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9dcae195b7aa93f2d3c2e97f73f5cbb5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9dcae195b7aa93f2d3c2e97f73f5cbb5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-Who-Played-with-Fire-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Girl Who Kicked the Hornets Nest (2009) ขบถสาวโค่นทรชน ปิดบัญชีคลั่ง",
-    "url": "https://lk-hd.org/the-girl-who-kicked-the-hornets-nest-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-Who-Kicked-the-Hornets-Nest-2009-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/108f298534f91ce35b19092d980fa810"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/108f298534f91ce35b19092d980fa810"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-Who-Kicked-the-Hornets-Nest-2009-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Girl with the Dragon Tattoo (2011) พยัคฆ์สาวรอยสักมังกร",
-    "url": "https://lk-hd.org/the-girl-with-the-dragon-tattoo-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-with-the-Dragon-Tattoo-2011-พยัคฆ์สาวรอยสักมังกร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/453734e57c06ed3cf9457d3ec2871499"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/453734e57c06ed3cf9457d3ec2871499"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/The-Girl-with-the-Dragon-Tattoo-2011-พยัคฆ์สาวรอยสักมังกร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Seeding (2023)",
-    "url": "https://lk-hd.org/the-seeding-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/The-Seeding-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3df14f1d77fe0f7924f90af8921420c6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3df14f1d77fe0f7924f90af8921420c6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/The-Seeding-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Two Moon Junction (1988) จะต้องลองรักสักกี่ครั้ง",
-    "url": "https://lk-hd.org/two-moon-junction-1988/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Two-Moon-Junction-1988-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c1c579919cbb902408159b81b6431926"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c1c579919cbb902408159b81b6431926"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Two-Moon-Junction-1988-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Fall Guy (2024) สตันท์แมนคนจริง",
-    "url": "https://lk-hd.org/the-fall-guy-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/30a23411562f5ed5ac7c2963f67d6463"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/30a23411562f5ed5ac7c2963f67d6463"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Devil’s Rejects (2005) เกมล่าล้างคนพันธุ์นรก",
-    "url": "https://lk-hd.org/the-devils-rejects-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Devils-Rejects-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f2c3a7d1c5a619aa37728f5b1a8b6f62"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f2c3a7d1c5a619aa37728f5b1a8b6f62"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Devils-Rejects-2005-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "RocknRolla (2008) หักเหลี่ยมแก๊งค์ชนแก๊งค์",
-    "url": "https://lk-hd.org/rocknrolla-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/RocknRolla-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/603837bf8b26ee7b435660cbc9333a73"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/603837bf8b26ee7b435660cbc9333a73"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/RocknRolla-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Intouchables (2011) ด้วยใจแห่งมิตร พิชิตทุกสิ่ง",
-    "url": "https://lk-hd.org/the-intouchables-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Intouchables-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/371e204fe2899e90639350b6512f04d0"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/371e204fe2899e90639350b6512f04d0"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Intouchables-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ocean’s Eleven (2001) 11 คนเหนือเมฆปล้นลอกคราบเมือง",
-    "url": "https://lk-hd.org/oceans-eleven-2001/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Oceans-Eleven-2001--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7b7063f9ad049a9093ee7d72c67df531"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7b7063f9ad049a9093ee7d72c67df531"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Oceans-Eleven-2001--165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ocean’s Twelve (2004) 12 มงกุฎ ปล้นสุดโลก",
-    "url": "https://lk-hd.org/oceans-twelve-2004/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Oceans-Twelve-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9e11f8b16ac3d9a16f92222676e279c7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9e11f8b16ac3d9a16f92222676e279c7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Oceans-Twelve-2004-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Ocean’s Thirteen (2007) 13 เซียนปล้นเหนือเมฆ",
-    "url": "https://lk-hd.org/oceans-thirteen-2007/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Oceans-Thirteen-2007--165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b5977bc352fd87ef0381bf38da56ad06"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b5977bc352fd87ef0381bf38da56ad06"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Oceans-Thirteen-2007--165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Sorcerer’s Stone (2001) แฮร์รี่ พอตเตอร์กับศิลาอาถรรพ์ ภาค 1",
-    "url": "https://lk-hd.org/harry-potter-and-the-sorcerers-stone-2001/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Sorcerers-Stone-2001-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/786fd0aca7868c44de809ac0a4f15639"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/786fd0aca7868c44de809ac0a4f15639"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Sorcerers-Stone-2001-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter 2 and the Chamber of Secrets (2002) แฮร์รี่ พอตเตอร์ ภาค 2 กับห้องแห่งความลับ",
-    "url": "https://lk-hd.org/harry-potter-2-and-the-chamber-of-secrets/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-2-and-the-Chamber-of-Secrets-2002-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/20d5d52e9d9b7817d1463a6b2ef2c04f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/20d5d52e9d9b7817d1463a6b2ef2c04f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-2-and-the-Chamber-of-Secrets-2002-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Prisoner of Azkaban (2004) แฮร์รี่ พอตเตอร์กับนักโทษแห่งอัซคาบัน ภาค 3",
-    "url": "https://lk-hd.org/harry-potter-and-the-prisoner-of-azkaban-2004/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Prisoner-of-Azkaban-2004-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9fac28fab7c20aabfc484ac1c675bbea"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9fac28fab7c20aabfc484ac1c675bbea"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Prisoner-of-Azkaban-2004-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Goblet of Fire (2005) แฮร์รี่ พอตเตอร์กับถ้วยอัคนี ภาค 4",
-    "url": "https://lk-hd.org/harry-potter-and-the-goblet-of-fire-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Goblet-of-Fire-2005-แฮร์รี่-พอตเตอร์กับถ้วยอัคนี-ภาค-4-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8120da843ce5a29dc43a1d93b0f1aa40"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8120da843ce5a29dc43a1d93b0f1aa40"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Goblet-of-Fire-2005-แฮร์รี่-พอตเตอร์กับถ้วยอัคนี-ภาค-4-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Order of the Phoenix (2007) แฮร์รี่ พอตเตอร์กับภาคีนกฟีนิกซ์ ภาค 5",
-    "url": "https://lk-hd.org/harry-potter-and-the-order-of-the-phoenix-2007/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Order-of-the-Phoenix-2007-แฮร์รี่-พอตเตอร์กับภาคีนกฟีนิกซ์-ภาค-5-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/401cd4f2e99a4e50f0474f1c665eda2f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/401cd4f2e99a4e50f0474f1c665eda2f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Order-of-the-Phoenix-2007-แฮร์รี่-พอตเตอร์กับภาคีนกฟีนิกซ์-ภาค-5-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Half Blood Prince (2009) แฮร์รี่ พอตเตอร์กับเจ้าชายเลือดผสม ภาค 6",
-    "url": "https://lk-hd.org/harry-potter-and-the-half-blood-prince-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Half-Blood-Prince-2009-แฮร์รี่-พอตเตอร์กับเจ้าชายเลือดผสม-ภาค-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4ea8733a20389efda4dccfdc9492f191"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4ea8733a20389efda4dccfdc9492f191"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Half-Blood-Prince-2009-แฮร์รี่-พอตเตอร์กับเจ้าชายเลือดผสม-ภาค-6-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harry Potter and the Deathly Hallows Part 1 (2010) แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมฑูต ภาค 7.1",
-    "url": "https://lk-hd.org/harry-potter-and-the-deathly-hallows-part-1-2010/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Deathly-Hallows-Part-1-2010-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4503d9aad5178055817d825efcef4aa8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4503d9aad5178055817d825efcef4aa8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Harry-Potter-and-the-Deathly-Hallows-Part-1-2010-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Tomorrow War (2021) ข้ามเวลา หยุดโลกวินาศ",
-    "url": "https://lk-hd.org/the-tomorrow-war-2021/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/The-Tomorrow-War-2021-ข้ามเวลา-หยุดโลกวินาศ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/fa1c016542c3e9f430b10455c47130db"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fa1c016542c3e9f430b10455c47130db"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/The-Tomorrow-War-2021-ข้ามเวลา-หยุดโลกวินาศ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Little Mermaid (2018) เงือกน้อยผจญภัย",
-    "url": "https://lk-hd.org/the-little-mermaid-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Little-Mermaid-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/268339f16a37e0de038120d6f9d2ce0a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/268339f16a37e0de038120d6f9d2ce0a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Little-Mermaid-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Unfaithful (2002) อันเฟธฟูล ชู้มรณะ",
-    "url": "https://lk-hd.org/unfaithful-2002/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Unfaithful-2002-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/716ab1591abc62ffdcb4fe7b8767d41e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/716ab1591abc62ffdcb4fe7b8767d41e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Unfaithful-2002-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jailbait (2014) ผู้หญิงขังโหด",
