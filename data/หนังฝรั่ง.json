@@ -15261,153 +15261,453 @@
   },
   {
     "title": "The School for Good and Evil (2022) โรงเรียนแห่งความดีและความชั่ว",
-    "url": "https://lk-hd.org/the-school-for-good-and-evil-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/The-School-for-Good-and-Evil-2022-โรงเรียนแห่งความดีและความชั่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b9bf0e9fad7df4f0358d099ce8f5baf5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b9bf0e9fad7df4f0358d099ce8f5baf5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/The-School-for-Good-and-Evil-2022-โรงเรียนแห่งความดีและความชั่ว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Brake (2012) ขีดเส้นตายเกมซ้อนเกม",
-    "url": "https://lk-hd.org/brake-2012/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/01/ขีดเส้นตายเกมซ้อนเกม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/679d11e5c0da5d0b4c3b5e24e041a93f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/679d11e5c0da5d0b4c3b5e24e041a93f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/01/ขีดเส้นตายเกมซ้อนเกม-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Joker Folie à Deux (2024) โจ๊กเกอร์ โฟลีย์ อา เดอ",
-    "url": "https://lk-hd.org/joker-folie-a-deux-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/10/Joker-Folie-a-Deux-2024-โจ๊กเกอร์-โฟลีย์-อา-เดอ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ab5f77cd76277552a0d15a437f148820"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab5f77cd76277552a0d15a437f148820"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/10/Joker-Folie-a-Deux-2024-โจ๊กเกอร์-โฟลีย์-อา-เดอ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Arbitrage (2012) สุภาพบุรุษเหี้ยมลึก",
-    "url": "https://lk-hd.org/arbitrage-2012/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Arbitrage-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/65ba378b9844270bee163dffe826e12c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/65ba378b9844270bee163dffe826e12c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Arbitrage-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "A Mistake (2024)",
-    "url": "https://lk-hd.org/a-mistake-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/11/A-Mistake-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e6bc46f3ea76aae644c3bca50fd12245"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e6bc46f3ea76aae644c3bca50fd12245"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/11/A-Mistake-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Maybe Baby 2 (2024)",
-    "url": "https://lk-hd.org/maybe-baby-2-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/11/Maybe-Baby-2-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e76c9744234c670b17b568bcfc3205fa"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e76c9744234c670b17b568bcfc3205fa"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/11/Maybe-Baby-2-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Perfect Score 6 โจ๋แสบ มือแซงค์เหนือเมฆ (2004)",
-    "url": "https://lk-hd.org/the-perfect-score-2004/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Perfect-Score-6-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4c71eb087738f5ab72256d78e616182f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4c71eb087738f5ab72256d78e616182f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Perfect-Score-6-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jumanji Welcome to the Jungle (2017) เกมดูดโลก บุกป่ามหัศจรรย์",
-    "url": "https://lk-hd.org/jumanji-welcome-to-the-jungle-2017/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Jumanji-Welcome-to-the-Jungle-2017-เกมดูดโลก-บุกป่ามหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4999db113be7170af289d0ce55a68091"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4999db113be7170af289d0ce55a68091"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Jumanji-Welcome-to-the-Jungle-2017-เกมดูดโลก-บุกป่ามหัศจรรย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jumanji The Next Level (2019) เกมดูดโลก ตะลุยด่านมหัศจรรย์",
-    "url": "https://lk-hd.org/jumanji-the-next-level-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Jumanji-The-Next-Level-2019-เกมดูดโลก-ตะลุยด่านมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b6839ae0689f8dd016766b93ff2c4662"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b6839ae0689f8dd016766b93ff2c4662"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Jumanji-The-Next-Level-2019-เกมดูดโลก-ตะลุยด่านมหัศจรรย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jumanji (1995) จูแมนจี้ เกมดูดโลกมหัศจรรย์",
-    "url": "https://lk-hd.org/jumanji-1995/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Jumanji-1995-จูแมนจี้-เกมดูดโลกมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/89670495e2e615853ed950d399ce61c6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/89670495e2e615853ed950d399ce61c6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Jumanji-1995-จูแมนจี้-เกมดูดโลกมหัศจรรย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Fifth Element รหัส 5 คนอึดทะลุโลก (1997)",
-    "url": "https://lk-hd.org/the-fifth-element-1997/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Fifth-Element-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f3035be74923942daa166fd148bb5af2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f3035be74923942daa166fd148bb5af2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Fifth-Element-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Devil’s Bath (2024) ทางบาปพ้นนรก",
-    "url": "https://lk-hd.org/the-devils-bath-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/11/The-Devils-Bath-2024-ทางบาปพ้นนรก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/cbbdebd8632456539335e36e91a945d1"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cbbdebd8632456539335e36e91a945d1"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/11/The-Devils-Bath-2024-ทางบาปพ้นนรก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Merry Gentlemen (2024) เดอะ เมอร์รี่ เจนเทิลแมน",
-    "url": "https://lk-hd.org/the-merry-gentlemen-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/11/The-Merry-Gentlemen-2024-เดอะ-เมอร์รี่-เจนเทิลแมน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/fece5a3034c088361484c025eb272d08"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/fece5a3034c088361484c025eb272d08"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/11/The-Merry-Gentlemen-2024-เดอะ-เมอร์รี่-เจนเทิลแมน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "GTMax (2024)",
-    "url": "https://lk-hd.org/gtmax-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/11/GTMax-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4934a1db747828d92fb9cb14364fc544"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4934a1db747828d92fb9cb14364fc544"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/11/GTMax-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Strange Darling (2024) รัก ลวง ฆ่า",
-    "url": "https://lk-hd.org/strange-darling-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Strange-Darling-2024-รัก-ลวง-ฆ่า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8330705a8ff7110dcd42bd4532b3b59c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8330705a8ff7110dcd42bd4532b3b59c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Strange-Darling-2024-รัก-ลวง-ฆ่า-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย ภาค 2",
-    "url": "https://lk-hd.org/beetlejuice-beetlejuice/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice-2024-บีเทิลจู๊ดส์-บีเทิลจู๊ดส์-ผีขี้จุ้ย-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/15543e32c0787ed3e5699ad792d746e5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/15543e32c0787ed3e5699ad792d746e5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice-2024-บีเทิลจู๊ดส์-บีเทิลจู๊ดส์-ผีขี้จุ้ย-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Accident Man Hitman’s Holiday (2022) แอ็คซิเด้นท์แมน สุขสันต์วันมือปืน",
-    "url": "https://lk-hd.org/accident-man-hitmans-holiday-2022/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Accident-Man-Hitmans-Holiday-2022-แอ็คซิเด้นท์แมน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3c2d72255f991a7deeea6a00b1e56090"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3c2d72255f991a7deeea6a00b1e56090"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Accident-Man-Hitmans-Holiday-2022-แอ็คซิเด้นท์แมน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "What Happens Later (2023) เกิดอะไรขึ้นในภายหลัง",
-    "url": "https://lk-hd.org/what-happens-later-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/09/What-Happens-Later-2023-เกิดอะไรขึ้นในภายหลัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/efbe8842085e69da7612512b94034e31"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/efbe8842085e69da7612512b94034e31"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/09/What-Happens-Later-2023-เกิดอะไรขึ้นในภายหลัง-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Land of Bad (2024) ภารกิจฝ่าแดนดิบ",
-    "url": "https://lk-hd.org/land-of-bad-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Land-of-Bad-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/dcd2d62ba291815038c1c25ae46f2c40"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dcd2d62ba291815038c1c25ae46f2c40"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Land-of-Bad-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Challengers (2024) ชาเลนเจอร์ส",
-    "url": "https://lk-hd.org/challengers/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/99654db01faea4d1fc4b454aa3fdb7b3"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/99654db01faea4d1fc4b454aa3fdb7b3"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Platform (2019) เดอะ แพลตฟอร์ม",
-    "url": "https://lk-hd.org/the-platform-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/The-Platform-2019-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/19af57ca0adceac6b9b86014947a4256"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19af57ca0adceac6b9b86014947a4256"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/The-Platform-2019-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-    "url": "https://lk-hd.org/bob-marley-one-love/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ab5c048b2bb0be362b48e9d01f96d482"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ab5c048b2bb0be362b48e9d01f96d482"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
-    "url": "https://lk-hd.org/harold-and-the-purple-crayon/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024-แฮโรลด์กับสีเทียนมหัศจรรย์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/758c55fdfe884f878112b15d5baf5e6b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/758c55fdfe884f878112b15d5baf5e6b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024-แฮโรลด์กับสีเทียนมหัศจรรย์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
-    "url": "https://lk-hd.org/deadpool-wolverine/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/9c72cabacf36033e8aab72fffb9252ec"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/9c72cabacf36033e8aab72fffb9252ec"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deadpool 2 (2018) เดดพูล ภาค 2",
-    "url": "https://lk-hd.org/deadpool-2-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Deadpool-2-2018-เดดพูล-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e0133c2ec40819d3afc0f8f44ed7b7ee"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e0133c2ec40819d3afc0f8f44ed7b7ee"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Deadpool-2-2018-เดดพูล-ภาค-2-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Deadpool 1 (2016) เดดพูล ภาค 1 นักสู้พันธุ์เกรียน",
-    "url": "https://lk-hd.org/deadpool-1-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/Deadpool-1-2016-เดดพูล-ภาค-1-นักสู้พันธุ์เกรียน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5d8123fbe7b3fd4bca49ff9bdb3b33df"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5d8123fbe7b3fd4bca49ff9bdb3b33df"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/Deadpool-1-2016-เดดพูล-ภาค-1-นักสู้พันธุ์เกรียน-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Painter (2024) จิตรกร",
-    "url": "https://lk-hd.org/the-painter-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/10/The-Painter-2024-จิตรกร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/afef71d807c5910e9ffc8a61ec0bf2a1"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/afef71d807c5910e9ffc8a61ec0bf2a1"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/10/The-Painter-2024-จิตรกร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Don’t Move (2024) อย่าขยับ",
-    "url": "https://lk-hd.org/dont-move-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/10/Dont-Move-2024-อย่าขยับ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7a9cda9b446e3ec78075047ddcd8022d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7a9cda9b446e3ec78075047ddcd8022d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/10/Dont-Move-2024-อย่าขยับ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sleeping Dogs (2024)",
-    "url": "https://lk-hd.org/sleeping-dogs-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Sleeping-Dogs-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/63b744b46f813ede5a34714c3e565018"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63b744b46f813ede5a34714c3e565018"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Sleeping-Dogs-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Night Swim (2024) ค่ำคืนอย่าแหวกว่าย",
-    "url": "https://lk-hd.org/night-swim/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/01/Night-Swim-2024-ค่ำคืนอย่าแหวกว่าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/20b58f25c415a0850d9c0f304452210a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/20b58f25c415a0850d9c0f304452210a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/01/Night-Swim-2024-ค่ำคืนอย่าแหวกว่าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Alpha ผจญนรกแดนทมิฬ 20,000 ปี (2018)",
