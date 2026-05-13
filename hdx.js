@@ -4,7 +4,7 @@ const fs = require("fs");
 const fsp = require("fs/promises"); 
 const { exec } = require("child_process");
 const WISEPLAY_DIR = "wiseplay";
-const DOMAIN = "https://lk-hds.com";
+const DOMAIN = "https://lk-hd.org/";
 // =========================
 // 🔥 GENERATE M3U
 // =========================
@@ -72,14 +72,14 @@ async function saveProgress(progress) {
 // =========================
 async function getAjaxConfig(cat) {
   const url = cat.type === "tag"
-    ? `https://lk-hds.com/?tag_id=${cat.id}`
-    : `https://lk-hds.com/?cat=${cat.id}`;
+    ? `https://lk-hd.org//?tag_id=${cat.id}`
+    : `https://lk-hd.org//?cat=${cat.id}`;
 
   const res = await axios.get(url, {
     headers: {
       "User-Agent": "Mozilla/5.0",
       "Accept": "text/html",
-      "Referer": "https://lk-hds.com/"
+      "Referer": "https://lk-hd.org//"
     }
   });
 
@@ -131,12 +131,10 @@ async function scrapePageAjax(cat, page, ajaxConfig) {
   "params[display_excerpt]": "off",
   "params[link_to]": "default",
   "params[sub_class]": "movie-grid",
-  "params[page]": String(page),
   "params[paged]": String(page),
   "params[rnd_id]": ajaxConfig.rnd_id,
   "params[data_ajax]": "yes",
-  "params[filter]": "0",
-  "params[tax]": cat.type,
+  "params[filter]": "0"
 });
 
 if (cat.type === "tag") {
@@ -155,9 +153,9 @@ if (cat.type === "tag") {
           "Content-Type": "application/x-www-form-urlencoded",
           "X-Requested-With": "XMLHttpRequest",
           "Referer": cat.type === "tag"
-  ? `https://lk-hds.com/?tag_id=${cat.id}`
-  : `https://lk-hds.com/?cat=${cat.id}`,
-          "Origin": "https://lk-hds.com",
+  ? `https://lk-hd.org//?tag_id=${cat.id}`
+  : `https://lk-hd.org//?cat=${cat.id}`,
+          "Origin": "https://lk-hd.org/",
           "Cookie": ajaxConfig.cookies
         },
         timeout: 15000
@@ -393,7 +391,7 @@ async function generateWiseplay(filename, movies, groupName) {
   let output = {
     name: groupName,
     author: `อัพเดตล่าสุด ${new Date().toLocaleDateString("th-TH")}`,
-    image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+    image: "https://lk-hd.org//wp-content/uploads/2023/08/lk-hd-logo.png",
     url: DOMAIN,
     groups: []
   };
@@ -436,15 +434,15 @@ function generateIndex(jsonOutput) {
   const index = {
     name: "LK-HDS",
     author: `อัพเดตล่าสุด ${new Date().toLocaleDateString("th-TH")}`,
-    image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
-    url: "https://lk-hds.com/",
+    image: "https://lk-hd.org//wp-content/uploads/2023/08/lk-hd-logo.png",
+    url: "https://lk-hd.org//",
     groups: []
   };
 
   for (const group in jsonOutput) {
     index.groups.push({
       name: group,
-      image: "https://lk-hds.com/wp-content/uploads/2023/08/lk-hd-logo.png",
+      image: "https://lk-hd.org//wp-content/uploads/2023/08/lk-hd-logo.png",
       url: `${baseRaw}${group}.json`
     });
   }
