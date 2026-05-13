@@ -508,7 +508,7 @@ savedCategories[cat.name] = {
 
     let page = 1;
 
-    while (page <= 3) {
+    while (true) {
       console.log("📄 PAGE:", page);
 
       const movies = await scrapePageAjax(cat, page, ajaxConfigs[cat.name]);
@@ -523,9 +523,13 @@ savedCategories[cat.name] = {
       const fresh = movies.filter(m => !exist.has(`${m.title}`));
 
       if (fresh.length === 0) {
-        console.log("🛑 เจอหน้าที่ไม่มีของใหม่ → STOP");
-         break;
-      }
+
+  console.log("⏩ หน้านี้ไม่มีของใหม่");
+
+  page++;
+
+  continue;
+}
 
       catMovies.unshift(...fresh.reverse());
 
