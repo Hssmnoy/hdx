@@ -1351,153 +1351,453 @@
   },
   {
     "title": "I Robot (2004) ไอโรบอท พิฆาตแผนจักรกลเขมือบโลก",
-    "url": "https://lk-hd.org/i-robot-2004/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/I-Robot-2004-ไอโรบอท-พิฆาตแผนจักรกลเขมือบโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/21cf7a6fa9216a825140155a36499f96"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/21cf7a6fa9216a825140155a36499f96"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/I-Robot-2004-ไอโรบอท-พิฆาตแผนจักรกลเขมือบโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Madame Web (2024) มาดามเว็บ",
-    "url": "https://lk-hd.org/madame-web/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/madame-web-มาดามเว็บ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7ed1ca9531785ca3955ac185166c69fc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ed1ca9531785ca3955ac185166c69fc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/madame-web-มาดามเว็บ-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lights Out (2024)",
-    "url": "https://lk-hd.org/lights-out/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Lights-Out-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5e52eb683cc393d24a288a04072119bc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5e52eb683cc393d24a288a04072119bc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Lights-Out-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Thundermans Return (2024)",
-    "url": "https://lk-hd.org/the-thundermans-return-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/The-Thundermans-Return-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/489f43c8571141d52c56f9e995dcc160"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/489f43c8571141d52c56f9e995dcc160"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/The-Thundermans-Return-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Man with my Husband’s Face (2023)",
-    "url": "https://lk-hd.org/man-with-my-husbands-face-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Man-with-my-Husbands-Face-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/5fd751211bd2e0ee193b6ecb150e291f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/5fd751211bd2e0ee193b6ecb150e291f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Man-with-my-Husbands-Face-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "My Professor’s Guide to Murder (2023)",
-    "url": "https://lk-hd.org/my-professors-guide-to-murder-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/My-Professors-Guide-to-Murder-2023-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/dedba0b055f6e6a521eb0baed1d8b077"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/dedba0b055f6e6a521eb0baed1d8b077"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/My-Professors-Guide-to-Murder-2023-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lemony Snicket s A Series of Unfortunate Events (2004) อยากให้เรื่องนี้ไม่มีโชคร้าย",
-    "url": "https://lk-hd.org/lemony-snicket-s-a-series-of-unfortunate-events-2004/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Lemony-Snicket-s-A-Series-of-Unfortunate-Events-2004-อยากให้เรื่องนี้ไม่มีโชคร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/eb87ee651cd1c635928286dc21540820"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/eb87ee651cd1c635928286dc21540820"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Lemony-Snicket-s-A-Series-of-Unfortunate-Events-2004-อยากให้เรื่องนี้ไม่มีโชคร้าย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Stealth (2005) สเตลท์ ฝูงบินมหากาฬถล่มโลก",
-    "url": "https://lk-hd.org/stealth-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Stealth-2005-สเตลท์-ฝูงบินมหากาฬถล่มโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/09807abbd92d3216b1b600e44afdde10"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/09807abbd92d3216b1b600e44afdde10"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Stealth-2005-สเตลท์-ฝูงบินมหากาฬถล่มโลก-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Minority Report (2002) หน่วยสกัดอาชญากรรมล่าอนาคต",
-    "url": "https://lk-hd.org/minority-report-2002/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Minority-Report-2002-หน่วยสกัดอาชญากรรมล่าอนาคต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d3beb494aef88b76628065ab2306ae86"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d3beb494aef88b76628065ab2306ae86"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Minority-Report-2002-หน่วยสกัดอาชญากรรมล่าอนาคต-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Island (2005) แหกระห่ำแผนคนเหนือคน",
-    "url": "https://lk-hd.org/the-island-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/The-Island-2005-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/ee7f3cf80552f90a77fed73b60cb7841"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/ee7f3cf80552f90a77fed73b60cb7841"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/The-Island-2005-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Walk the Line (2005) วอล์ค เดอะ ไลน์ อ้อมกอดรักก้องโลก",
-    "url": "https://lk-hd.org/walk-the-line-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Walk-the-Line-2005-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/028987b9378f0affbe86fbd11a7f6358"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/028987b9378f0affbe86fbd11a7f6358"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Walk-the-Line-2005-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mr. & Mrs. Smith (2005) มิสเตอร์แอนด์มิสซิสสมิธ นายและนางคู่พิฆาต",
-    "url": "https://lk-hd.org/mr-mrs-smith-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Mr.-Mrs.-Smith-มิสเตอร์แอนด์มิสซิสสมิธ-นายและนางคู่พิฆาต-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/975cc66916801fabe4a00873bd4bfe61"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/975cc66916801fabe4a00873bd4bfe61"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Mr.-Mrs.-Smith-มิสเตอร์แอนด์มิสซิสสมิธ-นายและนางคู่พิฆาต-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dangerous (2021)",
-    "url": "https://lk-hd.org/dangerous/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/dangerous-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0f1fe67b2234d899fcd03862b8ea8382"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0f1fe67b2234d899fcd03862b8ea8382"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/dangerous-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Abigail (2024) อบิเกล",
-    "url": "https://lk-hd.org/abigail-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Abigail-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/2dc308c638d48303c2a030d35c1f00f7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/2dc308c638d48303c2a030d35c1f00f7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Abigail-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Final Attack on Wembley (2024)",
-    "url": "https://lk-hd.org/the-final-attack-on-wembley-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/The-Final-Attack-on-Wembley-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/19e2fb75f61d385503eefc4354331697"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/19e2fb75f61d385503eefc4354331697"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/The-Final-Attack-on-Wembley-2024-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Planet of the Apes (1968) บุกพิภพมนุษย์วานร",
-    "url": "https://lk-hd.org/planet-of-the-apes-1968/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Planet-of-the-Apes-1968-บุกพิภพมนุษย์วานร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a2598bc7405cef1a2cef5d9f8d068a12"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a2598bc7405cef1a2cef5d9f8d068a12"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Planet-of-the-Apes-1968-บุกพิภพมนุษย์วานร-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Planet of the Apes (2001) พิภพวานร",
-    "url": "https://lk-hd.org/planet-of-the-apes-2001/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Planet-of-the-Apes-2001-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/4785880aac2a9eb7a09109215c96913d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/4785880aac2a9eb7a09109215c96913d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Planet-of-the-Apes-2001-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Rise of the Planet of the Apes (2011) กำเนิดพิภพวานร",
-    "url": "https://lk-hd.org/rise-of-the-planet-of-the-apes-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Rise-of-the-Planet-of-the-Apes-2011-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/623266baf4e74432f2eb535e7fdbf30f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/623266baf4e74432f2eb535e7fdbf30f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Rise-of-the-Planet-of-the-Apes-2011-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Dawn of the Planet of the Apes (2014) รุ่งอรุณแห่งพิภพวานร",
-    "url": "https://lk-hd.org/dawn-of-the-planet-of-the-apes-2014/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/Dawn-of-the-Planet-of-the-Apes-2014-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7ae6ca2bf75564108ce1e58dbf218dc8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ae6ca2bf75564108ce1e58dbf218dc8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/Dawn-of-the-Planet-of-the-Apes-2014-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "War for the Planet of the Apes (2017) มหาสงครามพิภพวานร",
-    "url": "https://lk-hd.org/war-for-the-planet-of-the-apes-2017/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/War-for-the-Planet-of-the-Apes-2017-มหาสงครามพิภพวานร-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/83c5bc309985efb8856f1445329fc864"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/83c5bc309985efb8856f1445329fc864"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/War-for-the-Planet-of-the-Apes-2017-มหาสงครามพิภพวานร-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gone in Sixty Seconds (2000) 60 วิ รหัสโจรกรรมอันตราย",
-    "url": "https://lk-hd.org/gone-in-sixty-seconds-2000/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Gone-in-Sixty-Seconds-2000-60-วิ-รหัสโจรกรรมอันตราย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/54aca1df5dece2d16b1104a4471e2e2c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54aca1df5dece2d16b1104a4471e2e2c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Gone-in-Sixty-Seconds-2000-60-วิ-รหัสโจรกรรมอันตราย-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Lisa Frankenstein (2024) ลิซ่า แฟรงเกนสไตน์",
-    "url": "https://lk-hd.org/lisa-frankenstein-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Lisa-Frankenstein-2024-ลิซ่า-แฟรงเกนสไตน์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3aefce663af1f7f43d47b571508a3688"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3aefce663af1f7f43d47b571508a3688"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Lisa-Frankenstein-2024-ลิซ่า-แฟรงเกนสไตน์-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Jules (2023) จูลส์ สหายรักต่างดาว",
-    "url": "https://lk-hd.org/jules-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Jules-2023-จูลส์-สหายรักต่างดาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b522bfc0a75488c241493a9afe0346ac"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b522bfc0a75488c241493a9afe0346ac"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Jules-2023-จูลส์-สหายรักต่างดาว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Mother of the Bride (2024) แม่เจ้าสาว",
-    "url": "https://lk-hd.org/mother-of-the-bride-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Mother-of-the-Bride-2024-แม่เจ้าสาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/a404c4a181f162e3a2fd7d6b1e5618d4"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/a404c4a181f162e3a2fd7d6b1e5618d4"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Mother-of-the-Bride-2024-แม่เจ้าสาว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Guardian Of The Monarchs (2024) ผู้พิทักษ์ผีเสื้อ",
-    "url": "https://lk-hd.org/the-guardian-of-the-monarchs-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/The-Guardian-Of-The-Monarchs-2024-ผู้พิทักษ์ผีเสื้อ-165x248.png"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b7efe722456a3d0f50832a8af288f789"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b7efe722456a3d0f50832a8af288f789"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/The-Guardian-Of-The-Monarchs-2024-ผู้พิทักษ์ผีเสื้อ-165x248.png",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Obsessed (2009) แรงรักมรณะ",
-    "url": "https://lk-hd.org/obsessed-2009/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Obsessed-2009-แรงรักมรณะ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/63b622ced19f47cd9e6479a2364d9389"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/63b622ced19f47cd9e6479a2364d9389"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Obsessed-2009-แรงรักมรณะ-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Forever My Girl (2018) เพลงจากใจ หัวใจไม่เคยลืมเธอ",
-    "url": "https://lk-hd.org/forever-my-girl-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/Forever-My-Girl-2018-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e6965da9594c4ff462232109db6d9551"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e6965da9594c4ff462232109db6d9551"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/Forever-My-Girl-2018-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Living with Leopards (2024) อยู่กับเสือดาว",
-    "url": "https://lk-hd.org/living-with-leopards-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/05/Living-with-Leopards-2024-อยู่กับเสือดาว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/0a10887413633e06e561a1abd086b2b3"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/0a10887413633e06e561a1abd086b2b3"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/05/Living-with-Leopards-2024-อยู่กับเสือดาว-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Sound of Metal (2019) เสียงที่หายไป",
-    "url": "https://lk-hd.org/sound-of-metal-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/03/Sound-of-Metal-2019-เสียงที่หายไป-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/09a585c48fb8d85fedc88dbf2aa78190"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/09a585c48fb8d85fedc88dbf2aa78190"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/03/Sound-of-Metal-2019-เสียงที่หายไป-165x248.jpeg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "Gothika (2003) โกติก้า พลังพยาบาท",
-    "url": "https://lk-hd.org/gothika-2003/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/04/Gothika-2003-โกติก้า-พลังพยาบาท-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/1f9595c341f693c75fd078247ff1c6ad"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/1f9595c341f693c75fd078247ff1c6ad"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/04/Gothika-2003-โกติก้า-พลังพยาบาท-165x248.jpg",
+    "group": "หนังฝรั่ง"
   },
   {
     "title": "The Medallion (2003) ฟัดอมตะ",
