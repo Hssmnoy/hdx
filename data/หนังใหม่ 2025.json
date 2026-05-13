@@ -1347,153 +1347,453 @@
   },
   {
     "title": "Anaconda (2025) อนาคอนดา เลื้อยสยองโลก",
-    "url": "https://lk-hd.org/anaconda-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/12/Anaconda-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/8c2d55928a4373e7553f40cb53dac8e9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8c2d55928a4373e7553f40cb53dac8e9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/12/Anaconda-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "96 Minutes (2025) 96 นาทีชีวิต",
-    "url": "https://lk-hd.org/96-minutes-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/96-Minutes-2025-96-นาทีชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/caa2f23017b6825896e723e991674fcf"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/caa2f23017b6825896e723e991674fcf"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/96-Minutes-2025-96-นาทีชีวิต-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Sisu 2 (2025) สิสู้…เฒ่ามหากาฬ ภาค 2",
-    "url": "https://lk-hd.org/sisu-2-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/12/Sisu-2-2025-สิสู้…เฒ่ามหากาฬ-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/7b33ff99ec3a2521ca37ef3b6615b0be"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7b33ff99ec3a2521ca37ef3b6615b0be"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/12/Sisu-2-2025-สิสู้…เฒ่ามหากาฬ-2-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "120 Bahadur (2025) บาฮาดูร์",
-    "url": "https://lk-hd.org/120-bahadur-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/120-Bahadur-2025-บาฮาดูร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/592b9aaae5074df6fc94cf3cacaead7a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/592b9aaae5074df6fc94cf3cacaead7a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/120-Bahadur-2025-บาฮาดูร์-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Kirot (2025)",
-    "url": "https://lk-hd.org/kirot-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Kirot-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/d334c82bd0020fadc27da17d4a1d914f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d334c82bd0020fadc27da17d4a1d914f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Kirot-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Haunted Mountains The Yellow Taboo (2025) คำสาปเสื้อกันฝน",
-    "url": "https://lk-hd.org/haunted-mountains-the-yellow-taboo-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Haunted-Mountains-The-Yellow-Taboo-2025-คำสาปเสื้อกันฝน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/c908c32d0822352e3bc5921c800414ed"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c908c32d0822352e3bc5921c800414ed"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Haunted-Mountains-The-Yellow-Taboo-2025-คำสาปเสื้อกันฝน-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Roofman (2025) คนดีที่ลัก",
-    "url": "https://lk-hd.org/roofman-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Roofman-2025-คนดีที่ลัก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/b21975c2129c708a262bd31c42aa0bbb"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b21975c2129c708a262bd31c42aa0bbb"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Roofman-2025-คนดีที่ลัก-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Orphans (2025) เดอะ ออร์แฟนส์",
-    "url": "https://lk-hd.org/the-orphans-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/The-Orphans-2025-เดอะ-ออร์แฟนส์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/62bda492429e678ca1a583c3e94fdeca"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/62bda492429e678ca1a583c3e94fdeca"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/The-Orphans-2025-เดอะ-ออร์แฟนส์-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "All the Devils Are Here (2025) ที่นี่…มีแต่ปีศาจ",
-    "url": "https://lk-hd.org/all-the-devils-are-here-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/All-the-Devils-Are-Here-2025-ที่นี่…มีแต่ปีศาจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/5c2062db1fde0433fece1eaf0377fbd8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5c2062db1fde0433fece1eaf0377fbd8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/All-the-Devils-Are-Here-2025-ที่นี่…มีแต่ปีศาจ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Dream Animals The Movie (2025) ดรีม แอนิมอล เดอะ มูฟวี่",
-    "url": "https://lk-hd.org/dream-animals-the-movie-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Dream-Animals-The-Movie-2025-ดรีม-แอนิมอล-เดอะ-มูฟวี่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/0c286292e9c2221e641e963894d8ebc8"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0c286292e9c2221e641e963894d8ebc8"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Dream-Animals-The-Movie-2025-ดรีม-แอนิมอล-เดอะ-มูฟวี่-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Cursed Insatiable Desires (2025) เรื่องผีสาป",
-    "url": "https://lk-hd.org/the-cursed-insatiable-desires-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/The-Cursed-Insatiable-Desires-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a79f9fddad0a72521dd60127ffcecb83"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a79f9fddad0a72521dd60127ffcecb83"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/The-Cursed-Insatiable-Desires-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "731 Evil Unbound (2025)",
-    "url": "https://lk-hd.org/731-evil-unbound-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/731-Evil-Unbound-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/c98ca0f6f464d74228408fda5b840bf2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c98ca0f6f464d74228408fda5b840bf2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/731-Evil-Unbound-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Dust Bunny (2025)",
-    "url": "https://lk-hd.org/dust-bunny-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Dust-Bunny-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/f0551e3245a67b38e4efbe3255ba4c9e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f0551e3245a67b38e4efbe3255ba4c9e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Dust-Bunny-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Smurfs (2025) สเมิร์ฟ",
-    "url": "https://lk-hd.org/smurfs-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/07/Smurfs-2025-สเมิร์ฟ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/25158f1ef475062e3e1d9ec19cfa8482"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/25158f1ef475062e3e1d9ec19cfa8482"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/07/Smurfs-2025-สเมิร์ฟ-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Murderer Report (2025)",
-    "url": "https://lk-hd.org/murderer-report-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/12/Murderer-Report-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/2a87309a5772ebaa24172c858ed75fff"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/2a87309a5772ebaa24172c858ed75fff"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/12/Murderer-Report-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Hiram (2025)",
-    "url": "https://lk-hd.org/hiram-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Hiram-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/783b9fb4bec73effe31b1e4028cd8ce5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/783b9fb4bec73effe31b1e4028cd8ce5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Hiram-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "นากรักมาก ม๊ากมาก (2025) Nak Loves Mak Sooo Much!",
-    "url": "https://lk-hd.org/nak-loves-mak-sooo-much-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/นากรักมาก-ม๊ากมาก-2025-Nak-Loves-Mak-Sooo-Much-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/8534b28701aeb1c03e6918e0e060eef9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8534b28701aeb1c03e6918e0e060eef9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/นากรักมาก-ม๊ากมาก-2025-Nak-Loves-Mak-Sooo-Much-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Delusion (2025)",
-    "url": "https://lk-hd.org/delusion-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Delusion-18-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/382b0cd1e9a3b49764314178446eccb2"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/382b0cd1e9a3b49764314178446eccb2"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Delusion-18-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Bayo (2025)",
-    "url": "https://lk-hd.org/bayo-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Bayo-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/16600ba600d0eef111de3ddb31a5a124"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/16600ba600d0eef111de3ddb31a5a124"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Bayo-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Purge the World of Evil (2025) พิฆาตเงาชั่ว",
-    "url": "https://lk-hd.org/purge-the-world-of-evil-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Purge-the-World-of-Evil-2025-พิฆาตเงาชั่ว-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/db58b0a5b886604a20ba41792cb7f3da"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/db58b0a5b886604a20ba41792cb7f3da"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Purge-the-World-of-Evil-2025-พิฆาตเงาชั่ว-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Kandungan (2025)",
-    "url": "https://lk-hd.org/kandungan-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Kandungan-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/7272985e91c05f51e126fdd2ab1566cc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/7272985e91c05f51e126fdd2ab1566cc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Kandungan-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Malagkit (2025)",
-    "url": "https://lk-hd.org/malagkit-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Malagkit-2025-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/8256a4423c27ded4dafec1e0cb602223"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8256a4423c27ded4dafec1e0cb602223"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Malagkit-2025-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต (Demon Slayer: Kimetsu no Yaiba Infinity Castle) 2025",
-    "url": "https://lk-hd.org/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/185e9aa82e3cfa413db85d80783f3606"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/185e9aa82e3cfa413db85d80783f3606"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "วิคเค็ด 2 (2025) Wicked For Good",
-    "url": "https://lk-hd.org/wicked-for-good/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/12/Wicked-For-Good-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/5cd4e21d5188eb03d1f903d5a371b475"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5cd4e21d5188eb03d1f903d5a371b475"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/12/Wicked-For-Good-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Alma and The Wolf (2025) อัลมาและมนุษย์หมาป่า",
-    "url": "https://lk-hd.org/alma-and-the-wolf-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Alma-and-The-Wolf-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/842b3910feea4a05bba22be84b28572b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/842b3910feea4a05bba22be84b28572b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Alma-and-The-Wolf-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Good Boy (2025) มะหมาเห็นผี",
-    "url": "https://lk-hd.org/good-boy-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/11/Good-Boy-2025-มะหมาเห็นผี-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/8bd98cb1aed6abc18609d206ab2424f0"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/8bd98cb1aed6abc18609d206ab2424f0"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/11/Good-Boy-2025-มะหมาเห็นผี-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Tron Ares (2025) ทรอน แอรีส",
-    "url": "https://lk-hd.org/tron-are/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2025/10/Tron-Ares-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/5992e246db772d79ecf8e2fc516dc432"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5992e246db772d79ecf8e2fc516dc432"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2025/10/Tron-Ares-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Aliwan Inn (2025)",
-    "url": "https://lk-hd.org/aliwan-inn-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Aliwan-Inn-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a249acafc2f925b2990ff84ece4eab9c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a249acafc2f925b2990ff84ece4eab9c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Aliwan-Inn-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Nuremberg (2025)",
-    "url": "https://lk-hd.org/nuremberg-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Nuremberg-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/0843be99d8408574706c8531f8df11bc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0843be99d8408574706c8531f8df11bc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Nuremberg-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "Happy Ending (2025)",
-    "url": "https://lk-hd.org/happy-ending-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Happy-Ending-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/e8abc8dccf5121504e4a5671fd159106"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e8abc8dccf5121504e4a5671fd159106"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Happy-Ending-165x248.jpg",
+    "group": "หนังใหม่ 2025"
   },
   {
     "title": "The Rats A Witcher Tale (2025) พวกแรทส์ ตำนานนักล่าจอมอสูร",
