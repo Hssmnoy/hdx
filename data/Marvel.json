@@ -4501,112 +4501,332 @@
   },
   {
     "title": "The Marvels เดอะ มาร์เวลส์ (2023)",
-    "url": "https://lk-hd.org/the-marvels/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/11/The-Marvels-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/6bd713790782db129b29e265dd2656a6"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/6bd713790782db129b29e265dd2656a6"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/11/The-Marvels-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "LEGO Marvel Avengers Mission Demolition (2024)",
-    "url": "https://lk-hd.org/lego-marvel-avengers-mission-demolition-2024/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/10/LEGO-Marvel-Avengers-Mission-Demolition-2024-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/32b2ef9e32d23f50d5b339ea084a539d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/32b2ef9e32d23f50d5b339ea084a539d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/10/LEGO-Marvel-Avengers-Mission-Demolition-2024-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "The Incredible Hulk 2 (2008) มนุษย์ตัวเขียวจอมพลัง ภาค 2",
-    "url": "https://lk-hd.org/the-incredible-hulk-2-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/The-Incredible-Hulk-2-2008-มนุษย์ตัวเขียวจอมพลัง-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/54a8640d08fe3dc59b5c910516c876f5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/54a8640d08fe3dc59b5c910516c876f5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/The-Incredible-Hulk-2-2008-มนุษย์ตัวเขียวจอมพลัง-ภาค-2-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Hulk (2003) มนุษย์ตัวเขียวจอมพลัง ภาค 1",
-    "url": "https://lk-hd.org/hulk-2003/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/06/Hulk-2003-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/924a45518a4fdb84643b9cae23a69999"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/924a45518a4fdb84643b9cae23a69999"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/06/Hulk-2003-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Madame Web (2024) มาดามเว็บ",
-    "url": "https://lk-hd.org/madame-web/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/madame-web-มาดามเว็บ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7ed1ca9531785ca3955ac185166c69fc"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7ed1ca9531785ca3955ac185166c69fc"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/madame-web-มาดามเว็บ-165x248.jpeg",
+    "group": "Marvel"
   },
   {
     "title": "Eternals (2021) ฮีโร่พลังเทพเจ้า",
-    "url": "https://lk-hd.org/eternals/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2024/02/Eternals-2021-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/c96fef2e717338552b1af271bec90a90"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/c96fef2e717338552b1af271bec90a90"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2024/02/Eternals-2021-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Fantastic Four 3 (2015) สี่พลังคนกายสิทธิ์ ภาค 3",
-    "url": "https://lk-hd.org/fantastic-four-3-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/Fantastic-Four-3-2015-สี่พลังคนกายสิทธิ์-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/f9d248fd42611a5f0561932d8417197a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/f9d248fd42611a5f0561932d8417197a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/Fantastic-Four-3-2015-สี่พลังคนกายสิทธิ์-ภาค-3-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Fantastic Four 2 Rise of the Silver Surfer (2007) สี่พลังคนกายสิทธิ์ ภาค 2 กำเนิดซิลเวอร์ เซิรฟเฟอร์",
-    "url": "https://lk-hd.org/fantastic-four-2-rise-of-the-silver-surfer-2007/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/Fantastic-Four-2-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-ภาค-2-กำเนิดซิลเวอร์-เซิรฟเฟอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/25441d7c3cca035d6a8b5730cff5b612"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/25441d7c3cca035d6a8b5730cff5b612"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/Fantastic-Four-2-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-ภาค-2-กำเนิดซิลเวอร์-เซิรฟเฟอร์-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Fantastic Four 1 (2005) สี่พลังคนกายสิทธิ์ ภาค 1",
-    "url": "https://lk-hd.org/fantastic-four-1-2005/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/12/Fantastic-Four-1-2005-สี่พลังคนกายสิทธิ์-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7d935389ddfbd36f39e7dfe5cb6b7d1a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7d935389ddfbd36f39e7dfe5cb6b7d1a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/12/Fantastic-Four-1-2005-สี่พลังคนกายสิทธิ์-ภาค-1-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Iron Man 3 (2013) ไอรอนแมน 3 มหาประลัยคนเกราะเหล็ก",
-    "url": "https://lk-hd.org/iron-man-3-2013/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Iron-Man-3-2013-ไอรอนแมน-3-มหาประลัยคนเกราะเหล็ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/e37ed45efda735509bc3e7f319c0063a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/e37ed45efda735509bc3e7f319c0063a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Iron-Man-3-2013-ไอรอนแมน-3-มหาประลัยคนเกราะเหล็ก-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Iron Man 1 (2008) ไอรอนแมน 1 มหาประลัยคนเกราะเหล็ก",
-    "url": "https://lk-hd.org/iron-man-1-2008/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Iron-Man-1-2008-ไอรอนแมน-1-มหาประลัยคนเกราะเหล็ก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/cf9381aea6c5eb69f7ef6e6de6b77bf7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cf9381aea6c5eb69f7ef6e6de6b77bf7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Iron-Man-1-2008-ไอรอนแมน-1-มหาประลัยคนเกราะเหล็ก-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Captain America 3 Civil War (2016) กัปตันอเมริกา 3 ศึกฮีโร่ระห่ำโลก",
-    "url": "https://lk-hd.org/captain-america-3-civil-war-2016/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-America-3-Civil-War-2016-กัปตันอเมริกา-3-ศึกฮีโร่ระห่ำโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/72ad7e97eaec01615b639c5034938e27"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/72ad7e97eaec01615b639c5034938e27"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-America-3-Civil-War-2016-กัปตันอเมริกา-3-ศึกฮีโร่ระห่ำโลก-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Captain America 2 The Winter Soldier (2014) กัปตันอเมริกา เดอะ วินเทอร์ โซลเจอร์",
-    "url": "https://lk-hd.org/captain-america-2-the-winter-soldier-2014/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-America-2-The-Winter-Soldier-2014-กัปตันอเมริกา-เดอะ-วินเทอร์-โซลเจอร์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/cff66733f7532f5863e9357dd3cf3b2f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/cff66733f7532f5863e9357dd3cf3b2f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-America-2-The-Winter-Soldier-2014-กัปตันอเมริกา-เดอะ-วินเทอร์-โซลเจอร์-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Captain America 1 The First Avenger (2011) กัปตันอเมริกา อเวนเจอร์ที่ 1",
-    "url": "https://lk-hd.org/captain-america-1-the-first-avenger-2011/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-America-1-The-First-Avenger-2011-กัปตันอเมริกา-อเวนเจอร์ที่-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8de30ea4b57fa649e52c4108a1c0331e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8de30ea4b57fa649e52c4108a1c0331e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-America-1-The-First-Avenger-2011-กัปตันอเมริกา-อเวนเจอร์ที่-1-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Avengers 2 Age of Ultron (2015) อเวนเจอร์ส ภาค 2 มหาศึกอัลตรอนถล่มโลก",
-    "url": "https://lk-hd.org/avengers-2-age-of-ultron-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Avengers-2-Age-of-Ultron-2015-อเวนเจอร์ส-ภาค-2-มหาศึกอัลตรอนถล่มโลก-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/8a0ed904f8fe47679cdde65605d8e437"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/8a0ed904f8fe47679cdde65605d8e437"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Avengers-2-Age-of-Ultron-2015-อเวนเจอร์ส-ภาค-2-มหาศึกอัลตรอนถล่มโลก-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Captain Marvel (2019) กัปตันมาร์เวล",
-    "url": "https://lk-hd.org/captain-marvel-2019/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-Marvel-2019-กัปตันมาร์เวล-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/7692fb42356e1452811784593e82e6ee"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/7692fb42356e1452811784593e82e6ee"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/10/Captain-Marvel-2019-กัปตันมาร์เวล-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Ant Man and the Wasp (2018) แอนท์ แมน และ เดอะ วอสพ์",
-    "url": "https://lk-hd.org/ant-man-and-the-wasp-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Ant-Man-and-the-Wasp-2018-แอนท์-แมน-และ-เดอะ-วอสพ์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/3cb64bebb47c8d9ec0235f8bb7754d48"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/3cb64bebb47c8d9ec0235f8bb7754d48"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Ant-Man-and-the-Wasp-2018-แอนท์-แมน-และ-เดอะ-วอสพ์-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Ant Man (2015) มนุษย์มดมหากาฬ",
-    "url": "https://lk-hd.org/ant-man-2015/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Ant-Man-2015-มนุษย์มดมหากาฬ-165x248.jpeg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/b962eac3045cccea1153a402922fb0a5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/b962eac3045cccea1153a402922fb0a5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Ant-Man-2015-มนุษย์มดมหากาฬ-165x248.jpeg",
+    "group": "Marvel"
   },
   {
     "title": "Spider Man Into The Spider Verse (2018) สไปเดอร์ แมน ผงาดสู่จักรวาล แมงมุม",
-    "url": "https://lk-hd.org/spider-man-into-the-spider-verse-2018/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Spider-Man-Into-The-Spider-Verse-2018-สไปเดอร์-แมน-ผงาดสู่จักรวาล-แมงมุม-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/db22013697bf3553566ea664f3de0a13"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/db22013697bf3553566ea664f3de0a13"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Spider-Man-Into-The-Spider-Verse-2018-สไปเดอร์-แมน-ผงาดสู่จักรวาล-แมงมุม-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Guardians of the Galaxy 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล ภาค 3",
-    "url": "https://lk-hd.org/guardians-of-the-galaxy-3-2023/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-3-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/947b3ce2f3903232e8c384bbadc5a7e0"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/947b3ce2f3903232e8c384bbadc5a7e0"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-3-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Guardians of the Galaxy 2 (2017) รวมพันธุ์นักสู้พิทักษ์จักรวาล ภาค 2",
-    "url": "https://lk-hd.org/guardians-of-the-galaxy-2-2017/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-2-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/d5afa3e4c4067a5c5b44e5c959650e83"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/d5afa3e4c4067a5c5b44e5c959650e83"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-2-165x248.jpg",
+    "group": "Marvel"
   },
   {
     "title": "Guardians of the Galaxy 1 (2014) รวมพันธุ์นักสู้พิทักษ์จักรวาล ภาค 1",
-    "url": "https://lk-hd.org/guardians-of-the-galaxy-1-2014/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-1-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://enjoy24cdn.com/p2p/05708929a41619e695c90c0a34e07ae7"
+      },
+      {
+        "name": "Embed",
+        "url": "https://enjoy24cdn.com/p2p/05708929a41619e695c90c0a34e07ae7"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2023/09/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-ภาค-1-165x248.jpg",
+    "group": "Marvel"
   }
 ]
