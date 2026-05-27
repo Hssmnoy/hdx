@@ -26873,202 +26873,602 @@
   },
   {
     "title": "Hellfire (2026)",
-    "url": "https://lk-hd.org/hellfire-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Hellfire-2026-165x248.webp"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/695c5d5ffae03afe965eab61a1f58866"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/695c5d5ffae03afe965eab61a1f58866"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Hellfire-2026-165x248.webp",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "A Letter to My Youth (2026) จดหมายถึงฉันในวัยเยาว์",
-    "url": "https://lk-hd.org/a-letter-to-my-youth-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/A-Letter-to-My-Youth-2026-จดหมายถึงฉันในวัยเยาว์-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/e7f2e28b63c64452c6bd31f78d870e46"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/e7f2e28b63c64452c6bd31f78d870e46"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/A-Letter-to-My-Youth-2026-จดหมายถึงฉันในวัยเยาว์-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Pansamantala (2026)",
-    "url": "https://lk-hd.org/pansamantala-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Pansamantala-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/313cccf2a251544a046bf8806b6e410e"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/313cccf2a251544a046bf8806b6e410e"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Pansamantala-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Search For Coffin (2026) สุสานพิศวง",
-    "url": "https://lk-hd.org/search-for-coffin-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Search-For-Coffin-2026-สุสานพิศวง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/cc3fda8f943fcee8d70c07ed6eb12d37"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/cc3fda8f943fcee8d70c07ed6eb12d37"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Search-For-Coffin-2026-สุสานพิศวง-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Love Me Love Me (2026) รักนะ รักฉัน",
-    "url": "https://lk-hd.org/love-me-love-me-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Love-Me-Love-Me-2026-รักนะ-รักฉัน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/18a13cc3c3930a11dd260ea40a2bc104"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/18a13cc3c3930a11dd260ea40a2bc104"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Love-Me-Love-Me-2026-รักนะ-รักฉัน-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Cursed Village (2026) หมู่บ้านนางต้องสาป",
-    "url": "https://lk-hd.org/cursed-village-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Cursed-Village-2026-หมู่บ้านนางต้องสาป-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/f44582908eb6a6d9e23326a6a6d1d303"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f44582908eb6a6d9e23326a6a6d1d303"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Cursed-Village-2026-หมู่บ้านนางต้องสาป-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Special Police and Snake Revenge (2026) หายนะอสรพิษร้าย",
-    "url": "https://lk-hd.org/special-police-and-snake-revenge-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Special-Police-and-Snake-Revenge-2026-หายนะอสรพิษร้าย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/dd22616d5316453cd616f8648f80b2f9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/dd22616d5316453cd616f8648f80b2f9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Special-Police-and-Snake-Revenge-2026-หายนะอสรพิษร้าย-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "The Singers (2026) ผู้ขับขานเพลงชีวิต",
-    "url": "https://lk-hd.org/the-singers-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/The-Singers-2026-ผู้ขับขานเพลงชีวิต-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/5e5e7ab5b68f21d7709f72650260e63d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5e5e7ab5b68f21d7709f72650260e63d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/The-Singers-2026-ผู้ขับขานเพลงชีวิต-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Joe’s College Road Trip (2026) โร้ดทริปป่วนกับคุณปู่โจ",
-    "url": "https://lk-hd.org/joes-college-road-trip-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Joes-College-Road-Trip-2026-โร้ดทริปป่วนกับคุณปู่โจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/eb29d188fbe47d8864832c2d5c60db09"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eb29d188fbe47d8864832c2d5c60db09"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Joes-College-Road-Trip-2026-โร้ดทริปป่วนกับคุณปู่โจ-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "สรรพลี้หวน (2026) Suppaleehuan",
-    "url": "https://lk-hd.org/suppaleehuan-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/สรรพลี้หวน-2026-Suppaleehuan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/f66ae4fec882948b9ff7580cd7ba17ee"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/f66ae4fec882948b9ff7580cd7ba17ee"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/สรรพลี้หวน-2026-Suppaleehuan-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "State of Fear (2026)",
-    "url": "https://lk-hd.org/state-of-fear-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/State-of-Fear-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/6c19c08a98d95a491030d0d1de821ae0"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/6c19c08a98d95a491030d0d1de821ae0"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/State-of-Fear-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Pillion (2026) คนข้างหลัง",
-    "url": "https://lk-hd.org/pillion-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Pillion-2026-คนข้างหลัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/b60aa5b124d295d0cc91705d8baeb977"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/b60aa5b124d295d0cc91705d8baeb977"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Pillion-2026-คนข้างหลัง-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Anecdotes of Ape Mountain (2026) เรื่องเล่าประหลาดในหุบเขาวานร",
-    "url": "https://lk-hd.org/anecdotes-of-ape-mountain-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Anecdotes-of-Ape-Mountain-2026-เรื่องเล่าประหลาดในหุบเขาวานร-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/39664a5fefbb5b57e39ec7ce0752ba8f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/39664a5fefbb5b57e39ec7ce0752ba8f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Anecdotes-of-Ape-Mountain-2026-เรื่องเล่าประหลาดในหุบเขาวานร-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Dracula A Love Tale (2026)",
-    "url": "https://lk-hd.org/dracula-a-love-tale-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Dracula-A-Love-Tale-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/fa10d43fb6b21d60ff15d35ca52b8974"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fa10d43fb6b21d60ff15d35ca52b8974"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Dracula-A-Love-Tale-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "F*ck Valentines Day (2026)",
-    "url": "https://lk-hd.org/fck-valentines-day-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/F-ck-Valentines-Day-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/963acc4de6e8525d6fa7e83f4d2bdc5b"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/963acc4de6e8525d6fa7e83f4d2bdc5b"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/F-ck-Valentines-Day-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Iron Lung (2026) ไอรอน ลัง",
-    "url": "https://lk-hd.org/iron-lung-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Iron-Lung-2026-ไอรอน-ลัง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/c7188fe6527bbe2f33b27ff7d340ca04"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c7188fe6527bbe2f33b27ff7d340ca04"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Iron-Lung-2026-ไอรอน-ลัง-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Shelter (2026) คลั่งนรก หลบตาย",
-    "url": "https://lk-hd.org/shelter-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Shelter-2026-คลั่งนรก-หลบตาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/d83f2c7229263f90aa6cb91782e910e4"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/d83f2c7229263f90aa6cb91782e910e4"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Shelter-2026-คลั่งนรก-หลบตาย-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Yoh! Bestie (2026)",
-    "url": "https://lk-hd.org/yoh-bestie-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Yoh-Bestie-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/240875cdaf96ed83fcd8758580e0c520"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/240875cdaf96ed83fcd8758580e0c520"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Yoh-Bestie-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Vaa Vaathiyaar (2026)",
-    "url": "https://lk-hd.org/vaa-vaathiyaar-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/02/Vaa-Vaathiyaar-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/78928d3f08f1c042686a361093ab8c6d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/78928d3f08f1c042686a361093ab8c6d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/02/Vaa-Vaathiyaar-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "เดี่ยว สตีล อะไลฟ์ (2026) Deaw Still Alive",
-    "url": "https://lk-hd.org/deaw-still-alive-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/เดี่ยว-สตีล-อะไลฟ์-2026-Deaw-Still-Alive-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/64d9497cfd8afb6e759053203665c4ca"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/64d9497cfd8afb6e759053203665c4ca"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/เดี่ยว-สตีล-อะไลฟ์-2026-Deaw-Still-Alive-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Di Renjie Resurrection (2026) ตี๋เหรินเเจี๋ยกับคดีศพคืนชีพ",
-    "url": "https://lk-hd.org/di-renjie-resurrection-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Di-Renjie-Resurrection-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/83009a95f176e254b4c2c192b9371278"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/83009a95f176e254b4c2c192b9371278"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Di-Renjie-Resurrection-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Grizzly Night (2026)",
-    "url": "https://lk-hd.org/grizzly-night-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Grizzly-Night-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/fd23ee37e057d3e8abe05effcea5b9ed"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fd23ee37e057d3e8abe05effcea5b9ed"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Grizzly-Night-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Send Help (2026) โปรดส่งใครมาช่วยฉันที",
-    "url": "https://lk-hd.org/send-help-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Send-Help-2026-โปรดส่งใครมาช่วยฉันที-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/0887bc68a21e20f3feb069b014287e6f"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/0887bc68a21e20f3feb069b014287e6f"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Send-Help-2026-โปรดส่งใครมาช่วยฉันที-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "The Wrecking Crew (2026) คู่พยัคฆ์เดือด เชือดเจ้าพ่อฮาวาย",
-    "url": "https://lk-hd.org/the-wrecking-crew-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/The-Wrecking-Crew-2026-คู่พยัคฆ์เดือด-เชือดเจ้าพ่อฮาวาย-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/c942f5880134f60a640d02725f251eed"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c942f5880134f60a640d02725f251eed"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/The-Wrecking-Crew-2026-คู่พยัคฆ์เดือด-เชือดเจ้าพ่อฮาวาย-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Greenland 2 Migration (2025) ฝ่าชะตา โลกาวินาศ",
-    "url": "https://lk-hd.org/greenland-2-migration-2025/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Greenland-2-Migration-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/c251dc9f035f314bdd502adc6f21465d"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/c251dc9f035f314bdd502adc6f21465d"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Greenland-2-Migration-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Bagong Tukso (2026)",
-    "url": "https://lk-hd.org/bagong-tukso-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Bagong-Tukso-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/702623887c795066057998f2ea1527bb"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/702623887c795066057998f2ea1527bb"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Bagong-Tukso-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "The Sniper (2026) มือปืนเทพพระกาฬ",
-    "url": "https://lk-hd.org/the-sniper-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/The-Sniper-2026-มือปืนเทพพระกาฬ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/afa3d039d6f58083ec7af0e58475469c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/afa3d039d6f58083ec7af0e58475469c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/The-Sniper-2026-มือปืนเทพพระกาฬ-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Primate (2026) ลิงคลั่งพันธุ์ดิบ",
-    "url": "https://lk-hd.org/primate-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Primate-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/dd8f35ccdfb78eab1efecd663dfc9f4a"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/dd8f35ccdfb78eab1efecd663dfc9f4a"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Primate-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Speed Faster (2026)",
-    "url": "https://lk-hd.org/speed-faster-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Speed-Faster-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/ea27c07cc51f88f26e195f475d70f557"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ea27c07cc51f88f26e195f475d70f557"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Speed-Faster-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "The Big Fake (2026) จอมปลอม",
-    "url": "https://lk-hd.org/the-big-fake-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/The-Big-Fake-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/eb85e82282197ee629716f8dd2f16d9c"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/eb85e82282197ee629716f8dd2f16d9c"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/The-Big-Fake-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Angkinin mo ako (2026)",
-    "url": "https://lk-hd.org/angkinin-mo-ako-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Angkinin-mo-ako-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/4041ef65d225596a944e9fe37e2082c9"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/4041ef65d225596a944e9fe37e2082c9"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Angkinin-mo-ako-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Cosmic Princess Kaguya! (2026) เจ้าหญิงกระบอกไม้ไผ่",
-    "url": "https://lk-hd.org/cosmic-princess-kaguya-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a33e76db9447ba209697d3814a770b18"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a33e76db9447ba209697d3814a770b18"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "From the Ashes The Pit (2026) จากเถ้าถ่าน นรกใต้ดิน",
-    "url": "https://lk-hd.org/from-the-ashes-the-pit-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a2e12d47e8552b3efa55e5dacfc7e1ee"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a2e12d47e8552b3efa55e5dacfc7e1ee"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/From-the-Ashes-The-Pit-2026-จากเถ้าถ่าน-นรกใต้ดิน-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Sulutan (2026)",
-    "url": "https://lk-hd.org/sulutan-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Sulutan-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/fe69d1a1ad5ce6c3e9ee9db45719c183"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/fe69d1a1ad5ce6c3e9ee9db45719c183"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Sulutan-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Killer Whale (2026)",
-    "url": "https://lk-hd.org/killer-whale-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Killer-Whale-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/5969fefe7a6e6fcbd8f428372caeb8d5"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/5969fefe7a6e6fcbd8f428372caeb8d5"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Killer-Whale-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "The Rip (2026) เงินบาปกระชากคน",
-    "url": "https://lk-hd.org/the-rip-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/The-Rip-2026-เงินบาปกระชากคน-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/410ea9fc2a2f36452bb1a7df7e0ea4ec"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/410ea9fc2a2f36452bb1a7df7e0ea4ec"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/The-Rip-2026-เงินบาปกระชากคน-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Breast Friends Forever (2026)",
-    "url": "https://lk-hd.org/breast-friends-forever-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Breast-Friends-Forever-2026-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/a30e91ace738c16c35c4dfe6f461a964"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/a30e91ace738c16c35c4dfe6f461a964"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Breast-Friends-Forever-2026-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Taiping Zhen Strange Tales (2026) เรื่องเล่าลึกลับตำบลไท่ผิง",
-    "url": "https://lk-hd.org/taiping-zhen-strange-tales-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/3f3942b2049c49bbfe98ae7d73f74616"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/3f3942b2049c49bbfe98ae7d73f74616"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "Thunder Rescue (2026) ภารกิจช่วยเหลือเหนือสายฟ้า",
-    "url": "https://lk-hd.org/thunder-rescue-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/Thunder-Rescue-2026-ภารกิจช่วยเหลือเหนือสายฟ้า-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/46e5ac4993fdbbc82ccee2c9c00a2322"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/46e5ac4993fdbbc82ccee2c9c00a2322"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/Thunder-Rescue-2026-ภารกิจช่วยเหลือเหนือสายฟ้า-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   },
   {
     "title": "People We Meet on Vacation (2026) เราพบกัน ณ วันพักใจ",
-    "url": "https://lk-hd.org/people-we-meet-on-vacation-2026/",
-    "poster": "https://lk-hd.org/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg"
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://original.enjoy24cdn.com/play/ab1b61c51a8ab639c8cc3f35a1bdc144"
+      },
+      {
+        "name": "Embed",
+        "url": "https://original.enjoy24cdn.com/play/ab1b61c51a8ab639c8cc3f35a1bdc144"
+      }
+    ],
+    "logo": "https://lk-hd.org/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ-165x248.jpg",
+    "group": "หนังใหม่ 2026"
   }
 ]
